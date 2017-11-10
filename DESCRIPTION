@@ -1,4 +1,0 @@
-Package: placeholder
-Title: hjhbb
-Version: 0.0.1
-Imports: survival (>= 2.40-1),bookdown

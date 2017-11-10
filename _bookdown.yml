@@ -1,4 +1,3 @@
 book_filename: "hjhbb"
-language:
-  ui:
-    chapter_name: "篇 "
+chapter_name: "篇 "
+output_dir: docs
