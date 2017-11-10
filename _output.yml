@@ -1,0 +1,14 @@
+bookdown::gitbook:
+  css: style.css
+  config:
+    toc:
+      before: |
+        <li><a href="./">环境黑板报</a></li>
+      after: |
+        <li><a href="https://github.com/yufree/hjhbb" target="blank">Published with bookdown</a></li>
+    edit:
+      link: https://github.com/yufree/hjhbb/edit/master/%s
+    sharing:
+      weibo: yes
+      twitter: no
+      facebook: no

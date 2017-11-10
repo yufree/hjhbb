@@ -1,0 +1,16 @@
+language: r
+r: bioc-release
+before_script:
+- chmod +x ./_build.sh
+- chmod +x ./_deploy.sh
+script:
+- "./_build.sh"
+- "./_deploy.sh"
+sudo: true
+cache:
+  packages: true
+  directories:
+  - "$TRAVIS_BUILD_DIR/_bookdown_files"
+env:
+  global:
+  - secure: WKoruUSpXL+jllfAVqhF8tcizuiuRGuS/Djr/EXgcaQZ6CYFXkitDRhen2sOD8i09WNGtuohsQy6S9+4wVNpoL9tT8aKEnexoKCNxDORx71CtfikS00ZpshvfXUcsOljflsfSh5c7kePyBkq45MC8fSzNIp3WNQNImXIap0k/WkuT5NGK5EIsRdZnvCxt/vtH1YRT+Qtdxpq/hShvzOL/7pv4ubPmpR0U1H+y/SIEoOewC16QgYVOLNYtu/eOTrdaXdsBYZTPNNF7SQU+oge9gW3OVcdN4mLh1450sqcil8zWQwQKwRKU8w4ldBDabPJP/dpHrBVopKdu1RWCbnq443jEqJZ+iAnBFKPuhTO+ww9A71fSL9t6olfAHLTowmifwnJNK5WzV9G/3j66z53D7pAF74vgI4MLcaxeq4GTJbLCCn/Iq42BR/6pcrG2i0Bfe6g9pJ5phEgaqI058mGARvirFCPz/Yo+HkNgt32hfv5wbGcV7N69k2nywqxDJ+/zli94eTcCFCCOIWIielywq1doPn7kyMJbU54hJaDkLV4wM5FDtbjb8HK8CBKqToeEP9D0wPnb9YHGqc9sO+tHDihj5ESzZs9+VDniv8Icmd8YG2hC/hO5dFdatbG9JakLcwsvQra0rSEmILmXuDewljBJieVWiWqVWyBHQN0hWE=
