@@ -10,6 +10,10 @@ link-citations: yes
 description: "环境黑板报的文章存档"
 ---
 
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(cache=TRUE,echo = F)
+```
+
 # 念念不忘 必有回响
 
 **广播站王站长**
