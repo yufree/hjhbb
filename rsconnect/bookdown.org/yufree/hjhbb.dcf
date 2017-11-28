@@ -5,8 +5,9 @@ account: yufree
 server: bookdown.org
 hostUrl: https://bookdown.org/__api__
 appId: 987
-bundleId: 4001
+bundleId: 4067
 url: https://bookdown.org/yufree/hjhbb/
-when: 1511475525.51505
+when: 1511899258.07789
 asMultiple: FALSE
 asStatic: FALSE
+ignoredFiles: .RData
