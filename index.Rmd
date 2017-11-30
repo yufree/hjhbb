@@ -15,7 +15,6 @@ monofontoptions: KaiTi
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = F)
-# ,out.width='0.8\\linewidth'
 ```
 
 # 念念不忘 必有回响
