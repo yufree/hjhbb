@@ -4,9 +4,9 @@ author: "805"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 documentclass: book
-bibliography: [book.bib]
-biblio-style: apalike
 link-citations: yes
+bibliography:
+- book.bib
 description: "环境黑板报的文章存档"
 mainfontoptions: SimHei
 sansfontoptions: FangSong
