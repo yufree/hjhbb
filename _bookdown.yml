@@ -2,4 +2,3 @@ book_filename: "hjhbb"
 chapter_name: "篇 "
 output_dir: docs
 delete_merged_file: true
-rmd_files: ["index.Rmd", "01-air.Rmd","02-city.Rmd","03-sludge.Rmd","research.Rmd"]
