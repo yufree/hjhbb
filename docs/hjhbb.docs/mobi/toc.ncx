@@ -1,0 +1,2589 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="eng">
+  <head>
+    <meta content="e03937d5-b63f-4af4-bee2-5c632b495d6b" name="dtb:uid"/>
+    <meta content="4" name="dtb:depth"/>
+    <meta content="calibre (3.34.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>环境黑板报</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="chapter" id="uYshPDL667edl8G9L29bfsE" playOrder="1">
+      <navLabel>
+        <text>1 前言</text>
+      </navLabel>
+      <content src="ch001.xhtml#前言"/>
+    </navPoint>
+    <navPoint class="chapter" id="uo93oWzysSAgxYL4QLZOTcB" playOrder="2">
+      <navLabel>
+        <text>2 前沿资讯</text>
+      </navLabel>
+      <content src="ch002.xhtml#前沿资讯"/>
+      <navPoint class="chapter" id="uuel2DbIYXk84YcG4Q2HDRF" playOrder="3">
+        <navLabel>
+          <text>十一月</text>
+        </navLabel>
+        <content src="ch002.xhtml#十一月"/>
+        <navPoint class="chapter" id="ujGizKIsDRGApUPcIKy6xF4" playOrder="4">
+          <navLabel>
+            <text>研究动态</text>
+          </navLabel>
+          <content src="ch002.xhtml#研究动态"/>
+        </navPoint>
+        <navPoint class="chapter" id="upTqoIUtUbUeEn2kWSpbM48" playOrder="5">
+          <navLabel>
+            <text>805研究简报</text>
+          </navLabel>
+          <content src="ch002.xhtml#研究简报"/>
+        </navPoint>
+      </navPoint>
+      <navPoint class="chapter" id="uGw9QnlctJrIsvPejA83mzC" playOrder="6">
+        <navLabel>
+          <text>十二月</text>
+        </navLabel>
+        <content src="ch002.xhtml#十二月"/>
+        <navPoint class="chapter" id="uMfD6sMulvLCSu3ZC6p9U25" playOrder="80">
+          <navLabel>
+            <text>研究动态</text>
+          </navLabel>
+          <content src="ch002.xhtml#-1"/>
+        </navPoint>
+        <navPoint class="chapter" id="uThHYPfWaYQSmpf6zGVmIv8" playOrder="80">
+          <navLabel>
+            <text>805研究简报</text>
+          </navLabel>
+          <content src="ch002.xhtml#-1"/>
+        </navPoint>
+      </navPoint>
+      <navPoint class="chapter" id="uunAh4R2QSaYXWUTr8PW5i5" playOrder="9">
+        <navLabel>
+          <text>一月</text>
+        </navLabel>
+        <content src="ch002.xhtml#一月"/>
+        <navPoint class="chapter" id="u8r5GKYbn9KCIsUEDfQtGg3" playOrder="81">
+          <navLabel>
+            <text>研究动态</text>
+          </navLabel>
+          <content src="ch002.xhtml#-2"/>
+        </navPoint>
+      </navPoint>
+      <navPoint class="chapter" id="uZAeApoNwAdp5toHhs7Y2O6" playOrder="11">
+        <navLabel>
+          <text>二月</text>
+        </navLabel>
+        <content src="ch002.xhtml#二月"/>
+        <navPoint class="chapter" id="uCMe2QbtgvqvHDd3PSTu88C" playOrder="76">
+          <navLabel>
+            <text>研究动态</text>
+          </navLabel>
+          <content src="ch002.xhtml#-3"/>
+        </navPoint>
+      </navPoint>
+      <navPoint class="chapter" id="uscPBXVNThY2UrBAwWKBDt9" playOrder="13">
+        <navLabel>
+          <text>三月</text>
+        </navLabel>
+        <content src="ch002.xhtml#三月"/>
+        <navPoint class="chapter" id="ue3W4WZBpWPkwbMNLhwRaGB" playOrder="82">
+          <navLabel>
+            <text>研究动态</text>
+          </navLabel>
+          <content src="ch002.xhtml#-4"/>
+        </navPoint>
+      </navPoint>
+      <navPoint class="chapter" id="uPvfHpy4rTyORlPPcxRbZ23" playOrder="15">
+        <navLabel>
+          <text>四月</text>
+        </navLabel>
+        <content src="ch002.xhtml#四月"/>
+        <navPoint class="chapter" id="urXlBCDSRJLU99jNAkacmJ2" playOrder="50">
+          <navLabel>
+            <text>研究动态</text>
+          </navLabel>
+          <content src="ch002.xhtml#-5"/>
+        </navPoint>
+        <navPoint class="chapter" id="uzCSD4IT6USNOtlyahG6XlG" playOrder="17">
+          <navLabel>
+            <text>政策速递</text>
+          </navLabel>
+          <content src="ch002.xhtml#政策速递"/>
+        </navPoint>
+      </navPoint>
+      <navPoint class="chapter" id="usBLFRUtgI4JQBAyUQCrSJ4" playOrder="18">
+        <navLabel>
+          <text>五月</text>
+        </navLabel>
+        <content src="ch002.xhtml#五月"/>
+        <navPoint class="chapter" id="uoPkLBxmgtel8kRf9y5kcs3" playOrder="57">
+          <navLabel>
+            <text>研究动态</text>
+          </navLabel>
+          <content src="ch002.xhtml#-6"/>
+        </navPoint>
+        <navPoint class="chapter" id="uxYWQqlRieGg5DnkYKRZ9WD" playOrder="80">
+          <navLabel>
+            <text>政策速递</text>
+          </navLabel>
+          <content src="ch002.xhtml#-1"/>
+        </navPoint>
+      </navPoint>
+      <navPoint class="chapter" id="uCW2yuQYIVwMCWCYY5rhqEC" playOrder="25">
+        <navLabel>
+          <text>六月</text>
+        </navLabel>
+        <content src="ch002.xhtml#六月"/>
+        <navPoint class="chapter" id="uXJQK9a5tJryNxJvstWgJ8G" playOrder="26">
+          <navLabel>
+            <text>研究动态</text>
+          </navLabel>
+          <content src="ch002.xhtml#-7"/>
+        </navPoint>
+        <navPoint class="chapter" id="uOUDwPlwmC8vVfSE92Kon2B" playOrder="81">
+          <navLabel>
+            <text>政策速递</text>
+          </navLabel>
+          <content src="ch002.xhtml#-2"/>
+        </navPoint>
+      </navPoint>
+      <navPoint class="chapter" id="uyF34QCXyJsro9N4m8ohYXB" playOrder="32">
+        <navLabel>
+          <text>七月</text>
+        </navLabel>
+        <content src="ch002.xhtml#七月"/>
+        <navPoint class="chapter" id="uWt2v5pgjxGslDp2AAKRwBC" playOrder="33">
+          <navLabel>
+            <text>研究动态</text>
+          </navLabel>
+          <content src="ch002.xhtml#-8"/>
+        </navPoint>
+        <navPoint class="chapter" id="uFNmfMNqwqbzWs8EqD75Qd3" playOrder="76">
+          <navLabel>
+            <text>政策速递</text>
+          </navLabel>
+          <content src="ch002.xhtml#-3"/>
+        </navPoint>
+      </navPoint>
+      <navPoint class="chapter" id="uoD44zCDKNnkXUdRRYUfmL8" playOrder="39">
+        <navLabel>
+          <text>八月</text>
+        </navLabel>
+        <content src="ch002.xhtml#八月"/>
+        <navPoint class="chapter" id="u4KvLQDfOemmK2UnDROPCX6" playOrder="40">
+          <navLabel>
+            <text>研究动态</text>
+          </navLabel>
+          <content src="ch002.xhtml#-9"/>
+        </navPoint>
+        <navPoint class="chapter" id="uy6cpOK8M5TylpUUwOETl4H" playOrder="82">
+          <navLabel>
+            <text>政策速递</text>
+          </navLabel>
+          <content src="ch002.xhtml#-4"/>
+        </navPoint>
+      </navPoint>
+      <navPoint class="chapter" id="uWMyjHg3MwM9P3w9Fau7OZF" playOrder="45">
+        <navLabel>
+          <text>九月</text>
+        </navLabel>
+        <content src="ch002.xhtml#九月"/>
+        <navPoint class="chapter" id="u4hpyAxLtfzyd3CMv8CqE43" playOrder="46">
+          <navLabel>
+            <text>研究动态</text>
+          </navLabel>
+          <content src="ch002.xhtml#-10"/>
+        </navPoint>
+        <navPoint class="chapter" id="uLzvRJXOg22HeCsmtkxk8MB" playOrder="50">
+          <navLabel>
+            <text>政策速递</text>
+          </navLabel>
+          <content src="ch002.xhtml#-5"/>
+        </navPoint>
+      </navPoint>
+      <navPoint class="chapter" id="uQwWpvvlQNvwgy2sTyVdTp5" playOrder="51">
+        <navLabel>
+          <text>十月</text>
+        </navLabel>
+        <content src="ch002.xhtml#十月"/>
+        <navPoint class="chapter" id="ugRrUFUUUKjqJFcDHFRfSPB" playOrder="52">
+          <navLabel>
+            <text>研究动态</text>
+          </navLabel>
+          <content src="ch002.xhtml#-11"/>
+        </navPoint>
+        <navPoint class="chapter" id="uDgyCnsrunNp7DhYNbMRqYE" playOrder="81">
+          <navLabel>
+            <text>805研究简报</text>
+          </navLabel>
+          <content src="ch002.xhtml#-2"/>
+        </navPoint>
+        <navPoint class="chapter" id="uXtASPPGSUh3VHDFRzpEdO6" playOrder="57">
+          <navLabel>
+            <text>政策速递</text>
+          </navLabel>
+          <content src="ch002.xhtml#-6"/>
+        </navPoint>
+      </navPoint>
+      <navPoint class="chapter" id="ujjRT6r4sio5JoHSDqsqptG" playOrder="80">
+        <navLabel>
+          <text>十一月</text>
+        </navLabel>
+        <content src="ch002.xhtml#-1"/>
+        <navPoint class="chapter" id="uGrXhCXWPQNGd3Y8vzunYa2" playOrder="59">
+          <navLabel>
+            <text>研究动态</text>
+          </navLabel>
+          <content src="ch002.xhtml#-12"/>
+        </navPoint>
+        <navPoint class="chapter" id="uoKtEP2Zj4DehiVrkBtCQ3G" playOrder="60">
+          <navLabel>
+            <text>十一月环境新闻新政</text>
+          </navLabel>
+          <content src="ch002.xhtml#十一月环境新闻新政"/>
+        </navPoint>
+      </navPoint>
+      <navPoint class="chapter" id="uuXMqiqgrWjU7GPJUtobZCF" playOrder="80">
+        <navLabel>
+          <text>十二月</text>
+        </navLabel>
+        <content src="ch002.xhtml#-1"/>
+        <navPoint class="chapter" id="uqDDkEFWb4BBJeceteh2npE" playOrder="62">
+          <navLabel>
+            <text>研究动态</text>
+          </navLabel>
+          <content src="ch002.xhtml#-13"/>
+        </navPoint>
+        <navPoint class="chapter" id="uJUx5ovaVwjyWzAlzvGth37" playOrder="63">
+          <navLabel>
+            <text>十二月环境新闻新政</text>
+          </navLabel>
+          <content src="ch002.xhtml#十二月环境新闻新政"/>
+        </navPoint>
+      </navPoint>
+      <navPoint class="chapter" id="ucLoSzoghHbEGAcmQyZiwOG" playOrder="80">
+        <navLabel>
+          <text>一月</text>
+        </navLabel>
+        <content src="ch002.xhtml#-1"/>
+        <navPoint class="chapter" id="u6DRBUO2i4wj3KVMRck3Ni6" playOrder="68">
+          <navLabel>
+            <text>研究动态</text>
+          </navLabel>
+          <content src="ch002.xhtml#-14"/>
+        </navPoint>
+        <navPoint class="chapter" id="uUdciCUr3j9ScXaw3LsTQrF" playOrder="69">
+          <navLabel>
+            <text>一月环境新闻新政</text>
+          </navLabel>
+          <content src="ch002.xhtml#一月环境新闻新政"/>
+        </navPoint>
+      </navPoint>
+      <navPoint class="chapter" id="uskdd5iYKqRULrLz6ZyuY63" playOrder="80">
+        <navLabel>
+          <text>二月</text>
+        </navLabel>
+        <content src="ch002.xhtml#-1"/>
+        <navPoint class="chapter" id="uIxf5g3f3DuMYLZVZFxctZE" playOrder="73">
+          <navLabel>
+            <text>研究动态</text>
+          </navLabel>
+          <content src="ch002.xhtml#-15"/>
+        </navPoint>
+        <navPoint class="chapter" id="ub28XdrieMXllyMQYzxyEV6" playOrder="74">
+          <navLabel>
+            <text>二月环境新闻新政</text>
+          </navLabel>
+          <content src="ch002.xhtml#二月环境新闻新政"/>
+        </navPoint>
+      </navPoint>
+      <navPoint class="chapter" id="uaNjnfQoc6S98YE6cgeamL3" playOrder="80">
+        <navLabel>
+          <text>三月</text>
+        </navLabel>
+        <content src="ch002.xhtml#-1"/>
+        <navPoint class="chapter" id="uIGlk7qnN7Z9UPetkiF9anB" playOrder="78">
+          <navLabel>
+            <text>研究动态</text>
+          </navLabel>
+          <content src="ch002.xhtml#-16"/>
+        </navPoint>
+        <navPoint class="chapter" id="uvkYxEY5CivJq5QEiubS4r5" playOrder="80">
+          <navLabel>
+            <text>二月环境新闻新政</text>
+          </navLabel>
+          <content src="ch002.xhtml#-1"/>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="uMwzgT3Tm3JTfY433iyQod7" playOrder="83">
+      <navLabel>
+        <text>3 科普讲堂</text>
+      </navLabel>
+      <content src="ch003.xhtml#科普讲堂"/>
+      <navPoint class="chapter" id="uMymKuCV7utdwgskpAIayt8" playOrder="84">
+        <navLabel>
+          <text>3.1 混沌的冬日</text>
+        </navLabel>
+        <content src="ch003.xhtml#混沌的冬日"/>
+        <navPoint class="chapter" id="uJaMXDBFmyxK4NOBCZvgXJ7" playOrder="85">
+          <navLabel>
+            <text>3.1.1 序</text>
+          </navLabel>
+          <content src="ch003.xhtml#序"/>
+        </navPoint>
+        <navPoint class="chapter" id="uD8PgUnedZv72UIWhGr8FhE" playOrder="86">
+          <navLabel>
+            <text>3.1.2 研究增长的极限</text>
+          </navLabel>
+          <content src="ch003.xhtml#研究增长的极限"/>
+        </navPoint>
+        <navPoint class="chapter" id="uGFobLph3FzeUWT9MXdyqtF" playOrder="87">
+          <navLabel>
+            <text>3.1.3 有原罪的雾霾</text>
+          </navLabel>
+          <content src="ch003.xhtml#有原罪的雾霾"/>
+        </navPoint>
+        <navPoint class="chapter" id="u9aeDWokTnFeBCCf7kyASdE" playOrder="88">
+          <navLabel>
+            <text>3.1.4 万金油的幻象</text>
+          </navLabel>
+          <content src="ch003.xhtml#万金油的幻象"/>
+        </navPoint>
+        <navPoint class="chapter" id="uwuJwGQk4NkrcNaKKWtntJ4" playOrder="80">
+          <navLabel>
+            <text>3.1.5 混沌的冬日</text>
+          </navLabel>
+          <content src="ch002.xhtml#-1"/>
+        </navPoint>
+      </navPoint>
+      <navPoint class="chapter" id="utYObpMyw4rNkZUecCXkcfD" playOrder="89">
+        <navLabel>
+          <text>3.2 北京的空气变好了，但是……</text>
+        </navLabel>
+        <content src="ch003.xhtml#北京的空气变好了但是"/>
+        <navPoint class="chapter" id="uwiUdQm3Vk3TmpNxr4JxPHB" playOrder="90">
+          <navLabel>
+            <text>3.2.1 北京的空气质量到底变好了没有？</text>
+          </navLabel>
+          <content src="ch003.xhtml#北京的空气质量到底变好了没有"/>
+        </navPoint>
+        <navPoint class="chapter" id="u2rEgrgzGHUbiZ45DwKYoWG" playOrder="91">
+          <navLabel>
+            <text>3.2.2 目前，对于PM2.5浓度评价的标准使用的都是均值，如2017年，北京年均值达到60微克每/立方米左右，这样设置是否合理？</text>
+          </navLabel>
+          <content src="ch003.xhtml#pm2.5201760"/>
+        </navPoint>
+        <navPoint class="chapter" id="uPp2cmFv5y3Bq8P9vesHOK6" playOrder="92">
+          <navLabel>
+            <text>3.2.3 按照《北京城市总体规划》（2016-2035年）要求，到2020年PM2.5浓度下降到56微克/立方米左右，对此，您持何种态度，判断依据？</text>
+          </navLabel>
+          <content src="ch003.xhtml#2016-20352020pm2.556"/>
+        </navPoint>
+        <navPoint class="chapter" id="uvlE7pTj3MQp3yMPoqj4pB7" playOrder="93">
+          <navLabel>
+            <text>3.2.4 您好，您觉得北京的空气变好了吗？</text>
+          </navLabel>
+          <content src="ch003.xhtml#您好您觉得北京的空气变好了吗"/>
+        </navPoint>
+        <navPoint class="chapter" id="u9m6M5sY4FbVKIRFSmkNIGE" playOrder="94">
+          <navLabel>
+            <text>3.2.5 按照目前北京市环保局网站公布数据，北京市今年很有可能达到年均值60微克每立方米左右，北京市空气质量逐年改善，您对此怎么看？</text>
+          </navLabel>
+          <content src="ch003.xhtml#60"/>
+        </navPoint>
+      </navPoint>
+      <navPoint class="chapter" id="urCriIbTcRXhUrE5V3Ir52C" playOrder="95">
+        <navLabel>
+          <text>3.3 等风来</text>
+        </navLabel>
+        <content src="ch003.xhtml#等风来"/>
+        <navPoint class="chapter" id="uhqT2OI5jtNrMKjE3gCkjGC" playOrder="96">
+          <navLabel>
+            <text>3.3.1 与雾霾的战争</text>
+          </navLabel>
+          <content src="ch003.xhtml#与雾霾的战争"/>
+        </navPoint>
+        <navPoint class="chapter" id="uQIh9nqBk42HsH9hxSdkrF8" playOrder="97">
+          <navLabel>
+            <text>3.3.2 雾霾的胜利</text>
+          </navLabel>
+          <content src="ch003.xhtml#雾霾的胜利"/>
+        </navPoint>
+        <navPoint class="chapter" id="uvHfLLrwCyVnbJcRi7mhorB" playOrder="98">
+          <navLabel>
+            <text>3.3.3 大风的胜利</text>
+          </navLabel>
+          <content src="ch003.xhtml#大风的胜利"/>
+        </navPoint>
+        <navPoint class="chapter" id="u2qHJm4BSOCQvcAQ45odeI8" playOrder="99">
+          <navLabel>
+            <text>3.3.4 势均力敌</text>
+          </navLabel>
+          <content src="ch003.xhtml#势均力敌"/>
+        </navPoint>
+        <navPoint class="chapter" id="uJZb3x7eQ45oTI7CTO2mRW5" playOrder="100">
+          <navLabel>
+            <text>3.3.5 雾霾攻坚—源头把控</text>
+          </navLabel>
+          <content src="ch003.xhtml#雾霾攻坚源头把控"/>
+        </navPoint>
+      </navPoint>
+      <navPoint class="chapter" id="uW4XyU2uhBe8mSjrj7gD6b8" playOrder="101">
+        <navLabel>
+          <text>3.4 纳米非米</text>
+        </navLabel>
+        <content src="ch003.xhtml#纳米非米"/>
+        <navPoint class="chapter" id="uRwgokPritwUK886OQvCUc4" playOrder="102">
+          <navLabel>
+            <text>3.4.1 碳纳米材料</text>
+          </navLabel>
+          <content src="ch003.xhtml#碳纳米材料"/>
+        </navPoint>
+        <navPoint class="chapter" id="uA6adBZlm53XpnzJZqWHfOB" playOrder="103">
+          <navLabel>
+            <text>3.4.2 哪些废弃物可以加工成纳米碳材料？</text>
+          </navLabel>
+          <content src="ch003.xhtml#哪些废弃物可以加工成纳米碳材料"/>
+        </navPoint>
+        <navPoint class="chapter" id="uslXeDDBqkaS8OUDnQQmigF" playOrder="104">
+          <navLabel>
+            <text>3.4.3 如何将废弃物加工成纳米碳材料？</text>
+          </navLabel>
+          <content src="ch003.xhtml#如何将废弃物加工成纳米碳材料"/>
+        </navPoint>
+        <navPoint class="chapter" id="uKOV77WVYLJjVi8zvUGLSB5" playOrder="105">
+          <navLabel>
+            <text>3.4.4 纳米碳材料在环保领域有哪些用处？</text>
+          </navLabel>
+          <content src="ch003.xhtml#纳米碳材料在环保领域有哪些用处"/>
+        </navPoint>
+        <navPoint class="chapter" id="u5xvKW7cOcYvvZBCEikrIqA" playOrder="106">
+          <navLabel>
+            <text>3.4.5 结语</text>
+          </navLabel>
+          <content src="ch003.xhtml#结语"/>
+        </navPoint>
+      </navPoint>
+      <navPoint class="chapter" id="u3ALVCxEdTkTw4hbLu7SHj8" playOrder="107">
+        <navLabel>
+          <text>3.5 你喝的可能是“有毒”的自来水？！</text>
+        </navLabel>
+        <content src="ch003.xhtml#你喝的可能是有毒的自来水"/>
+        <navPoint class="chapter" id="uGmFCeNpzmHLYlgFbPjyikF" playOrder="108">
+          <navLabel>
+            <text>3.5.1 水发生了什么？——水污染</text>
+          </navLabel>
+          <content src="ch003.xhtml#水发生了什么水污染"/>
+        </navPoint>
+        <navPoint class="chapter" id="urYPhQn2tMXC3I4hpXlbuYF" playOrder="109">
+          <navLabel>
+            <text>3.5.2 引起水污染的罪魁祸首是谁？——污染物</text>
+          </navLabel>
+          <content src="ch003.xhtml#引起水污染的罪魁祸首是谁污染物"/>
+        </navPoint>
+        <navPoint class="chapter" id="uhyFhxSfABXiNZyb7fNBYF2" playOrder="110">
+          <navLabel>
+            <text>3.5.3 污水处理厂可以使水变干净么？——未必！</text>
+          </navLabel>
+          <content src="ch003.xhtml#污水处理厂可以使水变干净么未必"/>
+        </navPoint>
+        <navPoint class="chapter" id="u5gWjLacyif37IC4SuuuZPF" playOrder="111">
+          <navLabel>
+            <text>3.5.4 小结</text>
+          </navLabel>
+          <content src="ch003.xhtml#小结"/>
+        </navPoint>
+      </navPoint>
+      <navPoint class="chapter" id="uiO8Rn6qPIqWFvXYHrFcWh2" playOrder="112">
+        <navLabel>
+          <text>3.6 一滴水的故事</text>
+        </navLabel>
+        <content src="ch003.xhtml#一滴水的故事"/>
+        <navPoint class="chapter" id="uynl5JWrCBBUvbCDu5QLqRB" playOrder="113">
+          <navLabel>
+            <text>3.6.1 海水淡化</text>
+          </navLabel>
+          <content src="ch003.xhtml#海水淡化"/>
+        </navPoint>
+        <navPoint class="chapter" id="urdwhLUYBLUN6iJa6ZY5IQB" playOrder="114">
+          <navLabel>
+            <text>3.6.2 后记</text>
+          </navLabel>
+          <content src="ch003.xhtml#后记"/>
+        </navPoint>
+      </navPoint>
+      <navPoint class="chapter" id="ulUbNSdfhu3IoQyUZUxUprF" playOrder="115">
+        <navLabel>
+          <text>3.7 小秸秆，大问题</text>
+        </navLabel>
+        <content src="ch003.xhtml#小秸秆大问题"/>
+        <navPoint class="chapter" id="uSuioLL5Lm7CT9ftYpwAD98" playOrder="80">
+          <navLabel>
+            <text>3.7.1 结语</text>
+          </navLabel>
+          <content src="ch002.xhtml#-1"/>
+        </navPoint>
+      </navPoint>
+      <navPoint class="chapter" id="urWkFoCGQEmYPG3JdvG2zb3" playOrder="116">
+        <navLabel>
+          <text>3.8 VOC减排——大气治理的新挑战</text>
+        </navLabel>
+        <content src="ch003.xhtml#voc"/>
+        <navPoint class="chapter" id="uYcU6Y3YeW6F4tN82sHD6Z8" playOrder="80">
+          <navLabel>
+            <text>3.8.1 前言</text>
+          </navLabel>
+          <content src="ch002.xhtml#-1"/>
+        </navPoint>
+        <navPoint class="chapter" id="uJNho5tJp7AagjXMWYwgf5H" playOrder="120">
+          <navLabel>
+            <text>3.8.2 VOCs是何物</text>
+          </navLabel>
+          <content src="ch003.xhtml#vocs"/>
+        </navPoint>
+        <navPoint class="chapter" id="utaHtpxFc82jSoFFbg5ZbDA" playOrder="120">
+          <navLabel>
+            <text>3.8.3 VOCs的减排之路</text>
+          </navLabel>
+          <content src="ch003.xhtml#vocs"/>
+        </navPoint>
+        <navPoint class="chapter" id="ut2pV4YdyVK7i9WUfu7lkX6" playOrder="120">
+          <navLabel>
+            <text>3.8.4 VOCs减排技术和挑战</text>
+          </navLabel>
+          <content src="ch003.xhtml#vocs"/>
+        </navPoint>
+        <navPoint class="chapter" id="uhuyapYedKKLUpmFWl9akED" playOrder="80">
+          <navLabel>
+            <text>3.8.5 小结</text>
+          </navLabel>
+          <content src="ch002.xhtml#-1"/>
+        </navPoint>
+      </navPoint>
+      <navPoint class="chapter" id="uuqTiJGJvLiuUpSioxmMpEC" playOrder="121">
+        <navLabel>
+          <text>3.9 生态•五行•人伦</text>
+        </navLabel>
+        <content src="ch003.xhtml#生态五行人伦"/>
+      </navPoint>
+      <navPoint class="chapter" id="utBcWfVEaxpOXqMTF3PAFb5" playOrder="122">
+        <navLabel>
+          <text>3.10 油田环保之痛——含油污泥</text>
+        </navLabel>
+        <content src="ch003.xhtml#油田环保之痛含油污泥"/>
+        <navPoint class="chapter" id="uSMJpHsiIBEwHy42jybb6W3" playOrder="123">
+          <navLabel>
+            <text>3.10.1 序：油田环保的痛处</text>
+          </navLabel>
+          <content src="ch003.xhtml#序油田环保的痛处"/>
+        </navPoint>
+        <navPoint class="chapter" id="ujZUGkFL3kV49e93nLrrka3" playOrder="124">
+          <navLabel>
+            <text>3.10.2 含油污泥的来源</text>
+          </navLabel>
+          <content src="ch003.xhtml#含油污泥的来源"/>
+        </navPoint>
+        <navPoint class="chapter" id="u4QU57vDIFEUxV8vUoiUZh4" playOrder="125">
+          <navLabel>
+            <text>3.10.3 含油污泥的成分与特性</text>
+          </navLabel>
+          <content src="ch003.xhtml#含油污泥的成分与特性"/>
+        </navPoint>
+        <navPoint class="chapter" id="uJSFgjqsnlm3MbxVZjooY27" playOrder="126">
+          <navLabel>
+            <text>3.10.4 含油污泥的危害</text>
+          </navLabel>
+          <content src="ch003.xhtml#含油污泥的危害"/>
+        </navPoint>
+        <navPoint class="chapter" id="ubuvFFhZY2E9pnpQ6mHSdPF" playOrder="127">
+          <navLabel>
+            <text>3.10.5 相关控制标准</text>
+          </navLabel>
+          <content src="ch003.xhtml#相关控制标准"/>
+        </navPoint>
+        <navPoint class="chapter" id="u3HmLdJoOiVwm7LnKaQHln2" playOrder="128">
+          <navLabel>
+            <text>3.10.6 含油污泥的处理处置</text>
+          </navLabel>
+          <content src="ch003.xhtml#含油污泥的处理处置"/>
+        </navPoint>
+        <navPoint class="chapter" id="ufJvms8EzcARyQXNuwGd3IF" playOrder="129">
+          <navLabel>
+            <text>3.10.7 处理存在的难点和技术展望</text>
+          </navLabel>
+          <content src="ch003.xhtml#处理存在的难点和技术展望"/>
+        </navPoint>
+      </navPoint>
+      <navPoint class="chapter" id="uYxXGtQeEagrHaVcTGOrjLE" playOrder="134">
+        <navLabel>
+          <text>3.11 斯德哥尔摩公约和它“锁”住的POPs</text>
+        </navLabel>
+        <content src="ch003.xhtml#pops"/>
+        <navPoint class="chapter" id="uX2mlWZXecOmiF8G2TbsWhC" playOrder="131">
+          <navLabel>
+            <text>3.11.1 管控持久性有机污染物的斯德哥尔摩公约</text>
+          </navLabel>
+          <content src="ch003.xhtml#管控持久性有机污染物的斯德哥尔摩公约"/>
+        </navPoint>
+        <navPoint class="chapter" id="ucWMi5tvNE2SvYj3Pk7YUUA" playOrder="134">
+          <navLabel>
+            <text>3.11.2 POPs的持久性</text>
+          </navLabel>
+          <content src="ch003.xhtml#pops"/>
+        </navPoint>
+        <navPoint class="chapter" id="uUFfBCdKdEoNh8ejwSgv7jF" playOrder="134">
+          <navLabel>
+            <text>3.11.3 POPs的生物富集性/放大性</text>
+          </navLabel>
+          <content src="ch003.xhtml#pops"/>
+        </navPoint>
+        <navPoint class="chapter" id="usy2BRoAkBHklUZgZft2oN7" playOrder="134">
+          <navLabel>
+            <text>3.11.4 POPs的长距离迁移能力</text>
+          </navLabel>
+          <content src="ch003.xhtml#pops"/>
+        </navPoint>
+        <navPoint class="chapter" id="uuStAI67HAzjvclNGq79IuG" playOrder="135">
+          <navLabel>
+            <text>3.11.5 中国的实施计划</text>
+          </navLabel>
+          <content src="ch003.xhtml#中国的实施计划"/>
+        </navPoint>
+      </navPoint>
+      <navPoint class="chapter" id="u2aONIkTZyqe22jNkZbsPl3" playOrder="136">
+        <navLabel>
+          <text>3.12 日常生活中的化学品——新型有机污染物简介</text>
+        </navLabel>
+        <content src="ch003.xhtml#日常生活中的化学品新型有机污染物简介"/>
+        <navPoint class="chapter" id="uR7B4xOAwFngtEb38vEKOkB" playOrder="81">
+          <navLabel>
+            <text>3.12.1 前言</text>
+          </navLabel>
+          <content src="ch002.xhtml#-2"/>
+        </navPoint>
+        <navPoint class="chapter" id="u2Uuw4WE6CCPXFldRDWEPV3" playOrder="137">
+          <navLabel>
+            <text>3.12.2 实例</text>
+          </navLabel>
+          <content src="ch003.xhtml#实例"/>
+        </navPoint>
+        <navPoint class="chapter" id="uZrPlYgJi3cDkHomqS9yz84" playOrder="81">
+          <navLabel>
+            <text>3.12.3 结语</text>
+          </navLabel>
+          <content src="ch002.xhtml#-2"/>
+        </navPoint>
+      </navPoint>
+      <navPoint class="chapter" id="u8DWkqARVWRPBMjNTcwkt3E" playOrder="138">
+        <navLabel>
+          <text>3.13 人虎共存，举步维艰</text>
+        </navLabel>
+        <content src="ch003.xhtml#人虎共存举步维艰"/>
+        <navPoint class="chapter" id="uDzKWoh4JzokydDkEr93pC3" playOrder="139">
+          <navLabel>
+            <text>3.13.1 背景介绍</text>
+          </navLabel>
+          <content src="ch003.xhtml#背景介绍"/>
+        </navPoint>
+        <navPoint class="chapter" id="u4Z45eHuxfCnSuIhAxPzbx7" playOrder="140">
+          <navLabel>
+            <text>3.13.2 人虎矛盾，难以调和</text>
+          </navLabel>
+          <content src="ch003.xhtml#人虎矛盾难以调和"/>
+        </navPoint>
+        <navPoint class="chapter" id="ucKcSiyTtyMZWhJapNybRXB" playOrder="141">
+          <navLabel>
+            <text>3.13.3 转变思路，人退虎进</text>
+          </navLabel>
+          <content src="ch003.xhtml#转变思路人退虎进"/>
+        </navPoint>
+      </navPoint>
+      <navPoint class="chapter" id="ujIt6RrQ27I9xdSp9LfX5e2" playOrder="143">
+        <navLabel>
+          <text>3.14 可持续社区建设案例——北京当代MOMA公寓</text>
+        </navLabel>
+        <content src="ch003.xhtml#moma"/>
+        <navPoint class="chapter" id="udzzVUtvLcwCeOSVDLvtbv2" playOrder="143">
+          <navLabel>
+            <text>3.14.1 北京当代MOMA高端综合公寓</text>
+          </navLabel>
+          <content src="ch003.xhtml#moma"/>
+        </navPoint>
+      </navPoint>
+      <navPoint class="chapter" id="uwqT7Perj9CxubdlsFxNQ33" playOrder="144">
+        <navLabel>
+          <text>3.15 环境保护，保护优先</text>
+        </navLabel>
+        <content src="ch003.xhtml#环境保护保护优先"/>
+        <navPoint class="chapter" id="uCH23m3HkW4wCqCYRotUXAE" playOrder="145">
+          <navLabel>
+            <text>3.15.1 缘起</text>
+          </navLabel>
+          <content src="ch003.xhtml#缘起"/>
+        </navPoint>
+        <navPoint class="chapter" id="uRqm9jEurbW7Qodr7zYmuOH" playOrder="146">
+          <navLabel>
+            <text>3.15.2 什么是环境库兹涅茨曲线？</text>
+          </navLabel>
+          <content src="ch003.xhtml#什么是环境库兹涅茨曲线"/>
+        </navPoint>
+        <navPoint class="chapter" id="uHRktZwiecCleXGgDdFtMf7" playOrder="147">
+          <navLabel>
+            <text>3.15.3 环境库兹涅茨曲线拐点区间已现</text>
+          </navLabel>
+          <content src="ch003.xhtml#环境库兹涅茨曲线拐点区间已现"/>
+        </navPoint>
+        <navPoint class="chapter" id="u5ni6LigSkBAoH5KXRUztkB" playOrder="148">
+          <navLabel>
+            <text>3.15.4 在此拐点，我们要如何走？-保护优先</text>
+          </navLabel>
+          <content src="ch003.xhtml#-"/>
+        </navPoint>
+      </navPoint>
+      <navPoint class="chapter" id="uqFl98bb22LmMKhEF5LSjfA" playOrder="149">
+        <navLabel>
+          <text>3.16 “砷”生不息</text>
+        </navLabel>
+        <content src="ch003.xhtml#砷生不息"/>
+        <navPoint class="chapter" id="uSYpjaFn9PbH5JDVTkoefS8" playOrder="150">
+          <navLabel>
+            <text>3.16.1 砷的来源与毒性</text>
+          </navLabel>
+          <content src="ch003.xhtml#砷的来源与毒性"/>
+        </navPoint>
+        <navPoint class="chapter" id="ujkSd47DdaprjQPSF2fCzmE" playOrder="151">
+          <navLabel>
+            <text>3.16.2 水稻与砷</text>
+          </navLabel>
+          <content src="ch003.xhtml#水稻与砷"/>
+        </navPoint>
+        <navPoint class="chapter" id="u7laGgZ9cN7ANzefWeZCry8" playOrder="152">
+          <navLabel>
+            <text>3.16.3 砷代谢微生物</text>
+          </navLabel>
+          <content src="ch003.xhtml#砷代谢微生物"/>
+        </navPoint>
+      </navPoint>
+      <navPoint class="chapter" id="uWOZiWyDtjmkTqhFw7tkiP8" playOrder="153">
+        <navLabel>
+          <text>3.17 国家公园是什么园</text>
+        </navLabel>
+        <content src="ch003.xhtml#国家公园是什么园"/>
+        <navPoint class="chapter" id="umnbBKVr8t73qodJhTuDosB" playOrder="154">
+          <navLabel>
+            <text>3.17.1 我国为什么要建国家公园？</text>
+          </navLabel>
+          <content src="ch003.xhtml#我国为什么要建国家公园"/>
+        </navPoint>
+        <navPoint class="chapter" id="ugtz9FCwOjHysS2uVmY7NKE" playOrder="155">
+          <navLabel>
+            <text>3.17.2 国家层面的国家公园体制试点建设进展</text>
+          </navLabel>
+          <content src="ch003.xhtml#国家层面的国家公园体制试点建设进展"/>
+        </navPoint>
+      </navPoint>
+      <navPoint class="chapter" id="upc3EuqhKXRFHH2467sW4DG" playOrder="156">
+        <navLabel>
+          <text>3.18 国家公园是不是旅游景区？</text>
+        </navLabel>
+        <content src="ch003.xhtml#国家公园是不是旅游景区"/>
+        <navPoint class="chapter" id="uVVbuDor7XtirL9UgSnZl89" playOrder="157">
+          <navLabel>
+            <text>3.18.1 引言</text>
+          </navLabel>
+          <content src="ch003.xhtml#引言"/>
+        </navPoint>
+        <navPoint class="chapter" id="uLMi9fArXi6ardstiXF42W3" playOrder="158">
+          <navLabel>
+            <text>3.18.2 资源角度，国家公园与旅游景区类似</text>
+          </navLabel>
+          <content src="ch003.xhtml#资源角度国家公园与旅游景区类似"/>
+        </navPoint>
+        <navPoint class="chapter" id="ufdUaNSdsgg2VyA98lvREP9" playOrder="159">
+          <navLabel>
+            <text>3.18.3 本质而言，国家公园与旅游景区相异</text>
+          </navLabel>
+          <content src="ch003.xhtml#本质而言国家公园与旅游景区相异"/>
+        </navPoint>
+        <navPoint class="chapter" id="uITnEADiiT2nHB3pFjrHgq2" playOrder="160">
+          <navLabel>
+            <text>3.18.4 总结</text>
+          </navLabel>
+          <content src="ch003.xhtml#总结"/>
+        </navPoint>
+      </navPoint>
+      <navPoint class="chapter" id="u2y9ViUreBysj5sCaLe5Hy5" playOrder="161">
+        <navLabel>
+          <text>3.19 蓝藻的功过是非</text>
+        </navLabel>
+        <content src="ch003.xhtml#蓝藻的功过是非"/>
+        <navPoint class="chapter" id="uiCoGmHev8metP3lwTRP48B" playOrder="162">
+          <navLabel>
+            <text>3.19.1 概述及分布</text>
+          </navLabel>
+          <content src="ch003.xhtml#概述及分布"/>
+        </navPoint>
+        <navPoint class="chapter" id="uXS6kuwDvp7h5VVBvgC8cK8" playOrder="163">
+          <navLabel>
+            <text>3.19.2 适应策略</text>
+          </navLabel>
+          <content src="ch003.xhtml#适应策略"/>
+        </navPoint>
+        <navPoint class="chapter" id="u855NamIQcTWSnuHZ98RWXC" playOrder="164">
+          <navLabel>
+            <text>3.19.3 生态环境健康问题</text>
+          </navLabel>
+          <content src="ch003.xhtml#生态环境健康问题"/>
+        </navPoint>
+        <navPoint class="chapter" id="utSGJmblouaz9EI88wInbD3" playOrder="165">
+          <navLabel>
+            <text>3.19.4 治理措施</text>
+          </navLabel>
+          <content src="ch003.xhtml#治理措施"/>
+        </navPoint>
+      </navPoint>
+      <navPoint class="chapter" id="uxlpQZM4Cnz9By2DJ7miXAC" playOrder="166">
+        <navLabel>
+          <text>3.20 雨还是酸的吗？</text>
+        </navLabel>
+        <content src="ch003.xhtml#雨还是酸的吗"/>
+        <navPoint class="chapter" id="uCM8K4Y5cwfIEpGpuD44u64" playOrder="167">
+          <navLabel>
+            <text>3.20.1 我国酸雨现状</text>
+          </navLabel>
+          <content src="ch003.xhtml#我国酸雨现状"/>
+        </navPoint>
+        <navPoint class="chapter" id="u3rABYV9SqgSUZk4y9mFXN6" playOrder="168">
+          <navLabel>
+            <text>3.20.2 我国为控制酸雨所采取的政策措施</text>
+          </navLabel>
+          <content src="ch003.xhtml#我国为控制酸雨所采取的政策措施"/>
+        </navPoint>
+      </navPoint>
+      <navPoint class="chapter" id="uY9rVO2MDTmIBxEAipIGE24" playOrder="169">
+        <navLabel>
+          <text>3.21 跟天气预报相比，空气质量预报难多了</text>
+        </navLabel>
+        <content src="ch003.xhtml#跟天气预报相比空气质量预报难多了"/>
+        <navPoint class="chapter" id="uZ7oGckfzX6fbpUKRsPhG5A" playOrder="76">
+          <navLabel>
+            <text>3.21.1 前言</text>
+          </navLabel>
+          <content src="ch002.xhtml#-3"/>
+        </navPoint>
+        <navPoint class="chapter" id="uBKRNEpvEd9DSvNejlPyxC2" playOrder="170">
+          <navLabel>
+            <text>3.21.2 环境空气质量预报的关键技术是什么？</text>
+          </navLabel>
+          <content src="ch003.xhtml#环境空气质量预报的关键技术是什么"/>
+        </navPoint>
+        <navPoint class="chapter" id="u6gvtopllSqdi79cmy2bJZ2" playOrder="171">
+          <navLabel>
+            <text>3.21.3 哪些因素会影响预报准确性？</text>
+          </navLabel>
+          <content src="ch003.xhtml#哪些因素会影响预报准确性"/>
+        </navPoint>
+        <navPoint class="chapter" id="uMmhMrbB7XHZMbXOiVFCUmG" playOrder="172">
+          <navLabel>
+            <text>3.21.4 预测到重污染，环保部门怎么办？</text>
+          </navLabel>
+          <content src="ch003.xhtml#预测到重污染环保部门怎么办"/>
+        </navPoint>
+      </navPoint>
+      <navPoint class="chapter" id="uZAFx5bOHNS8V5HNKk2UUHD" playOrder="173">
+        <navLabel>
+          <text>3.22 作为入侵物种的人类</text>
+        </navLabel>
+        <content src="ch003.xhtml#作为入侵物种的人类"/>
+        <navPoint class="chapter" id="uec7rGogcJj7mrbERSNXq52" playOrder="80">
+          <navLabel>
+            <text>3.22.1 引言</text>
+          </navLabel>
+          <content src="ch002.xhtml#-1"/>
+        </navPoint>
+        <navPoint class="chapter" id="uGhmpKbedVAks5mzVldNXDF" playOrder="174">
+          <navLabel>
+            <text>3.22.2 灭绝</text>
+          </navLabel>
+          <content src="ch003.xhtml#灭绝"/>
+        </navPoint>
+        <navPoint class="chapter" id="uJIg8li9YRNUiMOxlkPHsWF" playOrder="175">
+          <navLabel>
+            <text>3.22.3 作为入侵物种的智人</text>
+          </navLabel>
+          <content src="ch003.xhtml#作为入侵物种的智人"/>
+        </navPoint>
+        <navPoint class="chapter" id="ukHhfvbuZQ2rJOKQZFWbLCH" playOrder="176">
+          <navLabel>
+            <text>3.22.4 巨兽</text>
+          </navLabel>
+          <content src="ch003.xhtml#巨兽"/>
+        </navPoint>
+        <navPoint class="chapter" id="u6uRDqvjB3QVGBYcLx3xf6F" playOrder="177">
+          <navLabel>
+            <text>3.22.5 二氧化碳</text>
+          </navLabel>
+          <content src="ch003.xhtml#二氧化碳"/>
+        </navPoint>
+        <navPoint class="chapter" id="ubnRkIOGr7AVzFkM6OrRlIH" playOrder="178">
+          <navLabel>
+            <text>3.22.6 交通</text>
+          </navLabel>
+          <content src="ch003.xhtml#交通"/>
+        </navPoint>
+        <navPoint class="chapter" id="u4c89E4wimvAVteekGoPbw9" playOrder="179">
+          <navLabel>
+            <text>3.22.7 多样性</text>
+          </navLabel>
+          <content src="ch003.xhtml#多样性"/>
+        </navPoint>
+        <navPoint class="chapter" id="uMgKf8X7NamPkVKqO5D4AB5" playOrder="180">
+          <navLabel>
+            <text>3.22.8 硬绿</text>
+          </navLabel>
+          <content src="ch003.xhtml#硬绿"/>
+        </navPoint>
+        <navPoint class="chapter" id="ugXvSE88z5XuRg9T3SqOVtC" playOrder="181">
+          <navLabel>
+            <text>3.22.9 谁是赢家</text>
+          </navLabel>
+          <content src="ch003.xhtml#谁是赢家"/>
+        </navPoint>
+        <navPoint class="chapter" id="u9X9aHfrWWu4HPIatETJHX5" playOrder="81">
+          <navLabel>
+            <text>3.22.10 小结</text>
+          </navLabel>
+          <content src="ch002.xhtml#-2"/>
+        </navPoint>
+      </navPoint>
+      <navPoint class="chapter" id="uKZuthmzagcM7bk7c8GF5g2" playOrder="182">
+        <navLabel>
+          <text>3.23 作为工业品的人类</text>
+        </navLabel>
+        <content src="ch003.xhtml#作为工业品的人类"/>
+        <navPoint class="chapter" id="umNmhWCZahtalD8N56AIWi3" playOrder="183">
+          <navLabel>
+            <text>3.23.1 人口多少是个顶</text>
+          </navLabel>
+          <content src="ch003.xhtml#人口多少是个顶"/>
+        </navPoint>
+        <navPoint class="chapter" id="ukdPc9v6344ga3hLdmGfIFE" playOrder="184">
+          <navLabel>
+            <text>3.23.2 人类是工业衍生品</text>
+          </navLabel>
+          <content src="ch003.xhtml#人类是工业衍生品"/>
+        </navPoint>
+        <navPoint class="chapter" id="uHXy3pJncuUNvpgkYsqEvE8" playOrder="185">
+          <navLabel>
+            <text>3.23.3 化肥的威力</text>
+          </navLabel>
+          <content src="ch003.xhtml#化肥的威力"/>
+        </navPoint>
+        <navPoint class="chapter" id="uqwowQhMgkA6jtTuSJQ2XV6" playOrder="186">
+          <navLabel>
+            <text>3.23.4 有机肥怎么样</text>
+          </navLabel>
+          <content src="ch003.xhtml#有机肥怎么样"/>
+        </navPoint>
+        <navPoint class="chapter" id="ugFfhvxXnhTQGt3c8pPHlKG" playOrder="187">
+          <navLabel>
+            <text>3.23.5 人和磷污染</text>
+          </navLabel>
+          <content src="ch003.xhtml#人和磷污染"/>
+        </navPoint>
+        <navPoint class="chapter" id="u7nRpvIiuQ52RT2pwoMT4l4" playOrder="76">
+          <navLabel>
+            <text>3.23.6 结语</text>
+          </navLabel>
+          <content src="ch002.xhtml#-3"/>
+        </navPoint>
+      </navPoint>
+      <navPoint class="chapter" id="uHb6Lesi38QGyo5MFq6RXT3" playOrder="188">
+        <navLabel>
+          <text>3.24 丛枝菌根真菌：“微”小生物，大有“名堂”</text>
+        </navLabel>
+        <content src="ch003.xhtml#丛枝菌根真菌微小生物大有名堂"/>
+        <navPoint class="chapter" id="uIrtGZ8UFDae9DobfA8FjEG" playOrder="196">
+          <navLabel>
+            <text>3.24.1 AM真菌是什么？</text>
+          </navLabel>
+          <content src="ch003.xhtml#am"/>
+        </navPoint>
+        <navPoint class="chapter" id="uqQSy4ZZHZ4yoNUcvgzVat6" playOrder="196">
+          <navLabel>
+            <text>3.24.2 AM真菌“前世今生”</text>
+          </navLabel>
+          <content src="ch003.xhtml#am"/>
+        </navPoint>
+        <navPoint class="chapter" id="uNJ6CXEAxNv6RSLbYLRWTK4" playOrder="196">
+          <navLabel>
+            <text>3.24.3 AM真菌有哪些功能？</text>
+          </navLabel>
+          <content src="ch003.xhtml#am"/>
+        </navPoint>
+        <navPoint class="chapter" id="u6G2abGx3LQFNAUYjim4jK7" playOrder="196">
+          <navLabel>
+            <text>3.24.4 AM真菌与植物营养吸收</text>
+          </navLabel>
+          <content src="ch003.xhtml#am"/>
+        </navPoint>
+        <navPoint class="chapter" id="uIhOHUnYO2RZKPEJd7Hvwu6" playOrder="196">
+          <navLabel>
+            <text>3.24.5 AM真菌与植物重金属耐性</text>
+          </navLabel>
+          <content src="ch003.xhtml#am"/>
+        </navPoint>
+        <navPoint class="chapter" id="uPcdl2YnZ2cXtZAapeFRBr5" playOrder="196">
+          <navLabel>
+            <text>3.24.6 AM真菌与土壤团聚体形成</text>
+          </navLabel>
+          <content src="ch003.xhtml#am"/>
+        </navPoint>
+        <navPoint class="chapter" id="u5vsN7COoZ8Q24kXmlBoDv7" playOrder="196">
+          <navLabel>
+            <text>3.24.7 AM真菌与植物抗病性</text>
+          </navLabel>
+          <content src="ch003.xhtml#am"/>
+        </navPoint>
+        <navPoint class="chapter" id="upmqAS5qO8R69xFrgDSnVC8" playOrder="196">
+          <navLabel>
+            <text>3.24.8 AM真菌与植物耐盐及抗旱性</text>
+          </navLabel>
+          <content src="ch003.xhtml#am"/>
+        </navPoint>
+        <navPoint class="chapter" id="uOQuNSJck5veEtuanGTaeF7" playOrder="197">
+          <navLabel>
+            <text>3.24.9 总结与展望</text>
+          </navLabel>
+          <content src="ch003.xhtml#总结与展望"/>
+        </navPoint>
+      </navPoint>
+      <navPoint class="chapter" id="ui9RJuGUEvrEF7RCqGv9QeF" playOrder="198">
+        <navLabel>
+          <text>3.25 人人争用显著性，p值心事几人知</text>
+        </navLabel>
+        <content src="ch003.xhtml#p"/>
+      </navPoint>
+      <navPoint class="chapter" id="uhdjJwz58MokTekOk9GToQ8" playOrder="199">
+        <navLabel>
+          <text>3.26 青蛙的科研之旅</text>
+        </navLabel>
+        <content src="ch003.xhtml#青蛙的科研之旅"/>
+        <navPoint class="chapter" id="uyWrmbLf4b4uHDJazD3kNB4" playOrder="200">
+          <navLabel>
+            <text>3.26.1 从非洲沼泽地进入欧洲实验室</text>
+          </navLabel>
+          <content src="ch003.xhtml#从非洲沼泽地进入欧洲实验室"/>
+        </navPoint>
+        <navPoint class="chapter" id="uDvnSkxmlz5eynVoo7XJVdC" playOrder="201">
+          <navLabel>
+            <text>3.26.2 生物学领域的科研之旅</text>
+          </navLabel>
+          <content src="ch003.xhtml#生物学领域的科研之旅"/>
+        </navPoint>
+        <navPoint class="chapter" id="uwDyyiWKxoYUMYZZh6eaycG" playOrder="202">
+          <navLabel>
+            <text>3.26.3 生态毒理学领域的科研之旅</text>
+          </navLabel>
+          <content src="ch003.xhtml#生态毒理学领域的科研之旅"/>
+        </navPoint>
+        <navPoint class="chapter" id="uNdrneZzhV5ENpPcLFZOHI8" playOrder="203">
+          <navLabel>
+            <text>3.26.4 回到现代，展望未来</text>
+          </navLabel>
+          <content src="ch003.xhtml#回到现代展望未来"/>
+        </navPoint>
+      </navPoint>
+      <navPoint class="chapter" id="uFnD5SG3uBf2lc7tDtRQZzE" playOrder="204">
+        <navLabel>
+          <text>3.27 投稿那些事儿</text>
+        </navLabel>
+        <content src="ch003.xhtml#投稿那些事儿"/>
+        <navPoint class="chapter" id="upVmDFnKAd8B3zUCFXVhiWF" playOrder="81">
+          <navLabel>
+            <text>3.27.1 引言</text>
+          </navLabel>
+          <content src="ch002.xhtml#-2"/>
+        </navPoint>
+        <navPoint class="chapter" id="ueOt2cGksaIbZ3ml497Ev9H" playOrder="205">
+          <navLabel>
+            <text>3.27.2 期刊选择</text>
+          </navLabel>
+          <content src="ch003.xhtml#期刊选择"/>
+        </navPoint>
+        <navPoint class="chapter" id="uZlKzSmV48veHspYxJKkj55" playOrder="206">
+          <navLabel>
+            <text>3.27.3 格式修改</text>
+          </navLabel>
+          <content src="ch003.xhtml#格式修改"/>
+        </navPoint>
+        <navPoint class="chapter" id="uZvOYPUtU2EIrKAelKlQR5H" playOrder="207">
+          <navLabel>
+            <text>3.27.4 投稿</text>
+          </navLabel>
+          <content src="ch003.xhtml#投稿"/>
+        </navPoint>
+        <navPoint class="chapter" id="utd6dj7HfkUwsgDDLva2FeA" playOrder="208">
+          <navLabel>
+            <text>3.27.5 与编辑的交流</text>
+          </navLabel>
+          <content src="ch003.xhtml#与编辑的交流"/>
+        </navPoint>
+        <navPoint class="chapter" id="u5wsQzPL3J8e4wkwkeBkWGA" playOrder="209">
+          <navLabel>
+            <text>3.27.6 对结果的决定</text>
+          </navLabel>
+          <content src="ch003.xhtml#对结果的决定"/>
+        </navPoint>
+        <navPoint class="chapter" id="uqW8VLakHaO32sYIWrWGbsC" playOrder="80">
+          <navLabel>
+            <text>3.27.7 后记</text>
+          </navLabel>
+          <content src="ch002.xhtml#-1"/>
+        </navPoint>
+      </navPoint>
+      <navPoint class="chapter" id="uBjbiDKSMAPWsXsLxPvSMd6" playOrder="210">
+        <navLabel>
+          <text>3.28 城市道路移动监测展望</text>
+        </navLabel>
+        <content src="ch003.xhtml#城市道路移动监测展望"/>
+        <navPoint class="chapter" id="usP4Jlah3cKNCb8f3raIK7G" playOrder="82">
+          <navLabel>
+            <text>3.28.1 前言</text>
+          </navLabel>
+          <content src="ch002.xhtml#-4"/>
+        </navPoint>
+        <navPoint class="chapter" id="uBl8WcUADnk5wKgBa2eyRvD" playOrder="211">
+          <navLabel>
+            <text>3.28.2 概念</text>
+          </navLabel>
+          <content src="ch003.xhtml#概念"/>
+        </navPoint>
+        <navPoint class="chapter" id="uEu5A4OkzE3TkYKhImqAgF2" playOrder="212">
+          <navLabel>
+            <text>3.28.3 优势</text>
+          </navLabel>
+          <content src="ch003.xhtml#优势"/>
+        </navPoint>
+        <navPoint class="chapter" id="uhkvdojK6ngjSbtleQKFrTE" playOrder="213">
+          <navLabel>
+            <text>3.28.4 应用展望</text>
+          </navLabel>
+          <content src="ch003.xhtml#应用展望"/>
+        </navPoint>
+      </navPoint>
+      <navPoint class="chapter" id="ubSSyQuknyOK5WCixmuZFfE" playOrder="214">
+        <navLabel>
+          <text>3.29 潜在身边的环境危害：噪声</text>
+        </navLabel>
+        <content src="ch003.xhtml#潜在身边的环境危害噪声"/>
+        <navPoint class="chapter" id="uUmK6g5zPE76wjGxi5qw9T8" playOrder="215">
+          <navLabel>
+            <text>3.29.1 噪声的污染现状</text>
+          </navLabel>
+          <content src="ch003.xhtml#噪声的污染现状"/>
+        </navPoint>
+        <navPoint class="chapter" id="upeodhMQqUnMi4uqqV3I6w4" playOrder="216">
+          <navLabel>
+            <text>3.29.2 噪声管理存在问题</text>
+          </navLabel>
+          <content src="ch003.xhtml#噪声管理存在问题"/>
+        </navPoint>
+        <navPoint class="chapter" id="uY7VvDm8OLGLNxj7JQqrAIC" playOrder="217">
+          <navLabel>
+            <text>3.29.3 遇到噪声污染如何自救（民众的力量）</text>
+          </navLabel>
+          <content src="ch003.xhtml#遇到噪声污染如何自救民众的力量"/>
+        </navPoint>
+        <navPoint class="chapter" id="uNqjT6SafgEnOCf5HU8ESYD" playOrder="81">
+          <navLabel>
+            <text>3.29.4 后记</text>
+          </navLabel>
+          <content src="ch002.xhtml#-2"/>
+        </navPoint>
+      </navPoint>
+      <navPoint class="chapter" id="u5i6JuxT24Pp4gEaJuYyWK2" playOrder="218">
+        <navLabel>
+          <text>3.30 暴露组学的黎明</text>
+        </navLabel>
+        <content src="ch003.xhtml#暴露组学的黎明"/>
+        <navPoint class="chapter" id="uq2BXPOIagPHm8mvRohqI26" playOrder="219">
+          <navLabel>
+            <text>3.30.1 暴露组学是什么？</text>
+          </navLabel>
+          <content src="ch003.xhtml#暴露组学是什么"/>
+        </navPoint>
+        <navPoint class="chapter" id="u7CPSKS4FhoARwYHw6KSbKC" playOrder="223">
+          <navLabel>
+            <text>3.30.2 目的性分析难题1：峰真实性问题</text>
+          </navLabel>
+          <content src="ch003.xhtml#1"/>
+        </navPoint>
+        <navPoint class="chapter" id="upCOaPwr9wb8yz9aXGcuJp7" playOrder="221">
+          <navLabel>
+            <text>3.30.3 目的性分析难题2：峰解析问题</text>
+          </navLabel>
+          <content src="ch003.xhtml#2"/>
+        </navPoint>
+        <navPoint class="chapter" id="uHkepuIxLOz5ckFVsU5nJC9" playOrder="222">
+          <navLabel>
+            <text>3.30.4 目的性分析难题3：分析通量限制</text>
+          </navLabel>
+          <content src="ch003.xhtml#3"/>
+        </navPoint>
+        <navPoint class="chapter" id="uXAPMZRH6aYr4Wzpxasx5mC" playOrder="223">
+          <navLabel>
+            <text>3.30.5 统计学分析难题1：模型的选择</text>
+          </navLabel>
+          <content src="ch003.xhtml#1"/>
+        </navPoint>
+        <navPoint class="chapter" id="utISsbgTDhMVtpRyyCKjzKE" playOrder="224">
+          <navLabel>
+            <text>3.30.6 统计学分析难题2：结构-性质关系</text>
+          </navLabel>
+          <content src="ch003.xhtml#2-"/>
+        </navPoint>
+        <navPoint class="chapter" id="uQamtcEUkteB8jGm2r6nA62" playOrder="82">
+          <navLabel>
+            <text>3.30.7 结语</text>
+          </navLabel>
+          <content src="ch002.xhtml#-4"/>
+        </navPoint>
+      </navPoint>
+      <navPoint class="chapter" id="uvYETIULxy7KoudadAy8FwE" playOrder="225">
+        <navLabel>
+          <text>3.31 垃圾渗滤液为什么会爆炸？</text>
+        </navLabel>
+        <content src="ch003.xhtml#垃圾渗滤液为什么会爆炸"/>
+        <navPoint class="chapter" id="uCW3Yvn8VxypQ6PxfnK5gL8" playOrder="226">
+          <navLabel>
+            <text>3.31.1 什么是垃圾渗滤液</text>
+          </navLabel>
+          <content src="ch003.xhtml#什么是垃圾渗滤液"/>
+        </navPoint>
+        <navPoint class="chapter" id="uMPJgEjyUVixe2tZhaYi983" playOrder="227">
+          <navLabel>
+            <text>3.31.2 垃圾渗滤液的污染特点</text>
+          </navLabel>
+          <content src="ch003.xhtml#垃圾渗滤液的污染特点"/>
+        </navPoint>
+        <navPoint class="chapter" id="u6VZIRl7F8OjvxuWIPeYXUB" playOrder="228">
+          <navLabel>
+            <text>3.31.3 垃圾渗滤液的哪步处理会引起爆炸</text>
+          </navLabel>
+          <content src="ch003.xhtml#垃圾渗滤液的哪步处理会引起爆炸"/>
+        </navPoint>
+        <navPoint class="chapter" id="uygyyticj6T73SKTBIKZ2ZD" playOrder="229">
+          <navLabel>
+            <text>3.31.4 实验室防护我们该怎么做</text>
+          </navLabel>
+          <content src="ch003.xhtml#实验室防护我们该怎么做"/>
+        </navPoint>
+      </navPoint>
+      <navPoint class="chapter" id="ujYdbdb5EjZA3wm6pWjyJHC" playOrder="230">
+        <navLabel>
+          <text>3.32 风口浪尖的新烟碱</text>
+        </navLabel>
+        <content src="ch003.xhtml#风口浪尖的新烟碱"/>
+        <navPoint class="chapter" id="uRFbRmlcyYRncR9wEkBMayG" playOrder="231">
+          <navLabel>
+            <text>3.32.1 新烟碱类杀虫剂为什么会大规模使用？</text>
+          </navLabel>
+          <content src="ch003.xhtml#新烟碱类杀虫剂为什么会大规模使用"/>
+        </navPoint>
+        <navPoint class="chapter" id="uq5zpC3qtPGv9ic9MPmFYU7" playOrder="232">
+          <navLabel>
+            <text>3.32.2 新烟碱类为什么只对昆虫起作用？</text>
+          </navLabel>
+          <content src="ch003.xhtml#新烟碱类为什么只对昆虫起作用"/>
+        </navPoint>
+        <navPoint class="chapter" id="uBdZHLtWqa7GbZt4ysTF2a8" playOrder="80">
+          <navLabel>
+            <text>3.32.3 风口浪尖的新烟碱？</text>
+          </navLabel>
+          <content src="ch002.xhtml#-1"/>
+        </navPoint>
+        <navPoint class="chapter" id="ujJTvgtoSBesWyitjn6BBY7" playOrder="50">
+          <navLabel>
+            <text>3.32.4 结语</text>
+          </navLabel>
+          <content src="ch002.xhtml#-5"/>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="ua22Gr32C2KEsBcBcADhRrA" playOrder="233">
+      <navLabel>
+        <text>4 工程实践</text>
+      </navLabel>
+      <content src="ch004.xhtml#工程实践"/>
+      <navPoint class="chapter" id="u6EdNCdD9E5rjgjdO6rCIaD" playOrder="234">
+        <navLabel>
+          <text>4.1 污师私房菜: OUR 和 SV30 的应用</text>
+        </navLabel>
+        <content src="ch004.xhtml#-our--sv30-"/>
+        <navPoint class="chapter" id="uTpJ8pGXvMby2exJjWogN78" playOrder="235">
+          <navLabel>
+            <text>4.1.1 呼吸速率的前世今生</text>
+          </navLabel>
+          <content src="ch004.xhtml#呼吸速率的前世今生"/>
+        </navPoint>
+        <navPoint class="chapter" id="uw9PWEhotdm45ldF2kN6Ht3" playOrder="239">
+          <navLabel>
+            <text>4.1.2 OUR应用的理论介绍</text>
+          </navLabel>
+          <content src="ch004.xhtml#our"/>
+        </navPoint>
+        <navPoint class="chapter" id="uGeZQn4d4D6WQRZbDGuLgCE" playOrder="239">
+          <navLabel>
+            <text>4.1.3 OUR应用的实战演练</text>
+          </navLabel>
+          <content src="ch004.xhtml#our"/>
+        </navPoint>
+        <navPoint class="chapter" id="upr8AiQ4pAPyFntXFYaMgXE" playOrder="240">
+          <navLabel>
+            <text>4.1.4 SV30的应用实战</text>
+          </navLabel>
+          <content src="ch004.xhtml#sv30"/>
+        </navPoint>
+        <navPoint class="chapter" id="u2syE7pQL6FAJ5A5xz4PZz6" playOrder="57">
+          <navLabel>
+            <text>4.1.5 结语</text>
+          </navLabel>
+          <content src="ch002.xhtml#-6"/>
+        </navPoint>
+      </navPoint>
+      <navPoint class="chapter" id="uowa9B55Twkl2C9PgfrTJvG" playOrder="241">
+        <navLabel>
+          <text>4.2 污师私房菜系列二: SRT的应用</text>
+        </navLabel>
+        <content src="ch004.xhtml#-srt"/>
+        <navPoint class="chapter" id="uOsHXAzsLATtzgxvqgOfD6G" playOrder="76">
+          <navLabel>
+            <text>4.2.1 引言</text>
+          </navLabel>
+          <content src="ch002.xhtml#-3"/>
+        </navPoint>
+        <navPoint class="chapter" id="ukOxXuQtHrufXwNxrXzWks5" playOrder="243">
+          <navLabel>
+            <text>4.2.2 SRT的含义</text>
+          </navLabel>
+          <content src="ch004.xhtml#srt"/>
+        </navPoint>
+        <navPoint class="chapter" id="u5MJUZvHNd8t3DYqWxc82GG" playOrder="243">
+          <navLabel>
+            <text>4.2.3 SRT的应用</text>
+          </navLabel>
+          <content src="ch004.xhtml#srt"/>
+        </navPoint>
+        <navPoint class="chapter" id="uwVYwmWVqvLFW7IVKCqbh7B" playOrder="244">
+          <navLabel>
+            <text>4.2.4 剩余污泥的控制</text>
+          </navLabel>
+          <content src="ch004.xhtml#剩余污泥的控制"/>
+        </navPoint>
+        <navPoint class="chapter" id="uftSBHBMPiQJntStGSy2ko3" playOrder="26">
+          <navLabel>
+            <text>4.2.5 结语</text>
+          </navLabel>
+          <content src="ch002.xhtml#-7"/>
+        </navPoint>
+      </navPoint>
+      <navPoint class="chapter" id="uEYxfCXjAWgZeS7KuOmTqq6" playOrder="245">
+        <navLabel>
+          <text>4.3 污师私房菜系列三：AO工艺调试秘籍</text>
+        </navLabel>
+        <content src="ch004.xhtml#ao"/>
+        <navPoint class="chapter" id="u9TC2FSndSqEAvr4yvTEwh4" playOrder="246">
+          <navLabel>
+            <text>4.3.1 调试前置条件</text>
+          </navLabel>
+          <content src="ch004.xhtml#调试前置条件"/>
+        </navPoint>
+        <navPoint class="chapter" id="uueTD3hFube6fXe5eFw8Mr4" playOrder="247">
+          <navLabel>
+            <text>4.3.2 物资准备</text>
+          </navLabel>
+          <content src="ch004.xhtml#物资准备"/>
+        </navPoint>
+        <navPoint class="chapter" id="utjxCQUxY7ecKmQh2aehK92" playOrder="248">
+          <navLabel>
+            <text>4.3.3 曝气器调试</text>
+          </navLabel>
+          <content src="ch004.xhtml#曝气器调试"/>
+        </navPoint>
+        <navPoint class="chapter" id="u8Qyf24xoPsuwbiegNLTLz4" playOrder="249">
+          <navLabel>
+            <text>4.3.4 接种培养</text>
+          </navLabel>
+          <content src="ch004.xhtml#接种培养"/>
+        </navPoint>
+        <navPoint class="chapter" id="u2mcSUBJIg4K3GaBpBJnDqA" playOrder="250">
+          <navLabel>
+            <text>4.3.5 调试注意事项</text>
+          </navLabel>
+          <content src="ch004.xhtml#调试注意事项"/>
+        </navPoint>
+      </navPoint>
+      <navPoint class="chapter" id="uX9yhYffphL4ORy33ffRQy5" playOrder="251">
+        <navLabel>
+          <text>4.4 污师私房菜系列四：浅析精确曝气技术</text>
+        </navLabel>
+        <content src="ch004.xhtml#污师私房菜系列四浅析精确曝气技术"/>
+        <navPoint class="chapter" id="uaQwIRkYBIXXTFbrxQUz63F" playOrder="50">
+          <navLabel>
+            <text>4.4.1 前言</text>
+          </navLabel>
+          <content src="ch002.xhtml#-5"/>
+        </navPoint>
+        <navPoint class="chapter" id="u5Bq5wSGhFwlijND3f7JOTF" playOrder="252">
+          <navLabel>
+            <text>4.4.2 传统曝气控制</text>
+          </navLabel>
+          <content src="ch004.xhtml#传统曝气控制"/>
+        </navPoint>
+        <navPoint class="chapter" id="uHBQSo464XGJJDwEwqra5MH" playOrder="253">
+          <navLabel>
+            <text>4.4.3 精确曝气控制及相关技术</text>
+          </navLabel>
+          <content src="ch004.xhtml#精确曝气控制及相关技术"/>
+        </navPoint>
+        <navPoint class="chapter" id="uyAe3XBHSZhyDNoqQ5HF7d6" playOrder="254">
+          <navLabel>
+            <text>4.4.4 结论与建议</text>
+          </navLabel>
+          <content src="ch004.xhtml#结论与建议"/>
+        </navPoint>
+      </navPoint>
+      <navPoint class="chapter" id="uhcMSUAzDbHChrt7HuA9cR5" playOrder="258">
+        <navLabel>
+          <text>4.5 污师私房菜系列五：原来你是这样的COD</text>
+        </navLabel>
+        <content src="ch004.xhtml#cod"/>
+        <navPoint class="chapter" id="u3YgN9xKPncZ9tV5Dbx5GE5" playOrder="258">
+          <navLabel>
+            <text>4.5.1 污师眼中的COD</text>
+          </navLabel>
+          <content src="ch004.xhtml#cod"/>
+        </navPoint>
+        <navPoint class="chapter" id="usM9qMhft8krtlDA5lsdMRA" playOrder="258">
+          <navLabel>
+            <text>4.5.2 COD组分测试方法</text>
+          </navLabel>
+          <content src="ch004.xhtml#cod"/>
+        </navPoint>
+        <navPoint class="chapter" id="uLlYrqLkT5eh7PUhpI6DxsG" playOrder="258">
+          <navLabel>
+            <text>4.5.3 COD组分作用</text>
+          </navLabel>
+          <content src="ch004.xhtml#cod"/>
+        </navPoint>
+        <navPoint class="chapter" id="uDRWmckGxngvRiSvWLEqSO8" playOrder="33">
+          <navLabel>
+            <text>4.5.4 结语</text>
+          </navLabel>
+          <content src="ch002.xhtml#-8"/>
+        </navPoint>
+      </navPoint>
+      <navPoint class="chapter" id="us5e6KO5NFEyiVainrCnjKC" playOrder="259">
+        <navLabel>
+          <text>4.6 城市之殇</text>
+        </navLabel>
+        <content src="ch004.xhtml#城市之殇"/>
+        <navPoint class="chapter" id="ultARckl6LGpN7BWVuQzOOA" playOrder="260">
+          <navLabel>
+            <text>4.6.1 序言</text>
+          </navLabel>
+          <content src="ch004.xhtml#序言"/>
+        </navPoint>
+        <navPoint class="chapter" id="ufG4yHPkBHIIsOWeBThRNHB" playOrder="261">
+          <navLabel>
+            <text>4.6.2 海绵城市是什么</text>
+          </navLabel>
+          <content src="ch004.xhtml#海绵城市是什么"/>
+        </navPoint>
+        <navPoint class="chapter" id="ueGzUNSbKiSPZMonisDt4bB" playOrder="262">
+          <navLabel>
+            <text>4.6.3 海绵城市试点</text>
+          </navLabel>
+          <content src="ch004.xhtml#海绵城市试点"/>
+        </navPoint>
+        <navPoint class="chapter" id="uayxItBVxsyacMpuhAzTDQ6" playOrder="263">
+          <navLabel>
+            <text>4.6.4 浅谈海绵感悟</text>
+          </navLabel>
+          <content src="ch004.xhtml#浅谈海绵感悟"/>
+        </navPoint>
+        <navPoint class="chapter" id="u6ZjoXZGKfdZtRlvyyKC83E" playOrder="40">
+          <navLabel>
+            <text>4.6.5 结语</text>
+          </navLabel>
+          <content src="ch002.xhtml#-9"/>
+        </navPoint>
+      </navPoint>
+      <navPoint class="chapter" id="utkbZiaCyZ6lCQqgOOiiEW8" playOrder="264">
+        <navLabel>
+          <text>4.7 浪潮下的海绵城市</text>
+        </navLabel>
+        <content src="ch004.xhtml#浪潮下的海绵城市"/>
+        <navPoint class="chapter" id="uCqTe36MagqEA9YHq84VvbF" playOrder="265">
+          <navLabel>
+            <text>4.7.1 海绵城市建设热潮</text>
+          </navLabel>
+          <content src="ch004.xhtml#海绵城市建设热潮"/>
+        </navPoint>
+        <navPoint class="chapter" id="uUHFyYc3Rw6qUD3ilNzmaK6" playOrder="266">
+          <navLabel>
+            <text>4.7.2 海绵城市建设疑惑与困难</text>
+          </navLabel>
+          <content src="ch004.xhtml#海绵城市建设疑惑与困难"/>
+        </navPoint>
+        <navPoint class="chapter" id="ueBCAwLw39ertQlfgQdfPAB" playOrder="267">
+          <navLabel>
+            <text>4.7.3 海绵城市建设展望</text>
+          </navLabel>
+          <content src="ch004.xhtml#海绵城市建设展望"/>
+        </navPoint>
+      </navPoint>
+      <navPoint class="chapter" id="uTyGpqwLblzj94wohHYg9q6" playOrder="268">
+        <navLabel>
+          <text>4.8 垃圾焚烧发电该怎么烧</text>
+        </navLabel>
+        <content src="ch004.xhtml#垃圾焚烧发电该怎么烧"/>
+        <navPoint class="chapter" id="uydFeWnHkX8LpfXCUGQhE9E" playOrder="269">
+          <navLabel>
+            <text>4.8.1 概述</text>
+          </navLabel>
+          <content src="ch004.xhtml#概述"/>
+        </navPoint>
+        <navPoint class="chapter" id="u3f5cPYcpiXcLZXBWpLe6l7" playOrder="270">
+          <navLabel>
+            <text>4.8.2 前端接收——垃圾接收输送系统</text>
+          </navLabel>
+          <content src="ch004.xhtml#前端接收垃圾接收输送系统"/>
+        </navPoint>
+        <navPoint class="chapter" id="umUsm4qBeRTvNVn4eccsyTB" playOrder="271">
+          <navLabel>
+            <text>4.8.3 中端处理——垃圾焚烧系统</text>
+          </navLabel>
+          <content src="ch004.xhtml#中端处理垃圾焚烧系统"/>
+        </navPoint>
+        <navPoint class="chapter" id="uim7r8yqJwSzq9CI6ac6TNH" playOrder="272">
+          <navLabel>
+            <text>4.8.4 后端处理——环保系统</text>
+          </navLabel>
+          <content src="ch004.xhtml#后端处理环保系统"/>
+        </navPoint>
+      </navPoint>
+      <navPoint class="chapter" id="ukx2rdTKxpPdqZx8F7evOH7" playOrder="273">
+        <navLabel>
+          <text>4.9 生活垃圾焚烧发电知多少</text>
+        </navLabel>
+        <content src="ch004.xhtml#生活垃圾焚烧发电知多少"/>
+        <navPoint class="chapter" id="uguctHfwju22hurLbtT7JvC" playOrder="274">
+          <navLabel>
+            <text>4.9.1 从填埋到焚烧</text>
+          </navLabel>
+          <content src="ch004.xhtml#从填埋到焚烧"/>
+        </navPoint>
+        <navPoint class="chapter" id="uk3YRTnuZUnoL8CBOUJRhFC" playOrder="275">
+          <navLabel>
+            <text>4.9.2 工艺流程</text>
+          </navLabel>
+          <content src="ch004.xhtml#工艺流程"/>
+        </navPoint>
+        <navPoint class="chapter" id="ujuVeDNKRM2ftw6Ukm3C5Y2" playOrder="276">
+          <navLabel>
+            <text>4.9.3 工艺应用现状</text>
+          </navLabel>
+          <content src="ch004.xhtml#工艺应用现状"/>
+        </navPoint>
+        <navPoint class="chapter" id="uKMG9mL2s8fmb7zzxyirzO5" playOrder="277">
+          <navLabel>
+            <text>4.9.4 现存问题探究</text>
+          </navLabel>
+          <content src="ch004.xhtml#现存问题探究"/>
+        </navPoint>
+      </navPoint>
+      <navPoint class="chapter" id="uKYpBfcDC6KOL5WwoMgr4ZC" playOrder="46">
+        <navLabel>
+          <text>4.10 结语</text>
+        </navLabel>
+        <content src="ch002.xhtml#-10"/>
+      </navPoint>
+      <navPoint class="chapter" id="ujJKT4lxnOlwLolQuOEvV5E" playOrder="278">
+        <navLabel>
+          <text>4.11 大气环境监测都用些啥设备？</text>
+        </navLabel>
+        <content src="ch004.xhtml#大气环境监测都用些啥设备"/>
+        <navPoint class="chapter" id="uNs8BrVjGA6VYYLVuFtC3VD" playOrder="279">
+          <navLabel>
+            <text>4.11.1 关于烟气分析仪</text>
+          </navLabel>
+          <content src="ch004.xhtml#关于烟气分析仪"/>
+        </navPoint>
+        <navPoint class="chapter" id="uoPlzxacVp8yVKQyCkBgMj9" playOrder="280">
+          <navLabel>
+            <text>4.11.2 关于颗粒物分析仪</text>
+          </navLabel>
+          <content src="ch004.xhtml#关于颗粒物分析仪"/>
+        </navPoint>
+        <navPoint class="chapter" id="uc9oVyzBGLLMxl5TAwu4552" playOrder="52">
+          <navLabel>
+            <text>4.11.3 结语</text>
+          </navLabel>
+          <content src="ch002.xhtml#-11"/>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="uDArejEh4VSmZ32SBP6Q5p2" playOrder="281">
+      <navLabel>
+        <text>5 科苑风采</text>
+      </navLabel>
+      <content src="ch005.xhtml#科苑风采"/>
+      <navPoint class="chapter" id="uAtKROBuwZuZitOXCSR4wO4" playOrder="148">
+        <navLabel>
+          <text>5.1 念念不忘 必有回响</text>
+        </navLabel>
+        <content src="ch003.xhtml#-"/>
+      </navPoint>
+      <navPoint class="chapter" id="uWVKrO4KL3je3YbwcM6WKZD" playOrder="148">
+        <navLabel>
+          <text>5.2 我们也迷茫，但不曾却步 | 黑板报周年志</text>
+        </navLabel>
+        <content src="ch003.xhtml#-"/>
+        <navPoint class="chapter" id="uJfjYpVrjz7tMp5rCyRQjNC" playOrder="282">
+          <navLabel>
+            <text>5.2.1 一年回望</text>
+          </navLabel>
+          <content src="ch005.xhtml#一年回望"/>
+        </navPoint>
+        <navPoint class="chapter" id="ukI2cegw5YNpKgsmNwX6UJ8" playOrder="283">
+          <navLabel>
+            <text>5.2.2 一年回馈</text>
+          </navLabel>
+          <content src="ch005.xhtml#一年回馈"/>
+        </navPoint>
+        <navPoint class="chapter" id="u7tEiZGS9zFZFTcNAiDCN4C" playOrder="284">
+          <navLabel>
+            <text>5.2.3 一年回响</text>
+          </navLabel>
+          <content src="ch005.xhtml#一年回响"/>
+        </navPoint>
+        <navPoint class="chapter" id="ueKUjJXk7NDKncVtnleoHe5" playOrder="285">
+          <navLabel>
+            <text>5.2.4 热情</text>
+          </navLabel>
+          <content src="ch005.xhtml#热情"/>
+        </navPoint>
+        <navPoint class="chapter" id="ucHhOEaDmzuOgiv4Zh67kGD" playOrder="286">
+          <navLabel>
+            <text>5.2.5 文字</text>
+          </navLabel>
+          <content src="ch005.xhtml#文字"/>
+        </navPoint>
+        <navPoint class="chapter" id="uAxxXSIT8EiFXAOjnASm5H6" playOrder="287">
+          <navLabel>
+            <text>5.2.6 时间</text>
+          </navLabel>
+          <content src="ch005.xhtml#时间"/>
+        </navPoint>
+      </navPoint>
+      <navPoint class="chapter" id="upbusJymwJO4QHHvUXDpZX5" playOrder="288">
+        <navLabel>
+          <text>5.3 一封来自环保工作者妻子的信</text>
+        </navLabel>
+        <content src="ch005.xhtml#一封来自环保工作者妻子的信"/>
+      </navPoint>
+      <navPoint class="chapter" id="uC625fC5vcnDEUFbZDI8vUB" playOrder="148">
+        <navLabel>
+          <text>5.4 天道酬勤 日新月异</text>
+        </navLabel>
+        <content src="ch003.xhtml#-"/>
+        <navPoint class="chapter" id="uR7Z4bO4qj24rScVdmDSQPC" playOrder="289">
+          <navLabel>
+            <text>5.4.1 辞旧迎新，鸿运当头</text>
+          </navLabel>
+          <content src="ch005.xhtml#辞旧迎新鸿运当头"/>
+        </navPoint>
+        <navPoint class="chapter" id="uF8bJiJeJhWrHcE2rrKPb87" playOrder="290">
+          <navLabel>
+            <text>5.4.2 吕永龙研究员简介</text>
+          </navLabel>
+          <content src="ch005.xhtml#吕永龙研究员简介"/>
+        </navPoint>
+      </navPoint>
+      <navPoint class="chapter" id="uJOa4gXS5gwnqc3AqbfXrU4" playOrder="148">
+        <navLabel>
+          <text>5.5 行走天际 俯瞰生灵</text>
+        </navLabel>
+        <content src="ch003.xhtml#-"/>
+      </navPoint>
+      <navPoint class="chapter" id="un2dtFS9x6YMld6FTszvDE2" playOrder="291">
+        <navLabel>
+          <text>5.6 你坏我锅，我砸你饭碗</text>
+        </navLabel>
+        <content src="ch005.xhtml#你坏我锅我砸你饭碗"/>
+        <navPoint class="chapter" id="udSshjYX3IppkfACJx7gaw4" playOrder="292">
+          <navLabel>
+            <text>5.6.1 顶层设计</text>
+          </navLabel>
+          <content src="ch005.xhtml#顶层设计"/>
+        </navPoint>
+        <navPoint class="chapter" id="uvRwAqnpwoP5Nc4h6aozu2D" playOrder="293">
+          <navLabel>
+            <text>5.6.2 强压管制</text>
+          </navLabel>
+          <content src="ch005.xhtml#强压管制"/>
+        </navPoint>
+        <navPoint class="chapter" id="uj5iGnx5uF6FkUMCpMLIEOA" playOrder="294">
+          <navLabel>
+            <text>5.6.3 有力处罚</text>
+          </navLabel>
+          <content src="ch005.xhtml#有力处罚"/>
+        </navPoint>
+        <navPoint class="chapter" id="umTmGjbKWmrygE9PsvNzeV4" playOrder="295">
+          <navLabel>
+            <text>5.6.4 公众参与</text>
+          </navLabel>
+          <content src="ch005.xhtml#公众参与"/>
+        </navPoint>
+        <navPoint class="chapter" id="uDPVIbuobblGcCRXpVeVL85" playOrder="296">
+          <navLabel>
+            <text>5.6.5 环保铁军</text>
+          </navLabel>
+          <content src="ch005.xhtml#环保铁军"/>
+        </navPoint>
+      </navPoint>
+      <navPoint class="chapter" id="u9iDF37en3OJ7ok79oIiVGF" playOrder="297">
+        <navLabel>
+          <text>5.7 像设计者一样思考</text>
+        </navLabel>
+        <content src="ch005.xhtml#像设计者一样思考"/>
+      </navPoint>
+      <navPoint class="chapter" id="uRdhlMCMX9t7PGTfpgvf4s9" playOrder="298">
+        <navLabel>
+          <text>5.8 个人知识管理(PKM)的未来</text>
+        </navLabel>
+        <content src="ch005.xhtml#pkm"/>
+        <navPoint class="chapter" id="uQODRXqK6twqJDQ96KDXEw2" playOrder="299">
+          <navLabel>
+            <text>5.8.1 问题的引入</text>
+          </navLabel>
+          <content src="ch005.xhtml#问题的引入"/>
+        </navPoint>
+      </navPoint>
+      <navPoint class="chapter" id="up88zSnTjdL7h6fpczeOrDH" playOrder="300">
+        <navLabel>
+          <text>5.9 我的匹兹堡会议</text>
+        </navLabel>
+        <content src="ch005.xhtml#我的匹兹堡会议"/>
+      </navPoint>
+      <navPoint class="chapter" id="uL9lRpmg5SrkaLCGJB6ezo4" playOrder="301">
+        <navLabel>
+          <text>5.10 十万阅读量的科普</text>
+        </navLabel>
+        <content src="ch005.xhtml#十万阅读量的科普"/>
+        <navPoint class="chapter" id="ugClZW8V9aDTPI9WJRYxmRB" playOrder="302">
+          <navLabel>
+            <text>5.10.1 改变中的科普大环境</text>
+          </navLabel>
+          <content src="ch005.xhtml#改变中的科普大环境"/>
+        </navPoint>
+        <navPoint class="chapter" id="uJFDTVddqqV9CXwpIJySkq7" playOrder="303">
+          <navLabel>
+            <text>5.10.2 知识向科普</text>
+          </navLabel>
+          <content src="ch005.xhtml#知识向科普"/>
+        </navPoint>
+        <navPoint class="chapter" id="uDCucmYyjsrwYVw6dFE3k2E" playOrder="304">
+          <navLabel>
+            <text>5.10.3 前沿科普</text>
+          </navLabel>
+          <content src="ch005.xhtml#前沿科普"/>
+        </navPoint>
+        <navPoint class="chapter" id="unNk7lqZXzCP6VfBXmF5GCH" playOrder="305">
+          <navLabel>
+            <text>5.10.4 科学思想</text>
+          </navLabel>
+          <content src="ch005.xhtml#科学思想"/>
+        </navPoint>
+        <navPoint class="chapter" id="uIYGbu6tyq4IeMhdFviy593" playOrder="306">
+          <navLabel>
+            <text>5.10.5 科学史</text>
+          </navLabel>
+          <content src="ch005.xhtml#科学史"/>
+        </navPoint>
+        <navPoint class="chapter" id="unYLUcLyLz4hKIBsNoV5867" playOrder="307">
+          <navLabel>
+            <text>5.10.6 新的指标</text>
+          </navLabel>
+          <content src="ch005.xhtml#新的指标"/>
+        </navPoint>
+      </navPoint>
+      <navPoint class="chapter" id="u4epzIsUsMImxMdiFlRX5t6" playOrder="308">
+        <navLabel>
+          <text>5.11 无知之幕</text>
+        </navLabel>
+        <content src="ch005.xhtml#无知之幕"/>
+      </navPoint>
+      <navPoint class="chapter" id="uCMBOp99fJthVVZwfxKgf27" playOrder="309">
+        <navLabel>
+          <text>5.12 一城之国</text>
+        </navLabel>
+        <content src="ch005.xhtml#一城之国"/>
+        <navPoint class="chapter" id="uUXrAqgSgBheerkW4W7iYTH" playOrder="310">
+          <navLabel>
+            <text>5.12.1 城市发展的空间</text>
+          </navLabel>
+          <content src="ch005.xhtml#城市发展的空间"/>
+        </navPoint>
+        <navPoint class="chapter" id="uIDEME6eQVmcvN5Uqrvnl37" playOrder="311">
+          <navLabel>
+            <text>5.12.2 城市的抢人大战</text>
+          </navLabel>
+          <content src="ch005.xhtml#城市的抢人大战"/>
+        </navPoint>
+        <navPoint class="chapter" id="u2HMp4LmhGee9NfnonkLqo5" playOrder="312">
+          <navLabel>
+            <text>5.12.3 城市与现代家庭伦理格局</text>
+          </navLabel>
+          <content src="ch005.xhtml#城市与现代家庭伦理格局"/>
+        </navPoint>
+        <navPoint class="chapter" id="uMgwI4BBfI3RisrLlZyfhoD" playOrder="313">
+          <navLabel>
+            <text>5.12.4 城市福利的代价</text>
+          </navLabel>
+          <content src="ch005.xhtml#城市福利的代价"/>
+        </navPoint>
+        <navPoint class="chapter" id="uWs2D5TZxsQjILuIktRXDKC" playOrder="314">
+          <navLabel>
+            <text>5.12.5 城市教育</text>
+          </navLabel>
+          <content src="ch005.xhtml#城市教育"/>
+        </navPoint>
+        <navPoint class="chapter" id="utG2eS3nCgoILFwP79VEZTA" playOrder="315">
+          <navLabel>
+            <text>5.12.6 城市的可持续</text>
+          </navLabel>
+          <content src="ch005.xhtml#城市的可持续"/>
+        </navPoint>
+        <navPoint class="chapter" id="uQaY8NDwxcwmBQl4fQjNMH3" playOrder="316">
+          <navLabel>
+            <text>5.12.7 城市与娱乐</text>
+          </navLabel>
+          <content src="ch005.xhtml#城市与娱乐"/>
+        </navPoint>
+        <navPoint class="chapter" id="uIYHt8EwohNmZxADtokGCSF" playOrder="317">
+          <navLabel>
+            <text>5.12.8 城市与人口流动</text>
+          </navLabel>
+          <content src="ch005.xhtml#城市与人口流动"/>
+        </navPoint>
+        <navPoint class="chapter" id="unj6plHFi8dMmkgyUClwnj4" playOrder="318">
+          <navLabel>
+            <text>5.12.9 城市与技术</text>
+          </navLabel>
+          <content src="ch005.xhtml#城市与技术"/>
+        </navPoint>
+        <navPoint class="chapter" id="ueHtTv2W2FPIOhx322doyaD" playOrder="319">
+          <navLabel>
+            <text>5.12.10 城市的吸引力</text>
+          </navLabel>
+          <content src="ch005.xhtml#城市的吸引力"/>
+        </navPoint>
+        <navPoint class="chapter" id="uwGHfnlav3uarSJB5coLz53" playOrder="320">
+          <navLabel>
+            <text>5.12.11 人才的选择</text>
+          </navLabel>
+          <content src="ch005.xhtml#人才的选择"/>
+        </navPoint>
+        <navPoint class="chapter" id="uPZYc4QtzmYRJdPgZ7t8829" playOrder="59">
+          <navLabel>
+            <text>5.12.12 结语</text>
+          </navLabel>
+          <content src="ch002.xhtml#-12"/>
+        </navPoint>
+      </navPoint>
+      <navPoint class="chapter" id="uI2So7AmDzWlLWjdR2ccvf8" playOrder="321">
+        <navLabel>
+          <text>5.13 我们一无所知</text>
+        </navLabel>
+        <content src="ch005.xhtml#我们一无所知"/>
+      </navPoint>
+      <navPoint class="chapter" id="u5UXqJEpWHHlU3tHmbbTONE" playOrder="322">
+        <navLabel>
+          <text>5.14 科研编程思维</text>
+        </navLabel>
+        <content src="ch005.xhtml#科研编程思维"/>
+        <navPoint class="chapter" id="u4KpKGWvoSMRKFYsV6HkdQ2" playOrder="323">
+          <navLabel>
+            <text>5.14.1 条件分支</text>
+          </navLabel>
+          <content src="ch005.xhtml#条件分支"/>
+        </navPoint>
+        <navPoint class="chapter" id="urx5VpVvrPLKPV55tOkK83C" playOrder="324">
+          <navLabel>
+            <text>5.14.2 循环</text>
+          </navLabel>
+          <content src="ch005.xhtml#循环"/>
+        </navPoint>
+        <navPoint class="chapter" id="u54lzZYYpiJo43ve8wvYfWG" playOrder="325">
+          <navLabel>
+            <text>5.14.3 递归</text>
+          </navLabel>
+          <content src="ch005.xhtml#递归"/>
+        </navPoint>
+        <navPoint class="chapter" id="uVeBQER9mmzPwnz72pmNcL3" playOrder="326">
+          <navLabel>
+            <text>5.14.4 正则表达式</text>
+          </navLabel>
+          <content src="ch005.xhtml#正则表达式"/>
+        </navPoint>
+        <navPoint class="chapter" id="uojtuNn4kovnhkCwGDG4tb4" playOrder="327">
+          <navLabel>
+            <text>5.14.5 数据结构</text>
+          </navLabel>
+          <content src="ch005.xhtml#数据结构"/>
+        </navPoint>
+        <navPoint class="chapter" id="uQE9PAOUvyZMVnyhal9e3CE" playOrder="328">
+          <navLabel>
+            <text>5.14.6 数据表</text>
+          </navLabel>
+          <content src="ch005.xhtml#数据表"/>
+        </navPoint>
+        <navPoint class="chapter" id="uXusGmWJC5YOvylKdGrZXkA" playOrder="329">
+          <navLabel>
+            <text>5.14.7 字典</text>
+          </navLabel>
+          <content src="ch005.xhtml#字典"/>
+        </navPoint>
+        <navPoint class="chapter" id="uRhRqrzjlGNZ87rad8deXW9" playOrder="330">
+          <navLabel>
+            <text>5.14.8 列表</text>
+          </navLabel>
+          <content src="ch005.xhtml#列表"/>
+        </navPoint>
+        <navPoint class="chapter" id="uEvNb6MdALuuWidklnVbln2" playOrder="331">
+          <navLabel>
+            <text>5.14.9 类型</text>
+          </navLabel>
+          <content src="ch005.xhtml#类型"/>
+        </navPoint>
+      </navPoint>
+      <navPoint class="chapter" id="usrSGEYSRiuHKQ8ouwK6czD" playOrder="332">
+        <navLabel>
+          <text>5.15 当梦想透进窗</text>
+        </navLabel>
+        <content src="ch005.xhtml#当梦想透进窗"/>
+      </navPoint>
+      <navPoint class="chapter" id="uWIWwovRI9bupwijOmh9C88" playOrder="333">
+        <navLabel>
+          <text>5.16 写在总决赛前</text>
+        </navLabel>
+        <content src="ch005.xhtml#写在总决赛前"/>
+        <navPoint class="chapter" id="uxR4rswstiXbdtQMMxDF7H6" playOrder="334">
+          <navLabel>
+            <text>5.16.1 1</text>
+          </navLabel>
+          <content src="ch005.xhtml#section"/>
+        </navPoint>
+        <navPoint class="chapter" id="uJzveC92zoWEGbxNFo6woWA" playOrder="335">
+          <navLabel>
+            <text>5.16.2 2</text>
+          </navLabel>
+          <content src="ch005.xhtml#section-1"/>
+        </navPoint>
+        <navPoint class="chapter" id="uW8WyrvlzEaxu8WSzCC76A4" playOrder="336">
+          <navLabel>
+            <text>5.16.3 3</text>
+          </navLabel>
+          <content src="ch005.xhtml#section-2"/>
+        </navPoint>
+        <navPoint class="chapter" id="u2n3Kxm7N9VhCodf9p4vY2E" playOrder="337">
+          <navLabel>
+            <text>5.16.4 4</text>
+          </navLabel>
+          <content src="ch005.xhtml#section-3"/>
+        </navPoint>
+        <navPoint class="chapter" id="udybV6nuuRDGx4jZantsUA9" playOrder="338">
+          <navLabel>
+            <text>5.16.5 5</text>
+          </navLabel>
+          <content src="ch005.xhtml#section-4"/>
+        </navPoint>
+        <navPoint class="chapter" id="unU8IhXvmcwoKW5WPYimJ7E" playOrder="339">
+          <navLabel>
+            <text>5.16.6 7</text>
+          </navLabel>
+          <content src="ch005.xhtml#section-5"/>
+        </navPoint>
+      </navPoint>
+      <navPoint class="chapter" id="uBD44pVWh6ycRP2tVqqbv59" playOrder="340">
+        <navLabel>
+          <text>5.17 看《我不是药神》有感</text>
+        </navLabel>
+        <content src="ch005.xhtml#看我不是药神有感"/>
+        <navPoint class="chapter" id="ujeW5yIrHjsJ74FzucK9zM6" playOrder="341">
+          <navLabel>
+            <text>5.17.1 你有没有被代进去</text>
+          </navLabel>
+          <content src="ch005.xhtml#你有没有被代进去"/>
+        </navPoint>
+        <navPoint class="chapter" id="uKXVSTrEhUPyuV9XnIWSdRG" playOrder="342">
+          <navLabel>
+            <text>5.17.2 电影的落脚狠不狠</text>
+          </navLabel>
+          <content src="ch005.xhtml#电影的落脚狠不狠"/>
+        </navPoint>
+        <navPoint class="chapter" id="urBV5H9amDSHXgcVdYZldZ9" playOrder="343">
+          <navLabel>
+            <text>5.17.3 题外</text>
+          </navLabel>
+          <content src="ch005.xhtml#题外"/>
+        </navPoint>
+      </navPoint>
+      <navPoint class="chapter" id="uzWgbRYj9ab5hggNmmcxNe3" playOrder="344">
+        <navLabel>
+          <text>5.18 听花杂记之晚清四名臣</text>
+        </navLabel>
+        <content src="ch005.xhtml#听花杂记之晚清四名臣"/>
+        <navPoint class="chapter" id="u6yxR22Nqwluka6D6WxbeDF" playOrder="345">
+          <navLabel>
+            <text>5.18.1 胡林翼</text>
+          </navLabel>
+          <content src="ch005.xhtml#胡林翼"/>
+        </navPoint>
+        <navPoint class="chapter" id="uJz7P7vOVJZsqD798Fl4sU7" playOrder="346">
+          <navLabel>
+            <text>5.18.2 左宗棠</text>
+          </navLabel>
+          <content src="ch005.xhtml#左宗棠"/>
+        </navPoint>
+        <navPoint class="chapter" id="uNHBgyYdhHv2T2gwadaV3yA" playOrder="347">
+          <navLabel>
+            <text>5.18.3 曾国藩</text>
+          </navLabel>
+          <content src="ch005.xhtml#曾国藩"/>
+        </navPoint>
+        <navPoint class="chapter" id="uZmhGhSU7EGxFaSQQnP53ZB" playOrder="348">
+          <navLabel>
+            <text>5.18.4 李鸿章</text>
+          </navLabel>
+          <content src="ch005.xhtml#李鸿章"/>
+        </navPoint>
+      </navPoint>
+      <navPoint class="chapter" id="uvDqAVtEqm2Lj5hCXz4dOGF" playOrder="349">
+        <navLabel>
+          <text>5.19 听花杂记之初唐四杰</text>
+        </navLabel>
+        <content src="ch005.xhtml#听花杂记之初唐四杰"/>
+      </navPoint>
+      <navPoint class="chapter" id="uGWx5GWvjpP7jvout9zFHLC" playOrder="350">
+        <navLabel>
+          <text>5.20 真实的谎言——“何不食肉糜？”</text>
+        </navLabel>
+        <content src="ch005.xhtml#真实的谎言何不食肉糜"/>
+        <navPoint class="chapter" id="uudORjZTXZOZIeYBm9iLZvA" playOrder="82">
+          <navLabel>
+            <text>5.20.1 引言</text>
+          </navLabel>
+          <content src="ch002.xhtml#-4"/>
+        </navPoint>
+        <navPoint class="chapter" id="um3QXUanwVr3awpBedmOPS7" playOrder="351">
+          <navLabel>
+            <text>5.20.2 晋惠帝——活在另一个世界的帝王</text>
+          </navLabel>
+          <content src="ch005.xhtml#晋惠帝活在另一个世界的帝王"/>
+        </navPoint>
+        <navPoint class="chapter" id="uxAGxPZoo98ZufCEwFZA8HB" playOrder="352">
+          <navLabel>
+            <text>5.20.3 皇位——黄金牢笼</text>
+          </navLabel>
+          <content src="ch005.xhtml#皇位黄金牢笼"/>
+        </navPoint>
+        <navPoint class="chapter" id="uZNWvdKUvVabVV9atOwMpW3" playOrder="353">
+          <navLabel>
+            <text>5.20.4 枕边人——妻管严的悲哀还是家有贤妻的明智</text>
+          </navLabel>
+          <content src="ch005.xhtml#枕边人妻管严的悲哀还是家有贤妻的明智"/>
+        </navPoint>
+        <navPoint class="chapter" id="uxYHWV6EudSKmeFSZZYFixD" playOrder="62">
+          <navLabel>
+            <text>5.20.5 结语</text>
+          </navLabel>
+          <content src="ch002.xhtml#-13"/>
+        </navPoint>
+      </navPoint>
+      <navPoint class="chapter" id="u2iOqc4jT8m2NB4zkitTVM7" playOrder="354">
+        <navLabel>
+          <text>5.21 “行天的守望”系列游记</text>
+        </navLabel>
+        <content src="ch005.xhtml#行天的守望系列游记"/>
+        <navPoint class="chapter" id="uvmVk6AdQ6OvdhABqWJINxC" playOrder="355">
+          <navLabel>
+            <text>5.21.1 序章</text>
+          </navLabel>
+          <content src="ch005.xhtml#序章"/>
+        </navPoint>
+        <navPoint class="chapter" id="u4vbNDb2piXN5d7bwvVVRK9" playOrder="356">
+          <navLabel>
+            <text>5.21.2 走进伊比利亚（一）</text>
+          </navLabel>
+          <content src="ch005.xhtml#走进伊比利亚一"/>
+        </navPoint>
+        <navPoint class="chapter" id="uIIFuRvo4nGhlZ8Hgxns2qF" playOrder="357">
+          <navLabel>
+            <text>5.21.3 走进伊比利亚（二）</text>
+          </navLabel>
+          <content src="ch005.xhtml#走进伊比利亚二"/>
+        </navPoint>
+        <navPoint class="chapter" id="uNQzUdV5eKkLrwl3zTXtAY3" playOrder="358">
+          <navLabel>
+            <text>5.21.4 走进伊比利亚（三）</text>
+          </navLabel>
+          <content src="ch005.xhtml#走进伊比利亚三"/>
+        </navPoint>
+      </navPoint>
+      <navPoint class="chapter" id="ulVBukIiMGhCGdszf9ZgR56" playOrder="359">
+        <navLabel>
+          <text>5.22 历史中的国学</text>
+        </navLabel>
+        <content src="ch005.xhtml#历史中的国学"/>
+        <navPoint class="chapter" id="uo7DuoOToo4k8ge7b8VO323" playOrder="148">
+          <navLabel>
+            <text>5.22.1 第一章 先秦岁月</text>
+          </navLabel>
+          <content src="ch003.xhtml#-"/>
+        </navPoint>
+        <navPoint class="chapter" id="uFFY4RkxyC5l4bBLHVrNUt3" playOrder="148">
+          <navLabel>
+            <text>5.22.2 第二章 大争之世</text>
+          </navLabel>
+          <content src="ch003.xhtml#-"/>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="u2LZ26LcgNfr5yYEtoPqVG7" playOrder="360">
+      <navLabel>
+        <text>6 就业咨询</text>
+      </navLabel>
+      <content src="ch006.xhtml#就业咨询"/>
+      <navPoint class="chapter" id="umoycAsBVYSncGisAPL6Cg5" playOrder="361">
+        <navLabel>
+          <text>6.1 幻化残生</text>
+        </navLabel>
+        <content src="ch006.xhtml#幻化残生"/>
+        <navPoint class="chapter" id="u954wA2qYiSxyocST6jZhwF" playOrder="362">
+          <navLabel>
+            <text>6.1.1 现状</text>
+          </navLabel>
+          <content src="ch006.xhtml#现状"/>
+        </navPoint>
+        <navPoint class="chapter" id="uoxYTlSIHxiBgcGsC9oO2vG" playOrder="363">
+          <navLabel>
+            <text>6.1.2 前景</text>
+          </navLabel>
+          <content src="ch006.xhtml#前景"/>
+        </navPoint>
+        <navPoint class="chapter" id="ugVkPewLPyf6Lz67iAyzUN6" playOrder="364">
+          <navLabel>
+            <text>6.1.3 求索</text>
+          </navLabel>
+          <content src="ch006.xhtml#求索"/>
+        </navPoint>
+        <navPoint class="chapter" id="uBpvIyOoRArxyBLR2UwWEtA" playOrder="365">
+          <navLabel>
+            <text>6.1.4 前沿</text>
+          </navLabel>
+          <content src="ch006.xhtml#前沿"/>
+        </navPoint>
+      </navPoint>
+      <navPoint class="chapter" id="ug8BqM34FHlnNblUl3me8W6" playOrder="366">
+        <navLabel>
+          <text>6.2 在设计院工作是一种怎样的体验</text>
+        </navLabel>
+        <content src="ch006.xhtml#在设计院工作是一种怎样的体验"/>
+        <navPoint class="chapter" id="uB8RqueH3UwdOZHnEZxWSm8" playOrder="367">
+          <navLabel>
+            <text>6.2.1 毕业这几年，我都干嘛</text>
+          </navLabel>
+          <content src="ch006.xhtml#毕业这几年我都干嘛"/>
+        </navPoint>
+        <navPoint class="chapter" id="urffCpbjpk7IN5mcO8pDn7G" playOrder="368">
+          <navLabel>
+            <text>6.2.2 我理解的设计院</text>
+          </navLabel>
+          <content src="ch006.xhtml#我理解的设计院"/>
+        </navPoint>
+        <navPoint class="chapter" id="usztjf7s7ZnCxvgmK2eDWED" playOrder="369">
+          <navLabel>
+            <text>6.2.3 设计工作不是一蹴而就的</text>
+          </navLabel>
+          <content src="ch006.xhtml#设计工作不是一蹴而就的"/>
+        </navPoint>
+        <navPoint class="chapter" id="uf8WuRwHjwaT2c3jsLUSWnF" playOrder="370">
+          <navLabel>
+            <text>6.2.4 我对设计工作现状的理解</text>
+          </navLabel>
+          <content src="ch006.xhtml#我对设计工作现状的理解"/>
+        </navPoint>
+        <navPoint class="chapter" id="uGWGLW5eHMzBvGXVmEdcW5B" playOrder="371">
+          <navLabel>
+            <text>6.2.5 我理解的设计院未来</text>
+          </navLabel>
+          <content src="ch006.xhtml#我理解的设计院未来"/>
+        </navPoint>
+      </navPoint>
+      <navPoint class="chapter" id="uO83XaNvQEWgq9LXbk8YnH7" playOrder="372">
+        <navLabel>
+          <text>6.3 科研与钱</text>
+        </navLabel>
+        <content src="ch006.xhtml#科研与钱"/>
+        <navPoint class="chapter" id="u8xYEGtJjMngt7PVKdUlHOG" playOrder="373">
+          <navLabel>
+            <text>6.3.1 先说说科研经费</text>
+          </navLabel>
+          <content src="ch006.xhtml#先说说科研经费"/>
+        </navPoint>
+        <navPoint class="chapter" id="u5rEMirTt9DA2MVZCwgi4RH" playOrder="374">
+          <navLabel>
+            <text>6.3.2 国家鼓励科研人员创业</text>
+          </navLabel>
+          <content src="ch006.xhtml#国家鼓励科研人员创业"/>
+        </navPoint>
+        <navPoint class="chapter" id="uPTwRJCvsvOl3byjEV6cmX4" playOrder="375">
+          <navLabel>
+            <text>6.3.3 横向的去向</text>
+          </navLabel>
+          <content src="ch006.xhtml#横向的去向"/>
+        </navPoint>
+      </navPoint>
+      <navPoint class="chapter" id="uukoon8TUyUuukZRBNYodtD" playOrder="376">
+        <navLabel>
+          <text>6.4 中文学术和研究生教育</text>
+        </navLabel>
+        <content src="ch006.xhtml#中文学术和研究生教育"/>
+        <navPoint class="chapter" id="us9Oeb4kkYpOBNcivHAh5GD" playOrder="57">
+          <navLabel>
+            <text>6.4.1 前言</text>
+          </navLabel>
+          <content src="ch002.xhtml#-6"/>
+        </navPoint>
+        <navPoint class="chapter" id="uvcDKBMwNlZBohzL2TB3h8G" playOrder="377">
+          <navLabel>
+            <text>6.4.2 那么为什么我会有这种感觉？我看到的这些文章到底存在什么样问题呢？</text>
+          </navLabel>
+          <content src="ch006.xhtml#那么为什么我会有这种感觉我看到的这些文章到底存在什么样问题呢"/>
+        </navPoint>
+        <navPoint class="chapter" id="upFDGKevn8oOdETQmib4k33" playOrder="378">
+          <navLabel>
+            <text>6.4.3 那么学术论文到底该怎么写呢？</text>
+          </navLabel>
+          <content src="ch006.xhtml#那么学术论文到底该怎么写呢"/>
+        </navPoint>
+      </navPoint>
+      <navPoint class="chapter" id="ucAbOJDIHDGFYVY3dGG487A" playOrder="379">
+        <navLabel>
+          <text>6.5 基层环境行政执法工作简介</text>
+        </navLabel>
+        <content src="ch006.xhtml#基层环境行政执法工作简介"/>
+        <navPoint class="chapter" id="uH5GMrRbPYTxJHCzeTPuXO8" playOrder="380">
+          <navLabel>
+            <text>6.5.1 1.执法队伍组成情况</text>
+          </navLabel>
+          <content src="ch006.xhtml#执法队伍组成情况"/>
+        </navPoint>
+        <navPoint class="chapter" id="ukFU3RGliTasHfHvKwQX5r9" playOrder="381">
+          <navLabel>
+            <text>6.5.2 2.执法队伍的主要工作</text>
+          </navLabel>
+          <content src="ch006.xhtml#执法队伍的主要工作"/>
+        </navPoint>
+        <navPoint class="chapter" id="ur9xKwelWD5UowRPv9HXIG7" playOrder="68">
+          <navLabel>
+            <text>6.5.3 3.结语</text>
+          </navLabel>
+          <content src="ch002.xhtml#-14"/>
+        </navPoint>
+      </navPoint>
+      <navPoint class="chapter" id="uqcxplKWuNzJlvfJaCMn5MC" playOrder="382">
+        <navLabel>
+          <text>6.6 去国外做科研？先了解下环境吧</text>
+        </navLabel>
+        <content src="ch006.xhtml#去国外做科研先了解下环境吧"/>
+        <navPoint class="chapter" id="unv5DWQkFc8raQoBQopwpXD" playOrder="383">
+          <navLabel>
+            <text>6.6.1 引子</text>
+          </navLabel>
+          <content src="ch006.xhtml#引子"/>
+        </navPoint>
+        <navPoint class="chapter" id="ueK8TasbrEwWZqf5dhXqRvD" playOrder="384">
+          <navLabel>
+            <text>6.6.2 长期工作计划</text>
+          </navLabel>
+          <content src="ch006.xhtml#长期工作计划"/>
+        </navPoint>
+        <navPoint class="chapter" id="uY2HvdXFBpYfqRZzMrCWO63" playOrder="385">
+          <navLabel>
+            <text>6.6.3 短期工作计划</text>
+          </navLabel>
+          <content src="ch006.xhtml#短期工作计划"/>
+        </navPoint>
+        <navPoint class="chapter" id="uvAlRj93NUiwn2glEJy4fgE" playOrder="386">
+          <navLabel>
+            <text>6.6.4 时间利用观念</text>
+          </navLabel>
+          <content src="ch006.xhtml#时间利用观念"/>
+        </navPoint>
+        <navPoint class="chapter" id="uPJBaPVD7kDhqqxSMXkMGq8" playOrder="387">
+          <navLabel>
+            <text>6.6.5 契约态度</text>
+          </navLabel>
+          <content src="ch006.xhtml#契约态度"/>
+        </navPoint>
+      </navPoint>
+      <navPoint class="chapter" id="uk3QXokCNw8ffxe4fhDisOF" playOrder="391">
+        <navLabel>
+          <text>6.7 环境学研究应该以SCI为重吗？</text>
+        </navLabel>
+        <content src="ch006.xhtml#sci"/>
+        <navPoint class="chapter" id="udwElaZOlGiwRxJEnHkBpf3" playOrder="389">
+          <navLabel>
+            <text>6.7.1 一篇关于论文意义的讨论</text>
+          </navLabel>
+          <content src="ch006.xhtml#一篇关于论文意义的讨论"/>
+        </navPoint>
+        <navPoint class="chapter" id="ufpV83ET2k5vzRRLnUYvH5E" playOrder="391">
+          <navLabel>
+            <text>6.7.2 各国对待SCI论文的态度</text>
+          </navLabel>
+          <content src="ch006.xhtml#sci"/>
+        </navPoint>
+        <navPoint class="chapter" id="um9UukSmNE9ixxWwJHxQRnG" playOrder="391">
+          <navLabel>
+            <text>6.7.3 过分注重SCI对环境学者说不可取</text>
+          </navLabel>
+          <content src="ch006.xhtml#sci"/>
+        </navPoint>
+        <navPoint class="chapter" id="unz56snuBsugcxpgar9odB5" playOrder="392">
+          <navLabel>
+            <text>6.7.4 环境学—最终还是一个落地学科</text>
+          </navLabel>
+          <content src="ch006.xhtml#环境学最终还是一个落地学科"/>
+        </navPoint>
+        <navPoint class="chapter" id="uaYvXp7aXPDH745n2X6f2F6" playOrder="393">
+          <navLabel>
+            <text>6.7.5 关于环境学如何接地气的一点建议</text>
+          </navLabel>
+          <content src="ch006.xhtml#关于环境学如何接地气的一点建议"/>
+        </navPoint>
+      </navPoint>
+      <navPoint class="chapter" id="uCXJGRS4EpwKGNQ4ljpfT2A" playOrder="394">
+        <navLabel>
+          <text>6.8 环保企业研发入“坑”指南</text>
+        </navLabel>
+        <content src="ch006.xhtml#环保企业研发入坑指南"/>
+        <navPoint class="chapter" id="uaUwZSogmduuxOYaEIUhyq8" playOrder="395">
+          <navLabel>
+            <text>6.8.1 前言：盛世危局下的就业选择</text>
+          </navLabel>
+          <content src="ch006.xhtml#前言盛世危局下的就业选择"/>
+        </navPoint>
+        <navPoint class="chapter" id="usKJghgfC84RzKM7meJ9csE" playOrder="396">
+          <navLabel>
+            <text>6.8.2 设计与研发</text>
+          </navLabel>
+          <content src="ch006.xhtml#设计与研发"/>
+        </navPoint>
+        <navPoint class="chapter" id="uxdvH2faKULxSddu9Tex2TF" playOrder="397">
+          <navLabel>
+            <text>6.8.3 企业研发的分类与生存指南</text>
+          </navLabel>
+          <content src="ch006.xhtml#企业研发的分类与生存指南"/>
+        </navPoint>
+        <navPoint class="chapter" id="uOK8rFdR7VEnhyje3plpEP8" playOrder="398">
+          <navLabel>
+            <text>6.8.4 写在最后的实在话</text>
+          </navLabel>
+          <content src="ch006.xhtml#写在最后的实在话"/>
+        </navPoint>
+      </navPoint>
+      <navPoint class="chapter" id="uqb2hJ5BzpkRqbrSoSAqjY2" playOrder="399">
+        <navLabel>
+          <text>6.9 考证那些事儿</text>
+        </navLabel>
+        <content src="ch006.xhtml#考证那些事儿"/>
+        <navPoint class="chapter" id="u3DwpiEhqnaPTQ3zDC5WJt7" playOrder="400">
+          <navLabel>
+            <text>6.9.1 为什么要考证</text>
+          </navLabel>
+          <content src="ch006.xhtml#为什么要考证"/>
+        </navPoint>
+        <navPoint class="chapter" id="udbSGRT7yUXoTWxupddMi3H" playOrder="401">
+          <navLabel>
+            <text>6.9.2 考证选择及简单的价值分析</text>
+          </navLabel>
+          <content src="ch006.xhtml#考证选择及简单的价值分析"/>
+        </navPoint>
+        <navPoint class="chapter" id="uBGuryu8dxMy3FocBVpUtH5" playOrder="402">
+          <navLabel>
+            <text>6.9.3 关于考证的一些个人经验</text>
+          </navLabel>
+          <content src="ch006.xhtml#关于考证的一些个人经验"/>
+        </navPoint>
+        <navPoint class="chapter" id="uXUfXDwWMLz6xtcPPAaSXWC" playOrder="403">
+          <navLabel>
+            <text>6.9.4 证书的实际用处</text>
+          </navLabel>
+          <content src="ch006.xhtml#证书的实际用处"/>
+        </navPoint>
+        <navPoint class="chapter" id="uLzYGUP4DSxvFkR6KsMf4d5" playOrder="404">
+          <navLabel>
+            <text>6.9.5 证书管理路还长</text>
+          </navLabel>
+          <content src="ch006.xhtml#证书管理路还长"/>
+        </navPoint>
+      </navPoint>
+      <navPoint class="chapter" id="uxywZ5arhQi8Asw3IOIsmdB" playOrder="405">
+        <navLabel>
+          <text>6.10 污水处理厂被罚“排污费”，环境保护领域的又一起“彭宇案”？</text>
+        </navLabel>
+        <content src="ch006.xhtml#污水处理厂被罚排污费环境保护领域的又一起彭宇案"/>
+        <navPoint class="chapter" id="uqu9JyQ9CG8eeA28rACKtY3" playOrder="26">
+          <navLabel>
+            <text>6.10.1 前言</text>
+          </navLabel>
+          <content src="ch002.xhtml#-7"/>
+        </navPoint>
+        <navPoint class="chapter" id="uhr52CYUC6olAg2xtAquRI6" playOrder="406">
+          <navLabel>
+            <text>6.10.2 聚焦污水处理厂</text>
+          </navLabel>
+          <content src="ch006.xhtml#聚焦污水处理厂"/>
+        </navPoint>
+        <navPoint class="chapter" id="uInMRpK2oMhONLLBGmssiF8" playOrder="407">
+          <navLabel>
+            <text>6.10.3 聚焦环保部门</text>
+          </navLabel>
+          <content src="ch006.xhtml#聚焦环保部门"/>
+        </navPoint>
+        <navPoint class="chapter" id="uIybiNJErMWdzcn3cEEunh3" playOrder="408">
+          <navLabel>
+            <text>6.10.4 聚焦法庭</text>
+          </navLabel>
+          <content src="ch006.xhtml#聚焦法庭"/>
+        </navPoint>
+        <navPoint class="chapter" id="u7jpkcdwpNkpq5XwiIQDh92" playOrder="76">
+          <navLabel>
+            <text>6.10.5 后记</text>
+          </navLabel>
+          <content src="ch002.xhtml#-3"/>
+        </navPoint>
+      </navPoint>
+      <navPoint class="chapter" id="uDm6MBmqy5yocIpxtKnPqqE" playOrder="409">
+        <navLabel>
+          <text>6.11 密集通报后，社会化环境检测将何去何从?</text>
+        </navLabel>
+        <content src="ch006.xhtml#密集通报后社会化环境检测将何去何从"/>
+        <navPoint class="chapter" id="u6kwPKZQsfaxPeQjlZl7PFD" playOrder="410">
+          <navLabel>
+            <text>6.11.1 社会化环境检测机构的由来</text>
+          </navLabel>
+          <content src="ch006.xhtml#社会化环境检测机构的由来"/>
+        </navPoint>
+        <navPoint class="chapter" id="uR2WjRAjvdGzBONOTnsLhT2" playOrder="411">
+          <navLabel>
+            <text>6.11.2 社会化检测机构成立需要哪些条件</text>
+          </navLabel>
+          <content src="ch006.xhtml#社会化检测机构成立需要哪些条件"/>
+        </navPoint>
+        <navPoint class="chapter" id="uOpYRWyTCK8GEXvjdNS2T73" playOrder="412">
+          <navLabel>
+            <text>6.11.3 那么社会化环境检测机构到底为什么会被通报</text>
+          </navLabel>
+          <content src="ch006.xhtml#那么社会化环境检测机构到底为什么会被通报"/>
+        </navPoint>
+        <navPoint class="chapter" id="uR8a3S2OOLBzq4XcsMh3W9E" playOrder="413">
+          <navLabel>
+            <text>6.11.4 是不是还有其他的一些问题</text>
+          </navLabel>
+          <content src="ch006.xhtml#是不是还有其他的一些问题"/>
+        </navPoint>
+        <navPoint class="chapter" id="uJhpYgBk3AYbGyOhed4PwIB" playOrder="414">
+          <navLabel>
+            <text>6.11.5 出现了问题怎么办</text>
+          </navLabel>
+          <content src="ch006.xhtml#出现了问题怎么办"/>
+        </navPoint>
+        <navPoint class="chapter" id="ulnPpHIAeKT5wX9Wps8WNAE" playOrder="415">
+          <navLabel>
+            <text>6.11.6 展望</text>
+          </navLabel>
+          <content src="ch006.xhtml#展望"/>
+        </navPoint>
+      </navPoint>
+      <navPoint class="chapter" id="uPw2IzJ2KLLLazNZfqVfIQ2" playOrder="416">
+        <navLabel>
+          <text>6.12 科研民工与全栈科学家</text>
+        </navLabel>
+        <content src="ch006.xhtml#科研民工与全栈科学家"/>
+        <navPoint class="chapter" id="uJBleNIWWGcgKqnwG8Qj4VE" playOrder="417">
+          <navLabel>
+            <text>6.12.1 为什么要成为全栈科学家</text>
+          </navLabel>
+          <content src="ch006.xhtml#为什么要成为全栈科学家"/>
+        </navPoint>
+        <navPoint class="chapter" id="uwNYr4zPotLw8g4aIiea6s8" playOrder="418">
+          <navLabel>
+            <text>6.12.2 如何成为全栈科学家</text>
+          </navLabel>
+          <content src="ch006.xhtml#如何成为全栈科学家"/>
+        </navPoint>
+        <navPoint class="chapter" id="ujbXNx9uiuGozXHgHJNrTzC" playOrder="73">
+          <navLabel>
+            <text>6.12.3 结语</text>
+          </navLabel>
+          <content src="ch002.xhtml#-15"/>
+        </navPoint>
+      </navPoint>
+      <navPoint class="chapter" id="uCyDaLVcgK5YWAnEqkPZae4" playOrder="419">
+        <navLabel>
+          <text>6.13 论工程师的自我修养</text>
+        </navLabel>
+        <content src="ch006.xhtml#论工程师的自我修养"/>
+        <navPoint class="chapter" id="upFpZhN9qqTIzbnbYvrzuM3" playOrder="420">
+          <navLabel>
+            <text>6.13.1 我这几年的经历</text>
+          </navLabel>
+          <content src="ch006.xhtml#我这几年的经历"/>
+        </navPoint>
+        <navPoint class="chapter" id="uhNDLZdAwWEpjKIwCyyFGjD" playOrder="421">
+          <navLabel>
+            <text>6.13.2 我理解的“工程师”</text>
+          </navLabel>
+          <content src="ch006.xhtml#我理解的工程师"/>
+        </navPoint>
+        <navPoint class="chapter" id="uaVCAql2DpI4KOiwVTVlVO9" playOrder="422">
+          <navLabel>
+            <text>6.13.3 自我修养核心：三个特质</text>
+          </navLabel>
+          <content src="ch006.xhtml#自我修养核心三个特质"/>
+        </navPoint>
+        <navPoint class="chapter" id="u38qSTJeGPpeRFAr7nzqNF2" playOrder="423">
+          <navLabel>
+            <text>6.13.4 应对的套路：三个法宝</text>
+          </navLabel>
+          <content src="ch006.xhtml#应对的套路三个法宝"/>
+        </navPoint>
+        <navPoint class="chapter" id="uSLNkGsrGsyXYcbUhsJ2SDC" playOrder="424">
+          <navLabel>
+            <text>6.13.5 真正的修养：用心做事</text>
+          </navLabel>
+          <content src="ch006.xhtml#真正的修养用心做事"/>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

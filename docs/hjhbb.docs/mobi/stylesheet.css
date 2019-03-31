@@ -1,0 +1,268 @@
+.author {
+    display: block;
+    margin: 1em 0
+    }
+.calibre {
+    display: block;
+    font-size: 1em;
+    padding-left: 0;
+    padding-right: 0;
+    margin: 0 5pt
+    }
+.calibre1 {
+    display: block;
+    list-style-type: disc;
+    margin: 1em 0
+    }
+.calibre2 {
+    display: list-item
+    }
+.calibre3 {
+    display: none
+    }
+.calibre4 {
+    display: block;
+    font-size: 1.41667em;
+    font-weight: bold;
+    line-height: 1.2;
+    margin: 0.83em 0
+    }
+.calibre5 {
+    display: block;
+    font-size: 1.125em;
+    font-weight: bold;
+    line-height: 1.2;
+    margin: 1em 0
+    }
+.calibre6 {
+    display: block;
+    font-weight: bold;
+    margin: 1.33em 0
+    }
+.calibre7 {
+    height: auto;
+    width: 333px
+    }
+.calibre8 {
+    height: auto;
+    width: 312px
+    }
+.calibre9 {
+    font-weight: bold
+    }
+.calibre10 {
+    height: auto;
+    width: 480px
+    }
+.calibre11 {
+    height: auto;
+    width: 600px
+    }
+.calibre12 {
+    display: block;
+    list-style-type: decimal;
+    margin: 1em 0
+    }
+.calibre13 {
+    height: auto;
+    width: 562px
+    }
+.calibre14 {
+    height: auto;
+    width: 559px
+    }
+.calibre15 {
+    height: auto;
+    width: 415px
+    }
+.calibre16 {
+    height: auto;
+    width: 576px
+    }
+.calibre17 {
+    height: auto;
+    width: 405px
+    }
+.calibre18 {
+    height: auto;
+    width: 417px
+    }
+.calibre19 {
+    height: auto;
+    width: 336px
+    }
+.calibre20 {
+    display: block;
+    margin: 1em
+    }
+.calibre21 {
+    height: auto;
+    width: 464px
+    }
+.calibre22 {
+    font-style: italic
+    }
+.calibre23 {
+    height: auto;
+    width: 532px
+    }
+.calibre24 {
+    height: auto;
+    width: 413px
+    }
+.calibre25 {
+    height: auto;
+    width: 424px
+    }
+.calibre26 {
+    height: auto;
+    width: 179px
+    }
+.calibre27 {
+    height: auto;
+    width: 453px
+    }
+.calibre28 {
+    height: auto;
+    width: 400px
+    }
+.calibre29 {
+    height: auto;
+    width: 444px
+    }
+.calibre30 {
+    font-size: 0.75em;
+    line-height: normal;
+    vertical-align: sub
+    }
+.calibre31 {
+    height: auto;
+    width: 348px
+    }
+.calibre32 {
+    height: auto;
+    width: 593px
+    }
+.calibre33 {
+    height: auto;
+    width: 427px
+    }
+.calibre34 {
+    height: auto;
+    width: 484px
+    }
+.calibre35 {
+    height: auto;
+    width: 388px
+    }
+.calibre36 {
+    height: auto;
+    width: 313px
+    }
+.calibre37 {
+    height: auto;
+    width: 412px
+    }
+.calibre38 {
+    height: auto;
+    width: 591px
+    }
+.calibre39 {
+    height: auto;
+    width: 430px
+    }
+.calibre40 {
+    height: auto;
+    width: 449px
+    }
+.calibre41 {
+    height: auto;
+    width: 428px
+    }
+.calibre42 {
+    height: auto;
+    width: 539px
+    }
+.calibre43 {
+    height: auto;
+    width: 397px
+    }
+.calibre44 {
+    height: auto;
+    width: 567px
+    }
+.calibre45 {
+    height: auto;
+    width: 483px
+    }
+.calibre46 {
+    height: auto;
+    width: 558px
+    }
+.calibre47 {
+    height: auto;
+    width: 522px
+    }
+.calibre48 {
+    height: auto;
+    width: 516px
+    }
+.calibre49 {
+    height: auto;
+    width: 560px
+    }
+.calibre50 {
+    height: auto;
+    width: 377px
+    }
+.calibre51 {
+    height: auto;
+    width: 386px
+    }
+.calibre52 {
+    height: auto;
+    width: 317px
+    }
+.calibre53 {
+    height: auto;
+    width: 457px
+    }
+.calibre54 {
+    height: auto;
+    width: 390px
+    }
+.calibre55 {
+    height: auto;
+    width: 378px
+    }
+.calibre56 {
+    height: auto;
+    width: 408px
+    }
+.calibre57 {
+    height: auto;
+    width: 459px
+    }
+.calibre58 {
+    height: auto;
+    width: 345px
+    }
+.calibre59 {
+    height: auto;
+    width: 402px
+    }
+.header-section-number {
+    line-height: 1.2
+    }
+.title {
+    display: block;
+    font-size: 2em;
+    font-weight: bold;
+    line-height: 1.2;
+    margin: 0.67em 0
+    }
+.toc {
+    display: block;
+    list-style-type: decimal;
+    margin: 0
+    }
