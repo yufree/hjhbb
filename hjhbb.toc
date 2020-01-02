@@ -1,0 +1,658 @@
+\contentsline {chapter}{\numberline {1}前言}{9}{chapter.1}% 
+\contentsline {chapter}{\numberline {2}前沿资讯}{11}{chapter.2}% 
+\contentsline {section}{十一月}{11}{section*.2}% 
+\contentsline {subsection}{研究动态}{11}{section*.3}% 
+\contentsline {subsection}{805研究简报}{12}{section*.4}% 
+\contentsline {subsubsection}{菌根耐铬机理获新进展 - 伍松林}{12}{section*.5}% 
+\contentsline {section}{十二月}{13}{section*.6}% 
+\contentsline {subsection}{研究动态}{13}{section*.7}% 
+\contentsline {subsection}{805研究简报}{15}{section*.8}% 
+\contentsline {subsubsection}{氮杂环芳烃环境过程研究新进展 - 田振宇}{16}{section*.9}% 
+\contentsline {section}{一月}{16}{section*.10}% 
+\contentsline {subsection}{研究动态}{16}{section*.11}% 
+\contentsline {section}{二月}{18}{section*.12}% 
+\contentsline {subsection}{研究动态}{18}{section*.13}% 
+\contentsline {section}{三月}{21}{section*.14}% 
+\contentsline {subsection}{研究动态}{21}{section*.15}% 
+\contentsline {section}{四月}{23}{section*.16}% 
+\contentsline {subsection}{研究动态}{23}{section*.17}% 
+\contentsline {subsection}{政策速递}{25}{section*.18}% 
+\contentsline {subsubsection}{重大政策资讯}{25}{section*.19}% 
+\contentsline {subsubsection}{中央\&国务院政策资讯}{25}{section*.20}% 
+\contentsline {subsubsection}{生态环境部政策资讯}{26}{section*.21}% 
+\contentsline {subsubsection}{其他部委政策资讯}{29}{section*.22}% 
+\contentsline {section}{五月}{29}{section*.23}% 
+\contentsline {subsection}{研究动态}{29}{section*.24}% 
+\contentsline {subsection}{政策速递}{32}{section*.25}% 
+\contentsline {subsubsection}{重大政策资讯}{32}{section*.26}% 
+\contentsline {subsubsection}{中央\&国务院政策资讯}{32}{section*.27}% 
+\contentsline {subsubsection}{生态环境部政策资讯}{33}{section*.28}% 
+\contentsline {subsubsection}{其他部委政策资讯}{35}{section*.29}% 
+\contentsline {subsubsection}{地方政府资讯}{37}{section*.30}% 
+\contentsline {section}{六月}{37}{section*.31}% 
+\contentsline {subsection}{研究动态}{37}{section*.32}% 
+\contentsline {subsection}{政策速递}{39}{section*.33}% 
+\contentsline {subsubsection}{重大政策资讯}{39}{section*.34}% 
+\contentsline {subsubsection}{中央\&国务院政策资讯}{40}{section*.35}% 
+\contentsline {subsubsection}{生态环境部政策资讯}{41}{section*.36}% 
+\contentsline {subsubsection}{其他部委政策资讯}{45}{section*.37}% 
+\contentsline {section}{七月}{46}{section*.38}% 
+\contentsline {subsection}{研究动态}{46}{section*.39}% 
+\contentsline {subsection}{政策速递}{48}{section*.40}% 
+\contentsline {subsubsection}{重大政策资讯}{48}{section*.41}% 
+\contentsline {subsubsection}{中央\&国务院政策资讯}{49}{section*.42}% 
+\contentsline {subsubsection}{生态环境部政策资讯}{50}{section*.43}% 
+\contentsline {subsubsection}{其他部委政策资讯}{51}{section*.44}% 
+\contentsline {section}{八月}{53}{section*.45}% 
+\contentsline {subsection}{研究动态}{53}{section*.46}% 
+\contentsline {subsection}{政策速递}{56}{section*.47}% 
+\contentsline {subsubsection}{重大政策资讯}{56}{section*.48}% 
+\contentsline {subsubsection}{中央\&国务院政策资讯}{57}{section*.49}% 
+\contentsline {subsubsection}{生态环境部政策资讯}{58}{section*.50}% 
+\contentsline {section}{九月}{60}{section*.51}% 
+\contentsline {subsection}{研究动态}{60}{section*.52}% 
+\contentsline {subsection}{政策速递}{62}{section*.53}% 
+\contentsline {subsubsection}{重大政策资讯}{62}{section*.54}% 
+\contentsline {subsubsection}{中央\&国务院政策资讯}{62}{section*.55}% 
+\contentsline {subsubsection}{生态环境部政策资讯}{63}{section*.56}% 
+\contentsline {section}{十月}{65}{section*.57}% 
+\contentsline {subsection}{研究动态}{65}{section*.58}% 
+\contentsline {subsection}{805研究简报}{67}{section*.59}% 
+\contentsline {subsubsection}{非目的检测中的结构 / 反应引导分析 - 于淼}{67}{section*.60}% 
+\contentsline {subsection}{政策速递}{68}{section*.61}% 
+\contentsline {subsubsection}{重大政策资讯}{68}{section*.62}% 
+\contentsline {subsubsection}{中央\&国务院政策资讯}{68}{section*.63}% 
+\contentsline {subsubsection}{生态环境部政策资讯}{70}{section*.64}% 
+\contentsline {section}{十一月}{71}{section*.65}% 
+\contentsline {subsection}{研究动态}{71}{section*.66}% 
+\contentsline {subsection}{十一月环境新闻新政}{73}{section*.67}% 
+\contentsline {subsubsection}{中央国家层面}{73}{section*.68}% 
+\contentsline {subsubsection}{国务院}{74}{section*.69}% 
+\contentsline {subsubsection}{国家发改委}{74}{section*.70}% 
+\contentsline {subsubsection}{生态环境部}{75}{section*.71}% 
+\contentsline {subsubsection}{教育部}{75}{section*.72}% 
+\contentsline {subsubsection}{部门联合发布}{75}{section*.73}% 
+\contentsline {subsubsection}{热点新闻}{76}{section*.74}% 
+\contentsline {section}{十二月}{77}{section*.75}% 
+\contentsline {subsection}{研究动态}{77}{section*.76}% 
+\contentsline {subsection}{十二月环境新闻新政}{79}{section*.77}% 
+\contentsline {subsubsection}{中央国家层面}{79}{section*.78}% 
+\contentsline {subsubsection}{部门联合发布}{79}{section*.79}% 
+\contentsline {subsubsection}{专题新闻}{80}{section*.80}% 
+\contentsline {subsubsection}{热点新闻}{80}{section*.81}% 
+\contentsline {section}{一月}{81}{section*.82}% 
+\contentsline {subsection}{研究动态}{81}{section*.83}% 
+\contentsline {subsection}{一月环境新闻新政}{83}{section*.84}% 
+\contentsline {subsubsection}{中央国家层面}{83}{section*.85}% 
+\contentsline {subsubsection}{农村农业部}{83}{section*.86}% 
+\contentsline {subsubsection}{财政部}{84}{section*.87}% 
+\contentsline {subsubsection}{部门联合发布}{84}{section*.88}% 
+\contentsline {section}{二月}{85}{section*.89}% 
+\contentsline {subsection}{研究动态}{85}{section*.90}% 
+\contentsline {subsection}{二月环境新闻新政}{87}{section*.91}% 
+\contentsline {subsubsection}{中央国务院层面}{87}{section*.92}% 
+\contentsline {subsubsection}{生态环境部}{87}{section*.93}% 
+\contentsline {subsubsection}{部门联合发布}{87}{section*.94}% 
+\contentsline {subsubsection}{地方发布}{88}{section*.95}% 
+\contentsline {section}{三月}{88}{section*.96}% 
+\contentsline {subsection}{研究动态}{88}{section*.97}% 
+\contentsline {subsection}{三月环境新闻新政}{90}{section*.98}% 
+\contentsline {subsubsection}{中央国务院层面}{90}{section*.99}% 
+\contentsline {subsubsection}{生态环境部}{91}{section*.100}% 
+\contentsline {subsubsection}{部门联合发布}{91}{section*.101}% 
+\contentsline {subsubsection}{突发``环境''新闻}{92}{section*.102}% 
+\contentsline {section}{四月}{92}{section*.103}% 
+\contentsline {subsection}{研究动态}{92}{section*.104}% 
+\contentsline {subsection}{四月环境新闻新政}{95}{section*.105}% 
+\contentsline {subsubsection}{中央国务院层面}{95}{section*.106}% 
+\contentsline {subsubsection}{生态环境部}{95}{section*.107}% 
+\contentsline {subsubsection}{农业农村部}{96}{section*.108}% 
+\contentsline {subsubsection}{住房和城乡建设部}{96}{section*.109}% 
+\contentsline {subsubsection}{部门联合发布}{96}{section*.110}% 
+\contentsline {section}{五月}{97}{section*.111}% 
+\contentsline {subsection}{研究动态}{97}{section*.112}% 
+\contentsline {section}{六月}{99}{section*.113}% 
+\contentsline {subsection}{研究动态}{99}{section*.114}% 
+\contentsline {subsection}{五、六月环境新闻新政}{101}{section*.115}% 
+\contentsline {subsubsection}{中央国务院层面}{101}{section*.116}% 
+\contentsline {subsubsection}{生态环境部}{102}{section*.117}% 
+\contentsline {subsubsection}{财政部}{102}{section*.118}% 
+\contentsline {subsubsection}{部门联合发布}{102}{section*.119}% 
+\contentsline {subsubsection}{最高人民法院}{103}{section*.120}% 
+\contentsline {subsubsection}{近期热点------``你是什么垃圾''}{103}{section*.121}% 
+\contentsline {section}{七月}{104}{section*.122}% 
+\contentsline {subsection}{研究动态}{104}{section*.123}% 
+\contentsline {subsection}{七月环境新闻新政}{106}{section*.124}% 
+\contentsline {subsubsection}{中央国务院层面}{106}{section*.125}% 
+\contentsline {subsubsection}{生态环境部}{106}{section*.126}% 
+\contentsline {subsubsection}{部门联合发布}{106}{section*.127}% 
+\contentsline {section}{八月}{108}{section*.128}% 
+\contentsline {subsection}{研究动态}{108}{section*.129}% 
+\contentsline {section}{九月}{109}{section*.130}% 
+\contentsline {subsection}{研究动态}{109}{section*.131}% 
+\contentsline {section}{十月}{112}{section*.132}% 
+\contentsline {subsection}{研究动态}{112}{section*.133}% 
+\contentsline {section}{十一月}{114}{section*.134}% 
+\contentsline {subsection}{研究动态}{114}{section*.135}% 
+\contentsline {section}{十二月}{116}{section*.136}% 
+\contentsline {subsection}{研究动态}{116}{section*.137}% 
+\contentsline {chapter}{\numberline {3}科普讲堂}{119}{chapter.3}% 
+\contentsline {section}{\numberline {3.1}混沌的冬日}{119}{section.3.1}% 
+\contentsline {subsection}{\numberline {3.1.1}序}{119}{subsection.3.1.1}% 
+\contentsline {subsection}{\numberline {3.1.2}研究增长的极限}{120}{subsection.3.1.2}% 
+\contentsline {subsection}{\numberline {3.1.3}有原罪的雾霾}{121}{subsection.3.1.3}% 
+\contentsline {subsection}{\numberline {3.1.4}万金油的幻象}{122}{subsection.3.1.4}% 
+\contentsline {subsection}{\numberline {3.1.5}混沌的冬日}{123}{subsection.3.1.5}% 
+\contentsline {section}{\numberline {3.2}北京的空气变好了，但是\ldots {}\ldots {}}{124}{section.3.2}% 
+\contentsline {subsection}{\numberline {3.2.1}北京的空气质量到底变好了没有？}{124}{subsection.3.2.1}% 
+\contentsline {subsection}{\numberline {3.2.2}目前，对于PM2.5浓度评价的标准使用的都是均值，如2017年，北京年均值达到60微克每/立方米左右，这样设置是否合理？}{127}{subsection.3.2.2}% 
+\contentsline {subsection}{\numberline {3.2.3}按照《北京城市总体规划》（2016-2035年）要求，到2020年PM2.5浓度下降到56微克/立方米左右，对此，您持何种态度，判断依据？}{128}{subsection.3.2.3}% 
+\contentsline {subsection}{\numberline {3.2.4}您好，您觉得北京的空气变好了吗？}{129}{subsection.3.2.4}% 
+\contentsline {subsection}{\numberline {3.2.5}按照目前北京市环保局网站公布数据，北京市今年很有可能达到年均值60微克每立方米左右，北京市空气质量逐年改善，您对此怎么看？}{129}{subsection.3.2.5}% 
+\contentsline {section}{\numberline {3.3}等风来}{130}{section.3.3}% 
+\contentsline {subsection}{\numberline {3.3.1}与雾霾的战争}{130}{subsection.3.3.1}% 
+\contentsline {subsection}{\numberline {3.3.2}雾霾的胜利}{131}{subsection.3.3.2}% 
+\contentsline {subsection}{\numberline {3.3.3}大风的胜利}{133}{subsection.3.3.3}% 
+\contentsline {subsection}{\numberline {3.3.4}势均力敌}{135}{subsection.3.3.4}% 
+\contentsline {subsection}{\numberline {3.3.5}雾霾攻坚---源头把控}{136}{subsection.3.3.5}% 
+\contentsline {section}{\numberline {3.4}纳米非米}{136}{section.3.4}% 
+\contentsline {subsection}{\numberline {3.4.1}碳纳米材料}{136}{subsection.3.4.1}% 
+\contentsline {subsection}{\numberline {3.4.2}哪些废弃物可以加工成纳米碳材料？}{138}{subsection.3.4.2}% 
+\contentsline {subsection}{\numberline {3.4.3}如何将废弃物加工成纳米碳材料？}{138}{subsection.3.4.3}% 
+\contentsline {subsection}{\numberline {3.4.4}纳米碳材料在环保领域有哪些用处？}{139}{subsection.3.4.4}% 
+\contentsline {subsection}{\numberline {3.4.5}结语}{141}{subsection.3.4.5}% 
+\contentsline {section}{\numberline {3.5}你喝的可能是``有毒''的自来水？！}{141}{section.3.5}% 
+\contentsline {subsection}{\numberline {3.5.1}水发生了什么？------水污染}{141}{subsection.3.5.1}% 
+\contentsline {subsection}{\numberline {3.5.2}引起水污染的罪魁祸首是谁？------污染物}{142}{subsection.3.5.2}% 
+\contentsline {subsection}{\numberline {3.5.3}污水处理厂可以使水变干净么？------未必！}{144}{subsection.3.5.3}% 
+\contentsline {subsection}{\numberline {3.5.4}小结}{146}{subsection.3.5.4}% 
+\contentsline {section}{\numberline {3.6}一滴水的故事}{147}{section.3.6}% 
+\contentsline {subsection}{\numberline {3.6.1}海水淡化}{147}{subsection.3.6.1}% 
+\contentsline {subsection}{\numberline {3.6.2}后记}{151}{subsection.3.6.2}% 
+\contentsline {section}{\numberline {3.7}小秸秆，大问题}{151}{section.3.7}% 
+\contentsline {subsection}{\numberline {3.7.1}结语}{157}{subsection.3.7.1}% 
+\contentsline {section}{\numberline {3.8}VOC减排------大气治理的新挑战}{157}{section.3.8}% 
+\contentsline {subsection}{\numberline {3.8.1}前言}{157}{subsection.3.8.1}% 
+\contentsline {subsection}{\numberline {3.8.2}VOCs是何物}{158}{subsection.3.8.2}% 
+\contentsline {subsubsection}{\numberline {3.8.2.1}VOCs的定义}{158}{subsubsection.3.8.2.1}% 
+\contentsline {subsection}{\numberline {3.8.3}VOCs的减排之路}{161}{subsection.3.8.3}% 
+\contentsline {subsubsection}{\numberline {3.8.3.1}国家层面}{161}{subsubsection.3.8.3.1}% 
+\contentsline {subsubsection}{\numberline {3.8.3.2}地方层面}{162}{subsubsection.3.8.3.2}% 
+\contentsline {subsection}{\numberline {3.8.4}VOCs减排技术和挑战}{163}{subsection.3.8.4}% 
+\contentsline {subsection}{\numberline {3.8.5}小结}{164}{subsection.3.8.5}% 
+\contentsline {section}{\numberline {3.9}生态•五行•人伦}{164}{section.3.9}% 
+\contentsline {section}{\numberline {3.10}油田环保之痛------含油污泥}{168}{section.3.10}% 
+\contentsline {subsection}{\numberline {3.10.1}序：油田环保的痛处}{168}{subsection.3.10.1}% 
+\contentsline {subsection}{\numberline {3.10.2}含油污泥的来源}{170}{subsection.3.10.2}% 
+\contentsline {subsection}{\numberline {3.10.3}含油污泥的成分与特性}{170}{subsection.3.10.3}% 
+\contentsline {subsection}{\numberline {3.10.4}含油污泥的危害}{171}{subsection.3.10.4}% 
+\contentsline {subsection}{\numberline {3.10.5}相关控制标准}{174}{subsection.3.10.5}% 
+\contentsline {subsection}{\numberline {3.10.6}含油污泥的处理处置}{175}{subsection.3.10.6}% 
+\contentsline {subsection}{\numberline {3.10.7}处理存在的难点和技术展望}{176}{subsection.3.10.7}% 
+\contentsline {section}{\numberline {3.11}斯德哥尔摩公约和它``锁''住的POPs}{177}{section.3.11}% 
+\contentsline {subsection}{\numberline {3.11.1}管控持久性有机污染物的斯德哥尔摩公约}{177}{subsection.3.11.1}% 
+\contentsline {subsection}{\numberline {3.11.2}POPs的持久性}{180}{subsection.3.11.2}% 
+\contentsline {subsection}{\numberline {3.11.3}POPs的生物富集性/放大性}{180}{subsection.3.11.3}% 
+\contentsline {subsection}{\numberline {3.11.4}POPs的长距离迁移能力}{181}{subsection.3.11.4}% 
+\contentsline {subsection}{\numberline {3.11.5}中国的实施计划}{182}{subsection.3.11.5}% 
+\contentsline {section}{\numberline {3.12}日常生活中的化学品------新型有机污染物简介}{183}{section.3.12}% 
+\contentsline {subsection}{\numberline {3.12.1}前言}{183}{subsection.3.12.1}% 
+\contentsline {subsection}{\numberline {3.12.2}实例}{185}{subsection.3.12.2}% 
+\contentsline {subsection}{\numberline {3.12.3}结语}{189}{subsection.3.12.3}% 
+\contentsline {section}{\numberline {3.13}人虎共存，举步维艰}{191}{section.3.13}% 
+\contentsline {subsection}{\numberline {3.13.1}背景介绍}{191}{subsection.3.13.1}% 
+\contentsline {subsection}{\numberline {3.13.2}人虎矛盾，难以调和}{193}{subsection.3.13.2}% 
+\contentsline {subsection}{\numberline {3.13.3}转变思路，人退虎进}{195}{subsection.3.13.3}% 
+\contentsline {section}{\numberline {3.14}可持续社区建设案例------北京当代MOMA公寓}{196}{section.3.14}% 
+\contentsline {subsection}{\numberline {3.14.1}北京当代MOMA高端综合公寓}{200}{subsection.3.14.1}% 
+\contentsline {section}{\numberline {3.15}环境保护，保护优先}{203}{section.3.15}% 
+\contentsline {subsection}{\numberline {3.15.1}缘起}{203}{subsection.3.15.1}% 
+\contentsline {subsection}{\numberline {3.15.2}什么是环境库兹涅茨曲线？}{203}{subsection.3.15.2}% 
+\contentsline {subsection}{\numberline {3.15.3}环境库兹涅茨曲线拐点区间已现}{204}{subsection.3.15.3}% 
+\contentsline {subsection}{\numberline {3.15.4}在此拐点，我们要如何走？-保护优先}{205}{subsection.3.15.4}% 
+\contentsline {section}{\numberline {3.16}``砷''生不息}{206}{section.3.16}% 
+\contentsline {subsection}{\numberline {3.16.1}砷的来源与毒性}{207}{subsection.3.16.1}% 
+\contentsline {subsection}{\numberline {3.16.2}水稻与砷}{208}{subsection.3.16.2}% 
+\contentsline {subsection}{\numberline {3.16.3}砷代谢微生物}{209}{subsection.3.16.3}% 
+\contentsline {section}{\numberline {3.17}国家公园是什么园}{212}{section.3.17}% 
+\contentsline {subsection}{\numberline {3.17.1}我国为什么要建国家公园？}{213}{subsection.3.17.1}% 
+\contentsline {subsection}{\numberline {3.17.2}国家层面的国家公园体制试点建设进展}{215}{subsection.3.17.2}% 
+\contentsline {section}{\numberline {3.18}国家公园是不是旅游景区？}{217}{section.3.18}% 
+\contentsline {subsection}{\numberline {3.18.1}引言}{217}{subsection.3.18.1}% 
+\contentsline {subsection}{\numberline {3.18.2}资源角度，国家公园与旅游景区类似}{218}{subsection.3.18.2}% 
+\contentsline {subsubsection}{\numberline {3.18.2.1}旅游景区定义}{218}{subsubsection.3.18.2.1}% 
+\contentsline {subsubsection}{\numberline {3.18.2.2}旅游景区评价标准示例}{218}{subsubsection.3.18.2.2}% 
+\contentsline {subsection}{\numberline {3.18.3}本质而言，国家公园与旅游景区相异}{219}{subsection.3.18.3}% 
+\contentsline {subsubsection}{\numberline {3.18.3.1}差异示例}{219}{subsubsection.3.18.3.1}% 
+\contentsline {subsection}{\numberline {3.18.4}总结}{220}{subsection.3.18.4}% 
+\contentsline {section}{\numberline {3.19}何为``最严格的保护''?------解读``国家公园实行最严格的保护''（之一）}{222}{section.3.19}% 
+\contentsline {subsection}{\numberline {3.19.1}``最严格''与``保护''}{222}{subsection.3.19.1}% 
+\contentsline {subsection}{\numberline {3.19.2}生态文明时代需要``最严格的保护''}{222}{subsection.3.19.2}% 
+\contentsline {subsection}{\numberline {3.19.3}``最严格地''按照科学来``保护''}{223}{subsection.3.19.3}% 
+\contentsline {subsection}{\numberline {3.19.4}对国家公园的保护}{224}{subsection.3.19.4}% 
+\contentsline {section}{\numberline {3.20}蓝藻的功过是非}{225}{section.3.20}% 
+\contentsline {subsection}{\numberline {3.20.1}概述及分布}{225}{subsection.3.20.1}% 
+\contentsline {subsection}{\numberline {3.20.2}适应策略}{226}{subsection.3.20.2}% 
+\contentsline {subsection}{\numberline {3.20.3}生态环境健康问题}{228}{subsection.3.20.3}% 
+\contentsline {subsection}{\numberline {3.20.4}治理措施}{229}{subsection.3.20.4}% 
+\contentsline {section}{\numberline {3.21}雨还是酸的吗？}{231}{section.3.21}% 
+\contentsline {subsection}{\numberline {3.21.1}我国酸雨现状}{232}{subsection.3.21.1}% 
+\contentsline {subsection}{\numberline {3.21.2}我国为控制酸雨所采取的政策措施}{235}{subsection.3.21.2}% 
+\contentsline {section}{\numberline {3.22}跟天气预报相比，空气质量预报难多了}{236}{section.3.22}% 
+\contentsline {subsection}{\numberline {3.22.1}前言}{236}{subsection.3.22.1}% 
+\contentsline {subsection}{\numberline {3.22.2}环境空气质量预报的关键技术是什么？}{237}{subsection.3.22.2}% 
+\contentsline {subsection}{\numberline {3.22.3}哪些因素会影响预报准确性？}{238}{subsection.3.22.3}% 
+\contentsline {subsection}{\numberline {3.22.4}预测到重污染，环保部门怎么办？}{241}{subsection.3.22.4}% 
+\contentsline {section}{\numberline {3.23}作为入侵物种的人类}{243}{section.3.23}% 
+\contentsline {subsection}{\numberline {3.23.1}引言}{243}{subsection.3.23.1}% 
+\contentsline {subsection}{\numberline {3.23.2}灭绝}{244}{subsection.3.23.2}% 
+\contentsline {subsection}{\numberline {3.23.3}作为入侵物种的智人}{244}{subsection.3.23.3}% 
+\contentsline {subsection}{\numberline {3.23.4}巨兽}{245}{subsection.3.23.4}% 
+\contentsline {subsection}{\numberline {3.23.5}二氧化碳}{246}{subsection.3.23.5}% 
+\contentsline {subsection}{\numberline {3.23.6}交通}{248}{subsection.3.23.6}% 
+\contentsline {subsection}{\numberline {3.23.7}多样性}{249}{subsection.3.23.7}% 
+\contentsline {subsection}{\numberline {3.23.8}硬绿}{250}{subsection.3.23.8}% 
+\contentsline {subsection}{\numberline {3.23.9}谁是赢家}{251}{subsection.3.23.9}% 
+\contentsline {subsection}{\numberline {3.23.10}小结}{251}{subsection.3.23.10}% 
+\contentsline {section}{\numberline {3.24}作为工业品的人类}{252}{section.3.24}% 
+\contentsline {subsection}{\numberline {3.24.1}人口多少是个顶}{252}{subsection.3.24.1}% 
+\contentsline {subsection}{\numberline {3.24.2}人类是工业衍生品}{253}{subsection.3.24.2}% 
+\contentsline {subsection}{\numberline {3.24.3}化肥的威力}{254}{subsection.3.24.3}% 
+\contentsline {subsection}{\numberline {3.24.4}有机肥怎么样}{256}{subsection.3.24.4}% 
+\contentsline {subsection}{\numberline {3.24.5}人和磷污染}{256}{subsection.3.24.5}% 
+\contentsline {subsection}{\numberline {3.24.6}结语}{258}{subsection.3.24.6}% 
+\contentsline {section}{\numberline {3.25}丛枝菌根真菌：``微''小生物，大有``名堂''}{258}{section.3.25}% 
+\contentsline {subsection}{\numberline {3.25.1}AM真菌是什么？}{258}{subsection.3.25.1}% 
+\contentsline {subsection}{\numberline {3.25.2}AM真菌``前世今生''}{259}{subsection.3.25.2}% 
+\contentsline {subsection}{\numberline {3.25.3}AM真菌有哪些功能？}{260}{subsection.3.25.3}% 
+\contentsline {subsection}{\numberline {3.25.4}AM真菌与植物营养吸收}{260}{subsection.3.25.4}% 
+\contentsline {subsection}{\numberline {3.25.5}AM真菌与植物重金属耐性}{261}{subsection.3.25.5}% 
+\contentsline {subsection}{\numberline {3.25.6}AM真菌与土壤团聚体形成}{262}{subsection.3.25.6}% 
+\contentsline {subsection}{\numberline {3.25.7}AM真菌与植物抗病性}{263}{subsection.3.25.7}% 
+\contentsline {subsection}{\numberline {3.25.8}AM真菌与植物耐盐及抗旱性}{263}{subsection.3.25.8}% 
+\contentsline {subsection}{\numberline {3.25.9}总结与展望}{264}{subsection.3.25.9}% 
+\contentsline {section}{\numberline {3.26}人人争用显著性，p值心事几人知}{267}{section.3.26}% 
+\contentsline {section}{\numberline {3.27}青蛙的科研之旅}{270}{section.3.27}% 
+\contentsline {subsection}{\numberline {3.27.1}从非洲沼泽地进入欧洲实验室}{270}{subsection.3.27.1}% 
+\contentsline {subsection}{\numberline {3.27.2}生物学领域的科研之旅}{271}{subsection.3.27.2}% 
+\contentsline {subsection}{\numberline {3.27.3}生态毒理学领域的科研之旅}{272}{subsection.3.27.3}% 
+\contentsline {subsection}{\numberline {3.27.4}回到现代，展望未来}{274}{subsection.3.27.4}% 
+\contentsline {section}{\numberline {3.28}投稿那些事儿}{274}{section.3.28}% 
+\contentsline {subsection}{\numberline {3.28.1}引言}{274}{subsection.3.28.1}% 
+\contentsline {subsection}{\numberline {3.28.2}期刊选择}{275}{subsection.3.28.2}% 
+\contentsline {subsection}{\numberline {3.28.3}格式修改}{276}{subsection.3.28.3}% 
+\contentsline {subsection}{\numberline {3.28.4}投稿}{277}{subsection.3.28.4}% 
+\contentsline {subsection}{\numberline {3.28.5}与编辑的交流}{277}{subsection.3.28.5}% 
+\contentsline {subsection}{\numberline {3.28.6}对结果的决定}{279}{subsection.3.28.6}% 
+\contentsline {subsection}{\numberline {3.28.7}后记}{279}{subsection.3.28.7}% 
+\contentsline {section}{\numberline {3.29}城市道路移动监测展望}{280}{section.3.29}% 
+\contentsline {subsection}{\numberline {3.29.1}前言}{280}{subsection.3.29.1}% 
+\contentsline {subsection}{\numberline {3.29.2}概念}{281}{subsection.3.29.2}% 
+\contentsline {subsection}{\numberline {3.29.3}优势}{281}{subsection.3.29.3}% 
+\contentsline {subsection}{\numberline {3.29.4}应用展望}{282}{subsection.3.29.4}% 
+\contentsline {section}{\numberline {3.30}潜在身边的环境危害：噪声}{284}{section.3.30}% 
+\contentsline {subsection}{\numberline {3.30.1}噪声的污染现状}{284}{subsection.3.30.1}% 
+\contentsline {subsection}{\numberline {3.30.2}噪声管理存在问题}{285}{subsection.3.30.2}% 
+\contentsline {subsection}{\numberline {3.30.3}遇到噪声污染如何自救（民众的力量）}{287}{subsection.3.30.3}% 
+\contentsline {subsection}{\numberline {3.30.4}后记}{290}{subsection.3.30.4}% 
+\contentsline {section}{\numberline {3.31}暴露组学的黎明}{290}{section.3.31}% 
+\contentsline {subsection}{\numberline {3.31.1}暴露组学是什么？}{291}{subsection.3.31.1}% 
+\contentsline {subsection}{\numberline {3.31.2}目的性分析难题1：峰真实性问题}{292}{subsection.3.31.2}% 
+\contentsline {subsection}{\numberline {3.31.3}目的性分析难题2：峰解析问题}{292}{subsection.3.31.3}% 
+\contentsline {subsection}{\numberline {3.31.4}目的性分析难题3：分析通量限制}{293}{subsection.3.31.4}% 
+\contentsline {subsection}{\numberline {3.31.5}统计学分析难题1：模型的选择}{294}{subsection.3.31.5}% 
+\contentsline {subsection}{\numberline {3.31.6}统计学分析难题2：结构-性质关系}{294}{subsection.3.31.6}% 
+\contentsline {subsection}{\numberline {3.31.7}结语}{295}{subsection.3.31.7}% 
+\contentsline {section}{\numberline {3.32}暴露研究的范式}{295}{section.3.32}% 
+\contentsline {section}{\numberline {3.33}垃圾渗滤液为什么会爆炸？}{299}{section.3.33}% 
+\contentsline {subsection}{\numberline {3.33.1}什么是垃圾渗滤液}{299}{subsection.3.33.1}% 
+\contentsline {subsection}{\numberline {3.33.2}垃圾渗滤液的污染特点}{300}{subsection.3.33.2}% 
+\contentsline {subsection}{\numberline {3.33.3}垃圾渗滤液的哪步处理会引起爆炸}{300}{subsection.3.33.3}% 
+\contentsline {subsection}{\numberline {3.33.4}实验室防护我们该怎么做}{301}{subsection.3.33.4}% 
+\contentsline {section}{\numberline {3.34}风口浪尖的新烟碱}{302}{section.3.34}% 
+\contentsline {subsection}{\numberline {3.34.1}新烟碱类杀虫剂为什么会大规模使用？}{303}{subsection.3.34.1}% 
+\contentsline {subsection}{\numberline {3.34.2}新烟碱类为什么只对昆虫起作用？}{303}{subsection.3.34.2}% 
+\contentsline {subsection}{\numberline {3.34.3}风口浪尖的新烟碱？}{304}{subsection.3.34.3}% 
+\contentsline {subsection}{\numberline {3.34.4}结语}{305}{subsection.3.34.4}% 
+\contentsline {section}{\numberline {3.35}再度流行的麻疹}{306}{section.3.35}% 
+\contentsline {section}{\numberline {3.36}全球变暖与养生朋克}{310}{section.3.36}% 
+\contentsline {section}{\numberline {3.37}大气环境应急监测知多少}{312}{section.3.37}% 
+\contentsline {section}{\numberline {3.38}从商鞅变法到垃圾分类}{316}{section.3.38}% 
+\contentsline {section}{\numberline {3.39}专看上海的垃圾分类}{319}{section.3.39}% 
+\contentsline {subsection}{\numberline {3.39.1}我理解的``生活垃圾分类政策''}{319}{subsection.3.39.1}% 
+\contentsline {subsection}{\numberline {3.39.2}有关上海垃圾分类政策的讨论}{321}{subsection.3.39.2}% 
+\contentsline {subsection}{\numberline {3.39.3}我听到的一番言论}{322}{subsection.3.39.3}% 
+\contentsline {subsection}{\numberline {3.39.4}我个人的一点看法}{322}{subsection.3.39.4}% 
+\contentsline {section}{\numberline {3.40}说一说生态（环境）警察}{323}{section.3.40}% 
+\contentsline {subsection}{\numberline {3.40.1}俄罗斯-最早建立生态警察的国家之一}{323}{subsection.3.40.1}% 
+\contentsline {subsection}{\numberline {3.40.2}德国-环境警察拥有法律法规全面武装}{324}{subsection.3.40.2}% 
+\contentsline {subsection}{\numberline {3.40.3}我国的生态（环境）警察探索}{325}{subsection.3.40.3}% 
+\contentsline {chapter}{\numberline {4}工程实践}{327}{chapter.4}% 
+\contentsline {section}{\numberline {4.1}污师私房菜: OUR 和 SV30 的应用}{327}{section.4.1}% 
+\contentsline {subsection}{\numberline {4.1.1}呼吸速率的前世今生}{328}{subsection.4.1.1}% 
+\contentsline {subsection}{\numberline {4.1.2}OUR应用的理论介绍}{328}{subsection.4.1.2}% 
+\contentsline {subsubsection}{\numberline {4.1.2.1}OUR异常高于正常值的情况}{329}{subsubsection.4.1.2.1}% 
+\contentsline {subsubsection}{\numberline {4.1.2.2}OUR异常低于正常值的情况}{329}{subsubsection.4.1.2.2}% 
+\contentsline {subsection}{\numberline {4.1.3}OUR应用的实战演练}{329}{subsection.4.1.3}% 
+\contentsline {subsubsection}{\numberline {4.1.3.1}实战场景1}{329}{subsubsection.4.1.3.1}% 
+\contentsline {subsubsection}{\numberline {4.1.3.2}实战场景2}{330}{subsubsection.4.1.3.2}% 
+\contentsline {subsubsection}{\numberline {4.1.3.3}实战场景3}{330}{subsubsection.4.1.3.3}% 
+\contentsline {subsection}{\numberline {4.1.4}SV30的应用实战}{331}{subsection.4.1.4}% 
+\contentsline {subsection}{\numberline {4.1.5}结语}{332}{subsection.4.1.5}% 
+\contentsline {section}{\numberline {4.2}污师私房菜系列二: SRT的应用}{333}{section.4.2}% 
+\contentsline {subsection}{\numberline {4.2.1}引言}{333}{subsection.4.2.1}% 
+\contentsline {subsection}{\numberline {4.2.2}SRT的含义}{333}{subsection.4.2.2}% 
+\contentsline {subsection}{\numberline {4.2.3}SRT的应用}{334}{subsection.4.2.3}% 
+\contentsline {subsection}{\numberline {4.2.4}剩余污泥的控制}{336}{subsection.4.2.4}% 
+\contentsline {subsection}{\numberline {4.2.5}结语}{337}{subsection.4.2.5}% 
+\contentsline {section}{\numberline {4.3}污师私房菜系列三：AO工艺调试秘籍}{337}{section.4.3}% 
+\contentsline {subsection}{\numberline {4.3.1}调试前置条件}{337}{subsection.4.3.1}% 
+\contentsline {subsection}{\numberline {4.3.2}物资准备}{338}{subsection.4.3.2}% 
+\contentsline {subsection}{\numberline {4.3.3}曝气器调试}{338}{subsection.4.3.3}% 
+\contentsline {subsection}{\numberline {4.3.4}接种培养}{339}{subsection.4.3.4}% 
+\contentsline {subsubsection}{\numberline {4.3.4.1}污泥接种}{339}{subsubsection.4.3.4.1}% 
+\contentsline {subsubsection}{\numberline {4.3.4.2}污泥培养}{340}{subsubsection.4.3.4.2}% 
+\contentsline {subsubsection}{\numberline {4.3.4.3}污泥驯化}{341}{subsubsection.4.3.4.3}% 
+\contentsline {subsection}{\numberline {4.3.5}调试注意事项}{341}{subsection.4.3.5}% 
+\contentsline {section}{\numberline {4.4}污师私房菜系列四：浅析精确曝气技术}{343}{section.4.4}% 
+\contentsline {subsection}{\numberline {4.4.1}前言}{343}{subsection.4.4.1}% 
+\contentsline {subsection}{\numberline {4.4.2}传统曝气控制}{344}{subsection.4.4.2}% 
+\contentsline {subsection}{\numberline {4.4.3}精确曝气控制及相关技术}{346}{subsection.4.4.3}% 
+\contentsline {subsubsection}{\numberline {4.4.3.1}前馈+反馈+生物模型}{346}{subsubsection.4.4.3.1}% 
+\contentsline {subsubsection}{\numberline {4.4.3.2}反馈调节+性能优越的硬件系统}{347}{subsubsection.4.4.3.2}% 
+\contentsline {subsubsection}{\numberline {4.4.3.3}前馈调节+过程反馈+终端反馈}{348}{subsubsection.4.4.3.3}% 
+\contentsline {subsubsection}{\numberline {4.4.3.4}其他}{349}{subsubsection.4.4.3.4}% 
+\contentsline {subsection}{\numberline {4.4.4}结论与建议}{350}{subsection.4.4.4}% 
+\contentsline {section}{\numberline {4.5}污师私房菜系列五：原来你是这样的COD}{351}{section.4.5}% 
+\contentsline {subsection}{\numberline {4.5.1}污师眼中的COD}{351}{subsection.4.5.1}% 
+\contentsline {subsection}{\numberline {4.5.2}COD组分测试方法}{351}{subsection.4.5.2}% 
+\contentsline {subsection}{\numberline {4.5.3}COD组分作用}{352}{subsection.4.5.3}% 
+\contentsline {subsection}{\numberline {4.5.4}结语}{354}{subsection.4.5.4}% 
+\contentsline {section}{\numberline {4.6}污师私房菜六：地主家也没有余粮了。。。。}{354}{section.4.6}% 
+\contentsline {subsection}{\numberline {4.6.1}生物脱氮和除磷的基本原理回溯}{355}{subsection.4.6.1}% 
+\contentsline {subsection}{\numberline {4.6.2}总氮烧钱的基本套路}{355}{subsection.4.6.2}% 
+\contentsline {subsection}{\numberline {4.6.3}总磷烧钱的基本套路}{356}{subsection.4.6.3}% 
+\contentsline {subsection}{\numberline {4.6.4}加药方式本身也烧钱}{356}{subsection.4.6.4}% 
+\contentsline {subsection}{\numberline {4.6.5}水厂是如何没有余粮的}{356}{subsection.4.6.5}% 
+\contentsline {subsection}{\numberline {4.6.6}污水处理厂自动化的一点思考}{357}{subsection.4.6.6}% 
+\contentsline {section}{\numberline {4.7}污师私房菜七：我们都对氨氮做了什么}{358}{section.4.7}% 
+\contentsline {subsection}{\numberline {4.7.1}传统生物脱氮}{358}{subsection.4.7.1}% 
+\contentsline {subsection}{\numberline {4.7.2}新型生物脱氮}{360}{subsection.4.7.2}% 
+\contentsline {subsection}{\numberline {4.7.3}结语}{361}{subsection.4.7.3}% 
+\contentsline {section}{\numberline {4.8}污师私房菜八：我所知道的污水除磷知识}{361}{section.4.8}% 
+\contentsline {subsection}{\numberline {4.8.1}化学除磷方法}{362}{subsection.4.8.1}% 
+\contentsline {subsection}{\numberline {4.8.2}物理吸附法}{362}{subsection.4.8.2}% 
+\contentsline {subsection}{\numberline {4.8.3}生物除磷}{363}{subsection.4.8.3}% 
+\contentsline {subsection}{\numberline {4.8.4}膜技术除磷方法}{364}{subsection.4.8.4}% 
+\contentsline {subsection}{\numberline {4.8.5}结语}{365}{subsection.4.8.5}% 
+\contentsline {section}{\numberline {4.9}城市之殇}{365}{section.4.9}% 
+\contentsline {subsection}{\numberline {4.9.1}序言}{365}{subsection.4.9.1}% 
+\contentsline {subsection}{\numberline {4.9.2}海绵城市是什么}{366}{subsection.4.9.2}% 
+\contentsline {subsection}{\numberline {4.9.3}海绵城市试点}{368}{subsection.4.9.3}% 
+\contentsline {subsection}{\numberline {4.9.4}浅谈海绵感悟}{369}{subsection.4.9.4}% 
+\contentsline {subsubsection}{\numberline {4.9.4.1}从管理部门的角度}{369}{subsubsection.4.9.4.1}% 
+\contentsline {subsubsection}{\numberline {4.9.4.2}从项目公司负责人的角度}{370}{subsubsection.4.9.4.2}% 
+\contentsline {subsubsection}{\numberline {4.9.4.3}从设计师的角度}{370}{subsubsection.4.9.4.3}% 
+\contentsline {subsection}{\numberline {4.9.5}结语}{371}{subsection.4.9.5}% 
+\contentsline {section}{\numberline {4.10}浪潮下的海绵城市}{371}{section.4.10}% 
+\contentsline {subsection}{\numberline {4.10.1}海绵城市建设热潮}{372}{subsection.4.10.1}% 
+\contentsline {subsection}{\numberline {4.10.2}海绵城市建设疑惑与困难}{373}{subsection.4.10.2}% 
+\contentsline {subsubsection}{\numberline {4.10.2.1}海绵城市内涵认识不清}{373}{subsubsection.4.10.2.1}% 
+\contentsline {subsubsection}{\numberline {4.10.2.2}对控制目标、指标理解片面化}{375}{subsubsection.4.10.2.2}% 
+\contentsline {subsubsection}{\numberline {4.10.2.3}海绵城市建设艰难性认识不足}{375}{subsubsection.4.10.2.3}% 
+\contentsline {subsubsection}{\numberline {4.10.2.4}监测平台与模型模拟用途不清}{376}{subsubsection.4.10.2.4}% 
+\contentsline {subsubsection}{\numberline {4.10.2.5}后期运营维护准备不充分}{377}{subsubsection.4.10.2.5}% 
+\contentsline {subsection}{\numberline {4.10.3}海绵城市建设展望}{377}{subsection.4.10.3}% 
+\contentsline {section}{\numberline {4.11}垃圾焚烧发电该怎么烧}{378}{section.4.11}% 
+\contentsline {subsection}{\numberline {4.11.1}概述}{378}{subsection.4.11.1}% 
+\contentsline {subsection}{\numberline {4.11.2}前端接收------垃圾接收输送系统}{379}{subsection.4.11.2}% 
+\contentsline {subsection}{\numberline {4.11.3}中端处理------垃圾焚烧系统}{380}{subsection.4.11.3}% 
+\contentsline {subsection}{\numberline {4.11.4}后端处理------环保系统}{383}{subsection.4.11.4}% 
+\contentsline {section}{\numberline {4.12}生活垃圾焚烧发电知多少}{386}{section.4.12}% 
+\contentsline {subsection}{\numberline {4.12.1}从填埋到焚烧}{387}{subsection.4.12.1}% 
+\contentsline {subsection}{\numberline {4.12.2}工艺流程}{387}{subsection.4.12.2}% 
+\contentsline {subsection}{\numberline {4.12.3}工艺应用现状}{388}{subsection.4.12.3}% 
+\contentsline {subsection}{\numberline {4.12.4}现存问题探究}{389}{subsection.4.12.4}% 
+\contentsline {section}{\numberline {4.13}结语}{390}{section.4.13}% 
+\contentsline {section}{\numberline {4.14}大气环境监测都用些啥设备？}{390}{section.4.14}% 
+\contentsline {subsection}{\numberline {4.14.1}关于烟气分析仪}{391}{subsection.4.14.1}% 
+\contentsline {subsubsection}{\numberline {4.14.1.1}过去式}{391}{subsubsection.4.14.1.1}% 
+\contentsline {subsubsection}{\numberline {4.14.1.2}现在式}{391}{subsubsection.4.14.1.2}% 
+\contentsline {subsubsection}{\numberline {4.14.1.3}将来式}{392}{subsubsection.4.14.1.3}% 
+\contentsline {subsection}{\numberline {4.14.2}关于颗粒物分析仪}{393}{subsection.4.14.2}% 
+\contentsline {subsubsection}{\numberline {4.14.2.1}过去式}{393}{subsubsection.4.14.2.1}% 
+\contentsline {subsubsection}{\numberline {4.14.2.2}现在式}{394}{subsubsection.4.14.2.2}% 
+\contentsline {subsubsection}{\numberline {4.14.2.3}将来式}{394}{subsubsection.4.14.2.3}% 
+\contentsline {subsection}{\numberline {4.14.3}结语}{395}{subsection.4.14.3}% 
+\contentsline {section}{\numberline {4.15}设计之三境界}{395}{section.4.15}% 
+\contentsline {subsection}{\numberline {4.15.1}且话设计工作之艰难}{395}{subsection.4.15.1}% 
+\contentsline {subsection}{\numberline {4.15.2}三流设计境界之山是山、水是水}{396}{subsection.4.15.2}% 
+\contentsline {subsection}{\numberline {4.15.3}二流设计境界之山非山、水非水}{397}{subsection.4.15.3}% 
+\contentsline {subsection}{\numberline {4.15.4}一流设计境界之山还是山、水还是水}{398}{subsection.4.15.4}% 
+\contentsline {subsection}{\numberline {4.15.5}设计无易事，且行且服务}{399}{subsection.4.15.5}% 
+\contentsline {section}{\numberline {4.16}智慧化，治不了懒癌}{399}{section.4.16}% 
+\contentsline {section}{\numberline {4.17}智慧化进程中的人工 • 智能}{406}{section.4.17}% 
+\contentsline {subsection}{\numberline {4.17.1}从安贝格工厂的``三等分''说起}{406}{subsection.4.17.1}% 
+\contentsline {subsection}{\numberline {4.17.2}先``人工''后``智能''}{407}{subsection.4.17.2}% 
+\contentsline {subsection}{\numberline {4.17.3}Technician、自动化与场景抽象}{408}{subsection.4.17.3}% 
+\contentsline {subsection}{\numberline {4.17.4}R\&D、智能化与业务模型}{410}{subsection.4.17.4}% 
+\contentsline {subsection}{\numberline {4.17.5}``工程师红利''}{411}{subsection.4.17.5}% 
+\contentsline {section}{\numberline {4.18}智慧化进程中的``三大争''}{411}{section.4.18}% 
+\contentsline {subsection}{\numberline {4.18.1}序言}{411}{subsection.4.18.1}% 
+\contentsline {subsection}{\numberline {4.18.2}机理与数据之争}{412}{subsection.4.18.2}% 
+\contentsline {subsection}{\numberline {4.18.3}需求与产品之争}{413}{subsection.4.18.3}% 
+\contentsline {subsection}{\numberline {4.18.4}适应与变革之争}{414}{subsection.4.18.4}% 
+\contentsline {subsection}{\numberline {4.18.5}结语}{415}{subsection.4.18.5}% 
+\contentsline {chapter}{\numberline {5}科苑风采}{417}{chapter.5}% 
+\contentsline {section}{\numberline {5.1}念念不忘 必有回响}{417}{section.5.1}% 
+\contentsline {section}{\numberline {5.2}我们也迷茫，但不曾却步 \textbar {} 黑板报周年志}{419}{section.5.2}% 
+\contentsline {subsection}{\numberline {5.2.1}一年回望}{420}{subsection.5.2.1}% 
+\contentsline {subsection}{\numberline {5.2.2}一年回馈}{420}{subsection.5.2.2}% 
+\contentsline {subsection}{\numberline {5.2.3}一年回响}{420}{subsection.5.2.3}% 
+\contentsline {subsection}{\numberline {5.2.4}热情}{421}{subsection.5.2.4}% 
+\contentsline {subsection}{\numberline {5.2.5}文字}{421}{subsection.5.2.5}% 
+\contentsline {subsection}{\numberline {5.2.6}时间}{422}{subsection.5.2.6}% 
+\contentsline {section}{\numberline {5.3}一封来自环保工作者妻子的信}{423}{section.5.3}% 
+\contentsline {section}{\numberline {5.4}天道酬勤 日新月异}{428}{section.5.4}% 
+\contentsline {subsection}{\numberline {5.4.1}辞旧迎新，鸿运当头}{428}{subsection.5.4.1}% 
+\contentsline {subsection}{\numberline {5.4.2}吕永龙研究员简介}{430}{subsection.5.4.2}% 
+\contentsline {section}{\numberline {5.5}行走天际 俯瞰生灵}{430}{section.5.5}% 
+\contentsline {section}{\numberline {5.6}你坏我锅，我砸你饭碗}{433}{section.5.6}% 
+\contentsline {subsection}{\numberline {5.6.1}顶层设计}{435}{subsection.5.6.1}% 
+\contentsline {subsection}{\numberline {5.6.2}强压管制}{435}{subsection.5.6.2}% 
+\contentsline {subsection}{\numberline {5.6.3}有力处罚}{436}{subsection.5.6.3}% 
+\contentsline {subsection}{\numberline {5.6.4}公众参与}{437}{subsection.5.6.4}% 
+\contentsline {subsection}{\numberline {5.6.5}环保铁军}{438}{subsection.5.6.5}% 
+\contentsline {section}{\numberline {5.7}像设计者一样思考}{438}{section.5.7}% 
+\contentsline {section}{\numberline {5.8}个人知识管理(PKM)的未来}{443}{section.5.8}% 
+\contentsline {subsection}{\numberline {5.8.1}问题的引入}{443}{subsection.5.8.1}% 
+\contentsline {section}{\numberline {5.9}我的匹兹堡会议}{447}{section.5.9}% 
+\contentsline {section}{\numberline {5.10}十万阅读量的科普}{452}{section.5.10}% 
+\contentsline {subsection}{\numberline {5.10.1}改变中的科普大环境}{454}{subsection.5.10.1}% 
+\contentsline {subsection}{\numberline {5.10.2}知识向科普}{455}{subsection.5.10.2}% 
+\contentsline {subsection}{\numberline {5.10.3}前沿科普}{456}{subsection.5.10.3}% 
+\contentsline {subsection}{\numberline {5.10.4}科学思想}{459}{subsection.5.10.4}% 
+\contentsline {subsection}{\numberline {5.10.5}科学史}{460}{subsection.5.10.5}% 
+\contentsline {subsection}{\numberline {5.10.6}新的指标}{461}{subsection.5.10.6}% 
+\contentsline {section}{\numberline {5.11}无知之幕}{461}{section.5.11}% 
+\contentsline {section}{\numberline {5.12}一城之国}{465}{section.5.12}% 
+\contentsline {subsection}{\numberline {5.12.1}城市发展的空间}{465}{subsection.5.12.1}% 
+\contentsline {subsection}{\numberline {5.12.2}城市的抢人大战}{466}{subsection.5.12.2}% 
+\contentsline {subsection}{\numberline {5.12.3}城市与现代家庭伦理格局}{467}{subsection.5.12.3}% 
+\contentsline {subsection}{\numberline {5.12.4}城市福利的代价}{467}{subsection.5.12.4}% 
+\contentsline {subsection}{\numberline {5.12.5}城市教育}{468}{subsection.5.12.5}% 
+\contentsline {subsection}{\numberline {5.12.6}城市的可持续}{469}{subsection.5.12.6}% 
+\contentsline {subsection}{\numberline {5.12.7}城市与娱乐}{470}{subsection.5.12.7}% 
+\contentsline {subsection}{\numberline {5.12.8}城市与人口流动}{471}{subsection.5.12.8}% 
+\contentsline {subsection}{\numberline {5.12.9}城市与技术}{472}{subsection.5.12.9}% 
+\contentsline {subsection}{\numberline {5.12.10}城市的吸引力}{472}{subsection.5.12.10}% 
+\contentsline {subsection}{\numberline {5.12.11}人才的选择}{473}{subsection.5.12.11}% 
+\contentsline {subsection}{\numberline {5.12.12}结语}{473}{subsection.5.12.12}% 
+\contentsline {section}{\numberline {5.13}闲谈日本东京游学}{474}{section.5.13}% 
+\contentsline {subsection}{\numberline {5.13.1}东京都的历史进程}{474}{subsection.5.13.1}% 
+\contentsline {subsection}{\numberline {5.13.2}东京治水发展历程}{475}{subsection.5.13.2}% 
+\contentsline {subsection}{\numberline {5.13.3}实地考察所见所感}{475}{subsection.5.13.3}% 
+\contentsline {subsection}{\numberline {5.13.4}其他感受与体会}{476}{subsection.5.13.4}% 
+\contentsline {section}{\numberline {5.14}当北京遇上罗马}{476}{section.5.14}% 
+\contentsline {subsection}{\numberline {5.14.1}罗马的年轻人都去哪了？}{477}{subsection.5.14.1}% 
+\contentsline {subsection}{\numberline {5.14.2}罗马的大车都去哪了？}{477}{subsection.5.14.2}% 
+\contentsline {section}{\numberline {5.15}我们一无所知}{480}{section.5.15}% 
+\contentsline {section}{\numberline {5.16}科研编程思维}{489}{section.5.16}% 
+\contentsline {subsection}{\numberline {5.16.1}条件分支}{491}{subsection.5.16.1}% 
+\contentsline {subsection}{\numberline {5.16.2}循环}{491}{subsection.5.16.2}% 
+\contentsline {subsection}{\numberline {5.16.3}递归}{491}{subsection.5.16.3}% 
+\contentsline {subsection}{\numberline {5.16.4}正则表达式}{491}{subsection.5.16.4}% 
+\contentsline {subsection}{\numberline {5.16.5}数据结构}{491}{subsection.5.16.5}% 
+\contentsline {subsection}{\numberline {5.16.6}数据表}{491}{subsection.5.16.6}% 
+\contentsline {subsection}{\numberline {5.16.7}字典}{492}{subsection.5.16.7}% 
+\contentsline {subsection}{\numberline {5.16.8}列表}{492}{subsection.5.16.8}% 
+\contentsline {subsection}{\numberline {5.16.9}类型}{492}{subsection.5.16.9}% 
+\contentsline {section}{\numberline {5.17}当梦想透进窗}{492}{section.5.17}% 
+\contentsline {section}{\numberline {5.18}写在总决赛前}{496}{section.5.18}% 
+\contentsline {subsection}{\numberline {5.18.1}1}{496}{subsection.5.18.1}% 
+\contentsline {subsection}{\numberline {5.18.2}2}{497}{subsection.5.18.2}% 
+\contentsline {subsection}{\numberline {5.18.3}3}{498}{subsection.5.18.3}% 
+\contentsline {subsection}{\numberline {5.18.4}4}{499}{subsection.5.18.4}% 
+\contentsline {subsection}{\numberline {5.18.5}5}{501}{subsection.5.18.5}% 
+\contentsline {subsection}{\numberline {5.18.6}7}{505}{subsection.5.18.6}% 
+\contentsline {section}{\numberline {5.19}看《我不是药神》有感}{505}{section.5.19}% 
+\contentsline {subsection}{\numberline {5.19.1}你有没有被代进去}{505}{subsection.5.19.1}% 
+\contentsline {subsection}{\numberline {5.19.2}电影的落脚狠不狠}{506}{subsection.5.19.2}% 
+\contentsline {subsection}{\numberline {5.19.3}题外}{508}{subsection.5.19.3}% 
+\contentsline {section}{\numberline {5.20}听花杂记之晚清四名臣}{509}{section.5.20}% 
+\contentsline {subsection}{\numberline {5.20.1}胡林翼}{510}{subsection.5.20.1}% 
+\contentsline {subsection}{\numberline {5.20.2}左宗棠}{511}{subsection.5.20.2}% 
+\contentsline {subsection}{\numberline {5.20.3}曾国藩}{513}{subsection.5.20.3}% 
+\contentsline {subsection}{\numberline {5.20.4}李鸿章}{514}{subsection.5.20.4}% 
+\contentsline {subsubsection}{站长自述}{517}{section*.138}% 
+\contentsline {section}{\numberline {5.21}听花杂记之初唐四杰}{517}{section.5.21}% 
+\contentsline {section}{\numberline {5.22}真实的谎言------``何不食肉糜？''}{525}{section.5.22}% 
+\contentsline {subsection}{\numberline {5.22.1}引言}{525}{subsection.5.22.1}% 
+\contentsline {subsection}{\numberline {5.22.2}晋惠帝------活在另一个世界的帝王}{525}{subsection.5.22.2}% 
+\contentsline {subsection}{\numberline {5.22.3}皇位------黄金牢笼}{526}{subsection.5.22.3}% 
+\contentsline {subsection}{\numberline {5.22.4}枕边人------妻管严的悲哀还是家有贤妻的明智}{528}{subsection.5.22.4}% 
+\contentsline {subsection}{\numberline {5.22.5}结语}{530}{subsection.5.22.5}% 
+\contentsline {subsubsection}{作者简介}{530}{section*.139}% 
+\contentsline {section}{\numberline {5.23}``行天的守望''系列游记}{530}{section.5.23}% 
+\contentsline {subsection}{\numberline {5.23.1}序章}{530}{subsection.5.23.1}% 
+\contentsline {subsubsection}{\numberline {5.23.1.1}游记的缘起}{530}{subsubsection.5.23.1.1}% 
+\contentsline {subsubsection}{\numberline {5.23.1.2}游记的组成}{532}{subsubsection.5.23.1.2}% 
+\contentsline {subsubsection}{\numberline {5.23.1.3}预告 第一章：走进伊比利亚}{533}{subsubsection.5.23.1.3}% 
+\contentsline {subsubsection}{\numberline {5.23.1.4}作者简介}{536}{subsubsection.5.23.1.4}% 
+\contentsline {subsection}{\numberline {5.23.2}走进伊比利亚（一）}{536}{subsection.5.23.2}% 
+\contentsline {subsubsection}{\numberline {5.23.2.1}走进伊比利亚}{536}{subsubsection.5.23.2.1}% 
+\contentsline {subsubsection}{\numberline {5.23.2.2}从希腊到罗马}{538}{subsubsection.5.23.2.2}% 
+\contentsline {subsubsection}{\numberline {5.23.2.3}寻找逝去的罗马}{541}{subsubsection.5.23.2.3}% 
+\contentsline {subsubsection}{\numberline {5.23.2.4}历经千年的城墙}{546}{subsubsection.5.23.2.4}% 
+\contentsline {subsubsection}{\numberline {5.23.2.5}预告 塔拉戈纳}{549}{subsubsection.5.23.2.5}% 
+\contentsline {subsection}{\numberline {5.23.3}走进伊比利亚（二）}{550}{subsection.5.23.3}% 
+\contentsline {subsubsection}{\numberline {5.23.3.1}说走就走的旅行}{550}{subsubsection.5.23.3.1}% 
+\contentsline {subsubsection}{\numberline {5.23.3.2}行走在遗迹间}{553}{subsubsection.5.23.3.2}% 
+\contentsline {subsubsection}{\numberline {5.23.3.3}最早的领袖崇拜}{559}{subsubsection.5.23.3.3}% 
+\contentsline {subsubsection}{\numberline {5.23.3.4}地中海边的小城}{562}{subsubsection.5.23.3.4}% 
+\contentsline {subsection}{\numberline {5.23.4}走进伊比利亚（三）}{564}{subsection.5.23.4}% 
+\contentsline {subsubsection}{\numberline {5.23.4.1}路过马德里}{564}{subsubsection.5.23.4.1}% 
+\contentsline {subsubsection}{\numberline {5.23.4.2}伫立千年的水道桥}{566}{subsubsection.5.23.4.2}% 
+\contentsline {subsubsection}{\numberline {5.23.4.3}老城的街巷}{569}{subsubsection.5.23.4.3}% 
+\contentsline {subsubsection}{\numberline {5.23.4.4}荒凉之地的``阿尔卡扎''}{572}{subsubsection.5.23.4.4}% 
+\contentsline {section}{\numberline {5.24}历史中的国学}{575}{section.5.24}% 
+\contentsline {subsection}{\numberline {5.24.1}第一章 先秦岁月}{575}{subsection.5.24.1}% 
+\contentsline {subsection}{\numberline {5.24.2}第二章 大争之世}{579}{subsection.5.24.2}% 
+\contentsline {section}{\numberline {5.25}钓鱼？NO，是钓，愚！}{580}{section.5.25}% 
+\contentsline {section}{\numberline {5.26}专利往事}{583}{section.5.26}% 
+\contentsline {section}{\numberline {5.27}美国工厂}{586}{section.5.27}% 
+\contentsline {chapter}{\numberline {6}就业咨询}{591}{chapter.6}% 
+\contentsline {section}{\numberline {6.1}幻化残生}{591}{section.6.1}% 
+\contentsline {subsection}{\numberline {6.1.1}现状}{591}{subsection.6.1.1}% 
+\contentsline {subsection}{\numberline {6.1.2}前景}{592}{subsection.6.1.2}% 
+\contentsline {subsection}{\numberline {6.1.3}求索}{595}{subsection.6.1.3}% 
+\contentsline {subsection}{\numberline {6.1.4}前沿}{597}{subsection.6.1.4}% 
+\contentsline {section}{\numberline {6.2}在设计院工作是一种怎样的体验}{598}{section.6.2}% 
+\contentsline {subsection}{\numberline {6.2.1}毕业这几年，我都干嘛}{598}{subsection.6.2.1}% 
+\contentsline {subsection}{\numberline {6.2.2}我理解的设计院}{599}{subsection.6.2.2}% 
+\contentsline {subsection}{\numberline {6.2.3}设计工作不是一蹴而就的}{599}{subsection.6.2.3}% 
+\contentsline {subsection}{\numberline {6.2.4}我对设计工作现状的理解}{601}{subsection.6.2.4}% 
+\contentsline {subsection}{\numberline {6.2.5}我理解的设计院未来}{603}{subsection.6.2.5}% 
+\contentsline {section}{\numberline {6.3}科研与钱}{604}{section.6.3}% 
+\contentsline {subsection}{\numberline {6.3.1}先说说科研经费}{605}{subsection.6.3.1}% 
+\contentsline {subsection}{\numberline {6.3.2}国家鼓励科研人员创业}{605}{subsection.6.3.2}% 
+\contentsline {subsection}{\numberline {6.3.3}横向的去向}{607}{subsection.6.3.3}% 
+\contentsline {section}{\numberline {6.4}科研的视野天梯}{609}{section.6.4}% 
+\contentsline {section}{\numberline {6.5}中文学术和研究生教育}{611}{section.6.5}% 
+\contentsline {subsection}{\numberline {6.5.1}前言}{611}{subsection.6.5.1}% 
+\contentsline {subsection}{\numberline {6.5.2}那么为什么我会有这种感觉？我看到的这些文章到底存在什么样问题呢？}{612}{subsection.6.5.2}% 
+\contentsline {subsection}{\numberline {6.5.3}那么学术论文到底该怎么写呢？}{616}{subsection.6.5.3}% 
+\contentsline {section}{\numberline {6.6}基层环境行政执法工作简介}{616}{section.6.6}% 
+\contentsline {subsection}{\numberline {6.6.1}1.执法队伍组成情况}{617}{subsection.6.6.1}% 
+\contentsline {subsection}{\numberline {6.6.2}2.执法队伍的主要工作}{617}{subsection.6.6.2}% 
+\contentsline {subsubsection}{\numberline {6.6.2.1}2.1 投诉处理}{618}{subsubsection.6.6.2.1}% 
+\contentsline {subsubsection}{\numberline {6.6.2.2}2.2行政执法}{619}{subsubsection.6.6.2.2}% 
+\contentsline {subsubsection}{\numberline {6.6.2.3}2.3环境应急}{620}{subsubsection.6.6.2.3}% 
+\contentsline {subsection}{\numberline {6.6.3}3.结语}{621}{subsection.6.6.3}% 
+\contentsline {section}{\numberline {6.7}去国外做科研？先了解下环境吧}{622}{section.6.7}% 
+\contentsline {subsection}{\numberline {6.7.1}引子}{622}{subsection.6.7.1}% 
+\contentsline {subsection}{\numberline {6.7.2}长期工作计划}{623}{subsection.6.7.2}% 
+\contentsline {subsection}{\numberline {6.7.3}短期工作计划}{623}{subsection.6.7.3}% 
+\contentsline {subsection}{\numberline {6.7.4}时间利用观念}{625}{subsection.6.7.4}% 
+\contentsline {subsection}{\numberline {6.7.5}契约态度}{627}{subsection.6.7.5}% 
+\contentsline {section}{\numberline {6.8}环境学研究应该以SCI为重吗？}{629}{section.6.8}% 
+\contentsline {subsection}{\numberline {6.8.1}一篇关于论文意义的讨论}{629}{subsection.6.8.1}% 
+\contentsline {subsection}{\numberline {6.8.2}各国对待SCI论文的态度}{629}{subsection.6.8.2}% 
+\contentsline {subsection}{\numberline {6.8.3}过分注重SCI对环境学者说不可取}{630}{subsection.6.8.3}% 
+\contentsline {subsection}{\numberline {6.8.4}环境学---最终还是一个落地学科}{631}{subsection.6.8.4}% 
+\contentsline {subsection}{\numberline {6.8.5}关于环境学如何接地气的一点建议}{632}{subsection.6.8.5}% 
+\contentsline {section}{\numberline {6.9}环保企业研发入``坑''指南}{633}{section.6.9}% 
+\contentsline {subsection}{\numberline {6.9.1}前言：盛世危局下的就业选择}{633}{subsection.6.9.1}% 
+\contentsline {subsection}{\numberline {6.9.2}设计与研发}{634}{subsection.6.9.2}% 
+\contentsline {subsection}{\numberline {6.9.3}企业研发的分类与生存指南}{636}{subsection.6.9.3}% 
+\contentsline {subsubsection}{\numberline {6.9.3.1}产品/设备型研发}{637}{subsubsection.6.9.3.1}% 
+\contentsline {subsubsection}{\numberline {6.9.3.2}技改型研发}{637}{subsubsection.6.9.3.2}% 
+\contentsline {subsubsection}{\numberline {6.9.3.3}工艺/模式型研发}{638}{subsubsection.6.9.3.3}% 
+\contentsline {subsubsection}{\numberline {6.9.3.4}课题配合型研发}{638}{subsubsection.6.9.3.4}% 
+\contentsline {subsection}{\numberline {6.9.4}写在最后的实在话}{639}{subsection.6.9.4}% 
+\contentsline {section}{\numberline {6.10}考证那些事儿}{640}{section.6.10}% 
+\contentsline {subsection}{\numberline {6.10.1}为什么要考证}{640}{subsection.6.10.1}% 
+\contentsline {subsection}{\numberline {6.10.2}考证选择及简单的价值分析}{641}{subsection.6.10.2}% 
+\contentsline {subsection}{\numberline {6.10.3}关于考证的一些个人经验}{643}{subsection.6.10.3}% 
+\contentsline {subsection}{\numberline {6.10.4}证书的实际用处}{644}{subsection.6.10.4}% 
+\contentsline {subsection}{\numberline {6.10.5}证书管理路还长}{645}{subsection.6.10.5}% 
+\contentsline {section}{\numberline {6.11}污水处理厂被罚``排污费''，环境保护领域的又一起``彭宇案''？}{646}{section.6.11}% 
+\contentsline {subsection}{\numberline {6.11.1}前言}{646}{subsection.6.11.1}% 
+\contentsline {subsection}{\numberline {6.11.2}聚焦污水处理厂}{647}{subsection.6.11.2}% 
+\contentsline {subsection}{\numberline {6.11.3}聚焦环保部门}{649}{subsection.6.11.3}% 
+\contentsline {subsection}{\numberline {6.11.4}聚焦法庭}{651}{subsection.6.11.4}% 
+\contentsline {subsection}{\numberline {6.11.5}后记}{653}{subsection.6.11.5}% 
+\contentsline {section}{\numberline {6.12}密集通报后，社会化环境检测将何去何从?}{654}{section.6.12}% 
+\contentsline {subsection}{\numberline {6.12.1}社会化环境检测机构的由来}{654}{subsection.6.12.1}% 
+\contentsline {subsection}{\numberline {6.12.2}社会化检测机构成立需要哪些条件}{655}{subsection.6.12.2}% 
+\contentsline {subsection}{\numberline {6.12.3}那么社会化环境检测机构到底为什么会被通报}{655}{subsection.6.12.3}% 
+\contentsline {subsection}{\numberline {6.12.4}是不是还有其他的一些问题}{656}{subsection.6.12.4}% 
+\contentsline {subsection}{\numberline {6.12.5}出现了问题怎么办}{656}{subsection.6.12.5}% 
+\contentsline {subsection}{\numberline {6.12.6}展望}{657}{subsection.6.12.6}% 
+\contentsline {section}{\numberline {6.13}科研民工与全栈科学家}{658}{section.6.13}% 
+\contentsline {subsection}{\numberline {6.13.1}为什么要成为全栈科学家}{659}{subsection.6.13.1}% 
+\contentsline {subsection}{\numberline {6.13.2}如何成为全栈科学家}{660}{subsection.6.13.2}% 
+\contentsline {subsection}{\numberline {6.13.3}结语}{660}{subsection.6.13.3}% 
+\contentsline {section}{\numberline {6.14}论工程师的自我修养}{660}{section.6.14}% 
+\contentsline {subsection}{\numberline {6.14.1}我这几年的经历}{661}{subsection.6.14.1}% 
+\contentsline {subsection}{\numberline {6.14.2}我理解的``工程师''}{661}{subsection.6.14.2}% 
+\contentsline {subsection}{\numberline {6.14.3}自我修养核心：三个特质}{661}{subsection.6.14.3}% 
+\contentsline {subsection}{\numberline {6.14.4}应对的套路：三个法宝}{662}{subsection.6.14.4}% 
+\contentsline {subsection}{\numberline {6.14.5}真正的修养：用心做事}{663}{subsection.6.14.5}% 
+\contentsline {section}{\numberline {6.15}当科研从信仰追求成为一种职业}{664}{section.6.15}% 
+\contentsline {section}{\numberline {6.16}``化工科企''安全问题浅析---来自澳洲的经验}{667}{section.6.16}% 
+\contentsline {subsection}{\numberline {6.16.1}实验室安全}{668}{subsection.6.16.1}% 
+\contentsline {section}{\numberline {6.17}第二届全国生态环境监测大比武------监测人的一场盛事}{672}{section.6.17}% 
+\contentsline {subsection}{\numberline {6.17.1}这是一场怎样的盛事呢？}{673}{subsection.6.17.1}% 
+\contentsline {subsection}{\numberline {6.17.2}为什么要举办大比武呢？}{673}{subsection.6.17.2}% 
+\contentsline {subsection}{\numberline {6.17.3}大比武比什么？}{674}{subsection.6.17.3}% 
+\contentsline {section}{\numberline {6.18}环境监测大比武回望}{677}{section.6.18}% 
+\contentsline {section}{\numberline {6.19}科研合作：路在哪里？}{679}{section.6.19}% 
+\contentsline {subsection}{\numberline {6.19.1}为什么要合作？}{679}{subsection.6.19.1}% 
+\contentsline {subsection}{\numberline {6.19.2}怎么合作？}{681}{subsection.6.19.2}% 
+\contentsline {subsection}{\numberline {6.19.3}影响合作的因素有哪些？}{682}{subsection.6.19.3}% 
+\contentsline {subsection}{\numberline {6.19.4}如何寻找合作？}{683}{subsection.6.19.4}% 
+\contentsline {subsection}{\numberline {6.19.5}如何维持良好的合作关系？}{684}{subsection.6.19.5}% 
+\contentsline {section}{\numberline {6.20}百强县``晋江''是怎么练成的？}{685}{section.6.20}% 
+\contentsline {section}{\numberline {6.21}可重复性危机}{689}{section.6.21}% 
+\contentsline {section}{\numberline {6.22}WCUB见闻录}{696}{section.6.22}% 
