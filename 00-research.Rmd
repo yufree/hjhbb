@@ -3152,3 +3152,80 @@ https://pubs.acs.org/doi/10.1021/acs.est.9b02473
 链接：https://pubs.acs.org/doi/full/10.1021/acs.est.9b06675
 
 题目：Chemical Alterations of Dissolved Organic Matter by Permanganate Oxidation
+
+## 三月 {-}
+
+### 研究动态 {-}
+
+- 这篇文章很有意思的一个方法是用分子印迹技术做了色谱柱，从而将生物活性（甲状腺干扰）和保留时间结合起来，从而可以有选择性地对污染物进行目标与非目标分析。
+
+推荐人：田振宇
+
+链接：https://doi.org/10.1021/acs.est.9b05761
+
+题目：Structure-directed screening and analysis of thyroid-disrupting chemicals targeting transthyretin based on molecular recognition and chromatographic separation
+
+- 这篇文章提示了一种海洋微塑料的来源：深海底栖生物的肠道消化。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/full/10.1021/acs.est.9b07705
+
+题目：Benthic Crustacean Digestion Can Modulate the Environmental Fate of Microplastics in the Deep Sea
+
+- 与科研追热点不同，公民科学的研究往往更注重调查性与趣味性，反而覆盖了科研的一些盲点，这篇文章利用公民科学家组织收集的数据发现了石蝇在底特律消亡的现象。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.estlett.0c00206
+
+题目：Citizen Science Data Show Temperature-Driven Declines in Riverine Sentinel Invertebrates
+
+- 废水流行病学指利用城市污水处理厂的实时监控数据来追踪公共卫生事件，这篇观点文章指出，这一研究思路有助于解决新冠肺炎研究中的代表性问题，说白了就是 eDNA 来追踪大尺度流行问题，顺道还能评价个新冠病毒半衰期与处理效率。目前实证数据少，更多在想法层面。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/full/10.1021/acs.est.0c02172
+
+题目：Letter to the Editor: Wastewater-Based Epidemiology Can Overcome Representativeness and Stigma Issues Related to COVID-19
+
+- BOD5可以说是环境化学非常重要的概念了，实际测量时会先抑制硝化过程，这篇观点文章认为，这个100多年来的做法可能并不反映概念本身，不利于风险评价。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/full/10.1021/acs.est.0c00997
+
+题目：Does the Nitrification-Suppressed BOD5 Test Make Sense?
+
+- ES&T不应该接受流行病学相关研究，这篇文章没有对多重比较做p值矫正，结论里的p值又是恰好卡在 0.001 ，如果让搞统计的人看到肯定会当反面案例。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/abs/10.1021/acs.est.9b07180
+
+题目：Aluminum Exposure and Gestational Diabetes Mellitus: Associations and Potential Mediation by n-6 Polyunsaturated Fatty Acids
+
+- 烧秸秆看来也是印度空气污染的重要来源，大概贡献了德里十月十一月20%的细颗粒物，不过这个3D饼图怎么还没被赶出学术圈啊。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/abs/10.1021/acs.est.0c00329
+
+题目：How Much Does Large-Scale Crop Residue Burning Affect the Air Quality in Delhi?
+
+- 这个研究思路很有意思，考察国内人口迁移对空气污染的影响，虽然效果比较弱，但城市化是全球趋势，其对环境的动态影响有助于我们了解资源利用效率与污染模式变动。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.0c00726
+
+题目：Air Pollutant Emissions Induced by Population Migration in China
+
+- 这篇文章做了一项基础研究，考察了没有氯化处理的输送饮用水的水管内生物膜的分布，发现其膜分布不均，底层更多。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/abs/10.1021/acs.est.9b06603
+
+题目：360-Degree Distribution of Biofilm Quantity and Community in an Operational Unchlorinated Drinking Water Distribution Pipe
+
