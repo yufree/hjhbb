@@ -1,13 +1,13 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.5.8)  30 APR 2020 21:41
+This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018) (preloaded format=xelatex 2020.4.17)  1 JUN 2020 02:36
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **hjhbb.tex
 (./hjhbb.tex
 LaTeX2e <2018-12-01>
-(/usr/local/texlive/2019/texmf-dist/tex/latex/base/book.cls
+(/opt/TinyTeX/texmf-dist/tex/latex/base/book.cls
 Document Class: book 2018/09/03 v1.4i Standard LaTeX document class
-(/usr/local/texlive/2019/texmf-dist/tex/latex/base/bk10.clo
+(/opt/TinyTeX/texmf-dist/tex/latex/base/bk10.clo
 File: bk10.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
 )
 \c@part=\count80
@@ -22,7 +22,7 @@ File: bk10.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
 \abovecaptionskip=\skip41
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
-) (/usr/local/texlive/2019/texmf-dist/tex/latex/lm/lmodern.sty
+) (/opt/TinyTeX/texmf-dist/tex/latex/lm/lmodern.sty
 Package: lmodern 2009/10/30 v1.6 Latin Modern Fonts
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  OT1/cmr/m/n --> OT1/lmr/m/n on input line 22.
@@ -56,29 +56,29 @@ LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 (Font)                  OT1/cmr/bx/it --> OT1/lmr/bx/it on input line 37.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 (Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
-) (/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/amssymb.sty
+) (/opt/TinyTeX/texmf-dist/tex/latex/amsfonts/amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
-(/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+(/opt/TinyTeX/texmf-dist/tex/latex/amsfonts/amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \@emptytoks=\toks14
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
-)) (/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amsmath.sty
+)) (/opt/TinyTeX/texmf-dist/tex/latex/amsmath/amsmath.sty
 Package: amsmath 2018/12/01 v2.17b AMS math features
 \@mathmargin=\skip43
 For additional information on amsmath, use the `?' option.
-(/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amstext.sty
+(/opt/TinyTeX/texmf-dist/tex/latex/amsmath/amstext.sty
 Package: amstext 2000/06/29 v2.01 AMS text
-(/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amsgen.sty
+(/opt/TinyTeX/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks15
 \ex@=\dimen103
-)) (/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amsbsy.sty
+)) (/opt/TinyTeX/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen104
-) (/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amsopn.sty
+) (/opt/TinyTeX/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 2016/03/08 v2.02 operator names
 )
 \inf@bad=\count89
@@ -118,12 +118,12 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 730.
 \mathdisplay@stack=\toks19
 LaTeX Info: Redefining \[ on input line 2844.
 LaTeX Info: Redefining \] on input line 2845.
-) (/usr/local/texlive/2019/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+) (/opt/TinyTeX/texmf-dist/tex/generic/ifxetex/ifxetex.sty
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
-) (/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+) (/opt/TinyTeX/texmf-dist/tex/generic/oberdiek/ifluatex.sty
 Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
 Package ifluatex Info: LuaTeX not detected.
-) (/usr/local/texlive/2019/texmf-dist/tex/latex/base/fixltx2e.sty
+) (/opt/TinyTeX/texmf-dist/tex/latex/base/fixltx2e.sty
 Package: fixltx2e 2016/12/29 v2.1a fixes to LaTeX (obsolete)
 Applying: [2015/01/01] Old fixltx2e package on input line 46.
 
@@ -132,23 +132,22 @@ Package fixltx2e Warning: fixltx2e is not required with releases after 2015
 (fixltx2e)                See the latexrelease package for details.
 
 Already applied: [0000/00/00] Old fixltx2e package on input line 53.
-) (/usr/local/texlive/2019/texmf-dist/tex/latex/unicode-math/unicode-math.sty (
-/usr/local/texlive/2019/texmf-dist/tex/latex/l3kernel/expl3.sty
-Package: expl3 2019-05-07 L3 programming layer (loader) 
-(/usr/local/texlive/2019/texmf-dist/tex/latex/l3kernel/expl3-code.tex
-Package: expl3 2019-05-07 L3 programming layer (code)
+) (/opt/TinyTeX/texmf-dist/tex/latex/unicode-math/unicode-math.sty (/opt/TinyTe
+X/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2019-02-15 L3 programming layer (loader) 
+(/opt/TinyTeX/texmf-dist/tex/latex/l3kernel/expl3-code.tex
+Package: expl3 2019-02-15 L3 programming layer (code)
 \c_max_int=\count101
 \l_tmpa_int=\count102
 \l_tmpb_int=\count103
 \g_tmpa_int=\count104
 \g_tmpb_int=\count105
 \g__kernel_prg_map_int=\count106
-\c__ior_term_ior=\count107
-\c_log_iow=\count108
-\l_iow_line_count_int=\count109
-\l__iow_line_target_int=\count110
-\l__iow_one_indent_int=\count111
-\l__iow_indent_int=\count112
+\c_log_iow=\count107
+\l_iow_line_count_int=\count108
+\l__iow_line_target_int=\count109
+\l__iow_one_indent_int=\count110
+\l__iow_indent_int=\count111
 \c_zero_dim=\dimen112
 \c_max_dim=\dimen113
 \l_tmpa_dim=\dimen114
@@ -167,75 +166,75 @@ Package: expl3 2019-05-07 L3 programming layer (code)
 \l_tmpb_muskip=\muskip14
 \g_tmpa_muskip=\muskip15
 \g_tmpb_muskip=\muskip16
-\l_keys_choice_int=\count113
-\l__intarray_loop_int=\count114
+\l_keys_choice_int=\count112
+\l__intarray_loop_int=\count113
 \c__intarray_sp_dim=\dimen118
-\g__intarray_font_int=\count115
-\c__fp_leading_shift_int=\count116
-\c__fp_middle_shift_int=\count117
-\c__fp_trailing_shift_int=\count118
-\c__fp_big_leading_shift_int=\count119
-\c__fp_big_middle_shift_int=\count120
-\c__fp_big_trailing_shift_int=\count121
-\c__fp_Bigg_leading_shift_int=\count122
-\c__fp_Bigg_middle_shift_int=\count123
-\c__fp_Bigg_trailing_shift_int=\count124
-\g__fp_array_int=\count125
-\l__fp_array_loop_int=\count126
-\l__sort_length_int=\count127
-\l__sort_min_int=\count128
-\l__sort_top_int=\count129
-\l__sort_max_int=\count130
-\l__sort_true_max_int=\count131
-\l__sort_block_int=\count132
-\l__sort_begin_int=\count133
-\l__sort_end_int=\count134
-\l__sort_A_int=\count135
-\l__sort_B_int=\count136
-\l__sort_C_int=\count137
-\l__tl_analysis_normal_int=\count138
-\l__tl_analysis_index_int=\count139
-\l__tl_analysis_nesting_int=\count140
-\l__tl_analysis_type_int=\count141
-\l__regex_internal_a_int=\count142
-\l__regex_internal_b_int=\count143
-\l__regex_internal_c_int=\count144
-\l__regex_balance_int=\count145
-\l__regex_group_level_int=\count146
-\l__regex_mode_int=\count147
-\c__regex_cs_in_class_mode_int=\count148
-\c__regex_cs_mode_int=\count149
-\l__regex_catcodes_int=\count150
-\l__regex_default_catcodes_int=\count151
-\c__regex_catcode_L_int=\count152
-\c__regex_catcode_O_int=\count153
-\c__regex_catcode_A_int=\count154
-\c__regex_all_catcodes_int=\count155
-\l__regex_show_lines_int=\count156
-\l__regex_min_state_int=\count157
-\l__regex_max_state_int=\count158
-\l__regex_left_state_int=\count159
-\l__regex_right_state_int=\count160
-\l__regex_capturing_group_int=\count161
-\l__regex_min_pos_int=\count162
-\l__regex_max_pos_int=\count163
-\l__regex_curr_pos_int=\count164
-\l__regex_start_pos_int=\count165
-\l__regex_success_pos_int=\count166
-\l__regex_curr_char_int=\count167
-\l__regex_curr_catcode_int=\count168
-\l__regex_last_char_int=\count169
-\l__regex_case_changed_char_int=\count170
-\l__regex_curr_state_int=\count171
-\l__regex_step_int=\count172
-\l__regex_min_active_int=\count173
-\l__regex_max_active_int=\count174
-\l__regex_replacement_csnames_int=\count175
-\l__regex_match_count_int=\count176
-\l__regex_min_submatch_int=\count177
-\l__regex_submatch_int=\count178
-\l__regex_zeroth_submatch_int=\count179
-\g__regex_trace_regex_int=\count180
+\g__intarray_font_int=\count114
+\c__fp_leading_shift_int=\count115
+\c__fp_middle_shift_int=\count116
+\c__fp_trailing_shift_int=\count117
+\c__fp_big_leading_shift_int=\count118
+\c__fp_big_middle_shift_int=\count119
+\c__fp_big_trailing_shift_int=\count120
+\c__fp_Bigg_leading_shift_int=\count121
+\c__fp_Bigg_middle_shift_int=\count122
+\c__fp_Bigg_trailing_shift_int=\count123
+\g__fp_array_int=\count124
+\l__fp_array_loop_int=\count125
+\l__sort_length_int=\count126
+\l__sort_min_int=\count127
+\l__sort_top_int=\count128
+\l__sort_max_int=\count129
+\l__sort_true_max_int=\count130
+\l__sort_block_int=\count131
+\l__sort_begin_int=\count132
+\l__sort_end_int=\count133
+\l__sort_A_int=\count134
+\l__sort_B_int=\count135
+\l__sort_C_int=\count136
+\l__tl_analysis_normal_int=\count137
+\l__tl_analysis_index_int=\count138
+\l__tl_analysis_nesting_int=\count139
+\l__tl_analysis_type_int=\count140
+\l__regex_internal_a_int=\count141
+\l__regex_internal_b_int=\count142
+\l__regex_internal_c_int=\count143
+\l__regex_balance_int=\count144
+\l__regex_group_level_int=\count145
+\l__regex_mode_int=\count146
+\c__regex_cs_in_class_mode_int=\count147
+\c__regex_cs_mode_int=\count148
+\l__regex_catcodes_int=\count149
+\l__regex_default_catcodes_int=\count150
+\c__regex_catcode_L_int=\count151
+\c__regex_catcode_O_int=\count152
+\c__regex_catcode_A_int=\count153
+\c__regex_all_catcodes_int=\count154
+\l__regex_show_lines_int=\count155
+\l__regex_min_state_int=\count156
+\l__regex_max_state_int=\count157
+\l__regex_left_state_int=\count158
+\l__regex_right_state_int=\count159
+\l__regex_capturing_group_int=\count160
+\l__regex_min_pos_int=\count161
+\l__regex_max_pos_int=\count162
+\l__regex_curr_pos_int=\count163
+\l__regex_start_pos_int=\count164
+\l__regex_success_pos_int=\count165
+\l__regex_curr_char_int=\count166
+\l__regex_curr_catcode_int=\count167
+\l__regex_last_char_int=\count168
+\l__regex_case_changed_char_int=\count169
+\l__regex_curr_state_int=\count170
+\l__regex_step_int=\count171
+\l__regex_min_active_int=\count172
+\l__regex_max_active_int=\count173
+\l__regex_replacement_csnames_int=\count174
+\l__regex_match_count_int=\count175
+\l__regex_min_submatch_int=\count176
+\l__regex_submatch_int=\count177
+\l__regex_zeroth_submatch_int=\count178
+\g__regex_trace_regex_int=\count179
 \c_empty_box=\box29
 \l_tmpa_box=\box30
 \l_tmpb_box=\box31
@@ -265,101 +264,92 @@ Package: expl3 2019-05-07 L3 programming layer (code)
 \l_tmpb_coffin=\box40
 \g_tmpa_coffin=\box41
 \g_tmpb_coffin=\box42
-\l__coffin_bounding_shift_dim=\dimen134
-\l__coffin_left_corner_dim=\dimen135
-\l__coffin_right_corner_dim=\dimen136
-\l__coffin_bottom_corner_dim=\dimen137
-\l__coffin_top_corner_dim=\dimen138
-\l__coffin_scaled_total_height_dim=\dimen139
-\l__coffin_scaled_width_dim=\dimen140
 \c__coffin_empty_coffin=\box43
 \l__coffin_display_coffin=\box44
 \l__coffin_display_coord_coffin=\box45
 \l__coffin_display_pole_coffin=\box46
-\l__coffin_display_offset_dim=\dimen141
-\l__coffin_display_x_dim=\dimen142
-\l__coffin_display_y_dim=\dimen143
+\l__coffin_display_offset_dim=\dimen134
+\l__coffin_display_x_dim=\dimen135
+\l__coffin_display_y_dim=\dimen136
 \g__file_internal_ior=\read1
-\l__seq_internal_a_int=\count181
-\l__seq_internal_b_int=\count182
-\c__deprecation_minus_one=\count183
-) (/usr/local/texlive/2019/texmf-dist/tex/latex/l3kernel/l3xdvipdfmx.def
-File: l3xdvipdfmx.def 2019-04-06 v L3 Experimental driver: xdvipdfmx
-\g__driver_image_int=\count184
-\l__driver_pdf_tmp_box=\box47
-\g__driver_pdf_object_int=\count185
-\g__driver_pdf_annotation_int=\count186
+\l__coffin_bounding_shift_dim=\dimen137
+\l__coffin_left_corner_dim=\dimen138
+\l__coffin_right_corner_dim=\dimen139
+\l__coffin_bottom_corner_dim=\dimen140
+\l__coffin_top_corner_dim=\dimen141
+\l__coffin_scaled_total_height_dim=\dimen142
+\l__coffin_scaled_width_dim=\dimen143
+) (/opt/TinyTeX/texmf-dist/tex/latex/l3kernel/l3xdvipdfmx.def
+File: l3xdvipdfmx.def 2019-02-15 v L3 Experimental driver: xdvipdfmx
+\g__driver_image_int=\count180
+\g__driver_pdf_object_int=\count181
 ))
-Package: unicode-math 2019/03/04 v0.8o Unicode maths in XeLaTeX and LuaLaTeX
-
-(/usr/local/texlive/2019/texmf-dist/tex/latex/unicode-math/unicode-math-xetex.s
-ty
-Package: unicode-math-xetex 2019/03/04 v0.8o Unicode maths in XeLaTeX and LuaLa
+Package: unicode-math 2019/02/15 v0.8n Unicode maths in XeLaTeX and LuaLaTeX
+(/opt/TinyTeX/texmf-dist/tex/latex/unicode-math/unicode-math-xetex.sty
+Package: unicode-math-xetex 2019/02/15 v0.8n Unicode maths in XeLaTeX and LuaLa
 TeX
-(/usr/local/texlive/2019/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
-Package: xparse 2019-05-03 L3 Experimental document command parser
-\l__xparse_current_arg_int=\count187
-\g__xparse_grabber_int=\count188
-\l__xparse_m_args_int=\count189
-\l__xparse_v_nesting_int=\count190
-) (/usr/local/texlive/2019/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.st
-y
-Package: l3keys2e 2019-05-03 LaTeX2e option processing using LaTeX3 keys
-) (/usr/local/texlive/2019/texmf-dist/tex/latex/fontspec/fontspec.sty
-Package: fontspec 2019/03/15 v2.7c Font selection for XeLaTeX and LuaLaTeX
-(/usr/local/texlive/2019/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
-Package: fontspec-xetex 2019/03/15 v2.7c Font selection for XeLaTeX and LuaLaTe
+(/opt/TinyTeX/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+Package: xparse 2018-10-17 L3 Experimental document command parser
+\l__xparse_current_arg_int=\count182
+\g__xparse_grabber_int=\count183
+\l__xparse_m_args_int=\count184
+\l__xparse_mandatory_args_int=\count185
+\l__xparse_v_nesting_int=\count186
+) (/opt/TinyTeX/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+Package: l3keys2e 2018-10-17 LaTeX2e option processing using LaTeX3 keys
+) (/opt/TinyTeX/texmf-dist/tex/latex/fontspec/fontspec.sty
+Package: fontspec 2019/02/12 v2.7b Font selection for XeLaTeX and LuaLaTeX
+(/opt/TinyTeX/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+Package: fontspec-xetex 2019/02/12 v2.7b Font selection for XeLaTeX and LuaLaTe
 X
-\l__fontspec_script_int=\count191
-\l__fontspec_language_int=\count192
-\l__fontspec_strnum_int=\count193
-\l__fontspec_tmp_int=\count194
-\l__fontspec_tmpa_int=\count195
-\l__fontspec_tmpb_int=\count196
-\l__fontspec_tmpc_int=\count197
-\l__fontspec_em_int=\count198
-\l__fontspec_emdef_int=\count199
-\l__fontspec_strong_int=\count266
-\l__fontspec_strongdef_int=\count267
+\l__fontspec_script_int=\count187
+\l__fontspec_language_int=\count188
+\l__fontspec_strnum_int=\count189
+\l__fontspec_tmp_int=\count190
+\l__fontspec_tmpa_int=\count191
+\l__fontspec_tmpb_int=\count192
+\l__fontspec_tmpc_int=\count193
+\l__fontspec_em_int=\count194
+\l__fontspec_emdef_int=\count195
+\l__fontspec_strong_int=\count196
+\l__fontspec_strongdef_int=\count197
 \l__fontspec_tmpa_dim=\dimen144
 \l__fontspec_tmpb_dim=\dimen145
 \l__fontspec_tmpc_dim=\dimen146
-(/usr/local/texlive/2019/texmf-dist/tex/latex/base/fontenc.sty
+(/opt/TinyTeX/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2018/08/11 v2.0j Standard LaTeX package
-(/usr/local/texlive/2019/texmf-dist/tex/latex/base/tuenc.def
+(/opt/TinyTeX/texmf-dist/tex/latex/base/tuenc.def
 File: tuenc.def 2018/08/11 v2.0j Standard LaTeX file
 LaTeX Font Info:    Redeclaring font encoding TU on input line 82.
-)) (/usr/local/texlive/2019/texmf-dist/tex/latex/fontspec/fontspec.cfg)
-LaTeX Info: Redefining \itshape on input line 4051.
-LaTeX Info: Redefining \slshape on input line 4056.
-LaTeX Info: Redefining \scshape on input line 4061.
-LaTeX Info: Redefining \upshape on input line 4066.
-LaTeX Info: Redefining \em on input line 4096.
-LaTeX Info: Redefining \emph on input line 4121.
-)) (/usr/local/texlive/2019/texmf-dist/tex/latex/filehook/filehook.sty
+)) (/opt/TinyTeX/texmf-dist/tex/latex/fontspec/fontspec.cfg)
+LaTeX Info: Redefining \itshape on input line 4044.
+LaTeX Info: Redefining \slshape on input line 4049.
+LaTeX Info: Redefining \scshape on input line 4054.
+LaTeX Info: Redefining \upshape on input line 4059.
+LaTeX Info: Redefining \em on input line 4089.
+LaTeX Info: Redefining \emph on input line 4114.
+)) (/opt/TinyTeX/texmf-dist/tex/latex/filehook/filehook.sty
 Package: filehook 2011/10/12 v0.5d Hooks for input files
-) (/usr/local/texlive/2019/texmf-dist/tex/latex/base/fix-cm.sty
+) (/opt/TinyTeX/texmf-dist/tex/latex/base/fix-cm.sty
 Package: fix-cm 2015/01/14 v1.1t fixes to LaTeX
-(/usr/local/texlive/2019/texmf-dist/tex/latex/base/ts1enc.def
+(/opt/TinyTeX/texmf-dist/tex/latex/base/ts1enc.def
 File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
 ))
-\g__um_fam_int=\count268
-\g__um_fonts_used_int=\count269
-\l__um_primecount_int=\count270
+\g__um_fam_int=\count198
+\g__um_fonts_used_int=\count199
+\l__um_primecount_int=\count266
 \g__um_primekern_muskip=\muskip17
-
-(/usr/local/texlive/2019/texmf-dist/tex/latex/unicode-math/unicode-math-table.t
-ex)
+(/opt/TinyTeX/texmf-dist/tex/latex/unicode-math/unicode-math-table.tex)
 
 Package unicode-math Info: I'm going to patch macro \subarray.
 
 
 Package unicode-math Info: I'm going to patch macro \r@@t.
 
-)) (/usr/local/texlive/2019/texmf-dist/tex/latex/upquote/upquote.sty
+)) (/opt/TinyTeX/texmf-dist/tex/latex/upquote/upquote.sty
 Package: upquote 2012/04/19 v1.3 upright-quote and grave-accent glyphs in verba
 tim
-(/usr/local/texlive/2019/texmf-dist/tex/latex/base/textcomp.sty
+(/opt/TinyTeX/texmf-dist/tex/latex/base/textcomp.sty
 Package: textcomp 2018/08/11 v2.0j Standard LaTeX package
 Package textcomp Info: Sub-encoding information:
 (textcomp)               5 = only ISO-Adobe without \textcurrency
@@ -373,7 +363,7 @@ Package textcomp Info: Sub-encoding information:
 (textcomp)             Family '?' is the default used for unknown fonts.
 (textcomp)             See the documentation for details.
 Package textcomp Info: Setting ? sub-encoding to TS1/1 on input line 79.
-(/usr/local/texlive/2019/texmf-dist/tex/latex/base/ts1enc.def
+(/opt/TinyTeX/texmf-dist/tex/latex/base/ts1enc.def
 File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
 LaTeX Font Info:    Redeclaring font encoding TS1 on input line 47.
 )
@@ -440,46 +430,34 @@ Package textcomp Info: Setting pplx sub-encoding to TS1/3 on input line 406.
 Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 407.
 Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 408.
 Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 409.
-)) (/usr/local/texlive/2019/texmf-dist/tex/latex/microtype/microtype.sty
-Package: microtype 2019/02/28 v2.7b Micro-typographical refinements (RS)
-(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/keyval.sty
+)) (/opt/TinyTeX/texmf-dist/tex/latex/parskip/parskip.sty
+Package: parskip 2019-01-16 v2.0c non-zero parskip adjustments
+(/opt/TinyTeX/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+(/opt/TinyTeX/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks20
-)
-\MT@toks=\toks21
-\MT@count=\count271
-LaTeX Info: Redefining \textls on input line 790.
-\MT@outer@kern=\dimen147
-LaTeX Info: Redefining \textmicrotypecontext on input line 1336.
-\MT@listname@count=\count272
-(/usr/local/texlive/2019/texmf-dist/tex/latex/microtype/microtype-xetex.def
-File: microtype-xetex.def 2019/02/28 v2.7b Definitions specific to xetex (RS)
-LaTeX Info: Redefining \lsstyle on input line 258.
-)
-Package microtype Info: Loading configuration file microtype.cfg.
-(/usr/local/texlive/2019/texmf-dist/tex/latex/microtype/microtype.cfg
-File: microtype.cfg 2019/02/28 v2.7b microtype main configuration file (RS)
-)) (/usr/local/texlive/2019/texmf-dist/tex/latex/parskip/parskip.sty
-Package: parskip 2019-01-16 v2.0c non-zero parskip adjustments
-(/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/kvoptions.sty
-Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
-(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+) (/opt/TinyTeX/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
 Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
-) (/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+) (/opt/TinyTeX/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
 Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
-(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+(/opt/TinyTeX/texmf-dist/tex/generic/oberdiek/infwarerr.sty
 Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
-) (/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+) (/opt/TinyTeX/texmf-dist/tex/generic/oberdiek/etexcmds.sty
 Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
-))) (/usr/local/texlive/2019/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+))) (/opt/TinyTeX/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 Package: etoolbox 2018/08/19 v2.5f e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count273
-)) (/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/hyperref.sty
+\etb@tempcnta=\count267
+)) (/opt/TinyTeX/texmf-dist/tex/latex/hyperref/hyperref.sty
 Package: hyperref 2018/11/30 v6.88e Hypertext links for LaTeX
-(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+(/opt/TinyTeX/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
 Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
 
-(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+(/opt/TinyTeX/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
 Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
 Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
 Package hobsub Info: Skipping package `infwarerr' (already loaded).
@@ -513,21 +491,21 @@ Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
 Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
 Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
 Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
-) (/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/auxhook.sty
+) (/opt/TinyTeX/texmf-dist/tex/latex/oberdiek/auxhook.sty
 Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
 )
-\@linkdim=\dimen148
-\Hy@linkcounter=\count274
-\Hy@pagecounter=\count275
-(/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/pd1enc.def
+\@linkdim=\dimen147
+\Hy@linkcounter=\count268
+\Hy@pagecounter=\count269
+(/opt/TinyTeX/texmf-dist/tex/latex/hyperref/pd1enc.def
 File: pd1enc.def 2018/11/30 v6.88e Hyperref: PDFDocEncoding definition (HO)
 )
-\Hy@SavedSpaceFactor=\count276
-(/usr/local/texlive/2019/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+\Hy@SavedSpaceFactor=\count270
+(/opt/TinyTeX/texmf-dist/tex/latex/latexconfig/hyperref.cfg
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
 )
 Package hyperref Info: Option `unicode' set `true' on input line 4393.
-(/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/puenc.def
+(/opt/TinyTeX/texmf-dist/tex/latex/hyperref/puenc.def
 File: puenc.def 2018/11/30 v6.88e Hyperref: PDF Unicode definition (HO)
 )
 Package hyperref Info: Hyper figures OFF on input line 4519.
@@ -537,16 +515,16 @@ Package hyperref Info: Plain pages OFF on input line 4534.
 Package hyperref Info: Backreferencing OFF on input line 4539.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4772.
-\c@Hy@tempcnt=\count277
-(/usr/local/texlive/2019/texmf-dist/tex/latex/url/url.sty
+\c@Hy@tempcnt=\count271
+(/opt/TinyTeX/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip18
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 5125.
-\XeTeXLinkMargin=\dimen149
-\Fld@menulength=\count278
-\Field@Width=\dimen150
-\Fld@charsize=\dimen151
+\XeTeXLinkMargin=\dimen148
+\Fld@menulength=\count272
+\Field@Width=\dimen149
+\Fld@charsize=\dimen150
 Package hyperref Info: Hyper figures OFF on input line 6380.
 Package hyperref Info: Link nesting OFF on input line 6385.
 Package hyperref Info: Hyper index ON on input line 6388.
@@ -556,23 +534,23 @@ Package hyperref Info: Link coloring with OCG OFF on input line 6405.
 Package hyperref Info: PDF/A mode OFF on input line 6410.
 LaTeX Info: Redefining \ref on input line 6450.
 LaTeX Info: Redefining \pageref on input line 6454.
-\Hy@abspage=\count279
-\c@Item=\count280
-\c@Hfootnote=\count281
+\Hy@abspage=\count273
+\c@Item=\count274
+\c@Hfootnote=\count275
 )
 Package hyperref Info: Driver (autodetected): hxetex.
-(/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/hxetex.def
+(/opt/TinyTeX/texmf-dist/tex/latex/hyperref/hxetex.def
 File: hxetex.def 2018/11/30 v6.88e Hyperref driver for XeTeX
-(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/stringenc.sty
+(/opt/TinyTeX/texmf-dist/tex/generic/oberdiek/stringenc.sty
 Package: stringenc 2016/05/16 v1.11 Convert strings between diff. encodings (HO
 )
 )
-\pdfm@box=\box48
-\c@Hy@AnnotLevel=\count282
-\HyField@AnnotCount=\count283
-\Fld@listcount=\count284
-\c@bookmark@seq@number=\count285
-(/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+\pdfm@box=\box47
+\c@Hy@AnnotLevel=\count276
+\HyField@AnnotCount=\count277
+\Fld@listcount=\count278
+\c@bookmark@seq@number=\count279
+(/opt/TinyTeX/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
 Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 82.
@@ -580,104 +558,96 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 \Hy@SectionHShift=\skip52
 )
 Package hyperref Info: Option `breaklinks' set `true' on input line 35.
-(/usr/local/texlive/2019/texmf-dist/tex/latex/tools/longtable.sty
+(/opt/TinyTeX/texmf-dist/tex/latex/tools/longtable.sty
 Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)+ FMi change
 \LTleft=\skip53
 \LTright=\skip54
 \LTpre=\skip55
 \LTpost=\skip56
-\LTchunksize=\count286
-\LTcapwidth=\dimen152
-\LT@head=\box49
-\LT@firsthead=\box50
-\LT@foot=\box51
-\LT@lastfoot=\box52
-\LT@cols=\count287
-\LT@rows=\count288
-\c@LT@tables=\count289
-\c@LT@chunks=\count290
-\LT@p@ftn=\toks22
-) (/usr/local/texlive/2019/texmf-dist/tex/latex/booktabs/booktabs.sty
+\LTchunksize=\count280
+\LTcapwidth=\dimen151
+\LT@head=\box48
+\LT@firsthead=\box49
+\LT@foot=\box50
+\LT@lastfoot=\box51
+\LT@cols=\count281
+\LT@rows=\count282
+\c@LT@tables=\count283
+\c@LT@chunks=\count284
+\LT@p@ftn=\toks21
+) (/opt/TinyTeX/texmf-dist/tex/latex/booktabs/booktabs.sty
 Package: booktabs 2016/04/27 v1.618033 publication quality tables
-\heavyrulewidth=\dimen153
-\lightrulewidth=\dimen154
-\cmidrulewidth=\dimen155
-\belowrulesep=\dimen156
-\belowbottomsep=\dimen157
-\aboverulesep=\dimen158
-\abovetopsep=\dimen159
-\cmidrulesep=\dimen160
-\cmidrulekern=\dimen161
-\defaultaddspace=\dimen162
-\@cmidla=\count291
-\@cmidlb=\count292
-\@aboverulesep=\dimen163
-\@belowrulesep=\dimen164
-\@thisruleclass=\count293
-\@lastruleclass=\count294
-\@thisrulewidth=\dimen165
-) (/usr/local/texlive/2019/texmf-dist/tex/latex/mdwtools/footnote.sty
-Package: footnote 1997/01/28 1.13 Save footnotes around boxes
-\fn@notes=\box53
-\fn@width=\dimen166
-) (/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/graphicx.sty
+\heavyrulewidth=\dimen152
+\lightrulewidth=\dimen153
+\cmidrulewidth=\dimen154
+\belowrulesep=\dimen155
+\belowbottomsep=\dimen156
+\aboverulesep=\dimen157
+\abovetopsep=\dimen158
+\cmidrulesep=\dimen159
+\cmidrulekern=\dimen160
+\defaultaddspace=\dimen161
+\@cmidla=\count285
+\@cmidlb=\count286
+\@aboverulesep=\dimen162
+\@belowrulesep=\dimen163
+\@thisruleclass=\count287
+\@lastruleclass=\count288
+\@thisrulewidth=\dimen164
+) (/opt/TinyTeX/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
-(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/graphics.sty
+(/opt/TinyTeX/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
-(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/trig.sty
+(/opt/TinyTeX/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
-) (/usr/local/texlive/2019/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+) (/opt/TinyTeX/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: xetex.def on input line 99.
-(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics-def/xetex.def
+(/opt/TinyTeX/texmf-dist/tex/latex/graphics-def/xetex.def
 File: xetex.def 2017/06/24 v5.0h Graphics/color driver for xetex
 ))
-\Gin@req@height=\dimen167
-\Gin@req@width=\dimen168
-) (/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/grffile.sty
+\Gin@req@height=\dimen165
+\Gin@req@width=\dimen166
+) (/opt/TinyTeX/texmf-dist/tex/latex/oberdiek/grffile.sty
 Package: grffile 2017/06/30 v1.18 Extended file name support for graphics (HO)
 Package grffile Info: Option `multidot' is set to `true'.
 Package grffile Info: Option `extendedchars' is set to `false'.
 Package grffile Info: Option `space' is set to `true'.
 Package grffile Info: \Gin@ii of package `graphicx' fixed on input line 494.
-) (/usr/local/texlive/2019/texmf-dist/tex/latex/ctex/ctex.sty
-Package: ctex 2019/04/07 v2.4.15 Chinese adapter in LaTeX (CTEX)
-(/usr/local/texlive/2019/texmf-dist/tex/latex/ctex/ctexhook.sty
-Package: ctexhook 2019/04/07 v2.4.15 Document and package hooks (CTEX)
-) (/usr/local/texlive/2019/texmf-dist/tex/latex/ctex/ctexpatch.sty
-Package: ctexpatch 2019/04/07 v2.4.15 Patching commands (CTEX)
-) (/usr/local/texlive/2019/texmf-dist/tex/latex/ms/everysel.sty
+) (/opt/TinyTeX/texmf-dist/tex/latex/ctex/ctex.sty
+Package: ctex 2018/05/02 v2.4.14 Chinese adapter in LaTeX (CTEX)
+(/opt/TinyTeX/texmf-dist/tex/latex/ctex/ctexhook.sty
+Package: ctexhook 2018/05/02 v2.4.14 Document and package hooks (CTEX)
+) (/opt/TinyTeX/texmf-dist/tex/latex/ctex/ctexpatch.sty
+Package: ctexpatch 2018/05/02 v2.4.14 Patching commands (CTEX)
+) (/opt/TinyTeX/texmf-dist/tex/latex/ms/everysel.sty
 Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
 )
-\l__ctex_tmp_int=\count295
-\l__ctex_tmp_box=\box54
-\l__ctex_tmp_dim=\dimen169
-\g__ctex_section_depth_int=\count296
-\g__ctex_font_size_int=\count297
-(/usr/local/texlive/2019/texmf-dist/tex/latex/ctex/config/ctexopts.cfg
-File: ctexopts.cfg 2019/04/07 v2.4.15 Option configuration file (CTEX)
-)
-(/usr/local/texlive/2019/texmf-dist/tex/latex/ctex/engine/ctex-engine-xetex.def
-File: ctex-engine-xetex.def 2019/04/07 v2.4.15 XeLaTeX adapter (CTEX)
-(/usr/local/texlive/2019/texmf-dist/tex/xelatex/xecjk/xeCJK.sty
-Package: xeCJK 2019/04/07 v3.7.2 Typesetting CJK scripts with XeLaTeX
-
-(/usr/local/texlive/2019/texmf-dist/tex/latex/l3packages/xtemplate/xtemplate.st
-y
-Package: xtemplate 2019-05-03 L3 Experimental prototype document functions
-\l__xtemplate_tmp_dim=\dimen170
-\l__xtemplate_tmp_int=\count298
+\l__ctex_tmp_int=\count289
+\l__ctex_tmp_box=\box52
+\l__ctex_tmp_dim=\dimen167
+\g__ctex_font_size_flag=\count290
+(/opt/TinyTeX/texmf-dist/tex/latex/ctex/config/ctexopts.cfg
+File: ctexopts.cfg 2018/05/02 v2.4.14 Option configuration file (CTEX)
+) (/opt/TinyTeX/texmf-dist/tex/latex/ctex/engine/ctex-engine-xetex.def
+File: ctex-engine-xetex.def 2018/05/02 v2.4.14 XeLaTeX adapter (CTEX)
+(/opt/TinyTeX/texmf-dist/tex/xelatex/xecjk/xeCJK.sty
+Package: xeCJK 2018/04/30 v3.7.1 Typesetting CJK scripts with XeLaTeX
+(/opt/TinyTeX/texmf-dist/tex/latex/l3packages/xtemplate/xtemplate.sty
+Package: xtemplate 2018-10-17 L3 Experimental prototype document functions
+\l__xtemplate_tmp_dim=\dimen168
+\l__xtemplate_tmp_int=\count291
 \l__xtemplate_tmp_muskip=\muskip19
 \l__xtemplate_tmp_skip=\skip57
 )
-\l__xeCJK_tmp_int=\count299
-\l__xeCJK_tmp_box=\box55
-\l__xeCJK_tmp_dim=\dimen171
+\l__xeCJK_tmp_int=\count292
+\l__xeCJK_tmp_box=\box53
+\l__xeCJK_tmp_dim=\dimen169
 \l__xeCJK_tmp_skip=\skip58
-\g__xeCJK_space_factor_int=\count300
-\l__xeCJK_begin_int=\count301
-\l__xeCJK_end_int=\count302
+\g__xeCJK_space_factor_int=\count293
+\l__xeCJK_begin_int=\count294
+\l__xeCJK_end_int=\count295
 \c__xeCJK_CJK_class_int=\XeTeXcharclass1
 \c__xeCJK_FullLeft_class_int=\XeTeXcharclass2
 \c__xeCJK_FullRight_class_int=\XeTeXcharclass3
@@ -687,103 +657,95 @@ Package: xtemplate 2019-05-03 L3 Experimental prototype document functions
 \c__xeCJK_CM_class_int=\XeTeXcharclass7
 \c__xeCJK_HangulJamo_class_int=\XeTeXcharclass8
 \l__xeCJK_last_skip=\skip59
-\g__xeCJK_node_int=\count303
-\c__xeCJK_CJK_node_dim=\dimen172
-\c__xeCJK_CJK-space_node_dim=\dimen173
-\c__xeCJK_default_node_dim=\dimen174
-\c__xeCJK_default-space_node_dim=\dimen175
-\c__xeCJK_CJK-widow_node_dim=\dimen176
-\c__xeCJK_normalspace_node_dim=\dimen177
+\g__xeCJK_node_int=\count296
+\c__xeCJK_CJK_node_dim=\dimen170
+\c__xeCJK_CJK-space_node_dim=\dimen171
+\c__xeCJK_default_node_dim=\dimen172
+\c__xeCJK_default-space_node_dim=\dimen173
+\c__xeCJK_CJK-widow_node_dim=\dimen174
+\c__xeCJK_normalspace_node_dim=\dimen175
 \l__xeCJK_ccglue_skip=\skip60
 \l__xeCJK_ecglue_skip=\skip61
 \l__xeCJK_punct_kern_skip=\skip62
-\l__xeCJK_last_penalty_int=\count304
-\l__xeCJK_last_bound_dim=\dimen178
-\l__xeCJK_last_kern_dim=\dimen179
-\l__xeCJK_widow_penalty_int=\count305
+\l__xeCJK_last_penalty_int=\count297
+\l__xeCJK_last_bound_dim=\dimen176
+\l__xeCJK_last_kern_dim=\dimen177
+\l__xeCJK_widow_penalty_int=\count298
 
 Package xtemplate Info: Declaring object type 'xeCJK/punctuation' taking 0
-(xtemplate)             argument(s) on line 2352.
+(xtemplate)             argument(s) on line 2362.
 
-\l__xeCJK_fixed_punct_width_dim=\dimen180
-\l__xeCJK_mixed_punct_width_dim=\dimen181
-\l__xeCJK_middle_punct_width_dim=\dimen182
-\l__xeCJK_fixed_margin_width_dim=\dimen183
-\l__xeCJK_mixed_margin_width_dim=\dimen184
-\l__xeCJK_middle_margin_width_dim=\dimen185
-\l__xeCJK_bound_punct_width_dim=\dimen186
-\l__xeCJK_bound_margin_width_dim=\dimen187
-\l__xeCJK_margin_minimum_dim=\dimen188
-\l__xeCJK_kerning_total_width_dim=\dimen189
-\l__xeCJK_same_align_margin_dim=\dimen190
-\l__xeCJK_different_align_margin_dim=\dimen191
-\l__xeCJK_kerning_margin_width_dim=\dimen192
-\l__xeCJK_kerning_margin_minimum_dim=\dimen193
-\l__xeCJK_bound_dim=\dimen194
-\l__xeCJK_reverse_bound_dim=\dimen195
-\l__xeCJK_minimum_bound_dim=\dimen196
-\l__xeCJK_kerning_margin_dim=\dimen197
-\l__xeCJK_original_margin_dim=\dimen198
-\g__xeCJK_family_int=\count306
-\l__xeCJK_fam_int=\count307
-\g__xeCJK_fam_allocation_int=\count308
-\l__xeCJK_verb_case_int=\count309
+\l__xeCJK_fixed_punct_width_dim=\dimen178
+\l__xeCJK_mixed_punct_width_dim=\dimen179
+\l__xeCJK_middle_punct_width_dim=\dimen180
+\l__xeCJK_fixed_margin_width_dim=\dimen181
+\l__xeCJK_mixed_margin_width_dim=\dimen182
+\l__xeCJK_middle_margin_width_dim=\dimen183
+\l__xeCJK_bound_punct_width_dim=\dimen184
+\l__xeCJK_bound_margin_width_dim=\dimen185
+\l__xeCJK_margin_minimum_dim=\dimen186
+\l__xeCJK_kerning_total_width_dim=\dimen187
+\l__xeCJK_same_align_margin_dim=\dimen188
+\l__xeCJK_different_align_margin_dim=\dimen189
+\l__xeCJK_kerning_margin_width_dim=\dimen190
+\l__xeCJK_kerning_margin_minimum_dim=\dimen191
+\l__xeCJK_bound_dim=\dimen192
+\l__xeCJK_reverse_bound_dim=\dimen193
+\l__xeCJK_minimum_bound_dim=\dimen194
+\l__xeCJK_kerning_margin_dim=\dimen195
+\l__xeCJK_original_margin_dim=\dimen196
+\g__xeCJK_family_int=\count299
+\l__xeCJK_fam_int=\count300
+\g__xeCJK_fam_allocation_int=\count301
+\l__xeCJK_verb_case_int=\count302
 \l__xeCJK_verb_exspace_skip=\skip63
-(/usr/local/texlive/2019/texmf-dist/tex/xelatex/xecjk/xeCJK.cfg
-File: xeCJK.cfg 2019/04/07 v3.7.2 Configuration file for xeCJK package
-)) (/usr/local/texlive/2019/texmf-dist/tex/xelatex/xecjk/xeCJKfntef.sty
-Package: xeCJKfntef 2019/04/07 v3.7.2 xeCJK font effect
-(/usr/local/texlive/2019/texmf-dist/tex/generic/ulem/ulem.sty
-\UL@box=\box56
-\UL@hyphenbox=\box57
+(/opt/TinyTeX/texmf-dist/tex/xelatex/xecjk/xeCJK.cfg
+File: xeCJK.cfg 2018/04/30 v3.7.1 Configuration file for xeCJK package
+)) (/opt/TinyTeX/texmf-dist/tex/xelatex/xecjk/xeCJKfntef.sty
+Package: xeCJKfntef 2018/04/30 v3.7.1 xeCJK font effect
+(/opt/TinyTeX/texmf-dist/tex/generic/ulem/ulem.sty
+\UL@box=\box54
+\UL@hyphenbox=\box55
 \UL@skip=\skip64
-\UL@hook=\toks23
-\UL@height=\dimen199
-\UL@pe=\count310
-\UL@pixel=\dimen256
-\ULC@box=\box58
+\UL@hook=\toks22
+\UL@height=\dimen197
+\UL@pe=\count303
+\UL@pixel=\dimen198
+\ULC@box=\box56
 Package: ulem 2012/05/18
-\ULdepth=\dimen257
-) (/usr/local/texlive/2019/texmf-dist/tex/latex/cjk/texinput/CJKfntef.sty
-Package: CJKfntef 2015/04/18 4.8.4
-\CJK@fntefSkip=\skip65
-\CJK@nest=\count311
-\CJK@fntefDimen=\dimen258
-\CJK@underdotBox=\box59
-\CJK@ULbox=\box60
-\CJK@underanyskip=\dimen259
-)
-\l__xeCJK_space_skip=\skip66
-\c__xeCJK_ulem-begin_node_dim=\dimen260
-\c__xeCJK_null_box=\box61
-\l__xeCJK_fntef_box=\box62
-\l__xeCJK_under_symbol_box=\box63
-\c__xeCJK_filll_skip=\skip67
-)
-\ccwd=\dimen261
-\l__ctex_ccglue_skip=\skip68
-)
-\l__ctex_ziju_dim=\dimen262
-(/usr/local/texlive/2019/texmf-dist/tex/latex/zhnumber/zhnumber.sty
-Package: zhnumber 2019/04/07 v2.7 Typesetting numbers with Chinese glyphs
-\l__zhnum_scale_int=\count312
-(/usr/local/texlive/2019/texmf-dist/tex/latex/zhnumber/zhnumber-utf8.cfg
-File: zhnumber-utf8.cfg 2019/04/07 v2.7 Chinese numerals with UTF8 encoding
+\ULdepth=\dimen199
+) (/opt/TinyTeX/texmf-dist/tex/latex/environ/environ.sty
+Package: environ 2014/05/04 v0.3 A new way to define environments
+(/opt/TinyTeX/texmf-dist/tex/latex/trimspaces/trimspaces.sty
+Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
 ))
-(/usr/local/texlive/2019/texmf-dist/tex/latex/ctex/scheme/ctex-scheme-chinese.d
-ef
-File: ctex-scheme-chinese.def 2019/04/07 v2.4.15 Chinese scheme for generic (CT
-EX)
-(/usr/local/texlive/2019/texmf-dist/tex/latex/ctex/config/ctex-name-utf8.cfg
-File: ctex-name-utf8.cfg 2019/04/07 v2.4.15 Caption with encoding UTF8 (CTEX)
-)) (/usr/local/texlive/2019/texmf-dist/tex/latex/tools/indentfirst.sty
-Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
-) (/usr/local/texlive/2019/texmf-dist/tex/latex/ctex/ctex-c5size.clo
-File: ctex-c5size.clo 2019/04/07 v2.4.15 c5size option (CTEX)
+\l__xeCJK_space_skip=\skip65
+\c__xeCJK_ulem-begin_node_dim=\dimen256
+\c__xeCJK_null_box=\box57
+\l__xeCJK_fntef_box=\box58
+\l__xeCJK_under_symbol_box=\box59
+\c__xeCJK_filll_skip=\skip66
 )
-(/usr/local/texlive/2019/texmf-dist/tex/latex/ctex/fontset/ctex-fontset-fandol.
-def
-File: ctex-fontset-fandol.def 2019/04/07 v2.4.15 Fandol fonts definition (CTEX)
+\ccwd=\dimen257
+\l__ctex_ccglue_skip=\skip67
+)
+\l__ctex_ziju_dim=\dimen258
+(/opt/TinyTeX/texmf-dist/tex/latex/zhnumber/zhnumber.sty
+Package: zhnumber 2018/01/28 v2.6 Typesetting numbers with Chinese glyphs
+\l__zhnum_scale_int=\count304
+(/opt/TinyTeX/texmf-dist/tex/latex/zhnumber/zhnumber-utf8.cfg
+File: zhnumber-utf8.cfg 2018/01/28 v2.6 Chinese numerals with UTF8 encoding
+)) (/opt/TinyTeX/texmf-dist/tex/latex/ctex/scheme/ctex-scheme-chinese.def
+File: ctex-scheme-chinese.def 2018/05/02 v2.4.14 Chinese scheme for generic (CT
+EX)
+(/opt/TinyTeX/texmf-dist/tex/latex/ctex/config/ctex-name-utf8.cfg
+File: ctex-name-utf8.cfg 2018/05/02 v2.4.14 Caption with encoding UTF8 (CTEX)
+)) (/opt/TinyTeX/texmf-dist/tex/latex/tools/indentfirst.sty
+Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
+) (/opt/TinyTeX/texmf-dist/tex/latex/ctex/ctex-c5size.clo
+File: ctex-c5size.clo 2018/05/02 v2.4.14 c5size option (CTEX)
+) (/opt/TinyTeX/texmf-dist/tex/latex/ctex/fontset/ctex-fontset-fandol.def
+File: ctex-fontset-fandol.def 2018/05/02 v2.4.14 Fandol fonts definition (CTEX)
 
 
 Package fontspec Warning: Font "FandolSong-Regular" does not contain requested
@@ -822,2937 +784,49 @@ ng=tex-text;"
 ing=tex-text;"
 (fontspec)             - 'italic small caps'  (m/itsc) with NFSS spec.: 
 
-)) (/usr/local/texlive/2019/texmf-dist/tex/latex/ctex/config/ctex.cfg
-File: ctex.cfg 2019/04/07 v2.4.15 Configuration file (CTEX)
+)) (/opt/TinyTeX/texmf-dist/tex/latex/ctex/config/ctex.cfg
+File: ctex.cfg 2018/05/02 v2.4.14 Configuration file (CTEX)
 )
 
 Package xeCJK Warning: Redefining CJKfamily `\CJKrmdefault'
 (xeCJK)                (FandolSong-Regular(0)).
 
 
-Package fontspec Warning: Font "STFangsong" does not contain requested Script
-(fontspec)                "CJK".
-
-
-Package fontspec Info: STFangsong scale = 0.9707213523154882.
-
-
-Package fontspec Info: Could not resolve font "STFangsong/BI" (it probably
-(fontspec)             doesn't exist).
-
-
-Package fontspec Info: Could not resolve font "STFangsong/B" (it probably
-(fontspec)             doesn't exist).
-
-
-Package fontspec Info: Could not resolve font "STFangsong/I" (it probably
-(fontspec)             doesn't exist).
-
-
-Package fontspec Info: STFangsong scale = 0.9707213523154882.
-
-
-Package fontspec Info: Font family 'STFangsong(0)' created for font
-(fontspec)             'STFangsong' with options
-(fontspec)             [Ligatures=TeX,Scale=MatchLowercase,Script={CJK}].
-(fontspec)              
-(fontspec)              This font family consists of the following NFSS
-(fontspec)             series/shapes:
-(fontspec)              
-(fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <->s*[0.9707213523154882]"STFangsong/OT:mapping=tex-text
-;"
-(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
-
-
-Package xeCJK Warning: Redefining CJKfamily `\CJKttdefault'
-(xeCJK)                (FandolFang-Regular).
-
-
-Package xeCJK Warning: Redefining CJKfamily `\CJKsfdefault'
-(xeCJK)                (FandolHei-Regular).
-
-(/usr/local/texlive/2019/texmf-dist/tex/latex/natbib/natbib.sty
-Package: natbib 2010/09/13 8.31b (PWD, AO)
-\bibhang=\skip69
-\bibsep=\skip70
-LaTeX Info: Redefining \cite on input line 694.
-\c@NAT@ctr=\count313
-) (./hjhbb.aux)
-\openout1 = `hjhbb.aux'.
-
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 81.
-LaTeX Font Info:    ... okay on input line 81.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 81.
-LaTeX Font Info:    ... okay on input line 81.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 81.
-LaTeX Font Info:    ... okay on input line 81.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 81.
-LaTeX Font Info:    ... okay on input line 81.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 81.
-LaTeX Font Info:    ... okay on input line 81.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 81.
-LaTeX Font Info:    ... okay on input line 81.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 81.
-LaTeX Font Info:    ... okay on input line 81.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 81.
-LaTeX Font Info:    ... okay on input line 81.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 81.
-LaTeX Font Info:    ... okay on input line 81.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 81.
-LaTeX Font Info:    ... okay on input line 81.
-LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/lmr/m/n --> TU/lmr/m/n on input line 81.
-LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/lmr/m/it --> TU/lmr/m/it on input line 81.
-LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/lmr/bx/n --> TU/lmr/bx/n on input line 81.
-LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/lmss/m/n --> TU/lmss/m/n on input line 81.
-LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/lmss/bx/n --> TU/lmss/bx/n on input line 81.
-LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/lmtt/m/n --> TU/lmtt/m/n on input line 81.
-LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/lmtt/m/n --> TU/lmtt/bx/n on input line 81.
-
-Package fontspec Info: latinmodern-math scale = 1.
-
-
-Package fontspec Info: latinmodern-math scale = 1.
-
-
-Package fontspec Info: latinmodern-math scale = 1.
-
-
-Package fontspec Info: Font family 'latinmodern-math.otf(0)' created for font
-(fontspec)             'latinmodern-math.otf' with options
-(fontspec)             [Ligatures=TeX,Scale=MatchLowercase,BoldItalicFont={},It
-alicFont={},SmallCapsFont={},Script=Math,BoldFont={latinmodern-math.otf}].
-(fontspec)              
-(fontspec)              This font family consists of the following NFSS
-(fontspec)             series/shapes:
-(fontspec)              
-(fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <->s*[1]"[latinmodern-math.otf]/OT:script=math;language=
-DFLT;mapping=tex-text;"
-(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
-(fontspec)             - 'bold' (bx/n) with NFSS spec.:
-(fontspec)             <->s*[1]"[latinmodern-math.otf]/OT:script=math;language=
-DFLT;mapping=tex-text;"
-(fontspec)             - 'bold small caps'  (bx/sc) with NFSS spec.: 
-
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(0)/m/n' will be
-(Font)              scaled to size 10.53937pt on input line 81.
-
-Package fontspec Info: latinmodern-math scale = 1.
-
-
-Package fontspec Info: latinmodern-math scale = 1.
-
-
-Package fontspec Info: latinmodern-math scale = 1.
-
-
-Package fontspec Info: latinmodern-math scale = 1.
-
-
-Package fontspec Info: latinmodern-math scale = 1.
-
-
-Package fontspec Info: Font family 'latinmodern-math.otf(1)' created for font
-(fontspec)             'latinmodern-math.otf' with options
-(fontspec)             [Ligatures=TeX,Scale=MatchLowercase,BoldItalicFont={},It
-alicFont={},SmallCapsFont={},Script=Math,SizeFeatures={{Size=8.9584645-},{Size=
-6.323622-8.9584645,Font=latinmodern-math.otf,Style=MathScript},{Size=-6.323622,
-Font=latinmodern-math.otf,Style=MathScriptScript}},BoldFont={latinmodern-math.o
-tf}].
-(fontspec)              
-(fontspec)              This font family consists of the following NFSS
-(fontspec)             series/shapes:
-(fontspec)              
-(fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <8.9584645->s*[1]"[latinmodern-math.otf]/OT:script=math;
-language=DFLT;mapping=tex-text;"<6.323622-8.9584645>s*[1]"[latinmodern-math.otf
-]/OT:script=math;language=DFLT;+ssty=0;mapping=tex-text;"<-6.323622>s*[1]"[lati
-nmodern-math.otf]/OT:script=math;language=DFLT;+ssty=1;mapping=tex-text;"
-(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
-(fontspec)             - 'bold' (bx/n) with NFSS spec.:
-(fontspec)             <->s*[1]"[latinmodern-math.otf]/OT:script=math;language=
-DFLT;mapping=tex-text;"
-(fontspec)             - 'bold small caps'  (bx/sc) with NFSS spec.: 
-
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 10.53937pt on input line 81.
-LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 81.
-LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/lmr/m/n --> TU/latinmodern-math.otf(1)/m/n on input
- line 81.
-LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 81.
-LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/lmr/bx/n --> TU/latinmodern-math.otf(1)/bx/n on inp
-ut line 81.
-
-Package fontspec Info: latinmodern-math scale = 1.
-
-
-Package fontspec Info: latinmodern-math scale = 1.0001.
-
-
-Package fontspec Info: latinmodern-math scale = 1.
-
-
-Package fontspec Info: latinmodern-math scale = 1.0001.
-
-
-Package fontspec Info: latinmodern-math scale = 1.
-
-
-Package fontspec Info: latinmodern-math scale = 1.0001.
-
-
-Package fontspec Info: latinmodern-math scale = 1.
-
-
-Package fontspec Info: latinmodern-math scale = 1.0001.
-
-
-Package fontspec Info: latinmodern-math scale = 1.
-
-
-Package fontspec Info: latinmodern-math scale = 1.0001.
-
-
-Package fontspec Info: Font family 'latinmodern-math.otf(2)' created for font
-(fontspec)             'latinmodern-math.otf' with options
-(fontspec)             [Ligatures=TeX,Scale=MatchLowercase,BoldItalicFont={},It
-alicFont={},SmallCapsFont={},Script=Math,SizeFeatures={{Size=8.9584645-},{Size=
-6.323622-8.9584645,Font=latinmodern-math.otf,Style=MathScript},{Size=-6.323622,
-Font=latinmodern-math.otf,Style=MathScriptScript}},BoldFont={latinmodern-math.o
-tf},ScaleAgain=1.0001,FontAdjustment={\fontdimen
-(fontspec)             8\font =7.13515pt\relax \fontdimen 9\font
-(fontspec)             =4.15251pt\relax \fontdimen 10\font =4.67947pt\relax
-(fontspec)             \fontdimen 11\font =7.23001pt\relax \fontdimen 12\font
-(fontspec)             =3.63608pt\relax \fontdimen 13\font =3.82579pt\relax
-(fontspec)             \fontdimen 14\font =3.82579pt\relax \fontdimen 15\font
-(fontspec)             =3.04588pt\relax \fontdimen 16\font =2.60323pt\relax
-(fontspec)             \fontdimen 17\font =2.60323pt\relax \fontdimen 18\font
-(fontspec)             =2.63484pt\relax \fontdimen 19\font =2.10788pt\relax
-(fontspec)             \fontdimen 22\font =2.63484pt\relax \fontdimen 20\font
-(fontspec)             =0pt\relax \fontdimen 21\font =0pt\relax }].
-(fontspec)              
-(fontspec)              This font family consists of the following NFSS
-(fontspec)             series/shapes:
-(fontspec)              
-(fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <8.9584645->s*[1.0001]"[latinmodern-math.otf]/OT:script=
-math;language=DFLT;mapping=tex-text;"<6.323622-8.9584645>s*[1.0001]"[latinmoder
-n-math.otf]/OT:script=math;language=DFLT;+ssty=0;mapping=tex-text;"<-6.323622>s
-*[1.0001]"[latinmodern-math.otf]/OT:script=math;language=DFLT;+ssty=1;mapping=t
-ex-text;"
-(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
-(fontspec)             and font adjustment code:
-(fontspec)             \fontdimen 8\font =7.13515pt\relax \fontdimen 9\font
-(fontspec)             =4.15251pt\relax \fontdimen 10\font =4.67947pt\relax
-(fontspec)             \fontdimen 11\font =7.23001pt\relax \fontdimen 12\font
-(fontspec)             =3.63608pt\relax \fontdimen 13\font =3.82579pt\relax
-(fontspec)             \fontdimen 14\font =3.82579pt\relax \fontdimen 15\font
-(fontspec)             =3.04588pt\relax \fontdimen 16\font =2.60323pt\relax
-(fontspec)             \fontdimen 17\font =2.60323pt\relax \fontdimen 18\font
-(fontspec)             =2.63484pt\relax \fontdimen 19\font =2.10788pt\relax
-(fontspec)             \fontdimen 22\font =2.63484pt\relax \fontdimen 20\font
-(fontspec)             =0pt\relax \fontdimen 21\font =0pt\relax 
-(fontspec)             - 'bold' (bx/n) with NFSS spec.:
-(fontspec)             <->s*[1.0001]"[latinmodern-math.otf]/OT:script=math;lang
-uage=DFLT;mapping=tex-text;"
-(fontspec)             - 'bold small caps'  (bx/sc) with NFSS spec.: 
-(fontspec)             and font adjustment code:
-(fontspec)             \fontdimen 8\font =7.13515pt\relax \fontdimen 9\font
-(fontspec)             =4.15251pt\relax \fontdimen 10\font =4.67947pt\relax
-(fontspec)             \fontdimen 11\font =7.23001pt\relax \fontdimen 12\font
-(fontspec)             =3.63608pt\relax \fontdimen 13\font =3.82579pt\relax
-(fontspec)             \fontdimen 14\font =3.82579pt\relax \fontdimen 15\font
-(fontspec)             =3.04588pt\relax \fontdimen 16\font =2.60323pt\relax
-(fontspec)             \fontdimen 17\font =2.60323pt\relax \fontdimen 18\font
-(fontspec)             =2.63484pt\relax \fontdimen 19\font =2.10788pt\relax
-(fontspec)             \fontdimen 22\font =2.63484pt\relax \fontdimen 20\font
-(fontspec)             =0pt\relax \fontdimen 21\font =0pt\relax 
-
-LaTeX Font Info:    Encoding `OMS' has changed to `TU' for symbol font
-(Font)              `symbols' in the math version `normal' on input line 81.
-LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
-(Font)                  OMS/lmsy/m/n --> TU/latinmodern-math.otf(2)/m/n on inpu
-t line 81.
-LaTeX Font Info:    Encoding `OMS' has changed to `TU' for symbol font
-(Font)              `symbols' in the math version `bold' on input line 81.
-LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
-(Font)                  OMS/lmsy/b/n --> TU/latinmodern-math.otf(2)/bx/n on inp
-ut line 81.
-
-Package fontspec Info: latinmodern-math scale = 1.
-
-
-Package fontspec Info: latinmodern-math scale = 0.9999.
-
-
-Package fontspec Info: latinmodern-math scale = 1.
-
-
-Package fontspec Info: latinmodern-math scale = 0.9999.
-
-
-Package fontspec Info: latinmodern-math scale = 1.
-
-
-Package fontspec Info: latinmodern-math scale = 0.9999.
-
-
-Package fontspec Info: latinmodern-math scale = 1.
-
-
-Package fontspec Info: latinmodern-math scale = 0.9999.
-
-
-Package fontspec Info: latinmodern-math scale = 1.
-
-
-Package fontspec Info: latinmodern-math scale = 0.9999.
-
-
-Package fontspec Info: Font family 'latinmodern-math.otf(3)' created for font
-(fontspec)             'latinmodern-math.otf' with options
-(fontspec)             [Ligatures=TeX,Scale=MatchLowercase,BoldItalicFont={},It
-alicFont={},SmallCapsFont={},Script=Math,SizeFeatures={{Size=8.9584645-},{Size=
-6.323622-8.9584645,Font=latinmodern-math.otf,Style=MathScript},{Size=-6.323622,
-Font=latinmodern-math.otf,Style=MathScriptScript}},BoldFont={latinmodern-math.o
-tf},ScaleAgain=0.9999,FontAdjustment={\fontdimen
-(fontspec)             8\font =0.42157pt\relax \fontdimen 9\font
-(fontspec)             =2.10788pt\relax \fontdimen 10\font =1.76007pt\relax
-(fontspec)             \fontdimen 11\font =1.16988pt\relax \fontdimen 12\font
-(fontspec)             =6.32362pt\relax \fontdimen 13\font =0pt\relax }].
-(fontspec)              
-(fontspec)              This font family consists of the following NFSS
-(fontspec)             series/shapes:
-(fontspec)              
-(fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <8.9584645->s*[0.9999]"[latinmodern-math.otf]/OT:script=
-math;language=DFLT;mapping=tex-text;"<6.323622-8.9584645>s*[0.9999]"[latinmoder
-n-math.otf]/OT:script=math;language=DFLT;+ssty=0;mapping=tex-text;"<-6.323622>s
-*[0.9999]"[latinmodern-math.otf]/OT:script=math;language=DFLT;+ssty=1;mapping=t
-ex-text;"
-(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
-(fontspec)             and font adjustment code:
-(fontspec)             \fontdimen 8\font =0.42157pt\relax \fontdimen 9\font
-(fontspec)             =2.10788pt\relax \fontdimen 10\font =1.76007pt\relax
-(fontspec)             \fontdimen 11\font =1.16988pt\relax \fontdimen 12\font
-(fontspec)             =6.32362pt\relax \fontdimen 13\font =0pt\relax 
-(fontspec)             - 'bold' (bx/n) with NFSS spec.:
-(fontspec)             <->s*[0.9999]"[latinmodern-math.otf]/OT:script=math;lang
-uage=DFLT;mapping=tex-text;"
-(fontspec)             - 'bold small caps'  (bx/sc) with NFSS spec.: 
-(fontspec)             and font adjustment code:
-(fontspec)             \fontdimen 8\font =0.42157pt\relax \fontdimen 9\font
-(fontspec)             =2.10788pt\relax \fontdimen 10\font =1.76007pt\relax
-(fontspec)             \fontdimen 11\font =1.16988pt\relax \fontdimen 12\font
-(fontspec)             =6.32362pt\relax \fontdimen 13\font =0pt\relax 
-
-LaTeX Font Info:    Encoding `OMX' has changed to `TU' for symbol font
-(Font)              `largesymbols' in the math version `normal' on input line 8
-1.
-LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
-(Font)                  OMX/lmex/m/n --> TU/latinmodern-math.otf(3)/m/n on inpu
-t line 81.
-LaTeX Font Info:    Encoding `OMX' has changed to `TU' for symbol font
-(Font)              `largesymbols' in the math version `bold' on input line 81.
-
-LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
-(Font)                  OMX/lmex/m/n --> TU/latinmodern-math.otf(3)/bx/n on inp
-ut line 81.
-LaTeX Info: Redefining \microtypecontext on input line 81.
-Package microtype Info: Character protrusion enabled (level 2).
-Package microtype Info: Using protrusion set `basicmath'.
-Package microtype Info: No adjustment of tracking.
-Package microtype Info: No adjustment of spacing.
-Package microtype Info: No adjustment of kerning.
-
-(/usr/local/texlive/2019/texmf-dist/tex/latex/microtype/mt-LatinModernRoman.cfg
-File: mt-LatinModernRoman.cfg 2013/03/13 v1.0 microtype config. file: Latin Mod
-ern Roman (RS)
-)
-\AtBeginShipoutBox=\box64
-Package hyperref Info: Link coloring OFF on input line 81.
-(/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/nameref.sty
-Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
-(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
-Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
-)
-\c@section@level=\count314
-)
-LaTeX Info: Redefining \ref on input line 81.
-LaTeX Info: Redefining \pageref on input line 81.
-LaTeX Info: Redefining \nameref on input line 81.
-(./hjhbb.out) (./hjhbb.out)
-\@outlinefile=\write3
-\openout3 = `hjhbb.out'.
-
-ABD: EverySelectfont initializing macros
-LaTeX Info: Redefining \selectfont on input line 81.
-LaTeX Font Info:    Font shape `TU/STFangsong(0)/m/n' will be
-(Font)              scaled to size 17.53844pt on input line 83.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 12.045pt on input line 83.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 8.0pt on input line 83.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 6.0pt on input line 83.
-LaTeX Font Info:    Try loading font information for OML+lmm on input line 83.
-(/usr/local/texlive/2019/texmf-dist/tex/latex/lm/omllmm.fd
-File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 12.04628pt on input line 83.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 8.00085pt on input line 83.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 6.00064pt on input line 83.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 12.0437pt on input line 83.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 7.99915pt on input line 83.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 5.99936pt on input line 83.
-LaTeX Font Info:    Try loading font information for U+msa on input line 83.
-(/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-) (/usr/local/texlive/2019/texmf-dist/tex/latex/microtype/mt-msa.cfg
-File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
-)
-LaTeX Font Info:    Try loading font information for U+msb on input line 83.
-(/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) (/usr/local/texlive/2019/texmf-dist/tex/latex/microtype/mt-msb.cfg
-File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
-) [1
-
-
-] [2
-
-]
-
-LaTeX Font Warning: Font shape `TU/STFangsong(0)/bx/n' undefined
-(Font)              using `TU/STFangsong(0)/m/n' instead on input line 86.
-
-LaTeX Font Info:    Font shape `TU/STFangsong(0)/m/n' will be
-(Font)              scaled to size 25.3333pt on input line 86.
-(./hjhbb.toc
-LaTeX Font Info:    Font shape `TU/STFangsong(0)/bx/n' will be
-(Font)              scaled to size 10.23074pt on input line 1.
-LaTeX Font Info:    Font shape `TU/STFangsong(0)/m/n' will be
-(Font)              scaled to size 10.23074pt on input line 3.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 7.37756pt on input line 3.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 5.26968pt on input line 3.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 10.54048pt on input line 3.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 7.37834pt on input line 3.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 5.27023pt on input line 3.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 10.53824pt on input line 3.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 7.37677pt on input line 3.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 5.26912pt on input line 3.
-[3]
-
-LaTeX Font Warning: Font shape `TU/STFangsong(0)/m/sl' undefined
-(Font)              using `TU/STFangsong(0)/m/n' instead on input line 265.
-
-[4] [5]
-Underfull \vbox (badness 2253) has occurred while \output is active []
-
-[6])
-\tf@toc=\write4
-\openout4 = `hjhbb.toc'.
-
-[7] [8
-
-]
-章 1.
-LaTeX Font Info:    Font shape `TU/STFangsong(0)/bx/n' will be
-(Font)              scaled to size 21.43587pt on input line 89.
-[9] [10
-
-]
-章 2.
-LaTeX Font Info:    Font shape `TU/STFangsong(0)/bx/n' will be
-(Font)              scaled to size 14.61537pt on input line 110.
-LaTeX Font Info:    Font shape `TU/STFangsong(0)/bx/n' will be
-(Font)              scaled to size 11.69229pt on input line 114.
-
-Underfull \hbox (badness 5077) in paragraph at lines 137--138
-[]\TU/STFangsong(0)/m/n/10.53937 文 献 链 接 []$[][][][] [] [] [] [][][][][][][][][
-][][] [] [][][] [] [][][][] [] [][] [] [][] [] [][][][][][] [][] [][][][] [][] 
-[][][][][][] [][] [][][][][] [][]
- []
-
-[11]
-Underfull \hbox (badness 10000) in paragraph at lines 157--158
-[]\TU/STFangsong(0)/m/n/10.53937 链 接 []$[][][][][] [] [] [] [][][] [] [][][][][
-][][][][][][][] [] [][][] [] [][][][][][][][] [] [][][][][][][][] [] [][][][] [
-] [][] [] [][] []
- []
-
-[12]
-Underfull \hbox (badness 10000) in paragraph at lines 175--176
-[]\TU/STFangsong(0)/m/n/10.53937 相 关 文 章 参 见：| []$[][][][][] [] [] [] [][][] []
- [][][][][][][][][][][][][] [] [][][] [] [][][][][][][] [] [][][][][][][] [] []
-[][] []
- []
-
-
-Overfull \hbox (9.5632pt too wide) in paragraph at lines 205--206
-[]\TU/STFangsong(0)/m/n/10.53937 链 接：| []$[][][][][] [] [] [] [][][] [] [][][][
-][][][][][][][][][] [] [][][] [] [][][][][][][] [] [][][][][][][] [] [][][] [] 
-[][][][][][][][][][][][][][][][][]$[] 
- []
-
-Missing character: There is no ● in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no ′ in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no ω in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no ● in font [lmroman10-regular]:mapping=tex-text;!
-[13]
-Underfull \hbox (badness 10000) in paragraph at lines 225--226
-[]\TU/STFangsong(0)/m/n/10.53937 链 接：| []$[][][][][] [] [] [] [][][] [] [][][][
-][] [] [][][] [] [][][] [] [][][][][][][][]$[] []$[][][][][] [] [] [] [][][] []
- [][][][][] [] [][][] [] [][][] []
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 235--236
-[]\TU/STFangsong(0)/m/n/10.53937 链 接：| []$[][][][] [] [] [] [][][][] [] [][][] 
-[] [][][] [] [][][] [] [][] [] [][][][] [] [][][] [] [][][] [] [][][][][][][]$[
-] []$[][][][] [] [] [] [][][] []
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 255--256
-[]\TU/STFangsong(0)/m/n/10.53937 链 接：| []$[][][][][] [] [] [] [][][] [] [][][][
-][][][][][][][] [] [][][] [] [][] [] [][][][][][][][][] [] [][][][][][][][][][]
-[][][][][] []
- []
-
-[14] [15] [16] [17] [18] [19] [20]
-Underfull \hbox (badness 10000) in paragraph at lines 547--548
-[]\TU/STFangsong(0)/m/n/10.53937 链 接：| []$[][][][][] [] [] [] [][][] [] [][][][
-][][][][][] [] [][][] [] [][][][][] [] [][][][][][][][][][][][][] [] [][][][] [
-] [][] [] [][][][][] [][]
- []
-
-[21] [22] [23] [24]
-Underfull \hbox (badness 10000) in paragraph at lines 764--765
-[][]$[][][][] [] [] [] [][][] [] [][][] [] [][][] [] [][] [] [][][][] [] [][][]
-[][] [] [][][][] [] [][] [] [][][][][][] [] [][][][][][][][][] [] [][][][][][] 
-[]
- []
-
-[25]
-Underfull \hbox (badness 10000) in paragraph at lines 828--829
-[][]$[][][][] [] [] [] [][][] [] [][][] [] [][][] [] [][] [] [][][][] [] [][][]
-[][][][] [] [][][][][] [] [][][][][][] [] [][][][][][][][][] [] [][][][][][] []
-
- []
-
-[26] [27]
-Underfull \hbox (badness 10000) in paragraph at lines 922--923
-[][]$[][][][] [] [] [] [][][] [] [][][] [] [][][] [] [][] [] [][][][] [] [][][]
-[][][][] [] [][][][][][][] [] [][][][][][] [] [][][][][][][][][] []
- []
-
-[28]
-Underfull \hbox (badness 10000) in paragraph at lines 928--929
-[][]$[][][][] [] [] [] [][][] [] [][][] [] [][][] [] [][] [] [][][][] [] [][][]
-[][][][] [] [][] [] [][][][][][] [] [][][][][][][][][] [] [][][][][][] []
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 934--935
-[][]$[][][][] [] [] [] [][][] [] [][][] [] [][][] [] [][] [] [][][][] [] [][][]
-[][][][] [] [][][][][] [] [][][][][][] [] [][][][][][][][][] [] [][][][][][] []
-
- []
-
-
-Overfull \hbox (30.37021pt too wide) in paragraph at lines 950--951
-[][]$[][][][] [] [] [] [][][] [] [][][] [] [][][] [] [][] [] [][][][][][][] [] 
-[][][][][][][][] [] [][][][][][][][][][][][] [] [][][][][][][][][][][][][][][][
-][] []
- []
-
-[29]
-Overfull \hbox (6.92836pt too wide) in paragraph at lines 1010--1011
-[]\TU/STFangsong(0)/m/n/10.53937 链 接：| []$[][][][][] [] [] [] [][][] [] [][][][
-][][][][][][][][][] [] [][][] [] [][][][][][][] [] [][][][][][][] [] [][][] [] 
-[][][][][][][][][][][][][][][][][]$[] 
- []
-
-[30] [31] [32]
-Underfull \hbox (badness 10000) in paragraph at lines 1142--1143
-[]\TU/STFangsong(0)/m/n/10.53937 链 接：| []$[][][][] [] [] [] [][][] [] [][][] []
- [][][] [] [][] [] [][][][] [] [][][][][][][] [] [][] [] [][][][][][] [] [][][]
-[][][][][][] []
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1152--1153
-[]\TU/STFangsong(0)/m/n/10.53937 链 接：| []$[][][][] [] [] [] [][][] [] [][][] []
- [][][] [] [][] [] [][][][] [] [][][][][][][] [] [][][][][][] [] [][][][][][] [
-] [][][][][][][][][] []
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1162--1163
-[]\TU/STFangsong(0)/m/n/10.53937 链 接：| []$[][][][] [] [] [] [][][] [] [][][] []
- [][][] [] [][] [] [][][][][][][][][] [] [][][][] [] [][][][][][] [] [][][][][]
-[][][][] []
- []
-
-[33]
-Underfull \hbox (badness 10000) in paragraph at lines 1172--1173
-[]\TU/STFangsong(0)/m/n/10.53937 链 接：| []$[][][][] [] [] [] [][][] [] [][][] []
- [][][] [] [][] [] [][][][] [] [][][][][][][] [] [][] [] [][][][][][] [] [][][]
-[][][][][][] []
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1182--1183
-[]\TU/STFangsong(0)/m/n/10.53937 链 接：| []$[][][][] [] [] [] [][][] [] [][][] []
- [][][] [] [][] [] [][][][] [] [][][][] [] [][][][][][] [] [][][][][][][][][] [
-] [][][][][][] []
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1194--1195
-[]\TU/STFangsong(0)/m/n/10.53937 链 接：| []$[][][][] [] [] [] [][][] [] [][][] []
- [][][] [] [][] [] [][][][] [] [][][][][][][] [] [][] [] [][][][][][] [] [][][]
-[][][][][][] []
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1204--1205
-[]\TU/STFangsong(0)/m/n/10.53937 链 接：| []$[][][][] [] [] [] [][][] [] [][][] []
- [][][] [] [][] [] [][][][] [] [][][][][][][] [] [][] [] [][][][][][] [] [][][]
-[][][][][][] []
- []
-
-[34]
-Underfull \hbox (badness 10000) in paragraph at lines 1214--1215
-[]\TU/STFangsong(0)/m/n/10.53937 链 接：| []$[][][][] [] [] [] [][][] [] [][][] []
- [][][] [] [][] [] [][][][] [] [][][][][][][] [] [][] [] [][][][][][] [] [][][]
-[][][][][][] []
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1224--1225
-[]\TU/STFangsong(0)/m/n/10.53937 链 接：| []$[][][][] [] [] [] [][][] [] [][][] []
- [][][] [] [][] [] [][][][] [] [][][][][][][] [] [][] [] [][][][][][] [] [][][]
-[][][][][][] []
- []
-
-[35]
-Underfull \hbox (badness 10000) in paragraph at lines 1246--1247
-[]\TU/STFangsong(0)/m/n/10.53937 链 接：| []$[][][][] [] [] [] [][][] [] [][][][] 
-[] [][][] [] [][] [] [][][][][][][][] [] [][][][][][][][] [] [][][][][][][][] [
-] [][][][][][][][] []
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1256--1257
-[]\TU/STFangsong(0)/m/n/10.53937 链 接：| []$[][][][] [] [] [] [][][] [] [][][][] 
-[] [][][] [] [][] [] [][][][] [] [][][][] [] [][][][][][] [] [][][][][][][][][]
- [] [][][][][][] []
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1268--1269
-[]\TU/STFangsong(0)/m/n/10.53937 链 接：| []$[][][][] [] [] [] [][][] [] [][][][] 
-[] [][][] [] [][] [] [][][][][][][][] [] [][][][][][][][] [] [][][][][][][][] [
-] [][][][][][][][] []
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1278--1279
-[]\TU/STFangsong(0)/m/n/10.53937 链 接：| []$[][][][] [] [] [] [][][] [] [][][][][
-][][] [] [][][] [] [][] [] [][][][][][][] [] [][][][][][] [] [][][][][][] [] []
-[][][][][] []
- []
-
-[36]
-Overfull \hbox (1.06854pt too wide) in paragraph at lines 1288--1289
-[]\TU/STFangsong(0)/m/n/10.53937 链 接：| []$[][][][] [] [] [] [][][] [] [][][][][
-] [] [][] [] [][][][] [] [][] [] [][][] [] [][][][] [] [] [] [][] [] [][][] [] 
-[][][] [] [][][][][][][][][][][] []
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1314--1315
-[]\TU/STFangsong(0)/m/n/10.53937 链 接：| []$[][][][][] [] [] [] [][][] [] [][][][
-][] [] [][][] [] [] [] [][][][][][][][][][][][][][][][][][][][][][][]$[]  |（密 码
-
- []
-
-[37] [38] [39]
-Underfull \hbox (badness 2894) in paragraph at lines 1434--1435
-[]\TU/STFangsong(0)/m/n/10.53937 链 接 []$[][][][] [] [] [] [][][] [] [][][] [] [
-][] [] [][][][][][][] [] [][][][][][][] [] [][][][] [][] [][] [] [][] [] [][][]
-[][][][] [] [][][][][][][] []
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1456--1457
-[]\TU/STFangsong(0)/m/n/10.53937 链 接 []$[][][][] [] [] [] [][][] [] [][][][] []
- [][][] [] [][] [] [][][][][] [] [][][][][] [] [][][][][] [] [][][][][] [] [][]
-[][][][][] []
- []
-
-[40] [41] [42]
-Underfull \hbox (badness 1112) in paragraph at lines 1578--1579
-[]\TU/STFangsong(0)/m/n/10.53937 链 接 []$[][][][] [] [] [] [][][] [] [][][] [] [
-][][] [] [][] [] [][][][] [] [][][][][][][] [] [][][][][][][] [] [][][][][][] [
-] [][][][][][][][][] []
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1588--1589
-[]\TU/STFangsong(0)/m/n/10.53937 链 接 []$[][][][] [] [] [] [][][] [] [][][] [] [
-][][] [] [][] [] [][][][] [] [][][][][][][] [] [][] [] [][][][][][] [] [][][][]
-[][][][][] []
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1598--1599
-[]\TU/STFangsong(0)/m/n/10.53937 链 接 []$[][][][] [] [] [] [][][] [] [][][] [] [
-][][] [] [][] [] [][][][] [] [][][][][][][] [] [][] [] [][][][][][] [] [][][][]
-[][][][][] []
- []
-
-[43]
-Underfull \hbox (badness 10000) in paragraph at lines 1622--1623
-[]\TU/STFangsong(0)/m/n/10.53937 链 接 []$[][][][] [] [] [] [][][] [] [][][] [] [
-][][] [] [][] [] [][][][] [] [][][][][][][] [] [][] [] [][][][][][] [] [][][][]
-[][][][][] []
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1626--1627
-[]\TU/STFangsong(0)/m/n/10.53937 链 接 []$[][][][] [] [] [] [][][] [] [][][] [] [
-][][] [] [][] [] [][] [] [][][][] [] [] [] [][][][] [] [][][][][][] [] [][][][]
-[][][][][] []
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1630--1631
-[]\TU/STFangsong(0)/m/n/10.53937 链 接 []$[][][][] [] [] [] [][][] [] [][][] [] [
-][][] [] [][] [] [][] [] [][][][] [] [] [] [][][][] [] [][][][][][] [] [][][][]
-[][][][][] []
- []
-
-[44]
-Underfull \hbox (badness 10000) in paragraph at lines 1654--1655
-[]\TU/STFangsong(0)/m/n/10.53937 链 接 []$[][][][] [] [] [] [][][] [] [][][] [] [
-][][] [] [][] [] [][][][][][][] [] [][][][] [] [][][][] [] [][][][][][] [] [][]
-[][][][][][][] []
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1664--1665
-[]\TU/STFangsong(0)/m/n/10.53937 链 接 []$[][][][] [] [] [] [][][] [] [][][][][][
-][] [] [][][] [] [][] [] [][][][][][][] [] [][][][][][] [] [][][][][][] [] [][]
-[][][][] []
- []
-
-[45]
-Overfull \hbox (0.23212pt too wide) in paragraph at lines 1674--1675
-[]\TU/STFangsong(0)/m/n/10.53937 链 接 []$[][][][] [] [] [] [][][][][] [] [][][][
-][][] [] [][][] [] [][] [] [][][][][][][] [] [][][][][] [] [][] [] [][][][][][]
- [] [][][][][][][][][][][][][][] []
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1694--1695
-[]\TU/STFangsong(0)/m/n/10.53937 链 接 []$[][][][] [] [] [] [][][] [] [][][][] []
- [][][] [] [][] [] [][][][][][] [] [][][][][][][][] [] [][][][][][][][] [] [][]
-[][][][][][] []
- []
-
-[46] [47] [48]
-Underfull \hbox (badness 2894) in paragraph at lines 1838--1839
-[]\TU/STFangsong(0)/m/n/10.53937 链 接 []$[][][][] [] [] [] [][][] [] [][][] [] [
-][] [] [][][][][][][] [] [][][][][][][] [] [][][][] [][] [][] [] [][] [] [][][]
-[][][][] [] [][][][][][][] []
- []
-
-
-Underfull \hbox (badness 2894) in paragraph at lines 1858--1859
-[]\TU/STFangsong(0)/m/n/10.53937 链 接 []$[][][][] [] [] [] [][][] [] [][][] [] [
-][] [] [][][][][][][] [] [][][][][][][] [] [][][][] [][] [][] [] [][] [] [][][]
-[][][][] [] [][][][][][][] []
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1868--1869
-[]\TU/STFangsong(0)/m/n/10.53937 链 接 []$[][][][] [] [] [] [][][] [] [][][][] []
- [][][] [] [][] [] [][][][][] [] [][][][][] [] [][][][][][][][] [] [][][][][][]
-[] [] [][][][][][][] []
- []
-
-[49]
-Underfull \hbox (badness 10000) in paragraph at lines 1892--1893
-[]\TU/STFangsong(0)/m/n/10.53937 链 接 []$[][][][] [] [] [] [][][] [] [][][] [] [
-][][] [] [][] [] [][][][] [] [][][][][][][] [] [][] [] [][][][][][] [] [][][][]
-[][][][][] []
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1902--1903
-[]\TU/STFangsong(0)/m/n/10.53937 链 接 []$[][][][] [] [] [] [][][] [] [][][] [] [
-][][] [] [][] [] [][][][] [] [][][][][][][] [] [][] [] [][][][][][] [] [][][][]
-[][][][][] []
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1912--1913
-[]\TU/STFangsong(0)/m/n/10.53937 链 接 []$[][][][] [] [] [] [][][] [] [][][] [] [
-][][] [] [][] [] [][][][] [] [][][][][][][] [] [][] [] [][][][][][] [] [][][][]
-[][][][][] []
- []
-
-[50]
-Underfull \hbox (badness 10000) in paragraph at lines 1922--1923
-[]\TU/STFangsong(0)/m/n/10.53937 链 接 []$[][][][] [] [] [] [][][] [] [][][] [] [
-][][] [] [][] [] [][][][] [] [][][][][][][] [] [][] [] [][][][][][] [] [][][][]
-[][][][][] []
- []
-
-[51]
-Underfull \hbox (badness 10000) in paragraph at lines 1980--1981
-[]\TU/STFangsong(0)/m/n/10.53937 链 接 []$[][][][] [] [] [] [][][] [] [][][][] []
- [][][] [] [][] [] [][][][][][][][] [] [][][][][][][][] [] [][][][][][][][] [] 
-[][][][][][][][] []
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1990--1991
-[]\TU/STFangsong(0)/m/n/10.53937 链 接 []$[][][][] [] [] [] [][][] [] [][][][] []
- [][][] [] [][] [] [][][][][][][][] [] [][][][][][][][] [] [][][][][][][][] [] 
-[][][][][][][][] []
- []
-
-[52]
-Underfull \hbox (badness 10000) in paragraph at lines 2000--2001
-[]\TU/STFangsong(0)/m/n/10.53937 链 接 []$[][][][] [] [] [] [][][] [] [][][][][][
-][] [] [][][] [] [][] [] [][][][][][][] [] [][][][][][] [] [][][][][][] [] [][]
-[][][][] []
- []
-
-
-Overfull \hbox (9.5632pt too wide) in paragraph at lines 2018--2019
-[]\TU/STFangsong(0)/m/n/10.53937 链 接：| []$[][][][][] [] [] [] [][][] [] [][][][
-][][][][][][][][][] [] [][][] [] [][][][][][][] [] [][][][][][][] [] [][][] [] 
-[][][][][][][][][][][][][][][][][]$[] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2028--2029
-[]\TU/STFangsong(0)/m/n/10.53937 链 接：| []$[][][][][] [] [] [] [][][] [] [][][][
-][][][][][][][][] [] [][][] [] [][][][][][][][][][][] [] [][][][][][][][][] [] 
-[][][] []
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2028--2029
-[][][][][][] [] [][][][][] [] [][][][] [] [][][][][][][][] [][] [][][][][][][][
-][] [] [][] [] [][][][][][][] [] [][] [] [][][][][][][] []
- []
-
-[53] [54] [55]
-Overfull \hbox (10.79855pt too wide) in paragraph at lines 2154--2155
-[][]$[][][][][] [] [] [] [][][][][] [] [][][][][] [] [][][] [] [][][][] [] [][]
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] []
-
- []
-
-
-Underfull \hbox (badness 1796) in paragraph at lines 2172--2173
-[]\TU/STFangsong(0)/m/n/10.53937 链 接 []$[][][][] [] [] [] [][][] [] [][][][][][
-] [] [][][] [] [][] [] [][][][][][][][][] [] [][][] [] [][][][] [] [][][][][][]
- [] [][][][][][][][][] []
- []
-
-File: images/zc1.png Graphic file (type bmp)
-<images/zc1.png>
-[56]
-File: images/zc2.png Graphic file (type bmp)
-<images/zc2.png>
-[57]
-Underfull \hbox (badness 10000) in paragraph at lines 2192--2193
-[]\TU/STFangsong(0)/m/n/10.53937 链 接 []$[][][][] [] [] [] [][][] [] [][][] [] [
-][][] [] [][] [] [][][][] [] [][][][] [] [][][][][][] [] [][][][][][][][][] [] 
-[][][][][][] []
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2206--2207
-[]\TU/STFangsong(0)/m/n/10.53937 链 接 []$[][][][] [] [] [] [][][] [] [][][] [] [
-][][] [] [][] [] [][][][] [] [][][][][][][] [] [][] [] [][][][][][] [] [][][][]
-[][][][][] []
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2216--2217
-[]\TU/STFangsong(0)/m/n/10.53937 链 接 []$[][][][] [] [] [] [][][] [] [][][] [] [
-][][] [] [][] [] [][][][] [] [][][][][][][] [] [][] [] [][][][][][] [] [][][][]
-[][][][][] []
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2226--2227
-[]\TU/STFangsong(0)/m/n/10.53937 链 接 []$[][][][] [] [] [] [][][] [] [][][] [] [
-][][] [] [][] [] [][][][] [] [][][][] [] [][][][][][] [] [][][][][][][][][] [] 
-[][][][][][] []
- []
-
-[58]
-Overfull \hbox (4.30637pt too wide) in paragraph at lines 2240--2241
-[][]$[][][][][] [] [] [] [][][][][][][][][] [] [][][][][] [] [][][] [] [] [] []
-[] [] [][][][][][][][][][][][][][][][][][][][][][][] [] [][][][][][][][][][] []
-
- []
-
-
-Overfull \hbox (4.30637pt too wide) in paragraph at lines 2244--2245
-[][]$[][][][][] [] [] [] [][][][][][][][][] [] [][][][][] [] [][][] [] [] [] []
-[] [] [][][][][][][][][][][][][][][][][][][][][][][] [] [][][][][][][][][][] []
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2254--2255
-[]\TU/STFangsong(0)/m/n/10.53937 链 接 []$[][][][] [] [] [] [][][] [] [][][] [] [
-][][] [] [][] [] [][][][] [] [][][][][][][] [] [][] [] [][][][][][] [] [][][][]
-[][][][][] []
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2264--2265
-[]\TU/STFangsong(0)/m/n/10.53937 链 接 []$[][][][] [] [] [] [][][] [] [][][] [] [
-][][] [] [][] [] [][][][] [] [][][][][][][] [] [][] [] [][][][][][] [] [][][][]
-[][][][][] []
- []
-
-[59] [60] [61]
-Underfull \hbox (badness 2894) in paragraph at lines 2406--2407
-[]\TU/STFangsong(0)/m/n/10.53937 链 接 []$[][][][] [] [] [] [][][] [] [][][] [] [
-][] [] [][][][][][][] [] [][][][][][][] [] [][][][] [][] [][] [] [][] [] [][][]
-[][][][] [] [][][][][][][] []
- []
-
-[62]
-Underfull \hbox (badness 10000) in paragraph at lines 2430--2431
-[]\TU/STFangsong(0)/m/n/10.53937 链 接 []$[][][][] [] [] [] [][][] [] [][][] [] [
-][][] [] [][] [] [][][][] [] [][][][][][][] [] [][] [] [][][][][][] [] [][][][]
-[][][][][] []
- []
-
-
-Underfull \hbox (badness 2326) in paragraph at lines 2440--2441
-[]\TU/STFangsong(0)/m/n/10.53937 链 接 []$[][][][] [] [] [] [][][] [] [][][] [] [
-][][] [] [][] [] [][][][] [] [][][][][][][] [] [][][][][][][] [] [][][][][][] [
-] [][][][][][][][][] []
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2450--2451
-[]\TU/STFangsong(0)/m/n/10.53937 链 接 []$[][][][] [] [] [] [][][] [] [][][] [] [
-][][] [] [][] [] [][][][] [] [][][][][][][] [] [][][][][] [] [][][][][][] [] []
-[][][][][][][][] []
- []
-
-[63]
-Underfull \hbox (badness 10000) in paragraph at lines 2460--2461
-[]\TU/STFangsong(0)/m/n/10.53937 链 接 []$[][][][] [] [] [] [][][] [] [][][] [] [
-][][] [] [][] [] [][][][] [] [][][][][][][] [] [][] [] [][][][][][] [] [][][][]
-[][][][][] []
- []
-
-[64] [65]
-Overfull \hbox (6.92836pt too wide) in paragraph at lines 2548--2549
-[]\TU/STFangsong(0)/m/n/10.53937 链 接：| []$[][][][][] [] [] [] [][][] [] [][][][
-][][][][][][][][][] [] [][][] [] [][][][][][][] [] [][][][][][][] [] [][][] [] 
-[][][][][][][][][][][][][][][][][]$[] 
- []
-
-[66]
-Overfull \hbox (6.92836pt too wide) in paragraph at lines 2616--2617
-[]\TU/STFangsong(0)/m/n/10.53937 链 接：| []$[][][][][] [] [] [] [][][] [] [][][][
-][][][][][][][][][] [] [][][] [] [][][][][][][] [] [][][][][][][] [] [][][] [] 
-[][][][][][][][][][][][][][][][][]$[] 
- []
-
-[67]
-Underfull \hbox (badness 2894) in paragraph at lines 2660--2661
-[]\TU/STFangsong(0)/m/n/10.53937 链 接 []$[][][][] [] [] [] [][][] [] [][][] [] [
-][] [] [][][][][][][] [] [][][][][][][] [] [][][][] [][] [][] [] [][] [] [][][]
-[][][][] [] [][][][][][][] []
- []
-
-[68] [69]
-Overfull \hbox (1.91315pt too wide) in paragraph at lines 2714--2715
-[]\TU/STFangsong(0)/m/n/10.53937 链 接\TU/lmr/m/n/10.53937 : []$[][][][] [] [] []
- [][][] [] [][][] [] [][][] [] [][] [] [][][][][][][][] [] [][][][] [] [][][][]
-[][] [] [][][][][][] [] [][][][][][][][][] []
- []
-
-
-Overfull \hbox (1.91315pt too wide) in paragraph at lines 2724--2725
-[]\TU/STFangsong(0)/m/n/10.53937 链 接\TU/lmr/m/n/10.53937 : []$[][][][] [] [] []
- [][][] [] [][][] [] [][][] [] [][] [] [][][][][][][][] [] [][][][] [] [][][][]
-[][] [] [][][][][][] [] [][][][][][][][][] []
- []
-
-
-Overfull \hbox (1.91315pt too wide) in paragraph at lines 2728--2729
-[]\TU/STFangsong(0)/m/n/10.53937 链 接\TU/lmr/m/n/10.53937 : []$[][][][] [] [] []
- [][][] [] [][][] [] [][][] [] [][] [] [][][][][][][][] [] [][][][] [] [][][][]
-[][] [] [][][][][][] [] [][][][][][][][][] []
- []
-
-
-Overfull \hbox (1.91315pt too wide) in paragraph at lines 2738--2739
-[]\TU/STFangsong(0)/m/n/10.53937 链 接\TU/lmr/m/n/10.53937 : []$[][][][] [] [] []
- [][][] [] [][][] [] [][][] [] [][] [] [][][][][][][][] [] [][][][] [] [][][][]
-[][] [] [][][][][][] [] [][][][][][][][][] []
- []
-
-[70]
-Overfull \hbox (1.91315pt too wide) in paragraph at lines 2748--2749
-[]\TU/STFangsong(0)/m/n/10.53937 链 接\TU/lmr/m/n/10.53937 : []$[][][][] [] [] []
- [][][] [] [][][] [] [][][] [] [][] [] [][][][][][][][] [] [][][][] [] [][][][]
-[][] [] [][][][][][] [] [][][][][][][][][] []
- []
-
-[71] [72] [73] [74] [75]
-Missing character: There is no γ in font [lmroman10-regular]:mapping=tex-text;!
-[76] [77] [78] [79] [80]
-Underfull \hbox (badness 10000) in paragraph at lines 3187--3188
-[]\TU/STFangsong(0)/m/n/10.53937 链 接：| []$[][][][][] [] [] [] [][][][][][][][] 
-[] [][][][][][][][][][][][][] [] [][][] [] [][][][][][][][] [] [][] [] [][][][]
- [] [][][][][][] [][] [][][] [][]
- []
-
-[81] [82] [83] [84] [85] [86] [87]
-Missing character: There is no Ⅴ in font [lmroman10-regular]:mapping=tex-text;!
-[88] [89] [90]
-Missing character: There is no ① in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no ② in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no ③ in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no ④ in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no ⑤ in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no ⑥ in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no ⑦ in font [lmroman10-regular]:mapping=tex-text;!
-[91] [92] [93] [94]
-Underfull \hbox (badness 5105) in paragraph at lines 3803--3804
-[]\TU/STFangsong(0)/m/n/10.53937 链 接：| []$[][][][][] [] [] [] [][][] [] [][][][
-][][] [] [][] [] [][][][] [] [][][][][] [][] [][] [][] [][][][][][][][][][][] [
-][] [][][] [][] [][][] [][] [][][][][][][] [][]
- []
-
-[95] [96] [97] [98] [99]
-Overfull \hbox (27.48013pt too wide) in paragraph at lines 4077--4078
-[]\TU/STFangsong(0)/m/n/10.53937 链 接：| []$[][][][][] [] [] [] [][][] [] [][][][
-][][][][][][][][][] [] [][][] [] [][][][][][][] [] [][][][][][][] [] [][][] [] 
-[][][] [] [][][][][][][][][][][][][][][][][]$[] 
- []
-
-[100] [101] [102] [103] [104] [105] [106]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[107] [108] [109] [110] [111] [112] [113] [114] [115]
-Underfull \hbox (badness 10000) in paragraph at lines 4828--4829
-[]\TU/STFangsong(0)/m/n/10.53937 链 接：| []$[][][][][] [] [] [] [][][][][][][][][
-] [] [][][] [] [][][][][][][] [] [][][][] [] [][][] [][] [][] [][] [][][] [][] 
-[][][][][][] [][] [][] [][] [][] [][]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 4846--4847
-[]\TU/STFangsong(0)/m/n/10.53937 链 接：| []$[][][][][] [] [] [] [][][] [] [][][][
-][][][] [] [][][] [] [][][][][][][][][][][] [] [][][][] [] [][] [] [][] [] [][]
-[][][][][] [] [][][] [][]
- []
-
-[116]
-Underfull \vbox (badness 2547) has occurred while \output is active []
-
-[117] [118] [119] [120] [121]
-Overfull \hbox (27.48013pt too wide) in paragraph at lines 5178--5179
-[]\TU/STFangsong(0)/m/n/10.53937 链 接：| []$[][][][][] [] [] [] [][][] [] [][][][
-][][][][][][][][][] [] [][][] [] [][][][][][][] [] [][][][][][][] [] [][][] [] 
-[][][] [] [][][][][][][][][][][][][][][][][]$[] 
- []
-
-[122] [123] [124] [125] [126]
-章 3.
-File: images/cw1.png Graphic file (type bmp)
-<images/cw1.png>
-[127
-
-]
-File: images/cw2.png Graphic file (type bmp)
-<images/cw2.png>
-[128]
-File: images/cw3.png Graphic file (type bmp)
-<images/cw3.png>
-[129] [130]
-File: images/cw4.png Graphic file (type bmp)
-<images/cw4.png>
-File: images/cw5.png Graphic file (type bmp)
-<images/cw5.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[131] [132]
-File: images/air1.png Graphic file (type bmp)
-<images/air1.png>
-File: images/air2.png Graphic file (type bmp)
-<images/air2.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[133]
-Underfull \vbox (badness 2142) has occurred while \output is active []
-
-[134]
-File: images/air3.png Graphic file (type bmp)
-<images/air3.png>
-File: images/air4.png Graphic file (type bmp)
-<images/air4.png>
-
-Underfull \vbox (badness 4927) has occurred while \output is active []
-
-[135] [136]
-File: images/air5.png Graphic file (type bmp)
-<images/air5.png>
-[137] [138]
-File: images/windhaze1.png Graphic file (type bmp)
-<images/windhaze1.png>
-File: images/windhaze2.png Graphic file (type bmp)
-<images/windhaze2.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[139]
-File: images/windhaze3.png Graphic file (type bmp)
-<images/windhaze3.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[140]
-File: images/windhaze4.png Graphic file (type bmp)
-<images/windhaze4.png>
-File: images/windhaze5.png Graphic file (type bmp)
-<images/windhaze5.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[141]
-File: images/windhaze6.png Graphic file (type bmp)
-<images/windhaze6.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[142]
-File: images/windhaze7.png Graphic file (type bmp)
-<images/windhaze7.png>
-
-Underfull \vbox (badness 5175) has occurred while \output is active []
-
-[143] [144]
-File: images/nano1.png Graphic file (type bmp)
-<images/nano1.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[145]
-File: images/nano2.png Graphic file (type bmp)
-<images/nano2.png>
-[146]
-Missing character: There is no π in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no π in font [lmroman10-regular]:mapping=tex-text;!
-[147]
-File: images/nano3.png Graphic file (type bmp)
-<images/nano3.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[148]
-File: images/dushui1.png Graphic file (type bmp)
-<images/dushui1.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[149]
-File: images/dushui2.png Graphic file (type bmp)
-<images/dushui2.png>
-[150]
-File: images/dushui3.png Graphic file (type bmp)
-<images/dushui3.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[151] [152]
-File: images/dushui4.png Graphic file (type bmp)
-<images/dushui4.png>
-
-Underfull \vbox (badness 7168) has occurred while \output is active []
-
-[153]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[154]
-File: images/seawater1.png Graphic file (type bmp)
-<images/seawater1.png>
-
-Underfull \vbox (badness 1509) has occurred while \output is active []
-
-[155]
-File: images/seawater2.png Graphic file (type bmp)
-<images/seawater2.png>
-[156]
-File: images/seawater3.png Graphic file (type bmp)
-<images/seawater3.png>
-File: images/seawater4.png Graphic file (type bmp)
-<images/seawater4.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[157]
-File: images/seawater5.png Graphic file (type bmp)
-<images/seawater5.png>
-[158]
-File: images/stalk1.png Graphic file (type bmp)
-<images/stalk1.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[159]
-File: images/stalk2.png Graphic file (type bmp)
-<images/stalk2.png>
-
-Underfull \vbox (badness 2261) has occurred while \output is active []
-
-[160] [161]
-File: images/stalk3.png Graphic file (type bmp)
-<images/stalk3.png>
-[162]
-File: images/stalk4.png Graphic file (type bmp)
-<images/stalk4.png>
-[163]
-File: images/stalk5.png Graphic file (type bmp)
-<images/stalk5.png>
-File: images/stalk6.png Graphic file (type bmp)
-<images/stalk6.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[164] [165]
-File: images/voc1.png Graphic file (type bmp)
-<images/voc1.png>
-File: images/voc2.png Graphic file (type bmp)
-<images/voc2.png>
-[166]
-File: images/voc3.png Graphic file (type bmp)
-<images/voc3.png>
-File: images/voc4.png Graphic file (type bmp)
-<images/voc4.png>
-[167]
-File: images/voc5.png Graphic file (type bmp)
-<images/voc5.png>
-[168]
-File: images/voc6.png Graphic file (type bmp)
-<images/voc6.png>
-[169]
-File: images/voc7.png Graphic file (type bmp)
-<images/voc7.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[170] [171]
-File: images/swr1.png Graphic file (type bmp)
-<images/swr1.png>
-File: images/swr2.png Graphic file (type bmp)
-<images/swr2.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[172] [173]
-File: images/swr3.png Graphic file (type bmp)
-<images/swr3.png>
-[174]
-File: images/swr4.png Graphic file (type bmp)
-<images/swr4.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[175]
-File: images/youni1.png Graphic file (type bmp)
-<images/youni1.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[176]
-File: images/youni2.png Graphic file (type bmp)
-<images/youni2.png>
-[177]
-File: images/youni3.png Graphic file (type bmp)
-<images/youni3.png>
-[178]
-File: images/youni4.png Graphic file (type bmp)
-<images/youni4.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[179]
-File: images/youni5.png Graphic file (type bmp)
-<images/youni5.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[180]
-File: images/youni6.png Graphic file (type bmp)
-<images/youni6.png>
-
-Underfull \vbox (badness 5105) has occurred while \output is active []
-
-[181]
-File: images/youni7.png Graphic file (type bmp)
-<images/youni7.png>
-Missing character: There is no ≤ in font [lmroman10-regular]:mapping=tex-text;!
-File: images/youni8.png Graphic file (type bmp)
-<images/youni8.png>
-
-Underfull \vbox (badness 3364) has occurred while \output is active []
-
-[182]
-File: images/youni9.png Graphic file (type bmp)
-<images/youni9.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[183] [184] [185]
-File: images/gongyue1.png Graphic file (type bmp)
-<images/gongyue1.png>
-
-Underfull \vbox (badness 1810) has occurred while \output is active []
-
-[186]
-File: images/gongyue2.png Graphic file (type bmp)
-<images/gongyue2.png>
-Missing character: There is no α in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no β in font [lmroman10-regular]:mapping=tex-text;!
-File: images/gongyue3.png Graphic file (type bmp)
-<images/gongyue3.png>
-[187]
-File: images/gongyue4.png Graphic file (type bmp)
-<images/gongyue4.png>
-[188]
-File: images/gongyue5.png Graphic file (type bmp)
-<images/gongyue5.png>
-File: images/gongyue6.png Graphic file (type bmp)
-<images/gongyue6.png>
-[189] [190] [191]
-File: images/epc1.png Graphic file (type bmp)
-<images/epc1.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[192] [193]
-File: images/epc2.png Graphic file (type bmp)
-<images/epc2.png>
-[194]
-File: images/epc3.png Graphic file (type bmp)
-<images/epc3.png>
-File: images/epc4.png Graphic file (type bmp)
-<images/epc4.png>
-[195]
-File: images/epc5.png Graphic file (type bmp)
-<images/epc5.png>
-[196]
-File: images/epc6.png Graphic file (type bmp)
-<images/epc6.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[197]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[198]
-File: images/tiger1.png Graphic file (type bmp)
-<images/tiger1.png>
-File: images/tiger2.png Graphic file (type bmp)
-<images/tiger2.png>
-
-Underfull \vbox (badness 4429) has occurred while \output is active []
-
-[199]
-File: images/tiger3.png Graphic file (type bmp)
-<images/tiger3.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[200] [201]
-File: images/tiger4.png Graphic file (type bmp)
-<images/tiger4.png>
-[202]
-File: images/tiger5.png Graphic file (type bmp)
-<images/tiger5.png>
-File: images/tiger6.png Graphic file (type bmp)
-<images/tiger6.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[203] [204]
-File: images/moma1.png Graphic file (type bmp)
-<images/moma1.png>
-[205]
-File: images/moma2.png Graphic file (type bmp)
-<images/moma2.png>
-[206]
-File: images/moma3.png Graphic file (type bmp)
-<images/moma3.png>
-[207]
-File: images/moma4.png Graphic file (type bmp)
-<images/moma4.png>
-[208]
-File: images/moma5.png Graphic file (type bmp)
-<images/moma5.png>
-[209]
-File: images/moma6.png Graphic file (type bmp)
-<images/moma6.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[210]
-File: images/huanjing1.png Graphic file (type bmp)
-<images/huanjing1.png>
-
-Underfull \vbox (badness 1466) has occurred while \output is active []
-
-[211] [212]
-File: images/huanjing2.png Graphic file (type bmp)
-<images/huanjing2.png>
-[213]
-File: images/as1.png Graphic file (type bmp)
-<images/as1.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[214]
-File: images/as2.png Graphic file (type bmp)
-<images/as2.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[215]
-File: images/as3.png Graphic file (type bmp)
-<images/as3.png>
-
-Underfull \vbox (badness 3601) has occurred while \output is active []
-
-[216] [217]
-File: images/as4.png Graphic file (type bmp)
-<images/as4.png>
-[218]
-File: images/park1.png Graphic file (type bmp)
-<images/park1.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[219]
-File: images/park2.png Graphic file (type bmp)
-<images/park2.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[220]
-File: images/park3.png Graphic file (type bmp)
-<images/park3.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[221]
-File: images/park4.png Graphic file (type bmp)
-<images/park4.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[222] [223]
-File: images/park5.png Graphic file (type bmp)
-<images/park5.png>
-[224] [225] [226] [227]
-File: images/park6.png Graphic file (type bmp)
-<images/park6.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[228]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[229] [230]
-Overfull \hbox (4.97499pt too wide) has occurred while \output is active
-\TU/lmr/m/sl/10.53937 3.19.  \TU/STFangsong(0)/m/n/10.53937 何 为 \TU/lmr/m/sl/10
-.53937 “\TU/STFangsong(0)/m/n/10.53937 最 严 格 的 保 护\TU/lmr/m/sl/10.53937 ”?——\TU
-/STFangsong(0)/m/n/10.53937 解 读 \TU/lmr/m/sl/10.53937 “\TU/STFangsong(0)/m/n/10
-.53937 国 家 公 园 实 行 最 严 格 的 保 护\TU/lmr/m/sl/10.53937 ” |\TU/STFangsong(0)/m/n/10
-.53937 （之 一）|  \TU/lmr/m/n/10.53937 231
- []
-
-[231]
-Missing character: There is no ① in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no ② in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no ③ in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no ① in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no ② in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no ③ in font [lmroman10-regular]:mapping=tex-text;!
-[232]
-File: images/lanzao1.png Graphic file (type bmp)
-<images/lanzao1.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[233] [234] [235]
-File: images/lanzao2.png Graphic file (type bmp)
-<images/lanzao2.png>
-Missing character: There is no μ in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no μ in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no μ in font [lmroman10-regular]:mapping=tex-text;!
-[236]
-File: images/lanzao3.png Graphic file (type bmp)
-<images/lanzao3.png>
-
-LaTeX Font Warning: Font shape `TU/STFangsong(0)/m/it' undefined
-(Font)              using `TU/STFangsong(0)/m/n' instead on input line 6780.
-
-[237]
-Missing character: There is no ₂ in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no ₃ in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no ⁻ in font [lmroman10-regular]:mapping=tex-text;!
-[238] [239]
-File: images/acidrain1.png Graphic file (type bmp)
-<images/acidrain1.png>
-File: images/acidrain2.png Graphic file (type bmp)
-<images/acidrain2.png>
-[240]
-File: images/acidrain3.png Graphic file (type bmp)
-<images/acidrain3.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[241]
-File: images/acidrain4.png Graphic file (type bmp)
-<images/acidrain4.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[242] [243] [244]
-File: images/kqyb1.png Graphic file (type bmp)
-<images/kqyb1.png>
-[245]
-File: images/kqyb2.png Graphic file (type bmp)
-<images/kqyb2.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[246]
-File: images/kqyb3.png Graphic file (type bmp)
-<images/kqyb3.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[247]
-File: images/kqyb4.png Graphic file (type bmp)
-<images/kqyb4.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[248]
-File: images/kqyb5.png Graphic file (type bmp)
-<images/kqyb5.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[249]
-Underfull \vbox (badness 2310) has occurred while \output is active []
-
-[250]
-File: images/miejue1.png Graphic file (type bmp)
-<images/miejue1.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[251] [252]
-File: images/miejue2.png Graphic file (type bmp)
-<images/miejue2.png>
-[253]
-File: images/miejue3.png Graphic file (type bmp)
-<images/miejue3.png>
-[254]
-File: images/miejue4.png Graphic file (type bmp)
-<images/miejue4.png>
-[255]
-File: images/miejue5.png Graphic file (type bmp)
-<images/miejue5.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[256] [257]
-File: images/miejue6.png Graphic file (type bmp)
-<images/miejue6.png>
-[258] [259]
-File: images/renkou1.png Graphic file (type bmp)
-<images/renkou1.png>
-[260]
-File: images/renkou2.png Graphic file (type bmp)
-<images/renkou2.png>
-[261]
-File: images/renkou3.png Graphic file (type bmp)
-<images/renkou3.png>
-[262] [263]
-File: images/renkou4.png Graphic file (type bmp)
-<images/renkou4.png>
-[264]
-File: images/renkou5.png Graphic file (type bmp)
-<images/renkou5.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[265]
-File: images/am1.png Graphic file (type bmp)
-<images/am1.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[266] [267]
-File: images/am2.png Graphic file (type bmp)
-<images/am2.png>
-[268]
-File: images/am3.png Graphic file (type bmp)
-<images/am3.png>
-[269]
-File: images/am4.png Graphic file (type bmp)
-<images/am4.png>
-[270]
-File: images/am5.png Graphic file (type bmp)
-<images/am5.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[271] [272] [273] [274]
-File: images/pzhi1.png Graphic file (type bmp)
-<images/pzhi1.png>
-[275]
-File: images/pzhi2.png Graphic file (type bmp)
-<images/pzhi2.png>
-[276] [277] [278]
-File: images/qingwa1.png Graphic file (type bmp)
-<images/qingwa1.png>
-File: images/qingwa2.png Graphic file (type bmp)
-<images/qingwa2.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[279]
-File: images/qingwa3.png Graphic file (type bmp)
-<images/qingwa3.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[280]
-File: images/qingwa4.png Graphic file (type bmp)
-<images/qingwa4.png>
-
-Underfull \vbox (badness 3557) has occurred while \output is active []
-
-[281]
-File: images/tougao1.png Graphic file (type bmp)
-<images/tougao1.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[282]
-File: images/tougao2.png Graphic file (type bmp)
-<images/tougao2.png>
-[283]
-File: images/tougao3.png Graphic file (type bmp)
-<images/tougao3.png>
-
-Underfull \vbox (badness 3713) has occurred while \output is active []
-
-[284] [285]
-Underfull \vbox (badness 6094) has occurred while \output is active []
-
-[286] [287]
-File: images/dlyd1.png Graphic file (type bmp)
-<images/dlyd1.png>
-[288]
-File: images/dlyd2.png Graphic file (type bmp)
-<images/dlyd2.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[289]
-File: images/dlyd3.png Graphic file (type bmp)
-<images/dlyd3.png>
-[290]
-File: images/dlyd4.png Graphic file (type bmp)
-<images/dlyd4.png>
-File: images/dlyd5.png Graphic file (type bmp)
-<images/dlyd5.png>
-[291]
-File: images/zaosheng1.png Graphic file (type bmp)
-<images/zaosheng1.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[292]
-File: images/zaosheng2.png Graphic file (type bmp)
-<images/zaosheng2.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[293] [294]
-File: images/zaosheng3.png Graphic file (type bmp)
-<images/zaosheng3.png>
-[295]
-File: images/zaosheng4.png Graphic file (type bmp)
-<images/zaosheng4.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[296]
-File: images/zaosheng5.png Graphic file (type bmp)
-<images/zaosheng5.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[297] [298]
-File: images/expo1.png Graphic file (type bmp)
-<images/expo1.png>
-[299]
-File: images/expo2.png Graphic file (type bmp)
-<images/expo2.png>
-[300]
-File: images/expo3.png Graphic file (type bmp)
-<images/expo3.png>
-
-Underfull \hbox (badness 1184) in paragraph at lines 7627--7628
-[]\TU/STFangsong(0)/m/n/10.53937 这 是 当 前 主 流 物 质 数 据 库 的 覆 盖 情 况，|  其 实 最 大 的 三
- 个 物 质 库  |（\TU/lmr/m/n/10.53937 Pub-
- []
-
-[301]
-File: images/expo4.png Graphic file (type bmp)
-<images/expo4.png>
-[302] [303] [304]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[305] [306]
-File: images/slybz1.png Graphic file (type bmp)
-<images/slybz1.png>
-File: images/slybz2.png Graphic file (type bmp)
-<images/slybz2.png>
-
-Underfull \vbox (badness 2213) has occurred while \output is active []
-
-[307]
-File: images/slybz3.png Graphic file (type bmp)
-<images/slybz3.png>
-[308]
-File: images/slybz4.png Graphic file (type bmp)
-<images/slybz4.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[309] [310]
-Missing character: There is no β in font [lmroman10-regular]:mapping=tex-text;!
-[311]
-File: images/xyj1.png Graphic file (type bmp)
-<images/xyj1.png>
-[312]
-Missing character: There is no α in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no β in font [lmroman10-regular]:mapping=tex-text;!
-[313] [314] [315] [316] [317] [318] [319] [320] [321] [322] [323] [324] [325] [
-326] [327] [328] [329] [330] [331] [332] [333] [334]
-章 4.
-File: images/os1.png Graphic file (type bmp)
-<images/os1.png>
-[335
-
-]
-File: images/os2.png Graphic file (type bmp)
-<images/os2.png>
-[336] [337] [338]
-File: images/os3.png Graphic file (type bmp)
-<images/os3.png>
-[339]
-File: images/os4.png Graphic file (type bmp)
-<images/os4.png>
-[340]
-File: images/srt1.png Graphic file (type bmp)
-<images/srt1.png>
-[341]
-File: images/srt2.png Graphic file (type bmp)
-<images/srt2.png>
-[342]
-File: images/srt3.png Graphic file (type bmp)
-<images/srt3.png>
-File: images/srt4.png Graphic file (type bmp)
-<images/srt4.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[343] [344] [345]
-File: images/ao1.png Graphic file (type bmp)
-<images/ao1.png>
-[346]
-File: images/ao2.png Graphic file (type bmp)
-<images/ao2.png>
-
-Underfull \vbox (badness 3954) has occurred while \output is active []
-
-[347]
-LaTeX Font Info:    Font shape `TU/STFangsong(0)/m/n' will be
-(Font)              scaled to size 7.16153pt on input line 8369.
-
-Underfull \hbox (badness 1237) in paragraph at lines 8369--8370
-\TU/STFangsong(0)/m/n/10.53937 进 行 污 泥 培 养，|  若 现 场 没 有 生 活 污 水，|  可 采 用 自 配 营 
-养 液 进 行 污 泥 培
- []
-
-
-Overfull \hbox (698.67229pt too wide) in paragraph at lines 8369--8370
-\TU/lmr/m/n/10.53937 300$[]$3mg/L
- []
-
-File: images/ao3.png Graphic file (type bmp)
-<images/ao3.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[348] [349]
-Overfull \hbox (4.51643pt too wide) in paragraph at lines 8390--8392
-[]\TU/STFangsong(0)/m/n/10.53937 调 试 过 程 中 保 证 曝 气 池 溶 解 氧 浓 度 在 \TU/lmr/m/n/10
-.53937 1$[]$0.5mg/L\TU/STFangsong(0)/m/n/10.53937 ，|
- []
-
-
-Underfull \hbox (badness 5022) in paragraph at lines 8406--8408
-[]\TU/STFangsong(0)/m/n/10.53937 曝 气 池 混 合 液 回 流 量 根 据 设 计 计 算 书 要 求 进 行 调 整，| 
- 一 般 为
- []
-
-[350]
-File: images/bq1.png Graphic file (type bmp)
-<images/bq1.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[351]
-File: images/bq2.png Graphic file (type bmp)
-<images/bq2.png>
-[352]
-File: images/bq3.png Graphic file (type bmp)
-<images/bq3.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[353]
-Missing character: There is no Ⅱ in font [lmroman10-regular]:mapping=tex-text;!
-[354]
-File: images/bq4.png Graphic file (type bmp)
-<images/bq4.png>
-File: images/bq5.png Graphic file (type bmp)
-<images/bq5.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[355]
-File: images/bq6.png Graphic file (type bmp)
-<images/bq6.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[356]
-File: images/bq7.png Graphic file (type bmp)
-<images/bq7.png>
-
-Underfull \vbox (badness 1527) has occurred while \output is active []
-
-[357]
-Underfull \vbox (badness 6032) has occurred while \output is active []
-
-[358]
-File: images/cod1.png Graphic file (type bmp)
-<images/cod1.png>
-File: images/cod2.png Graphic file (type bmp)
-<images/cod2.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[359]
-File: images/cod3.png Graphic file (type bmp)
-<images/cod3.png>
-[360]
-File: images/cod4.png Graphic file (type bmp)
-<images/cod4.png>
-File: images/cod5.png Graphic file (type bmp)
-<images/cod5.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[361] [362]
-Missing character: There is no ≥ in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no ≤ in font [lmroman10-regular]:mapping=tex-text;!
-[363] [364] [365] [366]
-Underfull \vbox (badness 5756) has occurred while \output is active []
-
-[367] [368] [369] [370] [371] [372]
-File: images/ch1.png Graphic file (type bmp)
-<images/ch1.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[373]
-File: images/ch2.png Graphic file (type bmp)
-<images/ch2.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[374]
-File: images/ch3.png Graphic file (type bmp)
-<images/ch3.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[375]
-File: images/ch4.png Graphic file (type bmp)
-<images/ch4.png>
-File: images/ch5.png Graphic file (type bmp)
-<images/ch5.png>
-File: images/ch6.png Graphic file (type bmp)
-<images/ch6.png>
-[376] [377]
-File: images/ch7.png Graphic file (type bmp)
-<images/ch7.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[378] [379]
-File: images/hm1.png Graphic file (type bmp)
-<images/hm1.png>
-[380]
-File: images/hm2.png Graphic file (type bmp)
-<images/hm2.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[381]
-File: images/hm3.png Graphic file (type bmp)
-<images/hm3.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[382]
-File: images/hm4.png Graphic file (type bmp)
-<images/hm4.png>
-[383]
-File: images/hm5.png Graphic file (type bmp)
-<images/hm5.png>
-[384] [385]
-File: images/ljfs1.png Graphic file (type bmp)
-<images/ljfs1.png>
-
-Underfull \vbox (badness 5175) has occurred while \output is active []
-
-[386]
-File: images/ljfs2.png Graphic file (type bmp)
-<images/ljfs2.png>
-File: images/ljfs3.png Graphic file (type bmp)
-<images/ljfs3.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[387]
-File: images/ljfs4.png Graphic file (type bmp)
-<images/ljfs4.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[388]
-File: images/ljfs5.png Graphic file (type bmp)
-<images/ljfs5.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[389]
-File: images/ljfs6.png Graphic file (type bmp)
-<images/ljfs6.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[390]
-File: images/ljfs7.png Graphic file (type bmp)
-<images/ljfs7.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[391]
-File: images/ljfs8.png Graphic file (type bmp)
-<images/ljfs8.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[392] [393]
-File: images/ljfs9.png Graphic file (type bmp)
-<images/ljfs9.png>
-
-Underfull \vbox (badness 3058) has occurred while \output is active []
-
-[394]
-File: images/ljfs10.png Graphic file (type bmp)
-<images/ljfs10.png>
-File: images/ljfs11.png Graphic file (type bmp)
-<images/ljfs11.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[395]
-File: images/ljfs12.png Graphic file (type bmp)
-<images/ljfs12.png>
-[396]
-File: images/ljfs13.png Graphic file (type bmp)
-<images/ljfs13.png>
-[397] [398]
-Missing character: There is no μ in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no μ in font [lmroman10-regular]:mapping=tex-text;!
-[399] [400] [401]
-Missing character: There is no ≤ in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no ≤ in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no ≤ in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no ≥ in font [lmroman10-regular]:mapping=tex-text;!
-[402] [403] [404] [405] [406] [407] [408]
-Missing character: There is no α in font [lmroman10-regular]:mapping=tex-text;!
-[409] [410]
-Missing character: There is no ① in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no ② in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no ③ in font [lmroman10-regular]:mapping=tex-text;!
-[411] [412] [413] [414] [415] [416] [417] [418] [419] [420] [421]
-Underfull \vbox (badness 1147) has occurred while \output is active []
-
-[422] [423] [424
-
-]
-章 5.
-[425] [426]
-File: images/oneyear1.png Graphic file (type bmp)
-<images/oneyear1.png>
-[427]
-File: images/oneyear2.png Graphic file (type bmp)
-<images/oneyear2.png>
-[428] [429] [430]
-File: images/wife1.png Graphic file (type bmp)
-<images/wife1.png>
-File: images/wife2.png Graphic file (type bmp)
-<images/wife2.png>
-[431]
-File: images/wife3.png Graphic file (type bmp)
-<images/wife3.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[432]
-File: images/wife4.png Graphic file (type bmp)
-<images/wife4.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[433]
-File: images/wife5.png Graphic file (type bmp)
-<images/wife5.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[434]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[435]
-File: images/2018.png Graphic file (type bmp)
-<images/2018.png>
-[436]
-Missing character: There is no ╯ in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no □ in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no ╰ in font [lmroman10-regular]:mapping=tex-text;!
-[437] [438]
-File: images/xf1.png Graphic file (type bmp)
-<images/xf1.png>
-File: images/xf2.png Graphic file (type bmp)
-<images/xf2.png>
-File: images/xf3.png Graphic file (type bmp)
-<images/xf3.png>
-
-Underfull \vbox (badness 3482) has occurred while \output is active []
-
-[439]
-File: images/xf4.png Graphic file (type bmp)
-<images/xf4.png>
-
-Underfull \vbox (badness 8132) has occurred while \output is active []
-
-[440]
-File: images/xf5.png Graphic file (type bmp)
-<images/xf5.png>
-File: images/fw1.png Graphic file (type bmp)
-<images/fw1.png>
-[441] [442]
-File: images/fw2.png Graphic file (type bmp)
-<images/fw2.png>
-File: images/fw3.png Graphic file (type bmp)
-<images/fw3.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[443]
-File: images/fw4.png Graphic file (type bmp)
-<images/fw4.png>
-
-Underfull \vbox (badness 5490) has occurred while \output is active []
-
-[444]
-File: images/fw5.png Graphic file (type bmp)
-<images/fw5.png>
-File: images/fw6.png Graphic file (type bmp)
-<images/fw6.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[445]
-File: images/sheji1.png Graphic file (type bmp)
-<images/sheji1.png>
-[446]
-File: images/sheji2.png Graphic file (type bmp)
-<images/sheji2.png>
-[447]
-File: images/sheji3.png Graphic file (type bmp)
-<images/sheji3.png>
-
-Underfull \vbox (badness 1303) has occurred while \output is active []
-
-[448]
-File: images/sheji4.png Graphic file (type bmp)
-<images/sheji4.png>
-File: images/sheji5.png Graphic file (type bmp)
-<images/sheji5.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[449]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[450]
-File: images/gtd1.png Graphic file (type bmp)
-<images/gtd1.png>
-File: images/gtd2.png Graphic file (type bmp)
-<images/gtd2.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[451]
-File: images/gtd3.png Graphic file (type bmp)
-<images/gtd3.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[452] [453]
-File: images/gtd4.png Graphic file (type bmp)
-<images/gtd4.png>
-File: images/gtd5.png Graphic file (type bmp)
-<images/gtd5.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[454]
-File: images/pittcon1.png Graphic file (type bmp)
-<images/pittcon1.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[455]
-File: images/pittcon2.png Graphic file (type bmp)
-<images/pittcon2.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[456]
-File: images/pittcon3.png Graphic file (type bmp)
-<images/pittcon3.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[457] [458]
-File: images/pittcon4.png Graphic file (type bmp)
-<images/pittcon4.png>
-[459]
-File: images/pops1.png Graphic file (type bmp)
-<images/pops1.png>
-[460]
-File: images/pops2.png Graphic file (type bmp)
-<images/pops2.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[461]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[462]
-File: images/pops3.png Graphic file (type bmp)
-<images/pops3.png>
-[463]
-File: images/pops4.png Graphic file (type bmp)
-<images/pops4.png>
-[464]
-File: images/pops5.png Graphic file (type bmp)
-<images/pops5.png>
-[465] [466]
-File: images/pops6.png Graphic file (type bmp)
-<images/pops6.png>
-[467]
-File: images/pops7.png Graphic file (type bmp)
-<images/pops7.png>
-[468]
-File: images/pops8.png Graphic file (type bmp)
-<images/pops8.png>
-[469]
-File: images/wuzhi1.png Graphic file (type bmp)
-<images/wuzhi1.png>
-[470]
-File: images/wuzhi2.png Graphic file (type bmp)
-<images/wuzhi2.png>
-File: images/wuzhi3.png Graphic file (type bmp)
-<images/wuzhi3.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[471]
-File: images/wuzhi4.png Graphic file (type bmp)
-<images/wuzhi4.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[472] [473]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[474] [475] [476] [477] [478]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[479] [480] [481] [482] [483] [484] [485] [486] [487] [488] [489] [490]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[491]
-Underfull \vbox (badness 6094) has occurred while \output is active []
-
-[492] [493]
-Underfull \vbox (badness 6094) has occurred while \output is active []
-
-[494] [495] [496] [497]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[498] [499] [500]
-File: images/dream1.png Graphic file (type bmp)
-<images/dream1.png>
-[501]
-File: images/dream2.png Graphic file (type bmp)
-<images/dream2.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[502]
-File: images/dream3.png Graphic file (type bmp)
-<images/dream3.png>
-File: images/dream4.png Graphic file (type bmp)
-<images/dream4.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[503]
-File: images/nba1.png Graphic file (type bmp)
-<images/nba1.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[504] [505]
-File: images/nba2.png Graphic file (type bmp)
-<images/nba2.png>
-[506]
-File: images/nba3.png Graphic file (type bmp)
-<images/nba3.png>
-[507]
-File: images/nba4.png Graphic file (type bmp)
-<images/nba4.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[508]
-File: images/nba5.png Graphic file (type bmp)
-<images/nba5.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[509]
-File: images/nba6.png Graphic file (type bmp)
-<images/nba6.png>
-
-Underfull \vbox (badness 1859) has occurred while \output is active []
-
-[510]
-File: images/nba7.png Graphic file (type bmp)
-<images/nba7.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[511] [512]
-File: images/yaoshen1.png Graphic file (type bmp)
-<images/yaoshen1.png>
-[513] [514]
-File: images/yaoshen2.png Graphic file (type bmp)
-<images/yaoshen2.png>
-[515] [516]
-File: images/yaoshen3.png Graphic file (type bmp)
-<images/yaoshen3.png>
-[517]
-File: images/his1.png Graphic file (type bmp)
-<images/his1.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[518] [519]
-File: images/his2.png Graphic file (type bmp)
-<images/his2.png>
-
-Underfull \vbox (badness 5862) has occurred while \output is active []
-
-[520]
-File: images/his3.png Graphic file (type bmp)
-<images/his3.png>
-[521] [522]
-File: images/his4.png Graphic file (type bmp)
-<images/his4.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[523] [524] [525]
-File: images/ctsj1.png Graphic file (type bmp)
-<images/ctsj1.png>
-File: images/ctsj2.png Graphic file (type bmp)
-<images/ctsj2.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[526]
-File: images/ctsj3.png Graphic file (type bmp)
-<images/ctsj3.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[527]
-File: images/ctsj4.png Graphic file (type bmp)
-<images/ctsj4.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[528]
-File: images/ctsj5.png Graphic file (type bmp)
-<images/ctsj5.png>
-[529]
-File: images/ctsj6.png Graphic file (type bmp)
-<images/ctsj6.png>
-[530]
-File: images/ctsj7.png Graphic file (type bmp)
-<images/ctsj7.png>
-[531]
-File: images/ctsj8.png Graphic file (type bmp)
-<images/ctsj8.png>
-
-Underfull \vbox (badness 1210) has occurred while \output is active []
-
-[532] [533]
-File: images/his5.png Graphic file (type bmp)
-<images/his5.png>
-[534]
-File: images/his6.png Graphic file (type bmp)
-<images/his6.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[535]
-File: images/his7.png Graphic file (type bmp)
-<images/his7.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[536] [537] [538]
-File: images/xt1.png Graphic file (type bmp)
-<images/xt1.png>
-File: images/xt2.png Graphic file (type bmp)
-<images/xt2.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[539] [540]
-File: images/xt3.png Graphic file (type bmp)
-<images/xt3.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[541]
-File: images/xt4.png Graphic file (type bmp)
-<images/xt4.png>
-File: images/xt5.png Graphic file (type bmp)
-<images/xt5.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[542]
-File: images/xt6.png Graphic file (type bmp)
-<images/xt6.png>
-File: images/xt7.png Graphic file (type bmp)
-<images/xt7.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[543]
-Underfull \hbox (badness 1237) in paragraph at lines 10891--10892
-[]\TU/STFangsong(0)/m/n/10.53937 然 而，|  在 踏 上 那 片 土 地 之 后 才 发 现，|  她 的 历 史 几 乎 
-和 华 夏 文 明 一 样 的
- []
-
-
-Underfull \hbox (badness 1331) in paragraph at lines 10891--10892
-\TU/STFangsong(0)/m/n/10.53937 源 远 流 长。|  从 \TU/lmr/m/n/10.53937 B.C.6 \TU/STFa
-ngsong(0)/m/n/10.53937 世 纪 的 希 腊，|  到 \TU/lmr/m/n/10.53937 B.C.2 \TU/STFangsong
-(0)/m/n/10.53937 世 纪 的 腓 尼 基\TU/lmr/m/n/10.53937 -\TU/STFangsong(0)/m/n/10.5393
-7 罗 马，|  到
- []
-
-[544]
-File: images/xt8.png Graphic file (type bmp)
-<images/xt8.png>
-
-Underfull \vbox (badness 1259) has occurred while \output is active []
-
-[545]
-File: images/xt9.png Graphic file (type bmp)
-<images/xt9.png>
-File: images/xt10.png Graphic file (type bmp)
-<images/xt10.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[546]
-File: images/xt11.png Graphic file (type bmp)
-<images/xt11.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[547]
-File: images/xt12.png Graphic file (type bmp)
-<images/xt12.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[548] [549]
-File: images/xt13.png Graphic file (type bmp)
-<images/xt13.png>
-File: images/xt14.png Graphic file (type bmp)
-<images/xt14.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[550]
-File: images/xt15.png Graphic file (type bmp)
-<images/xt15.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[551]
-File: images/xt16.png Graphic file (type bmp)
-<images/xt16.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[552]
-File: images/xt17.png Graphic file (type bmp)
-<images/xt17.png>
-
-Underfull \vbox (badness 6510) has occurred while \output is active []
-
-[553]
-File: images/xt18.png Graphic file (type bmp)
-<images/xt18.png>
-File: images/xt19.png Graphic file (type bmp)
-<images/xt19.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[554]
-File: images/xt20.png Graphic file (type bmp)
-<images/xt20.png>
-
-Underfull \vbox (badness 6094) has occurred while \output is active []
-
-[555]
-File: images/xt21.png Graphic file (type bmp)
-<images/xt21.png>
-File: images/xt22.png Graphic file (type bmp)
-<images/xt22.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[556]
-File: images/xt23.png Graphic file (type bmp)
-<images/xt23.png>
-File: images/xt24.png Graphic file (type bmp)
-<images/xt24.png>
-[557] [558]
-File: images/xt25.png Graphic file (type bmp)
-<images/xt25.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[559]
-File: images/xt26.png Graphic file (type bmp)
-<images/xt26.png>
-File: images/xt27.png Graphic file (type bmp)
-<images/xt27.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[560] [561]
-File: images/xt28.png Graphic file (type bmp)
-<images/xt28.png>
-File: images/xt29.png Graphic file (type bmp)
-<images/xt29.png>
-File: images/xt30.png Graphic file (type bmp)
-<images/xt30.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[562]
-File: images/xt31.png Graphic file (type bmp)
-<images/xt31.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[563]
-File: images/xt32.png Graphic file (type bmp)
-<images/xt32.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[564]
-File: images/xt33.png Graphic file (type bmp)
-<images/xt33.png>
-File: images/xt34.png Graphic file (type bmp)
-<images/xt34.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[565]
-File: images/xt35.png Graphic file (type bmp)
-<images/xt35.png>
-[566]
-File: images/xt36.png Graphic file (type bmp)
-<images/xt36.png>
-[567]
-File: images/xt37.png Graphic file (type bmp)
-<images/xt37.png>
-File: images/xt38.png Graphic file (type bmp)
-<images/xt38.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[568] [569]
-File: images/xt39.png Graphic file (type bmp)
-<images/xt39.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[570]
-File: images/xt40.png Graphic file (type bmp)
-<images/xt40.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[571] [572]
-File: images/xt41.png Graphic file (type bmp)
-<images/xt41.png>
-File: images/xt42.png Graphic file (type bmp)
-<images/xt42.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[573]
-File: images/xt43.png Graphic file (type bmp)
-<images/xt43.png>
-[574]
-File: images/xt44.png Graphic file (type bmp)
-<images/xt44.png>
-File: images/xt45.png Graphic file (type bmp)
-<images/xt45.png>
-[575]
-File: images/xt46.png Graphic file (type bmp)
-<images/xt46.png>
-File: images/xt47.png Graphic file (type bmp)
-<images/xt47.png>
-[576]
-File: images/xt48.png Graphic file (type bmp)
-<images/xt48.png>
-[577]
-File: images/xt49.png Graphic file (type bmp)
-<images/xt49.png>
-File: images/xt50.png Graphic file (type bmp)
-<images/xt50.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[578]
-File: images/xt51.png Graphic file (type bmp)
-<images/xt51.png>
-[579]
-File: images/xt52.png Graphic file (type bmp)
-<images/xt52.png>
-File: images/xt53.png Graphic file (type bmp)
-<images/xt53.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[580]
-File: images/xt54.png Graphic file (type bmp)
-<images/xt54.png>
-[581]
-File: images/xt55.png Graphic file (type bmp)
-<images/xt55.png>
-File: images/xt56.png Graphic file (type bmp)
-<images/xt56.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[582]
-File: images/gx1.png Graphic file (type bmp)
-<images/gx1.png>
-
-Underfull \vbox (badness 3428) has occurred while \output is active []
-
-[583]
-File: images/gx2.png Graphic file (type bmp)
-<images/gx2.png>
-[584]
-File: images/gx3.png Graphic file (type bmp)
-<images/gx3.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[585] [586]
-File: images/gx4.png Graphic file (type bmp)
-<images/gx4.png>
-[587]
-
-Package fontspec Warning: Font "STKaiti" does not contain requested Script
-(fontspec)                "CJK".
-
-
-Package fontspec Info: STKaiti scale = 0.9663665047913367.
-
-
-Package fontspec Info: Could not resolve font "STKaiti/BI" (it probably
-(fontspec)             doesn't exist).
-
-
-Package fontspec Info: Could not resolve font "STKaiti/B" (it probably doesn't
-(fontspec)             exist).
-
-
-Package fontspec Info: Could not resolve font "STKaiti/I" (it probably doesn't
-(fontspec)             exist).
-
-
-Package fontspec Info: STKaiti scale = 0.9663665047913367.
-
-
-Package fontspec Info: Font family 'STKaiti(0)' created for font 'STKaiti'
-(fontspec)             with options
-(fontspec)             [Ligatures=TeX,Scale=MatchLowercase,Script={CJK}].
-(fontspec)              
-(fontspec)              This font family consists of the following NFSS
-(fontspec)             series/shapes:
-(fontspec)              
-(fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <->s*[0.9663665047913367]"STKaiti/OT:mapping=tex-text;"
-(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
-
-LaTeX Font Info:    Font shape `TU/STKaiti(0)/m/n' will be
-(Font)              scaled to size 10.18492pt on input line 11236.
-[588] [589] [590] [591] [592] [593]
-Missing character: There is no ⻣ in font STFangsong/OT:mapping=tex-text;!
-[594] [595] [596] [597]
-Missing character: There is no ⻆ in font STFangsong/OT:mapping=tex-text;!
-Missing character: There is no ⻆ in font STFangsong/OT:mapping=tex-text;!
-[598]
-章 6.
-[599
-
-]
-File: images/hhcs1.png Graphic file (type bmp)
-<images/hhcs1.png>
-[600]
-File: images/hhcs2.png Graphic file (type bmp)
-<images/hhcs2.png>
-File: images/hhcs3.png Graphic file (type bmp)
-<images/hhcs3.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[601]
-File: images/hhcs4.png Graphic file (type bmp)
-<images/hhcs4.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[602] [603]
-File: images/hhcs5.png Graphic file (type bmp)
-<images/hhcs5.png>
-[604]
-File: images/hhcs6.png Graphic file (type bmp)
-<images/hhcs6.png>
-[605]
-File: images/sisi1.png Graphic file (type bmp)
-<images/sisi1.png>
-[606]
-File: images/sisi2.png Graphic file (type bmp)
-<images/sisi2.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[607]
-File: images/sisi3.png Graphic file (type bmp)
-<images/sisi3.png>
-[608]
-File: images/sisi4.png Graphic file (type bmp)
-<images/sisi4.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[609]
-File: images/sisi5.png Graphic file (type bmp)
-<images/sisi5.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[610] [611]
-Underfull \vbox (badness 6876) has occurred while \output is active []
-
-[612]
-File: images/kq1.png Graphic file (type bmp)
-<images/kq1.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[613]
-File: images/kq2.png Graphic file (type bmp)
-<images/kq2.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[614] [615]
-File: images/kq3.png Graphic file (type bmp)
-<images/kq3.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[616] [617] [618] [619]
-File: images/edit1.png Graphic file (type bmp)
-<images/edit1.png>
-[620]
-File: images/edit2.png Graphic file (type bmp)
-<images/edit2.png>
-
-Underfull \vbox (badness 6188) has occurred while \output is active []
-
-[621]
-File: images/edit3.png Graphic file (type bmp)
-<images/edit3.png>
-File: images/edit4.png Graphic file (type bmp)
-<images/edit4.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[622]
-File: images/edit5.png Graphic file (type bmp)
-<images/edit5.png>
-[623] [624]
-File: images/hjzf1.png Graphic file (type bmp)
-<images/hjzf1.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[625] [626]
-File: images/hjzf2.png Graphic file (type bmp)
-<images/hjzf2.png>
-[627]
-File: images/hjzf3.png Graphic file (type bmp)
-<images/hjzf3.png>
-[628]
-File: images/hjzf4.png Graphic file (type bmp)
-<images/hjzf4.png>
-[629]
-File: images/osre1.png Graphic file (type bmp)
-<images/osre1.png>
-[630]
-File: images/osre2.png Graphic file (type bmp)
-<images/osre2.png>
-[631]
-File: images/osre3.png Graphic file (type bmp)
-<images/osre3.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[632] [633]
-File: images/osre4.png Graphic file (type bmp)
-<images/osre4.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[634] [635]
-File: images/osre5.png Graphic file (type bmp)
-<images/osre5.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[636] [637] [638] [639] [640]
-File: images/qiye1.png Graphic file (type bmp)
-<images/qiye1.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[641]
-File: images/qiye2.png Graphic file (type bmp)
-<images/qiye2.png>
-[642]
-File: images/qiye3.png Graphic file (type bmp)
-<images/qiye3.png>
-[643]
-File: images/qiye4.png Graphic file (type bmp)
-<images/qiye4.png>
-File: images/qiye5.png Graphic file (type bmp)
-<images/qiye5.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[644] [645] [646]
-File: images/qiye6.png Graphic file (type bmp)
-<images/qiye6.png>
-[647]
-File: images/kaozheng1.png Graphic file (type bmp)
-<images/kaozheng1.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[648]
-File: images/kaozheng2.png Graphic file (type bmp)
-<images/kaozheng2.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[649]
-File: images/kaozheng3.png Graphic file (type bmp)
-<images/kaozheng3.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[650]
-File: images/kaozheng4.png Graphic file (type bmp)
-<images/kaozheng4.png>
-
-Underfull \vbox (badness 3907) has occurred while \output is active []
-
-[651]
-File: images/kaozheng5.png Graphic file (type bmp)
-<images/kaozheng5.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[652] [653] [654] [655]
-File: images/py1.png Graphic file (type bmp)
-<images/py1.png>
-[656]
-File: images/py2.png Graphic file (type bmp)
-<images/py2.png>
-[657] [658]
-File: images/py3.png Graphic file (type bmp)
-<images/py3.png>
-[659]
-File: images/py4.png Graphic file (type bmp)
-<images/py4.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[660] [661] [662] [663] [664] [665] [666]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[667] [668] [669] [670] [671] [672] [673] [674] [675] [676] [677] [678] [679]
-Underfull \vbox (badness 1297) has occurred while \output is active []
-
-[680] [681] [682] [683] [684] [685] [686] [687] [688] [689] [690]
-Underfull \vbox (badness 1281) has occurred while \output is active []
-
-[691] [692] [693] [694] [695] [696] [697] [698] [699] [700] [701] [702]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[703] [704] [705] [706] [707]
-No file hjhbb.bbl.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 12937.
-[708]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 12937.
-(./hjhbb.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 12937.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 12937
-.
-Package rerunfilecheck Info: File `hjhbb.out' has not changed.
-(rerunfilecheck)             Checksum: 98531ED1A98DDAFD67422C7492F618AD.
-
-LaTeX Font Warning: Some font shapes were not available, defaults substituted.
-
- ) 
+! Package fontspec Error: The font "STFangsong" cannot be found.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.71 \setCJKmonofont
+                    {STKaiti} 
 Here is how much of TeX's memory you used:
- 33109 strings out of 492916
- 712273 string characters out of 6133346
- 848842 words of memory out of 5000000
- 36446 multiletter control sequences out of 15000+600000
- 539022 words of font info for 101 fonts, out of 8000000 for 9000
- 1348 hyphenation exceptions out of 8191
- 64i,6n,126p,1822b,446s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 27304 strings out of 494896
+ 521683 string characters out of 6176840
+ 668503 words of memory out of 5000000
+ 31018 multiletter control sequences out of 15000+600000
+ 532876 words of font info for 35 fonts, out of 8000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 64i,0n,126p,813b,446s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on hjhbb.pdf (708 pages).
+No pages of output.
+
+
+! kpathsea: Running mktextfm STFangsong/OT
+! /opt/TinyTeX/texmf-dist/web2c/mktexnam: Could not map source abbreviation  for OT.
+! /opt/TinyTeX/texmf-dist/web2c/mktexnam: Need to update ?
+! mktextfm: Running mf-nowin -progname=mf \mode:=ljfour; mag:=1; nonstopmode; input OT
+! This is METAFONT, Version 2.7182818 (TeX Live 2018) (preloaded base=mf)
+
+! kpathsea: Running mktexmf OT
+
+! ! I can't find file `OT'.
+! <*> \mode:=ljfour; mag:=1; nonstopmode; input OT
+                                                
+! Please type another input file name
+! ! Emergency stop.
+! <*> \mode:=ljfour; mag:=1; nonstopmode; input OT
+                                                
+! Transcript written on mfput.log.
+! grep: OT.log: No such file or directory
+! mktextfm: `mf-nowin -progname=mf \mode:=ljfour; mag:=1; nonstopmode; input OT' failed to make OT.tfm.
+! kpathsea: Appending font creation commands to missfont.log.
