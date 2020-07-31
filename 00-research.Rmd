@@ -3412,3 +3412,95 @@ https://pubs.acs.org/doi/10.1021/acs.est.9b02473
 链接：https://pubs.acs.org/doi/10.1021/acs.est.0c03061 https://pubs.acs.org/doi/10.1021/acs.est.0c01971
 
 题目：Comment on “Rethinking the Minamata Tragedy: What Mercury Species Was Really Responsible?” Reply to Comments on “Rethinking the Minamata Tragedy: What Mercury Species Was Really Responsible?”
+
+## 七月 {-}
+
+### 研究动态 {-}
+
+- 雄安新区地下水六价铬很高。
+
+推荐人：田振宇
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.0c02357
+
+题目：High hexavalent chromium in groundwater from a deep aquifer in the Baiyangdian basin of the North China Plain
+
+- 疫情期间消毒液的使用量增长很高，这篇综述关注了季铵盐类消毒液的环境归趋问题，毕竟作为消毒液，杀菌跟杀活性污泥本质上是一回事。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.estlett.0c00437
+
+题目：Increased Use of Quaternary Ammonium Compounds during the SARS-CoV-2 Pandemic and Beyond: Consideration of Environmental Implications
+
+- 利用污水中生物标记物预测城市经济社会指标，这个思路有意思，可配合各类组学开展找一些指示社会现象的动态标记物。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.estlett.0c00392
+
+题目：Population Socioeconomics Predicted Using Wastewater
+
+- 纽约市2014年推出了温室气体减排法案，这篇文章估计了其社会经济效益，每年从空气质量上减少了约7%的细颗粒物排放，避免了160-390人的死亡，减少了约34亿美元的健保开支，虽说拿经济数字衡量生命是没道理的，但有了量化可以更好评价环保政策。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.0c00694
+
+题目：Assessing Air Quality and Public Health Benefits of New York City’s Climate Action Plans
+
+- 虽然目前模型效果一般，但这种利用实时监测数据来发现工业泄漏的思路对于页岩气开发地区还是很有必要的。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.9b06761
+
+题目：Assessing Contamination of Stream Networks near Shale Gas Development Using a New Geospatial Tool
+
+- 环境污染与寄生虫都是野生动物的生存威胁，这项工作基于鹭鸶讨论了这两种威胁的交互作用，发现硒汞摩尔比在雌性鹭鸶中可指示寄生虫状况，是个分子层面与生物层面相结合的研究思路。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.0c03021
+
+题目：Interactions between Environmental Contaminants and Gastrointestinal Parasites: Novel Insights from an Integrative Approach in a Marine Predator
+
+- 伴随城市化与经济发展，我国未来可能会出现上千座机场，这篇文章评价了波士顿机场附近的空气质量，认为机场附近的居住空气质量受到了来自飞机起落的影响。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.0c01859
+
+题目：Impacts of Aviation Emissions on Near-Airport Residential Air Quality
+
+- 化雪用路盐的过量使用会对周边环境引入过量的氯化钠，这篇文章用实验室模拟评估了影响并认为加拿大安省的路盐使用已经造成了周边生态的负面影响。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.0c02396
+
+题目：Road Salt Impacts Freshwater Zooplankton at Concentrations below Current Water Quality Guidelines
+
+- 这项发现值得思考，美属波多黎各在台风过境前后饮用水水质竟然出现了差异，很多污染物含量提高了。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.0c01655
+
+题目：Impact of Hurricane Maria on Drinking Water Quality in Puerto Rico
+
+- 这项工作提出了用果皮当还原剂回收锂离子电池的设想并做了部分验证与安全评价，也许技术上可行，不过实际操作可能是另一个光景，需要技术外的配合。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.0c02873
+
+题目：Repurposing of Fruit Peel Waste as a Green Reductant for Recycling of Spent Lithium-Ion Batteries
+
+- 天然气被认为是温室气体排放重要来源，因此很多国家或城市都在禁用天然气转用电热泵取暖，这项政策分析认为，电热泵取暖会导致居民取暖成本上升且排放更多的二氧化碳，而且区域差异会很大。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.0c02705
+
+题目：The Environmental Consequences of Electrifying Space Heating
