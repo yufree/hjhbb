@@ -3596,3 +3596,119 @@ https://pubs.acs.org/doi/10.1021/acs.est.9b02473
 链接：http://dx.doi.org/10.1021/acs.est.0c03219
 
 题目：Widespread Pig Farming Practice Linked to Shifts in Skin Microbiomes and Disease in Pond-Breeding Amphibians
+
+## 九月 {-}
+
+### 研究动态 {-}
+
+- 牛仔裤的靛青色纤维（indigo microfiber）在环境水样和鱼体内能普遍检出。那么问题是，颜料有害么？棉或者人造纤维素应该是没有太大毒性的吧
+
+推荐人：田振宇
+
+链接：https://pubs.acs.org/doi/10.1021/acs.estlett.0c00498
+
+题目：The Widespread Environmental Footprint of Indigo Denim Microfibers from Blue Jeans
+
+- 比较有意思的non-target 研究，作者测了湖底沉积物的植物保护剂（plant protection products，可以认为就各种农药吧），并且半定量描绘了近百年来这些化学物质的浓度变化。基本上1950s 之前是几乎测不到的，然后有些污染物经历峰值又下降，有些仍然在继续上升。
+
+推荐人：田振宇
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.0c04842
+
+题目：A high-resolution historical record of plant protection products deposition documented by target and nontarget trend analysis in a Swiss lake under anthropogenic pressure
+
+- 淦，实验用手套也掉渣，导致 microplastics 检测会出现假阳性。（然而即使这样窝们也已经手套短缺很久了）
+
+推荐人：田振宇
+
+链接：https://doi.org/10.1021/acs.est.0c03742
+
+题目：When Good Intentions Go Bad - False Positive Microplastic Detection Caused by Disposable Gloves
+
+- 用机器学习研究塑料性质对生物可利用性的影响。有实验作为支撑，不胡搞，不贪多（两个物质），结论比较实在。
+
+推荐人：田振宇
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.0c02838
+
+题目：Key Physicochemical Properties Dictating Gastrointestinal Bioaccessibility of Microplastics-Associated Organic Xenobiotics: Insights from a Deep Learning Approach
+
+- 污泥中的微塑料在450°C下会被降解掉大部分，不过这可比脱水污泥堆肥温度高出一大截，应需要专门的设备与处理流程。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.estlett.0c00740
+
+题目：Microplastics Mitigation in Sewage Sludge through Pyrolysis: The Role of Pyrolysis Temperature
+
+- 这篇文章考察了国内新冠流行期间六个都市区的空气质量变化，交通来源的氮氧化物的浓度下降是比较明显的，不过伴随复工复产，污染水平也在四个月内基本恢复。不过预测模型主要依赖了随机森林，感觉预测变量选取上有所遗漏。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.estlett.0c00605
+
+题目：Four-Month Changes in Air Quality during and after the COVID-19 Lockdown in Six Megacities in China
+
+- 这篇文章考察了除草剂杀菌剂对松鸡的影响，通过接触土壤影响不大，但如果给鸡蛋喷除草剂会降低雏鸡成活概率。方法古典了些但对散养禽类养殖应该有重要借鉴意义。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.0c04203
+
+题目：Egg Overspray with Herbicides and Fungicides Reduces Survival of Red-Legged Partridge Chicks
+
+- 临街建筑物的室内空气不可避免受交通来源的污染物影响，这篇研究发现空气净化装置可有效减少交通来源的污染物，阻滞了室内二次有机气溶胶的生成，反过来看来临街房的通风其实也有一定风险。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.0c02792
+
+题目：High-Efficiency Air Cleaning Reduces Indoor Traffic-Related Air Pollution and Alters Indoor Air Chemistry in a Near-Roadway School
+
+- 美国最近几年因为页岩气开发从能源进口国转为了能源出口国，但这项研究发现中部石油与天然气泄漏提高了地标臭氧浓度，削弱了地方上控制空气污染的成果。能源行业跟环保行业果然是死对头。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.9b06983
+
+题目：Impact of U.S. Oil and Natural Gas Emission Increases on Surface Ozone Is Most Pronounced in the Central United States
+
+- 页岩气与煤层甲烷都是非传统的天然气，中国是煤炭大国，如果能有效利用煤层甲烷发电使之替换掉燃煤电厂，那么将大程度降低碳排放。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.0c01207
+
+题目：Potential Uses of Coal Methane in China and Associated Benefits for Air Quality, Health, and Climate
+
+- 作为农业大国，我们的氮磷肥使用量已经大到足以影响地球氮磷循环的程度了，其中相当一部分是滥用导致的，这篇文章认为主要问题在于空间上农场、牧场与人的分布不均导致的输运损失，可以通过农牧结合的方式来减少三成（氮）到五成（磷）的浪费。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.0c00781
+
+题目：Spatial Planning Needed to Drastically Reduce Nitrogen and Phosphorus Surpluses in China’s Agriculture
+
+- 这篇文章考察了不同餐饮标准下美国食品系统内循环的能力，发现美国当前的农业产出还是可以净输出给全球的，另外素食的食品需求也确实是最低的。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.9b07582
+
+题目：Mapping U.S. Food System Localization Potential: The Impact of Diet on Foodsheds
+
+- 针对气候变暖有个2摄氏度的目标，这篇文章针对金属使用研究发现，要达成减排目标，每人的金属使用量不能超过7吨，大概是目前发达国家人均金属使用量的一半，对应的工业设计也要充分考虑物料循环与耐久度。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.0c02471
+
+题目：Global Metal Use Targets in Line with Climate Goals
+
+- 关于微塑料的新概念与研究方向：新的微生物定殖表面，按这个排列组合法，大概过不了多久就会出现微塑料微生物组学的研究了。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.0c02305
+
+题目：Marine Plastic Debris: A New Surface for Microbial Colonization
