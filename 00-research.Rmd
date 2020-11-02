@@ -3712,3 +3712,103 @@ https://pubs.acs.org/doi/10.1021/acs.est.9b02473
 链接：https://pubs.acs.org/doi/10.1021/acs.est.0c02305
 
 题目：Marine Plastic Debris: A New Surface for Microbial Colonization
+
+## 十月 {-}
+
+### 研究动态 {-}
+
+- 持久性自由基是来源于热解燃烧过程中生成的具有环境持久性的自由基，最近因为电子烟与细颗粒物污染等研究兴起而成为一个前沿方向，这篇文章讨论了形成机理。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.0c03363
+
+题目：Components and Persistent Free Radicals in the Volatiles during Pyrolysis of Lignocellulose Biomass
+
+- 海洋表面微层是最近几年比较火的概念，这篇文章讨论了其对海洋碘释放的影响，通过模拟水体与真实水体实验认为海洋表面微层的存在减少了海洋碘的释放，这里面值得关注的是其对海洋微层的采样方法。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.0c02736
+
+题目：Influence of the Sea Surface Microlayer on Oceanic Iodine Emissions
+
+- 一般认为室内空气污染主要来源是烹饪，这篇文章额外考察了地板清洗与空调在其中的作用，模式污染物为HONO，研究发现这三个来源相互作用影响显著。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.0c05356
+
+题目：Cooking, Bleach Cleaning, and Air Conditioning Strongly Impact Levels of HONO in a House
+
+- 这篇文章提出了基于中心法则研究农药降解的数值模型，动力学模型的构建及模型验证都做的很扎实，其中发现的基因表达对降解的滞后效应值得关注。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.0c03315
+
+题目：Gene-Centric Model Approaches for Accurate Prediction of Pesticide Biodegradation in Soils
+
+- 这篇文章思路很有意思：利用同位素分馏证明证明植物的重金属富集能力，但证据挺充分的。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.0c03142
+
+题目：Cadmium Isotopic Fractionation in the Soil–Plant System during Repeated Phytoextraction with a Cadmium Hyperaccumulating Plant Species
+
+- 这篇文章利用机器学习模型来预测雄激素受体活性，内容不意外，EPA 放出来的 ToxCast 数据绝对有料值得挖。但作者有的来自药物开发公司，感觉像是给自己的方法在做广告，还有一些是来自日化家族企业的员工。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.0c03984
+
+题目：Comparison of Machine Learning Models for the Androgen Receptor
+
+- 溶解性有机质（DOM）是很复杂的一类物质，其组分并不固定，很难用分析手段搞清楚，但用分子动力学模拟来研究却是一种另辟蹊径的系统性质研究方法，这可能是研究混合物的宏观属性机理的有效思路。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.0c01176
+
+题目：Molecular Dynamics Simulation of the Structures, Dynamics, and Aggregation of Dissolved Organic Matter
+
+- 稀土元素铕曾经是日光灯生产的重要原料，经常与其他稀土元素一同被开采。这篇文章用物质流分析了其供应链，指出了但由于照明产业逐渐转向LED，目前铕元素其实已经生产过剩了。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.0c02870
+
+题目：Byproduct Surplus: Lighting the Depreciative Europium in China’s Rare Earth Boom
+
+- 禁塑令常被认为是政府环保意识的代表，但从科学角度看低估了事实的复杂性，这篇文章就指出了五种相关误解或错觉：1）塑料外包装是产品环境影响最大的部分（其实是产品）；2）塑料是外包装环境影响最大的材料（其实不如玻璃与金属）；3）重复性使用的产品比一次性使用的环境友好（除非循环使用次数足够多）；4）物质循环与堆肥有最高优先级（其实不如减少过度消费）；5）零废物例如禁塑令最小化了环境影响（有效但作用很有限），本文值得翻译推广讨论。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.0c05295
+
+题目：Five Misperceptions Surrounding the Environmental Impacts of Single-Use Plastic
+
+- 违禁药品在下水道底泥的环境行为确实是监控的盲区（一般是源头跟污水厂），这篇文章利用实验室环境研究了一些违禁药的环境行为，指出高活性的污泥提供了更快的转换率且很多药对pH不敏感。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.0c04266
+
+题目：Transformation of Illicit Drugs and Pharmaceuticals in Sewer Sediments
+
+- 想不到海参可以富集抗生素，某种程度上也算是养生了。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.0c04266
+
+题目：Bioaccumulation, Biotransformation, and Multicompartmental Toxicokinetic Model of Antibiotics in Sea Cucumber (Apostichopus japonicus)
+
+- 国内05到15年的基建不仅养活了水泥行业，也提高了水泥相关汞的排放。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.0c03512
+
+题目：Rapid Increase in Cement-Related Mercury Emissions and Deposition in China during 2005–2015
