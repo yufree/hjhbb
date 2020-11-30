@@ -1,42 +1,55 @@
-\PassOptionsToPackage{unicode=true}{hyperref} % options for packages loaded elsewhere
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
 \PassOptionsToPackage{hyphens}{url}
 %
-\documentclass[]{book}
+\documentclass[
+]{book}
 \usepackage{lmodern}
 \usepackage{amssymb,amsmath}
 \usepackage{ifxetex,ifluatex}
-\usepackage{fixltx2e} % provides \textsubscript
 \ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
   \usepackage[T1]{fontenc}
   \usepackage[utf8]{inputenc}
-  \usepackage{textcomp} % provides euro and other symbols
-\else % if luatex or xelatex
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
   \usepackage{unicode-math}
-  \defaultfontfeatures{Ligatures=TeX,Scale=MatchLowercase}
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
 \fi
-% use upquote if available, for straight quotes in verbatim environments
+% Use upquote if available, for straight quotes in verbatim environments
 \IfFileExists{upquote.sty}{\usepackage{upquote}}{}
-% use microtype if available
-\IfFileExists{microtype.sty}{%
-\usepackage[]{microtype}
-\UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
 }{}
-\IfFileExists{parskip.sty}{%
-\usepackage{parskip}
-}{% else
-\setlength{\parindent}{0pt}
-\setlength{\parskip}{6pt plus 2pt minus 1pt}
-}
-\usepackage{hyperref}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\usepackage{xcolor}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
 \hypersetup{
-            pdftitle={环境黑板报},
-            pdfauthor={805},
-            pdfborder={0 0 0},
-            breaklinks=true}
-\urlstyle{same}  % don't use monospace font for urls
+  pdftitle={环境黑板报},
+  pdfauthor={805},
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}}
+\urlstyle{same} % disable monospaced font for URLs
 \usepackage{longtable,booktabs}
-% Fix footnotes in tables (requires footnote package)
-\IfFileExists{footnote.sty}{\usepackage{footnote}\makesavenoteenv{longtable}}{}
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
 \usepackage{graphicx,grffile}
 \makeatletter
 \def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
@@ -46,25 +59,14 @@
 % margins by default, and it is still possible to overwrite the defaults
 % using explicit options in \includegraphics[width, height, ...]{}
 \setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
-\setlength{\emergencystretch}{3em}  % prevent overfull lines
-\providecommand{\tightlist}{%
-  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
-\setcounter{secnumdepth}{5}
-% Redefines (sub)paragraphs to behave more like sections
-\ifx\paragraph\undefined\else
-\let\oldparagraph\paragraph
-\renewcommand{\paragraph}[1]{\oldparagraph{#1}\mbox{}}
-\fi
-\ifx\subparagraph\undefined\else
-\let\oldsubparagraph\subparagraph
-\renewcommand{\subparagraph}[1]{\oldsubparagraph{#1}\mbox{}}
-\fi
-
-% set default figure placement to htbp
+% Set default figure placement to htbp
 \makeatletter
 \def\fps@figure{htbp}
 \makeatother
-
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{5}
 \usepackage{booktabs}
 \usepackage{ctex}
 \setCJKmainfont{STFangsong}
@@ -76,7 +78,7 @@
 
 \title{环境黑板报}
 \author{805}
-\date{2020-11-02}
+\date{2020-11-30}
 
 \begin{document}
 \maketitle
@@ -360,7 +362,7 @@
 \begin{itemize}
 \tightlist
 \item
-  考虑停留时间，室内空气污染其实比室外影响要大，清华大学的一个研究组考察了中式烹饪过程中室内污染的影响因素，结果发现烹饪方式对大多数污染物影响最严重，基本趋势是炒菜\textgreater{}油炸\textgreater{}蒸煮，如果开了排气扇，大多数污染物浓度都能下降一半。
+  考虑停留时间，室内空气污染其实比室外影响要大，清华大学的一个研究组考察了中式烹饪过程中室内污染的影响因素，结果发现烹饪方式对大多数污染物影响最严重，基本趋势是炒菜\textgreater 油炸\textgreater 蒸煮，如果开了排气扇，大多数污染物浓度都能下降一半。
 \end{itemize}
 
 推荐人：于淼
@@ -2120,7 +2122,7 @@
 \begin{itemize}
 \tightlist
 \item
-  很有意思的一个关于阻燃剂的职业暴露研究，作者研究了三组不同的职业人群（办公室白领，出租司机，保安），采集了三种不同的样品 hand wipe, surface wipe, 和 dust (不知道前两个怎么翻译好) 并且研究了他们之间的相关性。他们根据目标阻燃剂的结果得出的职业暴露的规律是 出租司机\textgreater{}办公室白领\textgreater{}保安（车内 和 室内？）。另外发现hand wipe和surface wipe结果相关性很好，而hand wipe 和dust并不太相关。其实我觉得可以更进一步，看一下哪种样品和体内浓度更相关，这才是最终目的。
+  很有意思的一个关于阻燃剂的职业暴露研究，作者研究了三组不同的职业人群（办公室白领，出租司机，保安），采集了三种不同的样品 hand wipe, surface wipe, 和 dust (不知道前两个怎么翻译好) 并且研究了他们之间的相关性。他们根据目标阻燃剂的结果得出的职业暴露的规律是 出租司机\textgreater 办公室白领\textgreater 保安（车内 和 室内？）。另外发现hand wipe和surface wipe结果相关性很好，而hand wipe 和dust并不太相关。其实我觉得可以更进一步，看一下哪种样品和体内浓度更相关，这才是最终目的。
 \end{itemize}
 
 推荐人：田振宇
@@ -2948,7 +2950,7 @@ pmd 包网站：\url{https://yufree.github.io/pmd/}
 \begin{itemize}
 \tightlist
 \item
-  \href{http://www.mee.gov.cn/xxgk2018/xxgk/xxgk03/201811/t20181108672959.htm}{11月6日，生态环境部 农业农村部联合发布《农业农村污染治理攻坚战行动计划》，行动目标是通过三年攻坚，\ldots{}\ldots{}到2020年，实现``一保两治三减四提升''：``一保''，即保护农村饮用水水源，农村饮水安全更有保障；``两治''，即治理农村生活垃圾和污水，实现村庄环境干净整洁有序；``三减''，即减少化肥、农药使用量和农业用水总量；``四提升''，即提升主要由农业面源污染造成的超标水体水质、农业废弃物综合利用率、环境监管能力和农村居民参与度。拭目以待\textasciitilde{}}
+  \href{http://www.mee.gov.cn/xxgk2018/xxgk/xxgk03/201811/t20181108672959.htm}{11月6日，生态环境部 农业农村部联合发布《农业农村污染治理攻坚战行动计划》，行动目标是通过三年攻坚，\ldots\ldots 到2020年，实现``一保两治三减四提升''：``一保''，即保护农村饮用水水源，农村饮水安全更有保障；``两治''，即治理农村生活垃圾和污水，实现村庄环境干净整洁有序；``三减''，即减少化肥、农药使用量和农业用水总量；``四提升''，即提升主要由农业面源污染造成的超标水体水质、农业废弃物综合利用率、环境监管能力和农村居民参与度。拭目以待\textasciitilde{}}
 \end{itemize}
 
 在保障措施中提出``加强村民自治''和``培育市场主体''，体现村级组织和环保市场主体在乡村振兴中的重要性。
@@ -4231,7 +4233,7 @@ pmd 包网站：\url{https://yufree.github.io/pmd/}
 \begin{itemize}
 \tightlist
 \item
-  上了岁数的猫容易得甲亢。研究者使用硅胶猫牌（对，又是做腕带的那个组）和流行病学方法研究了78只老猫（\textgreater{}7 yr，一半甲亢一半正常）的暴露与健康关联，发现阻燃剂TDCIPP 和猫甲亢显著相关。其他有关的风险因素包括空气清新剂，房子老，以及（猫）喜欢在家具上打盹。
+  上了岁数的猫容易得甲亢。研究者使用硅胶猫牌（对，又是做腕带的那个组）和流行病学方法研究了78只老猫（\textgreater7 yr，一半甲亢一半正常）的暴露与健康关联，发现阻燃剂TDCIPP 和猫甲亢显著相关。其他有关的风险因素包括空气清新剂，房子老，以及（猫）喜欢在家具上打盹。
 \end{itemize}
 
 推荐人：田振宇
@@ -6243,6 +6245,134 @@ pmd 包网站：\url{https://yufree.github.io/pmd/}
 
 题目：Rapid Increase in Cement-Related Mercury Emissions and Deposition in China during 2005--2015
 
+\hypertarget{ux5341ux4e00ux6708-3}{%
+\section*{十一月}\label{ux5341ux4e00ux6708-3}}
+\addcontentsline{toc}{section}{十一月}
+
+\hypertarget{ux7814ux7a76ux52a8ux6001-36}{%
+\subsection*{研究动态}\label{ux7814ux7a76ux52a8ux6001-36}}
+\addcontentsline{toc}{subsection}{研究动态}
+
+\begin{itemize}
+\tightlist
+\item
+  这是一篇多暴露对多终点（微生物组学）研究，但研究对相关性要求也太松了，0.2的相关系数阈值外带没有FDR控制让结果可信度大大降低。
+\end{itemize}
+
+推荐人：于淼
+
+链接：\url{https://pubs.acs.org/doi/10.1021/acs.estlett.0c00776}
+
+题目：Exposures to Semivolatile Organic Compounds in Indoor Environments and Associations with the Gut Microbiomes of Children
+
+\begin{itemize}
+\tightlist
+\item
+  棕碳油球（Brown Carbonaceous Tarballs）是一种不同于黑碳的球状含碳黏性可吸光气溶胶，这项工作在青藏高原大气中检出了可能来自印度中央平原的棕碳油球，暗示人类活动影响或加剧第三极的冰川融化。
+\end{itemize}
+
+推荐人：于淼
+
+链接：\url{https://pubs.acs.org/doi/10.1021/acs.estlett.0c00735}
+
+题目：Evidence for Large Amounts of Brown Carbonaceous Tarballs in the Himalayan Atmosphere
+
+\begin{itemize}
+\tightlist
+\item
+  长效注射型避孕药甲羟孕酮一个已知副作用是降低骨密度，研究人员推测这会导致血液中释放更多的重金属，一组非裔美国青年妇女的队列研究证实了该避孕药确实提高了使用者的血铅浓度，可能以后测血铅的调查问卷要加一项问下个人用药史。
+\end{itemize}
+
+推荐人：于淼
+
+链接：\url{https://ehp.niehs.nih.gov/doi/10.1289/EHP7017}
+
+题目：Depot Medroxyprogesterone Acetate Use and Blood Lead Levels in a Cohort of Young Women
+
+\begin{itemize}
+\tightlist
+\item
+  这是一篇发在EHP上介绍研究的文章，相比相对严谨但有点八股的研究文章本身，这类文章其实更接地气，科学家应该学点类似华尔街日报体的写法，想说服别人先说服自己。回看这篇文章，很多人做全氟其实自己都不知道半衰期就知道有害，看到别人做短链就也做短链，但短链也许活性高，但也正因为高活性半衰期短，能更快被代谢掉，持久性不那么强了。
+\end{itemize}
+
+推荐人：于淼
+
+链接：\url{https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7657368/}
+
+题目：Breaking It Down: Estimating Short-Chain PFAS Half-Lives in a Human Population
+
+\begin{itemize}
+\tightlist
+\item
+  磷的地球化学循环从人的利用角度看其实是循环不动的，沉积到海底的磷等变回磷矿估计人类都灭绝了，这篇文章考察了基于降水预测前景的全球耕地磷流失，前景不容乐观。
+\end{itemize}
+
+推荐人：于淼
+
+链接：\url{https://pubs.acs.org/doi/10.1021/acs.est.0c03978}
+
+题目：Global Phosphorus Losses from Croplands under Future Precipitation Scenarios
+
+\begin{itemize}
+\tightlist
+\item
+  污染物安全评价经常依赖均值，但实际数值分布却依赖其物理化学性质，居民楼供水管线中铅的浓度波动就可以用计算流体动力学模拟来得到浓度的动态的变化，研究发现``活塞流''的传统研究方式会高估铅的释放也无法捕捉到铅组件在管道连接处的释放规律。
+\end{itemize}
+
+推荐人：于淼
+
+链接：\url{https://pubs.acs.org/doi/10.1021/acs.est.0c03232}
+
+题目：Unraveling the Causes of Excess Lead in Drinking Water Supply Systems of Densely Populated High-Rise Buildings in Hong Kong
+
+\begin{itemize}
+\tightlist
+\item
+  被动采样技术可以算环境化学的特色采样手段了，这篇文章介绍了动态被动采样技术，提出用不同厚度的被动采样器来进行原位校准，值得推广。
+\end{itemize}
+
+推荐人：于淼
+
+链接：\url{https://pubs.acs.org/doi/10.1021/acs.est.0c04437}
+
+题目：Kinetic Passive Sampling: In Situ Calibration Using the Contaminant Mass Measured in Parallel Samplers with Different Thicknesses
+
+\begin{itemize}
+\tightlist
+\item
+  大麻是一种很有争议的毒品，近些年由于抗焦虑``神''药大麻二酚（CBD）的医药潜力而备受关注，这里要说明的是大麻的致幻成分是四氢大麻酚（THC）而大麻二酚是其结构类似物但没有致幻作用，也是大麻中提取来的而大麻被炒作及广泛种植也是因为CBD产业而不是THC。这篇研究关注的是三手大麻的风险问题，也就是类似三手烟的概念，研究发现THC会与臭氧反应生成未知的氧化产物，但由于低挥发性其风险可能不如三手烟。
+\end{itemize}
+
+推荐人：于淼
+
+链接：\url{https://pubs.acs.org/doi/10.1021/acs.est.0c03728}
+
+题目：Heterogeneous Ozonolysis of Tetrahydrocannabinol: Implications for Thirdhand Cannabis Smoke
+
+\begin{itemize}
+\tightlist
+\item
+  西加拿大油气开采行业的甲烷排放通过监测数据反推发现比政府清单报告高出了接近两倍，看来源清单法必须要跟监测做对应，不然自己报的数存在很大操作空间。
+\end{itemize}
+
+推荐人：于淼
+
+链接：\url{https://pubs.acs.org/doi/10.1021/acs.est.0c04117}
+
+题目：Eight-Year Estimates of Methane Emissions from Oil and Gas Operations in Western Canada Are Nearly Twice Those Reported in Inventories
+
+\begin{itemize}
+\tightlist
+\item
+  这是篇观点文章，从概念与历史发展上区分了关于持久性有机污染物的一些定义，给出了科学家对这些物质认识的一些变化与趋势，想不到80年代 persistent polar pollutants 曾经被称为 P3，看来词义弱化这个现象无处不在。
+\end{itemize}
+
+推荐人：于淼
+
+链接：\url{https://pubs.acs.org/doi/10.1021/acs.est.0c05257}
+
+题目：What's in a Name: Persistent, Mobile, and Toxic (PMT) and Very Persistent and Very Mobile (vPvM) Substances
+
 \hypertarget{popsci}{%
 \chapter{科普讲堂}\label{popsci}}
 
@@ -6256,7 +6386,7 @@ pmd 包网站：\url{https://yufree.github.io/pmd/}
 
 \includegraphics[width=6.67in]{images/cw1}
 
-有人说发展的问题会在发展中解决，例如发达国家也经历过类似的阶段，但伴随产业转型与法规调控，污染问题都会自然而然地消亡；又有人说虽然城市会被雾霾笼罩，但从统计数据上看居民平均寿命其实比所谓田园风光的乡村更长；还有人说大气污染相比土壤、水还有固废污染都不算严重，只是可见度更高（也就是能见度低）\ldots{}\ldots{}的确，雾霾这个现象背后有着错综复杂的社会经济影响，从不同的角度去看会发现不一样的东西。多一个角度看问题并不会让你过的更好，但至少更明白些。
+有人说发展的问题会在发展中解决，例如发达国家也经历过类似的阶段，但伴随产业转型与法规调控，污染问题都会自然而然地消亡；又有人说虽然城市会被雾霾笼罩，但从统计数据上看居民平均寿命其实比所谓田园风光的乡村更长；还有人说大气污染相比土壤、水还有固废污染都不算严重，只是可见度更高（也就是能见度低）\ldots\ldots 的确，雾霾这个现象背后有着错综复杂的社会经济影响，从不同的角度去看会发现不一样的东西。多一个角度看问题并不会让你过的更好，但至少更明白些。
 
 下面我将给出一些非技术与法规调控的视角，希望对读者理解雾霾以及其他一些环境污染问题能有帮助。
 
@@ -6312,7 +6442,7 @@ pmd 包网站：\url{https://yufree.github.io/pmd/}
 编辑：栟
 
 \hypertarget{ux5317ux4eacux7684ux7a7aux6c14ux53d8ux597dux4e86ux4f46ux662f}{%
-\section{北京的空气变好了，但是\ldots{}\ldots{}}\label{ux5317ux4eacux7684ux7a7aux6c14ux53d8ux597dux4e86ux4f46ux662f}}
+\section{北京的空气变好了，但是\ldots\ldots{}}\label{ux5317ux4eacux7684ux7a7aux6c14ux53d8ux597dux4e86ux4f46ux662f}}
 
 早在2009年，美国驻华大使馆便自设空气监测站，并对外发布PM2.5数据。而直到2011年以后，随着微博、微信等自媒体的蓬勃发展，一些微博大V、微信公众号开始关注并转发美国驻华大使馆的空气监测数据。这引发了公众强烈热议，什么是PM2.5也成为一时关注焦点，环保等相关政府管理部门也不得不对此有所回应。2013年，国务院发布《大气污染防治行动计划》（就是所谓的``大气十条''），提出十条具体措施，明确经过五年努力，全国空气质量总体改善。而北京随后制定了《2013-2017年清洁空气行动计划》，明确了到2017年底PM2.5年均浓度控制在60微克/立方米左右的``京60''目标。
 
@@ -6492,7 +6622,7 @@ pmd 包网站：\url{https://yufree.github.io/pmd/}
 
 水热碳化法是指在密闭环境中，以水溶液为介质，使原料在高温（100-300°C）高压下经过一系列复杂反应生成碳材料的过程（实际上就是将原料洗好、称好，放铁罐子里扔烘箱里反应半天左右就行）。用水热碳化法制备碳材料，因其操作简单、无污染、对仪器要求低、转化率高等优点被广泛应用。此外，水热法合成的碳材料表面通常会含有丰富的官能团，特别有利于其应用在工业废水的处理中。目前，包括木屑、树叶、稻壳、松针、塑料袋、废报纸等废弃物都被成功地通过水热法碳化成碳材料，还有研究通过此法成功地将草变成了荧光碳量子点。
 
-直接碳化法是指将原料置于无氧条件（惰性气体）下，高温（\textgreater{}600°C）裂解成碳材料的过程。（实际上也很简单，就是将原料放到管式炉中通氮气或者氩气加热一段时间就可以）在高温条件下，原料中的挥发性有机物会逐渐被分解直至留下碳骨架。通常，直接碳化法还需加入一些化学活化剂或者氧化性气体来活化碳材料，以使其表面孔隙度和比表面积增强。碳化温度、升温速率、碳化时间等因素都会影响碳材料最终的形貌和性质。用此法合成的碳材料，表面会具有较强的疏水性，所以对有机污染物的吸附能力很强。
+直接碳化法是指将原料置于无氧条件（惰性气体）下，高温（\textgreater600°C）裂解成碳材料的过程。（实际上也很简单，就是将原料放到管式炉中通氮气或者氩气加热一段时间就可以）在高温条件下，原料中的挥发性有机物会逐渐被分解直至留下碳骨架。通常，直接碳化法还需加入一些化学活化剂或者氧化性气体来活化碳材料，以使其表面孔隙度和比表面积增强。碳化温度、升温速率、碳化时间等因素都会影响碳材料最终的形貌和性质。用此法合成的碳材料，表面会具有较强的疏水性，所以对有机污染物的吸附能力很强。
 
 \hypertarget{ux7eb3ux7c73ux78b3ux6750ux6599ux5728ux73afux4fddux9886ux57dfux6709ux54eaux4e9bux7528ux5904}{%
 \subsection{纳米碳材料在环保领域有哪些用处？}\label{ux7eb3ux7c73ux78b3ux6750ux6599ux5728ux73afux4fddux9886ux57dfux6709ux54eaux4e9bux7528ux5904}}
@@ -6672,7 +6802,7 @@ pmd 包网站：\url{https://yufree.github.io/pmd/}
 
 我们大东北黑土地在这个时候是收玉米种小麦，秋收整地追求``深、净、细、实''，小麦播种要在适宜播种期抢播早播。收下来的玉米秸秆无处可放，尽管我国80年代起就出台各种秸秆禁烧的相关规定，禁烧态势越压越重，但比起秸秆处理的经济压力和劳动力需求，很多农民不由自主就选择用``一把火''解决问题。
 
-不烧不行啊，秸秆太多了。1991年我国秸秆产量为6亿多吨，经过了粮食总产量的``十三连丰''，到2015年，秸秆产量为10亿多吨。多出的秸秆总量为4亿多吨!什么概念呢?如果把这4亿多吨秸秆以100根为一扎首尾相连，能绕地球赤道转325000圈\ldots{}\ldots{}
+不烧不行啊，秸秆太多了。1991年我国秸秆产量为6亿多吨，经过了粮食总产量的``十三连丰''，到2015年，秸秆产量为10亿多吨。多出的秸秆总量为4亿多吨!什么概念呢?如果把这4亿多吨秸秆以100根为一扎首尾相连，能绕地球赤道转325000圈\ldots\ldots{}
 
 \includegraphics[width=8.33in]{images/stalk2}
 
@@ -6704,7 +6834,7 @@ pmd 包网站：\url{https://yufree.github.io/pmd/}
 
 一根秸秆，一头连着三农，一个敏感脆弱又是万事之本的领域，一头连着环保，一个同样是成长痛点难点的行业。不能烧，但也不能接受粮食减产!粮食减产，根基没了，中国人民要挨饿;烧秸秆，污染加剧，人民叫苦连天。相信很多民生问题都是如此。
 
-好在中国人民是世界上最勤快的人民。纵观其他国家，在面对这个问题的时候农民往往是两手一摊，对执法人员说``我没办法呀!''\ldots{}\ldots{}毫无悔改之意。
+好在中国人民是世界上最勤快的人民。纵观其他国家，在面对这个问题的时候农民往往是两手一摊，对执法人员说``我没办法呀!''\ldots\ldots 毫无悔改之意。
 
 美国作为一个重要的粮食输出国，直到2011年在中部和东南部仍有大量火点发现，可比我国东北严重多了，有NASA图为证。印度人民更是开挂，烧着秸秆接受记者采访，大大方方毫不避讳。
 
@@ -6755,11 +6885,11 @@ pmd 包网站：\url{https://yufree.github.io/pmd/}
 \hypertarget{vocsux7684ux5b9aux4e49}{%
 \subsubsection{VOCs的定义}\label{vocsux7684ux5b9aux4e49}}
 
-学术界对于VOCs的定义是指沸点在50\textasciitilde{}260℃，室温下饱和蒸汽压超过133.32Pa的易挥发性有机化合物。简单点说，挥发性有机物首先是有机物，然后这种有机物容易由液态转为气态物质进入环境空气中。举个例子，装修完之后，很多朋友会关心甲醛的问题。甲醛是胶粘剂的主要成分，板材中残留的和未参与反应的甲醛会逐渐向周围环境释放，甲醛就是生活中最常见的VOC。除了甲醛，生活中接触到的油漆、汽油等都含有VOCs。
+学术界对于VOCs的定义是指沸点在50\textasciitilde260℃，室温下饱和蒸汽压超过133.32Pa的易挥发性有机化合物。简单点说，挥发性有机物首先是有机物，然后这种有机物容易由液态转为气态物质进入环境空气中。举个例子，装修完之后，很多朋友会关心甲醛的问题。甲醛是胶粘剂的主要成分，板材中残留的和未参与反应的甲醛会逐渐向周围环境释放，甲醛就是生活中最常见的VOC。除了甲醛，生活中接触到的油漆、汽油等都含有VOCs。
 
 \includegraphics[width=8.33in]{images/voc1}
 
-VOCs之所以被关注、被研究、被减排，就不得不说说它的危害。VOCs不仅危害环境，而且危害身体。一方面，VOCs是大气环境中光化学反应的前体，在阳光照射等特定条件下，会与环境空气中的化学物质，发生一系列光化学反应，生成臭氧，而形成光化学烟雾。同时，VOCs也是灰霾重要的前体物质，通过对细颗粒物（PM2.5）源解析，大气中VOCs在PM2.5中的比重占20\textasciitilde{}30\%，还有部分PM2.5由VOCs转化而来。
+VOCs之所以被关注、被研究、被减排，就不得不说说它的危害。VOCs不仅危害环境，而且危害身体。一方面，VOCs是大气环境中光化学反应的前体，在阳光照射等特定条件下，会与环境空气中的化学物质，发生一系列光化学反应，生成臭氧，而形成光化学烟雾。同时，VOCs也是灰霾重要的前体物质，通过对细颗粒物（PM2.5）源解析，大气中VOCs在PM2.5中的比重占20\textasciitilde30\%，还有部分PM2.5由VOCs转化而来。
 
 \includegraphics[width=8.33in]{images/voc2}
 
@@ -7429,7 +7559,7 @@ POPs是指能持久存在于环境中，具有长距离迁移能力，通过食�
 
 10月和2016年3月，《十三五规划建议》和《十三五规划纲要》中，明确要在十三五期间，``整合设立一批国家公园''。
 
-2017年，很多国家公园体制建设相关人员认为会静待试点结束，总结经验，出台《建立国家公园体制总体方案》（以下简称《总体方案》）。结果出了祁连山事件（中办国办就甘肃祁连山国家级自然保护区生态环境问题发出通报，包括3名副省级干部在内的100多名相关人员受到处理），``国家公园在不到一个月的时间里两上中央深改组会议：6月26日，祁连山国家公园试点方案在中央深改组36次会议上通过；7月19日，作为未来国家公园工作顶层设计的《总体方案》在中央深改组第37次会议上获得通过''。9月26日，《总体方案》公布于众，中国国家公园体制的顶层设计被和盘托出； 10月18日，十九大报告中又两次提到国家公园并强化了《总体方案》中的说法：``国家公园体制试点积极推进\ldots{}\ldots{}建立以国家公园为主体的自然保护地体系''。
+2017年，很多国家公园体制建设相关人员认为会静待试点结束，总结经验，出台《建立国家公园体制总体方案》（以下简称《总体方案》）。结果出了祁连山事件（中办国办就甘肃祁连山国家级自然保护区生态环境问题发出通报，包括3名副省级干部在内的100多名相关人员受到处理），``国家公园在不到一个月的时间里两上中央深改组会议：6月26日，祁连山国家公园试点方案在中央深改组36次会议上通过；7月19日，作为未来国家公园工作顶层设计的《总体方案》在中央深改组第37次会议上获得通过''。9月26日，《总体方案》公布于众，中国国家公园体制的顶层设计被和盘托出； 10月18日，十九大报告中又两次提到国家公园并强化了《总体方案》中的说法：``国家公园体制试点积极推进\ldots\ldots 建立以国家公园为主体的自然保护地体系''。
 
 \includegraphics[width=8.33in]{images/park5}
 
@@ -7478,7 +7608,7 @@ POPs是指能持久存在于环境中，具有长距离迁移能力，通过食�
 
 资源方面：在景观质量评分细则（共计100分；5A不低于90分）中包括两个部分：资源吸引力总分为65分，包括景区的观赏游憩价值、历史文化科学价值、珍稀或奇特程度、规模与丰度和完整性等五个方面的内容。要求景区观赏游憩价值很高、同时具有极高历史价值、文化价值、科学价值，或其中一类价值具有世界意义，有大量珍稀物种、或景观异常奇特，或有世界级资源实体，资源实体量巨大，或基本类型数量超过40种，或资源实体疏密度优良，资源实体完整无缺，保持原来形态与结构。
 
-环境方面：也接近保护地的要求，如``空气质量达GB 3095-1996的一级标准\ldots{}\ldots{}地面水环境质量达到GB 3838的规定\ldots{}\ldots{}自然景观和文物古迹保护手段科学，措施先进，能有效预防自然和人为破坏，保持自然景观和文物古迹的真实性和完整性''。
+环境方面：也接近保护地的要求，如``空气质量达GB 3095-1996的一级标准\ldots\ldots 地面水环境质量达到GB 3838的规定\ldots\ldots 自然景观和文物古迹保护手段科学，措施先进，能有效预防自然和人为破坏，保持自然景观和文物古迹的真实性和完整性''。
 
 日常工作方面：也有相近之处，如在服务质量与环境质量评分细则（共计1000分；5A不低于950分）中，资源与环境保护也占到了145分。
 
@@ -7521,7 +7651,7 @@ POPs是指能持久存在于环境中，具有长距离迁移能力，通过食�
 \hypertarget{ux6700ux4e25ux683cux4e0eux4fddux62a4}{%
 \subsection{``最严格''与``保护''}\label{ux6700ux4e25ux683cux4e0eux4fddux62a4}}
 
-从中央层面来看，将``最严格''与生态环境的``保护''关联在一起，最早出现在2013年党的十八届三中全会的《中共中央关于全面深化改革若干重大问题的决定》中：``建设生态文明，必须建立系统完整的生态文明制度体系，实行最严格的源头保护制度、损害赔偿制度、责任追究制度，完善环境治理和生态修复制度，用制度保护生态环境。'' 2017年5月，在中共中央政治局第四十一次集体学习上（主题是推动形成绿色发展方式和生活方式），习近平总书记强调：``必须把生态文明建设摆在全局工作的突出地位\ldots{}\ldots{}推动绿色发展，建设生态文明，重在建章立制，用最严格的制度、最严密的法治保护生态环境''；同年9月，《建立国家公园体制总体方案》（中办发{[}2017{]}55号，以下简称《总体方案》）中也明确了``国家公园是我国自然保护地最重要类型之一，属于全国主体功能区规划中的禁止开发区域，纳入全国生态保护红线区域管控范围，实行最严格的保护''。
+从中央层面来看，将``最严格''与生态环境的``保护''关联在一起，最早出现在2013年党的十八届三中全会的《中共中央关于全面深化改革若干重大问题的决定》中：``建设生态文明，必须建立系统完整的生态文明制度体系，实行最严格的源头保护制度、损害赔偿制度、责任追究制度，完善环境治理和生态修复制度，用制度保护生态环境。'' 2017年5月，在中共中央政治局第四十一次集体学习上（主题是推动形成绿色发展方式和生活方式），习近平总书记强调：``必须把生态文明建设摆在全局工作的突出地位\ldots\ldots 推动绿色发展，建设生态文明，重在建章立制，用最严格的制度、最严密的法治保护生态环境''；同年9月，《建立国家公园体制总体方案》（中办发{[}2017{]}55号，以下简称《总体方案》）中也明确了``国家公园是我国自然保护地最重要类型之一，属于全国主体功能区规划中的禁止开发区域，纳入全国生态保护红线区域管控范围，实行最严格的保护''。
 
 这个``最严格''，是否就是严格按照现有法规的``严防死守''？这里面的``保护''究竟指的是什么？``实行最严格的保护''的自然保护地区域（全国主体功能区规划中的禁止开发区域）是否就基本等同于禁区？国内外保护绩效显著的自然保护地是如何``操作''最严格的保护的？不解读这些概念、厘清这些问题，就无法真正落实中央要求的``最严格的保护''。
 
@@ -7548,7 +7678,7 @@ POPs是指能持久存在于环境中，具有长距离迁移能力，通过食�
 \hypertarget{ux5bf9ux56fdux5bb6ux516cux56edux7684ux4fddux62a4}{%
 \subsection{对国家公园的保护}\label{ux5bf9ux56fdux5bb6ux516cux56edux7684ux4fddux62a4}}
 
-基于对``保护''的认识，可以明确《总体方案》中``最严格的保护''是指conservation，而不是protection。《总体方案》中的相关表述为：①``国家公园是指由国家批准设立\ldots{}\ldots{}，实现自然资源科学保护和合理利用的特定陆地或海洋区域。建立国家公园体制\ldots{}\ldots{}对于推进自然资源科学保护和合理利用，促进人与自然和谐共生\ldots{}\ldots{}具有极其重要的意义''；②国家公园``属于全国主体功能区规划中的禁止开发区域''。《全国主体功能区规划》中强调，规划中的```开发'特指大规模高强度的工业化城镇化开发，禁止/限制开发区域，并不是限制发展，而是为了更好地保护这类区域的农业生产力和生态产品生产力，实现科学发展''；③``建立社区共管机制，\ldots{}\ldots{}，明确国家公园区域内居民的生产生活边界\ldots{}\ldots{}周边社区\ldots{}\ldots{}鼓励通过签订合作保护协议等方式，共同保护国家公园周边自然资源''。
+基于对``保护''的认识，可以明确《总体方案》中``最严格的保护''是指conservation，而不是protection。《总体方案》中的相关表述为：①``国家公园是指由国家批准设立\ldots\ldots，实现自然资源科学保护和合理利用的特定陆地或海洋区域。建立国家公园体制\ldots\ldots 对于推进自然资源科学保护和合理利用，促进人与自然和谐共生\ldots\ldots 具有极其重要的意义''；②国家公园``属于全国主体功能区规划中的禁止开发区域''。《全国主体功能区规划》中强调，规划中的```开发'特指大规模高强度的工业化城镇化开发，禁止/限制开发区域，并不是限制发展，而是为了更好地保护这类区域的农业生产力和生态产品生产力，实现科学发展''；③``建立社区共管机制，\ldots\ldots，明确国家公园区域内居民的生产生活边界\ldots\ldots 周边社区\ldots\ldots 鼓励通过签订合作保护协议等方式，共同保护国家公园周边自然资源''。
 
 从这些表述中可以看出，``最严格的保护''指的应该是最严格的conservation，是``最严格地按照科学来保护''，需要基于对自然生态系统结构和过程的认识，细化保护对象的保护需求，统筹考量以土地权属为代表的社会经济限制条件。对于未受过人类干扰的原始生态系统（荒野区域）、濒危的种群，根据其保护需求严格管理，对于不濒危的种群，则坚持合理利用，实现生态、社会、经济效益的最大化。
 
@@ -7561,7 +7691,7 @@ POPs是指能持久存在于环境中，具有长距离迁移能力，通过食�
 
 ``最严格的保护''和``绿水青山就是金山银山''都是习近平生态文明的重要支撑，没有这二者的统筹就没有生态文明的落地。从2017年中央环保督察开始，各地按照相关法规和生态保护红线等要求大幅加强了保护，但这种``最严格的保护''的成果与``绿水青山就是金山银山''基本脱钩，很多地方的保护甚至与发展形成了冲突。如何让这二者在现实中统筹？国家公园应该是需求迫切、条件较好的区域。
 
-2017年5月，在中共中央政治局第四十一次集体学习上（主题是推动形成绿色发展方式和生活方式），习近平总书记强调：``必须把生态文明建设摆在全局工作的突出地位\ldots{}\ldots{}推动绿色发展，建设生态文明，重在建章立制，用最严格的制度、最严密的法治保护生态环境''。同年9月，中办国办印发的《建立国家公园体制总体方案》（以下简称《总体方案》）明确，``国家公园是我国自然保护地最重要类型之一，属于全国主体功能区规划中的禁止开发区域，纳入全国生态保护红线区域管控范围，实行最严格的保护''。2019年6月，中办国办印发的《关于建立以国家公园为主体的自然保护地体系的指导意见》（以下简称《指导意见》）提出的五项基本原则中包括了以下两项：``坚持严格保护，世代传承''和``坚持生态为民，科学利用''（践行绿水青山就是金山银山理念，探索自然保护和资源利用新模式）。换言之，国家公园是``最严格的保护''最优先的执行区域，同时也要求践行``绿水青山就是金山银山''。在国家公园这一空间区域，如何统筹``最严格的保护''和``绿水青山就是金山银山''？这个``最严格''，是否就是严格按照现有法规进行``严防死守''?``实行最严格的保护''的国家公园是否就基本等同于禁区？
+2017年5月，在中共中央政治局第四十一次集体学习上（主题是推动形成绿色发展方式和生活方式），习近平总书记强调：``必须把生态文明建设摆在全局工作的突出地位\ldots\ldots 推动绿色发展，建设生态文明，重在建章立制，用最严格的制度、最严密的法治保护生态环境''。同年9月，中办国办印发的《建立国家公园体制总体方案》（以下简称《总体方案》）明确，``国家公园是我国自然保护地最重要类型之一，属于全国主体功能区规划中的禁止开发区域，纳入全国生态保护红线区域管控范围，实行最严格的保护''。2019年6月，中办国办印发的《关于建立以国家公园为主体的自然保护地体系的指导意见》（以下简称《指导意见》）提出的五项基本原则中包括了以下两项：``坚持严格保护，世代传承''和``坚持生态为民，科学利用''（践行绿水青山就是金山银山理念，探索自然保护和资源利用新模式）。换言之，国家公园是``最严格的保护''最优先的执行区域，同时也要求践行``绿水青山就是金山银山''。在国家公园这一空间区域，如何统筹``最严格的保护''和``绿水青山就是金山银山''？这个``最严格''，是否就是严格按照现有法规进行``严防死守''?``实行最严格的保护''的国家公园是否就基本等同于禁区？
 
 《自然保护区条例》规定自然保护区的核心区``禁止任何单位和个人进入''；还有无差别的10项禁止：``禁止在自然保护区内进行砍伐、放牧、狩猎、捕捞、采药、开垦、烧荒、开矿、采石、挖沙等活动''。这些``一刀切''的规定既不合理也难以操作，忽视了诸多野生动植物需要根据其保护需求人为调整栖息地，以及某些保护对象已经与原住民适当的生产生活形成了近似``共生''的关系。从习近平总书记的重要讲话和中央层面出台的国家公园相关文件中可以看出，生态文明时代需要的``最严格的保护''，应该是最严格地按照科学来保护。
 
@@ -7583,7 +7713,7 @@ POPs是指能持久存在于环境中，具有长距离迁移能力，通过食�
 
 国家公园体制试点区能否在保护地中率先同步``最严格的保护''和``两山的转化''？若延续过去的管理思路，则困难是显著的：``一刀切''的保护措施既不合理也难以操作，存在如大规模的生态移民和集体土地收购成本过高等问题。基于细化保护需求的保护地役权制度和国家公园产品品牌增值体系为核心的机制创新，则提供了一种可以统筹``最严格的保护''与``绿水青山就是金山银山''的思路。
 
-构建基于细化保护需求的保护地役权制度，精准协调保护和发展的矛盾。最严格的保护是``最严格地按照科学来保护''，``最严格地按照科学来保护''需要注重长期的科研基础监测、根据保护对象的保护需求采取积极主动的适应性管理办法、科学保护的前提下提倡合理适度的利用。《总体方案》中：``集体土地在充分征求其所有权人、承包权人意见基础上，优先通过租赁、置换等方式规范流转，由国家公园管理机构统一管理\ldots{}\ldots{}集体土地可通过合作协议等方式实现统一有效管理。探索协议保护等多元化保护模式''。``最严格地按照科学来保护''可以通过协议保护的方式，通过基于适应性管理方法的保护地役权制度来实现，即通过签订保护地役权协议，实现国家公园管理机构统一管理下的精准保护。其技术路线通常是：明确主要保护对象，细化其在各细分空间上的保护需求，确定保护需求和原住民的生产、生活行为之间的关系，形成管理原住民行为的正负清单并配套不同的激励方式（如以特许经营的方式赋予国家公园品牌的使用权，《总体方案》也提出``鼓励当地居民或其举办的企业参与国家公园内特许经营项目''）。
+构建基于细化保护需求的保护地役权制度，精准协调保护和发展的矛盾。最严格的保护是``最严格地按照科学来保护''，``最严格地按照科学来保护''需要注重长期的科研基础监测、根据保护对象的保护需求采取积极主动的适应性管理办法、科学保护的前提下提倡合理适度的利用。《总体方案》中：``集体土地在充分征求其所有权人、承包权人意见基础上，优先通过租赁、置换等方式规范流转，由国家公园管理机构统一管理\ldots\ldots 集体土地可通过合作协议等方式实现统一有效管理。探索协议保护等多元化保护模式''。``最严格地按照科学来保护''可以通过协议保护的方式，通过基于适应性管理方法的保护地役权制度来实现，即通过签订保护地役权协议，实现国家公园管理机构统一管理下的精准保护。其技术路线通常是：明确主要保护对象，细化其在各细分空间上的保护需求，确定保护需求和原住民的生产、生活行为之间的关系，形成管理原住民行为的正负清单并配套不同的激励方式（如以特许经营的方式赋予国家公园品牌的使用权，《总体方案》也提出``鼓励当地居民或其举办的企业参与国家公园内特许经营项目''）。
 
 构建国家公园产品品牌增值体系，实现``两山的转化''，让国家公园内及周边社区居民受益于保护并成为保护的重要力量。《指导意见》提出要``探索全民共享机制''，在保护的前提下，在自然保护地控制区内划定适当区域开展生态教育、自然体验、生态旅游等活动，构建高品质、多样化的生态产品体系。国家公园品牌增值体系的构建，是国家公园及其周边区域生态产品价值机制的重要方面，可以实现资源环境的优势转化为产品品质的优势，并通过品牌平台固化推广体现为价格优势和销量优势，最终在环境友好和社区参与的情况下实现单位产品的价值明显提升，意即实现绿水青山向金山银山的转化。这一体系主要包括产品和产业发展指导体系、产品质量标准体系、产品认证体系、品牌管理和推广体系等，其空间基础则是国家公园特色小镇。《总体方案》指出，要``引导当地政府在国家公园周边合理规划建设特色小镇''。经过筛选的一二三产业的产品按照品牌体系的要求进行加工生产，在特色小镇的旅游产业中进行综合，即通过旅游将三产整合，达到旅游业态丰富、区域发展带动作用强、经济效益好的效果，实现绿水青山向金山银山的转化。
 
@@ -7774,7 +7904,7 @@ POPs是指能持久存在于环境中，具有长距离迁移能力，通过食�
 \item
   Jia, J., et al., Spatial and temporal variations reveal the response of zooplankton to cyanobacteria. Harmful Algae, 2017. 64: p.~63-73.
 \item
-  WHO, Report of the working group on chemical substances in drinking water. 1997: Geneva p. .
+  WHO, Report of the working group on chemical substances in drinking water. 1997: Geneva p.~.
 \item
   Freitas de Magalhães, V., R. Moraes Soares, and S.M.F.O. Azevedo, Microcystin contamination in fish from the Jacarepaguá Lagoon (Rio de Janeiro, Brazil): ecological implication and human health risk. Toxicon, 2001. 39(7): p.~1077-1085.
 \end{enumerate}
@@ -7789,7 +7919,7 @@ POPs是指能持久存在于环境中，具有长距离迁移能力，通过食�
 
 现如今，提到环保问题，似乎无人不知。十八大报告里，提出``五位一体''，首次将生态文明建设与经济、政治、文化、社会建设作为全面建成小康社会的重要内容。习大大说，青山绿水就是金山银山，老百姓脱口而出 ``PM2.5''、``263''、``甲醛''等环保词汇。环保专业，也似乎成了最热门、最有前景的专业，垃圾焚烧、黑臭河道整治、挥发性有机物治理等项目如火如荼的开展，但是有的环保方向已经不再是焦点，如脱硫脱硝。
 
-脱硫脱硝是脱去烟气中的二氧化硫和氮氧化物，这两种物质进入大气，会形成酸雨。正常情况，空气中的二氧化碳会不断溶解在水中，水的pH值大约为6\textasciitilde{}7，略呈现酸性。大气中存在二氧化硫、氮氧化合物等酸性气体，当雨、雪等在形成和降落过程中，吸收并溶解了这些酸性气体，那么降水的pH值就会明显减小，科学界把pH值5.6作为临界值，pH值低于5.6的酸性降水便被称为酸雨。
+脱硫脱硝是脱去烟气中的二氧化硫和氮氧化物，这两种物质进入大气，会形成酸雨。正常情况，空气中的二氧化碳会不断溶解在水中，水的pH值大约为6\textasciitilde7，略呈现酸性。大气中存在二氧化硫、氮氧化合物等酸性气体，当雨、雪等在形成和降落过程中，吸收并溶解了这些酸性气体，那么降水的pH值就会明显减小，科学界把pH值5.6作为临界值，pH值低于5.6的酸性降水便被称为酸雨。
 
 \includegraphics[width=7.39in]{images/acidrain1}
 
@@ -7802,7 +7932,7 @@ POPs是指能持久存在于环境中，具有长距离迁移能力，通过食�
 
 \includegraphics[width=5.74in]{images/acidrain2}
 
-除了酸雨面积逐渐减小，降水中的成分也在发生变化。降水中主要的阴离子为硫酸根和硝酸根，硫酸根离子含量是硝酸根离子的2\textasciitilde{}4倍，酸雨类型总体仍为硫酸型。2010年以来，我国降水中的硫酸根占离子总当量浓度百分比基本呈现逐年下降的趋势，并且下降趋势较为明显。
+除了酸雨面积逐渐减小，降水中的成分也在发生变化。降水中主要的阴离子为硫酸根和硝酸根，硫酸根离子含量是硝酸根离子的2\textasciitilde4倍，酸雨类型总体仍为硫酸型。2010年以来，我国降水中的硫酸根占离子总当量浓度百分比基本呈现逐年下降的趋势，并且下降趋势较为明显。
 
 \includegraphics[width=8.33in]{images/acidrain3}
 
@@ -7833,7 +7963,7 @@ POPs是指能持久存在于环境中，具有长距离迁移能力，通过食�
 
 参考文献：
 
-\href{陈心想，耿增超。西北农林科技大学学报（自然科学版），2013，41:\%20167-174．}{1}中华人民共和国环境保护部，2000\textasciitilde{}2016中国环境状况公报{[}R{]}
+\href{陈心想，耿增超。西北农林科技大学学报（自然科学版），2013，41:\%20167-174．}{1}中华人民共和国环境保护部，2000\textasciitilde2016中国环境状况公报{[}R{]}
 
 \href{Kezhen\%20Qian,\%20Ajay\%20Kumar,\%20et.al.\%20Renew.\%20and\%20Sustain.\%20Energy\%20Reviews,\%202015,\%2042:\%201055-1064.}{2}宋国君，周莉，中国酸雨控制政策分析{[}C{]}，2008年海峡两岸沿海区资源、环境与永续发展学术研讨会，台北，2008.
 
@@ -8094,7 +8224,7 @@ POPs是指能持久存在于环境中，具有长距离迁移能力，通过食�
 \hypertarget{ux7ed3ux8bed-3}{%
 \subsection{结语}\label{ux7ed3ux8bed-3}}
 
-总之，我们要感谢绿色革命，没有农业现代化我们多半还被马尔萨斯陷阱所限制而根本没机会出现在人间。但绿色革命也带来了巨大的生存需求，仅关注两种元素的使用，人类的影响力就已经超过自然本身了。而且更尴尬的问题在于使用元素可能并没有污染问题，污染更多出在使用者对工业品的滥用上，这就成了个复杂的经济-技术-社会问题了。这就是很多环境问题的缩影，简单的政策或技术或宣传对于问题解决都是不充分的，而环境问题的复杂性更多是人性复杂性的体现，总想既\ldots{}又\ldots{}是不靠谱的，更常见的是按下葫芦瓢起来，而这就需要鸡尾酒式的组合拳了。
+总之，我们要感谢绿色革命，没有农业现代化我们多半还被马尔萨斯陷阱所限制而根本没机会出现在人间。但绿色革命也带来了巨大的生存需求，仅关注两种元素的使用，人类的影响力就已经超过自然本身了。而且更尴尬的问题在于使用元素可能并没有污染问题，污染更多出在使用者对工业品的滥用上，这就成了个复杂的经济-技术-社会问题了。这就是很多环境问题的缩影，简单的政策或技术或宣传对于问题解决都是不充分的，而环境问题的复杂性更多是人性复杂性的体现，总想既\ldots 又\ldots 是不靠谱的，更常见的是按下葫芦瓢起来，而这就需要鸡尾酒式的组合拳了。
 
 作者：yufree
 编辑：丫头晚安
@@ -8114,7 +8244,7 @@ AM真菌是一种单系球囊菌门真菌，其可以和70-90\%的陆地植物�
 \hypertarget{amux771fux83ccux524dux4e16ux4ecaux751f}{%
 \subsection{AM真菌``前世今生''}\label{amux771fux83ccux524dux4e16ux4ecaux751f}}
 
-AM真菌和植物的共生关系是亿万年自然演化而来。故事可以从4.6亿年前说起，那时我们人类还远未出现，恐龙也没有开始称霸，一些原始植物只能在水域生长，而这些菌根真菌即已经出现了，它们很可能对于植物入驻大陆具有重要的作用 \(^3\)。大概过程可能是这样的：很久很久以前，一些藻类、植物等都在汪洋大海中生存，他们大多数只能``望陆兴叹''，因为陆地上没有充足的游离态营养离子供他们``食用''。其中有一些不``安分守己''的家伙总是跃跃欲试，一次又一次凭借着物理的力量``随风顺雨''（潮汐）来到陆地上。那个时候陆地上光秃秃的，可谓``前不见古人，后不见来者''。就在某个时候，旁边的AM真菌发来信号，``嗨，老兄，咱们合作吧''（信号传递），``我可以帮你吸收陆地上难溶态的营养物质（比如磷），开拓适宜你生存的沃土，你只需要给我一部分你的光合作用产物（碳水化合物），如何？''原始植物觉得：``互惠互利，好！（受体应答）''于是，二者开始合作，他们形成了明确的分工：真菌发展地下空间，为双方寻找矿质营养资源；植物拓展地上，利用阳光转化成碳水化合物构筑自己强大的躯体并传递一部分碳水化合物给真菌同伴。就这样，几亿年过去了，恐龙来了又灭绝了，``小强''（蟑螂）来了，猴子诞生了，人类诞生了，沧海变桑田\ldots{}\ldots{}。他们没有``海枯石烂''，而是世世代代生存延续了下来。时至今日，陆地上的植物``老兄''已经发展成为成千上万植物群落，AM真菌也发展出了好几百种。
+AM真菌和植物的共生关系是亿万年自然演化而来。故事可以从4.6亿年前说起，那时我们人类还远未出现，恐龙也没有开始称霸，一些原始植物只能在水域生长，而这些菌根真菌即已经出现了，它们很可能对于植物入驻大陆具有重要的作用 \(^3\)。大概过程可能是这样的：很久很久以前，一些藻类、植物等都在汪洋大海中生存，他们大多数只能``望陆兴叹''，因为陆地上没有充足的游离态营养离子供他们``食用''。其中有一些不``安分守己''的家伙总是跃跃欲试，一次又一次凭借着物理的力量``随风顺雨''（潮汐）来到陆地上。那个时候陆地上光秃秃的，可谓``前不见古人，后不见来者''。就在某个时候，旁边的AM真菌发来信号，``嗨，老兄，咱们合作吧''（信号传递），``我可以帮你吸收陆地上难溶态的营养物质（比如磷），开拓适宜你生存的沃土，你只需要给我一部分你的光合作用产物（碳水化合物），如何？''原始植物觉得：``互惠互利，好！（受体应答）''于是，二者开始合作，他们形成了明确的分工：真菌发展地下空间，为双方寻找矿质营养资源；植物拓展地上，利用阳光转化成碳水化合物构筑自己强大的躯体并传递一部分碳水化合物给真菌同伴。就这样，几亿年过去了，恐龙来了又灭绝了，``小强''（蟑螂）来了，猴子诞生了，人类诞生了，沧海变桑田\ldots\ldots。他们没有``海枯石烂''，而是世世代代生存延续了下来。时至今日，陆地上的植物``老兄''已经发展成为成千上万植物群落，AM真菌也发展出了好几百种。
 
 起初人类并未意识到植物根系周围还有菌根真菌这种微小的生物。1885年，一位叫Frank A.B.的德国人才发现植物根系上侵染的菌根真菌\(^4\)， 并命名为``mycorrhiza''。 九年后，Frank 又发现菌根真菌能够促进植物吸收氮素营养\(^5\)。其实最初的研究更多关注的是外生菌根真菌，并没有认识到AM真菌。直到1957年，Mosse B第一个观察到了AM真菌, 并发现其能够改善植物对营养元素的吸收\(^6\)。此后六十年间，AM菌根研究被越来越多的人所关注。笔者2015年曾去美国北亚利桑那大学参加第八届菌根大会，期间大咖云集，研究涉及菌根的方方面面，而以AM真菌研究最多。好不热闹！
 
@@ -8237,7 +8367,7 @@ AM菌根研究发展到今天，共经历了一百三十多年，人们对菌根
 \setcounter{enumi}{18}
 \tightlist
 \item
-  Van der Heijden, M.G., Klironomos, J.N., Ursic, M., Moutoglis, P., Streitwolf-Engel, R., Boller, T. et al. (1998) Mycorrhizal fungal diversity determines plant biodiversity, ecosystem variability and productivity. Nature 1998, 396, 69.
+  Van der Heijden, M.G., Klironomos, J.N., Ursic, M., Moutoglis, P., Streitwolf-Engel, R., Boller, T. et al.~(1998) Mycorrhizal fungal diversity determines plant biodiversity, ecosystem variability and productivity. Nature 1998, 396, 69.
 \end{enumerate}
 
 20.Opik, M.; Vanatoa, A.; Vanatoa, E.; Moora, M.; Davison, J.; Kalwij, J. M.; Reier, U.; Zobel, M., The online database MaarjAM reveals global and ecosystemic distribution patterns in arbuscular mycorrhizal fungi (Glomeromycota). New Phytol 2010, 188, (1), 223-41.
@@ -8378,13 +8508,13 @@ Gelman 教授认为1）显著性检验是不靠谱的；2）通过多层模型�
 文章投出去后，然后就是等待了。相信投过稿的人，都有一种期许，希望能快出结果。这时候心态很重要。如果干等待，会影响工作进程。所以就未雨绸缪，何不利用这个等待时间继续自己的工作，酝酿下一个工作。投稿后，第一步往往是查重，格式筛查，字数检查等等，如果任何一项有问题，一般会很快收到消息，让修改。这个步骤，多数环境期刊应该比较快，一两个星期吧。但也有例外，比如我了解的Journal of Hazardous Material一般要等至少一个月才会出格式审查结果。这一过程通过后，文章会进入编辑手中，决定是否送审。文章到编辑手中后，如果超过半个月没有消息，那应该就是送审了。RSC的期刊一般一周之后没消息说明送审了，ACS的如果10天没消息也基本送审了。然后就是等待。现在很多期刊对审稿人的审稿时间都有时间限制，而且越来越短。比如，笔者曾经收到过Science of Total Environment的审稿邀请，要求15天内返回审稿意见。但有的就需要等待。据笔者的经验，貌似主流期刊的速度往往会快一些，因为审稿人重视。
 
 \begin{quote}
-一般情况下，如果三个月没出结果，是要催一催的，这都是情理之中，但措辞要注意态度，毕竟编辑和审稿人都是无偿做这项工作的，要尊重他们的付出。比如我之前投的一篇文章等了三个半月还没有消息，于是去信催稿：'' Dear..， Sorry for disturbing you. I am not sure if it is the right time to contact you to inquire about the status of my submitted manuscript entitled ``??'' (ID:??)， although the status of ``Submitted to Editorial Office'' has been lasting for more than 3 months\ldots{}I am just wondering if you could have a check on the progress of this manuscript?\ldots{}''结果，没两天就来了结果，要求大修。
+一般情况下，如果三个月没出结果，是要催一催的，这都是情理之中，但措辞要注意态度，毕竟编辑和审稿人都是无偿做这项工作的，要尊重他们的付出。比如我之前投的一篇文章等了三个半月还没有消息，于是去信催稿：'' Dear..， Sorry for disturbing you. I am not sure if it is the right time to contact you to inquire about the status of my submitted manuscript entitled ``??'' (ID:??)， although the status of ``Submitted to Editorial Office'' has been lasting for more than 3 months\ldots I am just wondering if you could have a check on the progress of this manuscript?\ldots''结果，没两天就来了结果，要求大修。
 \end{quote}
 
 编辑收到所有审稿人意见后会根据意见来决定是``接收''，``修改后接收''，还是``拒稿''。一般比较好的期刊都会请3个及以上的审稿人，最少的也要两个审稿人。比如环境类的ES\&T最少也是三个审稿人。如果三个审稿人意见都很正面，那么恭喜你，应该会有修改机会，如果其中有一个人意见比较负面，那么这个时候就看编辑的决断了。很多时候，如果编辑不了解你做的工作，就会选择拒稿。
 
 \begin{quote}
-以前投稿到一个期刊，收到三个审稿意见，第一个审稿人意见``Although， the rationale for the study is good， the particular experiments were reasonably well conducted， and there looks to be some new information generated by the study， the data were not appropriately analysed\ldots{}''然后主要是统计分析不规范之类的；第二个审稿人意见``This is a good paper\ldots{}.''然后提了一堆小问题，第三个审稿人意见``This is an interesting， well written， manuscript\ldots{}''然后也是一些小问题。编辑最后决定``Reviewers' comments on your work have now been received. You will see that they are advising against publication of your work. Therefore I must reject it。我觉得这个判决有些重，因为这些问题都是可以修改的。这个编辑主要做植物细胞抗氧化系统的，并不涉及微生物-植物互作，也不关注污染问题。所以，笔者认为编辑自身对这个方向的认识决定了``拒搞''的结论。后来这篇稿子投到JHM，隔一个月回来字数超限，立即改完再次提交，然后进入审稿阶段。过了两个月，结果出来。``rejection''，``The reviewers indicate that the manuscript is not suitable for publication in terms of presentation， content， and description. As a result， I regret to inform you that your manuscript is declined for publication''只有一个审稿意见，感觉很草率的意见，只说四个重复太少，需要至少五个重复，然后说文章没有新意，再就是一些语句拼写问题。基于此，笔者认为这个审稿人并没有认真看论文。所以决定上诉。于是当天写完反驳信，回复审稿人意见，并向编辑提出要求更换审稿人的邀请，第二天发给编辑。编辑第三天就回复了，他把信件又转给了那个审稿人，审稿人这回又改口了``The authors did a good job of designing a well thought-out experiment\ldots{} I may be mistaken but\ldots{} it is not of great interest to other researchers，\ldots{}My inclination is this topic is too niche and will have a''Low/No Impact" level of impact''据此，编辑认为``I am afraid that a more specialized Journal is more appropriate for this article''。很显然，这次审稿人和编辑都改口了，认为文章有新意，但没有影响力，所以不符合期刊要求\ldots{}\ldots{}这个编辑主要关注化工污水处理过程，也会关注一些微生物，但主打是水污染处理，而我们做的工作是重金属污染与植物生理，领域不一样。编辑的看法再一次决定了文章的命运。之后，我们再仔细改了一遍论文，然后继续投稿到另一个期刊，这一次就很快，一个半月出结果``minor revision''，两个审稿人都对文章赞同，只提了一些小问题，修改后返回，第二天（周六）接收。这次的编辑是同领域方向的，关注土壤-植物系统重金属污染问题，编辑和审稿人都很认同这篇稿件，所以迅速接收。。
+以前投稿到一个期刊，收到三个审稿意见，第一个审稿人意见``Although， the rationale for the study is good， the particular experiments were reasonably well conducted， and there looks to be some new information generated by the study， the data were not appropriately analysed\ldots{}''然后主要是统计分析不规范之类的；第二个审稿人意见``This is a good paper\ldots.''然后提了一堆小问题，第三个审稿人意见``This is an interesting， well written， manuscript\ldots{}''然后也是一些小问题。编辑最后决定``Reviewers' comments on your work have now been received. You will see that they are advising against publication of your work. Therefore I must reject it。我觉得这个判决有些重，因为这些问题都是可以修改的。这个编辑主要做植物细胞抗氧化系统的，并不涉及微生物-植物互作，也不关注污染问题。所以，笔者认为编辑自身对这个方向的认识决定了``拒搞''的结论。后来这篇稿子投到JHM，隔一个月回来字数超限，立即改完再次提交，然后进入审稿阶段。过了两个月，结果出来。``rejection''，``The reviewers indicate that the manuscript is not suitable for publication in terms of presentation， content， and description. As a result， I regret to inform you that your manuscript is declined for publication''只有一个审稿意见，感觉很草率的意见，只说四个重复太少，需要至少五个重复，然后说文章没有新意，再就是一些语句拼写问题。基于此，笔者认为这个审稿人并没有认真看论文。所以决定上诉。于是当天写完反驳信，回复审稿人意见，并向编辑提出要求更换审稿人的邀请，第二天发给编辑。编辑第三天就回复了，他把信件又转给了那个审稿人，审稿人这回又改口了``The authors did a good job of designing a well thought-out experiment\ldots{} I may be mistaken but\ldots{} it is not of great interest to other researchers，\ldots My inclination is this topic is too niche and will have a''Low/No Impact" level of impact''据此，编辑认为``I am afraid that a more specialized Journal is more appropriate for this article''。很显然，这次审稿人和编辑都改口了，认为文章有新意，但没有影响力，所以不符合期刊要求\ldots\ldots 这个编辑主要关注化工污水处理过程，也会关注一些微生物，但主打是水污染处理，而我们做的工作是重金属污染与植物生理，领域不一样。编辑的看法再一次决定了文章的命运。之后，我们再仔细改了一遍论文，然后继续投稿到另一个期刊，这一次就很快，一个半月出结果``minor revision''，两个审稿人都对文章赞同，只提了一些小问题，修改后返回，第二天（周六）接收。这次的编辑是同领域方向的，关注土壤-植物系统重金属污染问题，编辑和审稿人都很认同这篇稿件，所以迅速接收。。
 \end{quote}
 
 \hypertarget{ux5bf9ux7ed3ux679cux7684ux51b3ux5b9a}{%
@@ -8681,9 +8811,9 @@ Gelman 教授认为1）显著性检验是不靠谱的；2）通过多层模型�
 
 而根据科学网的消息，该实验室内存储有镁粉，如果情况属实，这就太可怕了。因为活泼金属不仅自己易燃，而且遇水反应，会生成更加容易燃烧的氢气。也就是说如果是活泼金属引起的火灾，用水灭火，只能是增加悲剧，15年天津港812事故就是如此。
 
-关于镁粉的使用问题，科学网推断是进行氨氮处理，进而形成鸟粪石回收。但实际上这个论点未必成立，因为这个反应使用价格更加低廉更加稳定的镁盐就可以实现，完全没必要使用金属镁。当然也不排除实验室条件进行高成本的探索，但是存储了三桶\ldots{}\ldots{}实验设计者、管理者难辞其咎。而这引发的问题不仅仅是安全问题防护，也应该思考什么是有意义的研究。
+关于镁粉的使用问题，科学网推断是进行氨氮处理，进而形成鸟粪石回收。但实际上这个论点未必成立，因为这个反应使用价格更加低廉更加稳定的镁盐就可以实现，完全没必要使用金属镁。当然也不排除实验室条件进行高成本的探索，但是存储了三桶\ldots\ldots 实验设计者、管理者难辞其咎。而这引发的问题不仅仅是安全问题防护，也应该思考什么是有意义的研究。
 
-根据新闻报道，有学生听到了三声爆炸声，我们怀疑，渗滤液的处理可能只是一个引子，在通风不好，又有明火的情况下发生了一次小爆炸。进而扩溅到镁粉上，然后大家齐心协力用水灭火的时候，又泼到了燃烧的镁粉上\ldots{}\ldots{}
+根据新闻报道，有学生听到了三声爆炸声，我们怀疑，渗滤液的处理可能只是一个引子，在通风不好，又有明火的情况下发生了一次小爆炸。进而扩溅到镁粉上，然后大家齐心协力用水灭火的时候，又泼到了燃烧的镁粉上\ldots\ldots{}
 
 \hypertarget{ux5b9eux9a8cux5ba4ux9632ux62a4ux6211ux4eecux8be5ux600eux4e48ux505a}{%
 \subsection{实验室防护我们该怎么做}\label{ux5b9eux9a8cux5ba4ux9632ux62a4ux6211ux4eecux8be5ux600eux4e48ux505a}}
@@ -8703,7 +8833,7 @@ Gelman 教授认为1）显著性检验是不靠谱的；2）通过多层模型�
 \hypertarget{ux98ceux53e3ux6d6aux5c16ux7684ux65b0ux70dfux78b1}{%
 \section{风口浪尖的新烟碱}\label{ux98ceux53e3ux6d6aux5c16ux7684ux65b0ux70dfux78b1}}
 
-在农药行里，大多数农药的名字都取得简单粗暴，比如有机氯、有机磷、氨基甲酯、拟除虫菊酯\ldots{}\ldots{}基本就是``要你命三千''的既视感。因此，``新烟碱''在农药名称中，简直就是一股清流。鲁迅先生说中国人的想象力在某一层是跃进的，比如我一看到新烟碱，就想到神经亢奋；一想到神经亢奋，就想到摇头摆臀；一想到摇头摆臀，就想到夜店，一想到夜店，就想到纸醉金迷\ldots{}\ldots{}这对一位科研搬砖工来说，无疑是有很大慰藉的------虽然和大多数科研人员开展研究的原因不同，但这确实是我最早接触新烟碱类农药的原因。
+在农药行里，大多数农药的名字都取得简单粗暴，比如有机氯、有机磷、氨基甲酯、拟除虫菊酯\ldots\ldots 基本就是``要你命三千''的既视感。因此，``新烟碱''在农药名称中，简直就是一股清流。鲁迅先生说中国人的想象力在某一层是跃进的，比如我一看到新烟碱，就想到神经亢奋；一想到神经亢奋，就想到摇头摆臀；一想到摇头摆臀，就想到夜店，一想到夜店，就想到纸醉金迷\ldots\ldots 这对一位科研搬砖工来说，无疑是有很大慰藉的------虽然和大多数科研人员开展研究的原因不同，但这确实是我最早接触新烟碱类农药的原因。
 
 不做不知道，一做吓一跳。从2013年开始到2018年，Nature和Science上几乎每年都会有一篇关于新烟碱农药的报道；而从去年两个课题组就申报了四项关于新烟碱类的自然科学基金来看，新烟碱类在农药研究当中一时间风头无二。
 
@@ -8747,7 +8877,7 @@ Gelman 教授认为1）显著性检验是不靠谱的；2）通过多层模型�
 
 我在大学学习专利法的时候，老师提出过一个辩证的思维：专利的核心价值并不在于保护，而在于传播。换句话说，就是用补偿来换取技术的推广和进步。同样，我们也需要明白，农药毒性研究的目的并不在于去禁止一种农药，而在于如何在将来新农药的研发中做更好的设计。
 
-因此，新烟碱类农药的毒性到底是因为母体还是代谢产物？造成危害的是新烟碱类农药的共有基团引起还是自身特异基团引起？引起毒性的机理效应什么，如何在一代的新烟碱农药开发中进行优化\ldots{}\ldots{}这些都还需要研究积累。
+因此，新烟碱类农药的毒性到底是因为母体还是代谢产物？造成危害的是新烟碱类农药的共有基团引起还是自身特异基团引起？引起毒性的机理效应什么，如何在一代的新烟碱农药开发中进行优化\ldots\ldots 这些都还需要研究积累。
 
 那些处在风口浪尖的事物，通常都需要交给时间来沉淀。
 
@@ -8818,7 +8948,7 @@ Gelman 教授认为1）显著性检验是不靠谱的；2）通过多层模型�
 \hypertarget{ux5927ux6c14ux73afux5883ux5e94ux6025ux76d1ux6d4bux77e5ux591aux5c11}{%
 \section{大气环境应急监测知多少}\label{ux5927ux6c14ux73afux5883ux5e94ux6025ux76d1ux6d4bux77e5ux591aux5c11}}
 
-近年来，由安全生产事故等引发的重大环境污染事件频繁发生，比如2015年在福建漳州古雷发生的腾龙芳烃PX项目爆炸事故、2018年在福建泉州泉港区发生的东港石化公司的碳九泄漏事故、2019年在江苏盐城发生的天嘉宜化工有限公司的化学储罐爆炸事故\ldots{}..这些突发的重大环境污染事故已给人民生命安全、企业财产和社会公共环境带来了不可估量的损失。
+近年来，由安全生产事故等引发的重大环境污染事件频繁发生，比如2015年在福建漳州古雷发生的腾龙芳烃PX项目爆炸事故、2018年在福建泉州泉港区发生的东港石化公司的碳九泄漏事故、2019年在江苏盐城发生的天嘉宜化工有限公司的化学储罐爆炸事故\ldots..这些突发的重大环境污染事故已给人民生命安全、企业财产和社会公共环境带来了不可估量的损失。
 
 地方政府为有效地预防、控制和消除突发环境事件的危害，需强力督促涉及重大安全生产风险领域的企业建立自身的突发环境事件应急管理制度，并进一步做好环境应急预案的合规备案工作，规范各类突发事件的应急处置程序，定期开展重点受控企业的安全生产、环境污染事故的隐患排查工作。
 
@@ -8895,7 +9025,7 @@ Dx4045型傅立叶红外多组分气体分析仪包含FT-IR多组分气体分析
 
 商鞅变法，是秦国走向强盛的开端，但商鞅变法在一开始的时候，却遭到了从贵族到平民的全面反对。贵族反对其实很好理解，因为新法必然要削弱贵族的势力以增强国家的力量，但平民一开始也反对其实就很值得深思了。
 
-``禁止私斗''让秦人不能``你瞅啥？''便``瞅你咋地！''地甩开膀子械斗了；``齐俗论''革新掉了山野秦人的蛮荒陋习；``连坐论''设定人口户籍，不带身份证明连店都不能住；``废井田、开阡陌''要拆除掉自己以前建造在田地上的房屋，在不宜耕种的地方重新建房\ldots{}\ldots{}这些无一不对秦人的生活带来巨大的限制和不便，一时间难免怨声载道。
+``禁止私斗''让秦人不能``你瞅啥？''便``瞅你咋地！''地甩开膀子械斗了；``齐俗论''革新掉了山野秦人的蛮荒陋习；``连坐论''设定人口户籍，不带身份证明连店都不能住；``废井田、开阡陌''要拆除掉自己以前建造在田地上的房屋，在不宜耕种的地方重新建房\ldots\ldots 这些无一不对秦人的生活带来巨大的限制和不便，一时间难免怨声载道。
 
 而后来呢？``民怯于私斗''让大家在农忙时不会因争执而浪费太多的精力；``齐俗论''改变了举家同眠等的陋习，也避免了``交交黄鸟''的悲剧；``废井田、开阡陌''极大地提高了良田的利用率，也刺激了整体经济的发展。而事实上，两千多年后，你看庄稼地里，仍然是阡陌纵横。
 
@@ -8905,9 +9035,9 @@ Dx4045型傅立叶红外多组分气体分析仪包含FT-IR多组分气体分析
 
 我第一次接触到垃圾分类这个事情，大概是在十三、四年前，刚上大学那会。因为我个人是特别不能接受利器（针头、碎玻璃类）、电池和普通的垃圾一起混放，因此觉得垃圾分类的必要程度大概和不随手乱扔垃圾一样重要。但是让我比较诧异的是，这种于情于理都应该大力倡导的事情，直到今年才真正意义开始在上海实行。如果从教育时间来看，16年就可以完成从小学到大学的培养，这意味着距离我接触垃圾分类足足迟了一代人的教育。
 
-事实上，关于垃圾分类的争论一直就没有消停过。比如很多人认为垃圾分类只是徒有其形，因为处理技术的原因，最后垃圾还是混在一起处理；也有人认为垃圾分类的过程中，要配备垃圾协管员，处理厂也要配备分门别类的人员，最后成本不降反增；还有技术流认为，只要炉温加的高，没有垃圾烧不了\ldots{}\ldots{}
+事实上，关于垃圾分类的争论一直就没有消停过。比如很多人认为垃圾分类只是徒有其形，因为处理技术的原因，最后垃圾还是混在一起处理；也有人认为垃圾分类的过程中，要配备垃圾协管员，处理厂也要配备分门别类的人员，最后成本不降反增；还有技术流认为，只要炉温加的高，没有垃圾烧不了\ldots\ldots{}
 
-因为平常接触不到，事实上中国所面临的垃圾问题，要远远超过民众的一般认知。有玩笑说上海垃圾分类太繁琐，因此要坐高铁去杭州扔垃圾，但其实，之前上海偷偷往隔壁城市转移垃圾并不是没有发生过\ldots{}\ldots{}如果从垃圾处理厂的布局来看，基本每个城市都是被垃圾包围的。而中国又是垃圾进口的大国，中国对垃圾进口的限制，甚至严重影响到原材料的价格，这足以看到这个行业庞大的规模和效益。。
+因为平常接触不到，事实上中国所面临的垃圾问题，要远远超过民众的一般认知。有玩笑说上海垃圾分类太繁琐，因此要坐高铁去杭州扔垃圾，但其实，之前上海偷偷往隔壁城市转移垃圾并不是没有发生过\ldots\ldots 如果从垃圾处理厂的布局来看，基本每个城市都是被垃圾包围的。而中国又是垃圾进口的大国，中国对垃圾进口的限制，甚至严重影响到原材料的价格，这足以看到这个行业庞大的规模和效益。。
 
 垃圾的问题，其实是环境工程一个很重要的分支：固体废弃物（固废）的处理。固废这门课也是和大气工程、水污染控制一样，有一本厚厚的教材。很多讨论垃圾分类的文章中，都没有提及固体废弃物的问题不仅仅在于这些固体本身，还有着非常严重的渗滤液问题。固废带来的危害可能会涉及土壤、大气、病原菌，还可能会污染地下水，因此这门学问不仅仅就是简简单单填埋了算或者烧完了算，而是一个很考验功力的设计。环境问题和国家人口、经济水平、消费习惯、气候条件等都息息相关，越简单的经济结构，越少的人口，环境问题处理起来就越简单。但是一旦把环境和飞速发展的庞大经济体联系在一起，就不是借鉴任何一个国家的经验那么简单了。
 
@@ -9212,7 +9342,7 @@ Pyne教授（就是上文中提到的撰写那本澳大利亚山火史的那位�
 
 然后我们考虑每一种宏观态下有多少种微观态，因为球有3个，区间有7个，我们可以看成一个排列组合问题。微观下，一共有3!种排列组合，但在基本假设中，我们认为属于同一宏观状态的球是一种，那么这些情况就要被排除掉。例如在宏观态7中，虽然球可以有6种排列，但因为都在1个能量区间，实际只有1种微观态。也就是说，如果我们有N个球，排列组合上看虽然有N!种组合，但实际由于N个球中有n个球在区间i，我们要从总的排列组合中除掉这种组合。也就是：
 
-\#microstates=N!n0!n1!\ldots{}ni!
+\#microstates=N!n0!n1!\ldots ni!
 
 在宏观态1中所有微观态出现的可能性为3/28，其中针对能量为0的区间贡献2×3/28=0.214个小球，而宏观态2中对能量为0的也贡献0.214个小球，同样宏观态3中贡献为0.214个小球而宏观态4中贡献为0.107个小球，这样会有0.75个小球贡献给能量为0的区间，同样我们可以得到其他能量区间上有多少小球。这个小球的能量分布就是我们打算求的。
 
@@ -9242,7 +9372,7 @@ fb(E)=Ae−E/kT
 
 二八法则属于观测定律，帕累托基于对人们收入的观察得出一个人收入高于xx的概率为：
 
-Pr{[}X≥x{]}=(m/x)k,m\textgreater{}0,k\textgreater{}0,x≥m，
+Pr{[}X≥x{]}=(m/x)k,m\textgreater0,k\textgreater0,x≥m，
 
 m代表最低收入，也就是说，高收入的产生概率是指数的。齐普夫定律则描述的是语言学里的现象，认为第x个高频词的词频正比于其排序，例如一段文字里出现最多的词与第二多的词的词频大概是1:2，稍微推广一下就会发现这是个离散的指数或帕累托分布。
 
@@ -9534,21 +9664,21 @@ SRT （solids retention time）英文翻译叫固体停留时间，业界称为�
   接种污泥投加方式
 \end{enumerate}
 
-接种污泥的投加方式主要有泵送投加和直接投加，两种投加方式在投加过程中要确保多点投加和均匀投加，避免污泥堆积在一处。如若曝气池后接有MBR池，投加的活性污泥需要用格栅进行过滤，格栅间隙一般为1\textasciitilde{}5mm（具体数值咨询膜厂家）。
+接种污泥的投加方式主要有泵送投加和直接投加，两种投加方式在投加过程中要确保多点投加和均匀投加，避免污泥堆积在一处。如若曝气池后接有MBR池，投加的活性污泥需要用格栅进行过滤，格栅间隙一般为1\textasciitilde5mm（具体数值咨询膜厂家）。
 
 \includegraphics[width=6.67in]{images/ao2}
 
 \hypertarget{ux6c61ux6ce5ux57f9ux517b}{%
 \subsubsection{污泥培养}\label{ux6c61ux6ce5ux57f9ux517b}}
 
-接种污泥投入到生化池以后，就进入培养阶段。培养阶段首选生活污水进行污泥培养，若现场没有生活污水，可采用自配营养液进行污泥培养。每天投加到生化池的COD量按混合后生化池COD质量浓度在300\textsubscript{500mg/L水平计，氮和磷按照BOD：N：P=100：5：1折算。投加完营养液后进行闷曝，为了通过全程足量曝气达到激活活性污泥活性的目的，这个过程需要24h左右。控制要点是不进水而仅仅进行足量全程曝气，随后组织低水量营养液进入生化系统，并将曝气量降到能够保证整个生化池混合液DO值在1}3mg/L左右。当好氧池的出水COD降解率达到60\%，混合液30分钟沉降比达到10\%\textasciitilde{}30\%时，认为培养成功。培养过程中可将二沉池中的污泥回流到缺氧池，并向缺氧池中投加营养盐，进行缺氧污泥的培养。
+接种污泥投入到生化池以后，就进入培养阶段。培养阶段首选生活污水进行污泥培养，若现场没有生活污水，可采用自配营养液进行污泥培养。每天投加到生化池的COD量按混合后生化池COD质量浓度在300\textsubscript{500mg/L水平计，氮和磷按照BOD：N：P=100：5：1折算。投加完营养液后进行闷曝，为了通过全程足量曝气达到激活活性污泥活性的目的，这个过程需要24h左右。控制要点是不进水而仅仅进行足量全程曝气，随后组织低水量营养液进入生化系统，并将曝气量降到能够保证整个生化池混合液DO值在1}3mg/L左右。当好氧池的出水COD降解率达到60\%，混合液30分钟沉降比达到10\%\textasciitilde30\%时，认为培养成功。培养过程中可将二沉池中的污泥回流到缺氧池，并向缺氧池中投加营养盐，进行缺氧污泥的培养。
 
 \includegraphics[width=4.83in]{images/ao3}
 
 \hypertarget{ux6c61ux6ce5ux9a6fux5316}{%
 \subsubsection{污泥驯化}\label{ux6c61ux6ce5ux9a6fux5316}}
 
-当污泥培养成功后，即可进行污泥驯化阶段。驯化阶段将待处理废水提升进入A池，A池出水自流进入O池，控制提升泵水量约为设计水量的1/4，同时将曝气池混合液和二沉池的污泥回流到A池。持续运行一段时间后，观察出水水质情况，当沉淀池的出水较清澈，加大提升泵出水水量，每次增加10\%\textasciitilde{}20\%（以设计流量为基准），重复以上步骤，直至达到满负荷。满负荷运行水质能达标时，驯化阶段结束。进入试运行及稳定运行阶段。
+当污泥培养成功后，即可进行污泥驯化阶段。驯化阶段将待处理废水提升进入A池，A池出水自流进入O池，控制提升泵水量约为设计水量的1/4，同时将曝气池混合液和二沉池的污泥回流到A池。持续运行一段时间后，观察出水水质情况，当沉淀池的出水较清澈，加大提升泵出水水量，每次增加10\%\textasciitilde20\%（以设计流量为基准），重复以上步骤，直至达到满负荷。满负荷运行水质能达标时，驯化阶段结束。进入试运行及稳定运行阶段。
 
 \hypertarget{ux8c03ux8bd5ux6ce8ux610fux4e8bux9879}{%
 \subsection{调试注意事项}\label{ux8c03ux8bd5ux6ce8ux610fux4e8bux9879}}
@@ -9566,21 +9696,21 @@ SRT （solids retention time）英文翻译叫固体停留时间，业界称为�
 \item
   驯化过程中，进水负荷要逐步提升，避免进水负荷的突然增加对系统造成负荷冲击。
 \item
-  调试期间确保进水、A池、O池pH值在6\textasciitilde{}9范围内，pH值过低（低于6）活性污泥池面有酸味，处理效率下降，原生动物活性减弱，pH值过高（高于9）出水混浊，处理效率下降，活性污泥有解体现象，原生动物 可见死亡解体。
+  调试期间确保进水、A池、O池pH值在6\textasciitilde9范围内，pH值过低（低于6）活性污泥池面有酸味，处理效率下降，原生动物活性减弱，pH值过高（高于9）出水混浊，处理效率下降，活性污泥有解体现象，原生动物 可见死亡解体。
 \item
-  在日常操作中保证系统水温在10\textasciitilde{}40℃之间，当水温偏低时，可以提高活性污泥浓度，以抵消活性污泥活性降低的负面影响，从而达到活性污泥在水温偏低时去除率增高的目的；相反地，当水温较高时，活性污泥活性旺盛，可以通过降低活性污泥浓度来规避出现未沉降絮体和混浊的上清液的不良情况。
+  在日常操作中保证系统水温在10\textasciitilde40℃之间，当水温偏低时，可以提高活性污泥浓度，以抵消活性污泥活性降低的负面影响，从而达到活性污泥在水温偏低时去除率增高的目的；相反地，当水温较高时，活性污泥活性旺盛，可以通过降低活性污泥浓度来规避出现未沉降絮体和混浊的上清液的不良情况。
 \item
   通过排泥将曝气池中污泥浓度控制在设计值，排泥要少量多次，严禁一次性大量排泥。
 \item
-  每天取曝气池混合液进行SV30测定，确保SV30值在15\%\textasciitilde{}30\%左右。
+  每天取曝气池混合液进行SV30测定，确保SV30值在15\%\textasciitilde30\%左右。
 \item
-  定期对曝气池活性污泥进行SVI测定，确保SVI值在50\textasciitilde{}200之间，当SVI超过200时，可以判定活性污泥结构松散，有发生丝状菌膨胀或沉降性转差的迹象。当SVI低于50时，可以判定活性污泥出现污泥老化的可能性较大。
+  定期对曝气池活性污泥进行SVI测定，确保SVI值在50\textasciitilde200之间，当SVI超过200时，可以判定活性污泥结构松散，有发生丝状菌膨胀或沉降性转差的迹象。当SVI低于50时，可以判定活性污泥出现污泥老化的可能性较大。
 \item
   培养初期，由于进水负荷高，曝气池中会有大量白色泡沫，属于正常现场，可以通过洒水进行去除。
 \item
-  曝气池混合液回流量根据设计计算书要求进行调整，一般为100\%\textasciitilde{}400\%。
+  曝气池混合液回流量根据设计计算书要求进行调整，一般为100\%\textasciitilde400\%。
 \item
-  二沉池污泥回流比根据设计计算书要求进行调整，一般为50\%\textasciitilde{}100\%左右。
+  二沉池污泥回流比根据设计计算书要求进行调整，一般为50\%\textasciitilde100\%左右。
 \end{enumerate}
 
 今天这道私房菜可能有些生硬，但绝对下饭。调试的过程即摸索运行参数及规律的过程，根据实际的情况进行参数的调整与优化，为以后的正常运行提供正确的操作方法、运行参数、维护及预防措施。调试的成功与否直接影响着整个污水厂能否正式投运。调试过程是一个理论知识与实际经验有机结合的过程，通过调试可以加深对理论知识的理解，同时可以用理论指导实践。对于刚刚踏入污水处理行业的新人，本人极力推荐大家深入现场，从调试开始，对未来的你收益无穷。
@@ -9819,7 +9949,7 @@ ANAMMOX(anaerobic ammonium oxidation)即厌氧氨氧化工艺。在厌氧条件�
 
 SHARON-ANAMMOX工艺即为SHARON和ANAMMOX的组合工艺。SHARON作为硝化反应器，在此反应器内，含NH4+的废水中约50\%的NH4+被转化为NO2-；ANAMMOX作为反硝化反应器，含NH4+和NO2-的SHARON反应器的出水作为此反应器的进水，在此反应器内，厌氧条件下NH4+和NO2-被转化为N2和H2O。SHARON-ANAMMOX工艺中发挥作用的细菌主要为氨氧化菌和Anammox菌，两者均为自养型细菌，该工艺无需外加碳源，同时还可以节约氧气50\%，污泥产量低，可以节约90\%以上的运行成本。SHARON-ANAMMOX工艺主要适用于处理污泥上清液和高氨氮、低碳源工业废水。
 
-OLAND工艺（Oxygen-Limited Autotrophic Nitrification Denitrification system）即氧限制自养硝化反硝化。该工艺的关键是在于活性污泥反应器中控制溶解氧，使硝化过程仅进行到NH4+氧化为NO2-。在溶解氧约为0.1\textasciitilde{}0.3mg/L的限氧条件下，好氧氨氧化菌将50\%的NH4+转化为NO2-，使亚硝化阶段的出水比例稳定在NH4+/NO2-=1:1,从而为厌氧氨氧化阶段提供理想的进水，达到高效脱氮的目的。溶解氧浓度是硝化与反硝化过程中的重要因素，低溶解氧下亚硝酸菌增殖速率加快，补偿了由于低氧造成的代谢活动下降，使得整个硝化阶段中氨氧化未受到明显影响。其机理是由亚硝化细菌对亚硝酸盐氮催化进行歧化反应。
+OLAND工艺（Oxygen-Limited Autotrophic Nitrification Denitrification system）即氧限制自养硝化反硝化。该工艺的关键是在于活性污泥反应器中控制溶解氧，使硝化过程仅进行到NH4+氧化为NO2-。在溶解氧约为0.1\textasciitilde0.3mg/L的限氧条件下，好氧氨氧化菌将50\%的NH4+转化为NO2-，使亚硝化阶段的出水比例稳定在NH4+/NO2-=1:1,从而为厌氧氨氧化阶段提供理想的进水，达到高效脱氮的目的。溶解氧浓度是硝化与反硝化过程中的重要因素，低溶解氧下亚硝酸菌增殖速率加快，补偿了由于低氧造成的代谢活动下降，使得整个硝化阶段中氨氧化未受到明显影响。其机理是由亚硝化细菌对亚硝酸盐氮催化进行歧化反应。
 
 CANON工艺(completely autotrophic ammonium removal over nitrite)即全程自养脱氮工艺，该工艺在单个反应器或生物膜内，通过控制溶解氧浓度实现亚硝化和厌氧氨氧化，从而达到脱氮的目的。CANON工艺中微生物主要是亚硝化细菌和厌氧氨氧化细菌以及少量的硝化细菌。
 
@@ -10032,7 +10162,7 @@ UCT工艺是把沉淀池回流污泥回流到缺氧区，然后再由缺氧区�
 \hypertarget{ux5bf9ux63a7ux5236ux76eeux6807ux6307ux6807ux7406ux89e3ux7247ux9762ux5316}{%
 \subsubsection{对控制目标、指标理解片面化}\label{ux5bf9ux63a7ux5236ux76eeux6807ux6307ux6807ux7406ux89e3ux7247ux9762ux5316}}
 
-当前很多人对海绵城市的目标理解片面化，有人认为海绵城市建设是内涝治理，有人认为海绵城市就是黑臭水体治理，有人认为既没有内涝也没有黑臭水体的城市不需要海绵城市\ldots{}\ldots{}海绵城市建设的六字箴言``渗、滞、蓄、净、用、排''，准确表达了海绵城市建设的多目标、多方向、多途径，其核心目标为径流总量、径流峰值、径流污染、资源回用，终极目标为：修复城市水生态、改善城市水环境、保障城市水安全、提高城市水资源承载能力
+当前很多人对海绵城市的目标理解片面化，有人认为海绵城市建设是内涝治理，有人认为海绵城市就是黑臭水体治理，有人认为既没有内涝也没有黑臭水体的城市不需要海绵城市\ldots\ldots 海绵城市建设的六字箴言``渗、滞、蓄、净、用、排''，准确表达了海绵城市建设的多目标、多方向、多途径，其核心目标为径流总量、径流峰值、径流污染、资源回用，终极目标为：修复城市水生态、改善城市水环境、保障城市水安全、提高城市水资源承载能力
 
 \includegraphics[width=8.33in]{images/hm4}
 
@@ -10059,7 +10189,7 @@ UCT工艺是把沉淀池回流污泥回流到缺氧区，然后再由缺氧区�
 
 当前，在海绵城市建设过程中，国家也正在积极倡导与支持鼓励按照PPP（Private-Public-Partnership）模式进行操作，PPP模式主要由当地政府与企业共同参与投资建设、运行管理。海绵城市建设的PPP模式不应该企业或政府简单的融资渠道，更不应成为地方政府转嫁财政负担的途径，政府本身就有很强的融资能力，PPP模式是应以提高效率为初衷。
 
-试点期已经过2\textasciitilde{}3年，后期运营维护是当前项目公司面临很棘手的问题，部分PPP公司甚至根本没有做好思想准备，有些根本不知道怎么去运营维护，项目一旦建设完工通过验收后，后期的管理基本上无人问津。
+试点期已经过2\textasciitilde3年，后期运营维护是当前项目公司面临很棘手的问题，部分PPP公司甚至根本没有做好思想准备，有些根本不知道怎么去运营维护，项目一旦建设完工通过验收后，后期的管理基本上无人问津。
 
 PPP公司需认识到不是建设完就拍屁股走人，还有很长时间的运营维护期。只有做好了以下三点，才算是一个好的PPP项目：第一，全生命周期，从设计、建设、运维的全生命周期，PPP合同至少15年以上必须要运营期；第二，让专业的人来干专业的事，政府是破解政策上的风险，做协调性的工作，政府不能压给社会资本，也不能社会资本什么都不管，都抛给政府，只想挣钱；第三，政府花钱是买效果，绝对不是买工程，一定落实绩效考核、按效付费。若PPP做不到以上，那就是变相的BT模式（``建设--移交''），有些PPP公司在建设上把99\%的钱都赚走，只剩下1\%的钱去做后期的运维，很容易造成后期服务不到位或效果没保障，那就失去PPP模式的``初心''。所以说，PPP项目应该是全生命周期的，让专业人干专业的事，政府花钱买效果，按效付费。
 
@@ -10226,7 +10356,7 @@ PPP公司需认识到不是建设完就拍屁股走人，还有很长时间的�
   焚烧炉
 \end{itemize}
 
-目前国内外基本采用往复式炉排炉垃圾焚烧技术，垃圾抓斗将仓内垃圾提升到给料斗，通过给料槽连续不断加料到炉排入口。在推料器的作用下，垃圾首先进入排炉干燥区，通过炉排的动作，垃圾在炉排上往前移动到燃烧区，最后到达燃烬区，确保垃圾在850℃\textasciitilde{}1100℃高温下得到充分燃烧。
+目前国内外基本采用往复式炉排炉垃圾焚烧技术，垃圾抓斗将仓内垃圾提升到给料斗，通过给料槽连续不断加料到炉排入口。在推料器的作用下，垃圾首先进入排炉干燥区，通过炉排的动作，垃圾在炉排上往前移动到燃烧区，最后到达燃烬区，确保垃圾在850℃\textasciitilde1100℃高温下得到充分燃烧。
 
 国内设计院会根据当地处理垃圾的热值，水分，成份等基础数据，选择合适的炉排形式进行选型。下面几张图片是垃圾炉排的一个基本的示意图（其中上面两张是炉排正在安装，下面两张则是安装完毕待运行的状态）。
 
@@ -10401,7 +10531,7 @@ PPP公司需认识到不是建设完就拍屁股走人，还有很长时间的�
 
 2016年至2019年阶段的烟气分析仪主要是傅立叶变换红外烟气分析仪。由于定电位电解法在烟气湿度大、污染物排放浓度低及高浓度一氧化碳条件下，测试数据精确度不足，难以满足高精度测量要求，而傅立叶变换红外烟气分析仪采用全程加热（180℃含分析池加热），彻底消除了水汽冷凝结露引起二氧化硫、氮氧化物等的分析误差，同时使用傅立叶变换红外法有限避免一氧化碳在定电位电解法中的干扰效应。在烟气含湿量大、超低浓度污染物排放、高浓度一氧化碳存在的特殊监测环境条件下，使用傅立叶变换红外烟气分析仪进行废气监测可保证测量数据的准确性和有效性。
 
-该红外分析仪主要利用二氧化硫、一氧化氮气体在6.82\textasciitilde{}9μm、5.3μm波长红外光谱具有选择性吸收的原理，其光通量的衰减与二氧化硫、一氧化氮的浓度关系符合朗伯-比尔定律。红外烟气分析仪相比电化学传感器寿命会更长，响应时间快，抗中毒性好，反应灵敏，性能稳定可靠。但是缺点就是功耗大、结构复杂、价格贵。
+该红外分析仪主要利用二氧化硫、一氧化氮气体在6.82\textasciitilde9μm、5.3μm波长红外光谱具有选择性吸收的原理，其光通量的衰减与二氧化硫、一氧化氮的浓度关系符合朗伯-比尔定律。红外烟气分析仪相比电化学传感器寿命会更长，响应时间快，抗中毒性好，反应灵敏，性能稳定可靠。但是缺点就是功耗大、结构复杂、价格贵。
 
 目前典型的傅立叶红外设备是芬兰Gasmet Dx4000型傅立叶变换红外烟气分析仪。该分析仪主要由气体分析仪系统（GICCOR干涉仪、Peltier制冷检测器、样气室）、便携式采样系统（采样探针、加热采样头、加热采样管、便携式采样主机）、Calcmet图形分析工作站、11种气体组分出厂标定光谱库分析系统等组成。
 
@@ -10705,7 +10835,7 @@ Dx4045型傅立叶红外烟气分析仪的基本构造与Dx4000型相似，包�
 
 Technician（技术员）是业务领域内最为熟稔特定生产场景内监测和控制内容的人群，正如在安贝格工厂内主要扮演``机器控制者''的角色一样，他们会基于对业务需求和自动化/信息化系统的了解，选择监测值（比如进水COD和氨氮），分析问题（碳氮比过低），同时分解过于宏观的目标（比如``把生化池碳氮比提到10''），而向系统下达机器能听懂的必要指令（比如``启动乙酸钠自动溶药装置，目标浓度1‰，启动加药泵以15L/min流速，对应35Hz频率向缺氧池4号加药管处投加药液''）。------而这其中的监测关注点、报警阈值、控制时序和逻辑等等，便是``智慧化进程初期阶段''中自动化和信息化的基础：关注点清单和操作手册。
 
-严格意义上说，只要是在正常运转的体系，监测的关注点清单和运行操作手册是一定会有的。但是，这个关注点体系是否全面覆盖了风险揭示的需要、操作手册是否具有``傻瓜化''的指导意义，一般就很难说了。笔者曾与一个自动化+信息化做的相当不错的污水厂（现场100\%无人值守）的员工仔细沟通过关注点的问题，发现其实很多现存系统内预设的关注点清单很难被自动化系统执行，比如巡检任务中的``观察鼓风机是否有异响''、``观察管路测压是否正常''，在进行智慧化的进程中，还需要了解自动化系统特性的技术工人进行大量的``翻译''工作，将``测压正常''转化为``数值在0.1\textasciitilde{}0.5bar之间''，将``无异响''转化为``没有非正弦波型的，间隔大于0.1秒的振动输出''等等。同时，一些关注点也会存在疏漏，比如进水COD、氨氮是一般污水厂都会用在线仪表进行监测的指标，单项的超高超低都会报警；但很少见到有污水厂的中控系统会就碳氮比低值进行报警------即便在实际工艺控制中会经常性地计算这个比值作为是否需要碳源投加的依据。因此，把基于经验的关注点清单进行详细地梳理和抽象，并翻译成可与机器进行对话的语言，是智慧化进程中对Technician（技术员）的核心需要之一。
+严格意义上说，只要是在正常运转的体系，监测的关注点清单和运行操作手册是一定会有的。但是，这个关注点体系是否全面覆盖了风险揭示的需要、操作手册是否具有``傻瓜化''的指导意义，一般就很难说了。笔者曾与一个自动化+信息化做的相当不错的污水厂（现场100\%无人值守）的员工仔细沟通过关注点的问题，发现其实很多现存系统内预设的关注点清单很难被自动化系统执行，比如巡检任务中的``观察鼓风机是否有异响''、``观察管路测压是否正常''，在进行智慧化的进程中，还需要了解自动化系统特性的技术工人进行大量的``翻译''工作，将``测压正常''转化为``数值在0.1\textasciitilde0.5bar之间''，将``无异响''转化为``没有非正弦波型的，间隔大于0.1秒的振动输出''等等。同时，一些关注点也会存在疏漏，比如进水COD、氨氮是一般污水厂都会用在线仪表进行监测的指标，单项的超高超低都会报警；但很少见到有污水厂的中控系统会就碳氮比低值进行报警------即便在实际工艺控制中会经常性地计算这个比值作为是否需要碳源投加的依据。因此，把基于经验的关注点清单进行详细地梳理和抽象，并翻译成可与机器进行对话的语言，是智慧化进程中对Technician（技术员）的核心需要之一。
 
 我们经常能听到、见到很多智慧系统在操作层面替代 ``人工''的案例，它们虽然看上去容易，但往往是因为智慧系统带来的``傻瓜化''体验隐去了其背后所要凝聚的前期劳动。比如下图这个增强现实指导设备维修的应用，虽然完全消除了对一线维修工人技术能力的依赖，但却需要由经验工人（甚至是是设备厂家的专业工程师）进行大量的前期准备工作，提供每一个设备的每一个维修工序所对应的操作（可能还要预置所有误操作的预警和解决办法）------这其实就相当于制作了一部音像一体化的操作手册。而如果对整个业务流程内的每一个步骤、关键工艺段进行如此的手册编制（也基本对应了智慧系统初始化的工作量），即便指南的整个采集过程都是自动的，而且一般只需要进行一次（得益于机器``过目不忘''的本领），所需要凝结的工作量也十分巨大。可以说，这将是智慧化进程中对Technician（技术员）的另一个核心需要。
 
@@ -10753,7 +10883,7 @@ Technician（技术员）是业务领域内最为熟稔特定生产场景内监�
 
 因此，在构建分析及预测类产品的功能体系时，机理与数据之争应当是首先要考虑议题，数据来源、感知层硬件基础等等，都可能影响功能构建的方向。而唯有确定了方向，构建的产品功能才可能具有价值。否则，对复杂系统黑箱构建机理模型，对不相关数据进行经验分析，做到天荒地老不说，很可能还完成不了分析及预测的功能，闹出笑话。
 
-PS：说到对不相关数据进行分析，讲个笑话调侃一下某些闭着眼睛进行所谓``大数据分析''的憨憨们，说\textasciitilde{}有个数据分析员，随机抽取了世界上10万个人的寿命数据，关联他们说的语言进行了相关性分析，得出结论如下：会说日语的人平均寿命最高、之后依次为英语、德语、中文、法语、西班牙语，说斯瓦西里语的人平均寿命最低，因此，应当让那些非洲人都去学日语，可以增寿。------当然这只是一个极端的抛开了数据背后一切机理逻辑妄图直接抵达终点的大笑话，但在我们日常进行某些功能设计时，忽视业务逻辑而闹出的小笑话又有多少呢？
+PS：说到对不相关数据进行分析，讲个笑话调侃一下某些闭着眼睛进行所谓``大数据分析''的憨憨们，说\textasciitilde 有个数据分析员，随机抽取了世界上10万个人的寿命数据，关联他们说的语言进行了相关性分析，得出结论如下：会说日语的人平均寿命最高、之后依次为英语、德语、中文、法语、西班牙语，说斯瓦西里语的人平均寿命最低，因此，应当让那些非洲人都去学日语，可以增寿。------当然这只是一个极端的抛开了数据背后一切机理逻辑妄图直接抵达终点的大笑话，但在我们日常进行某些功能设计时，忽视业务逻辑而闹出的小笑话又有多少呢？
 
 在这里，笔者也给出一个比较``狡猾''的建议：经验做单一，理论做广谱。单一系统做经验学习，就好像培育一个``老师傅''的过程，是越用越精的；而对于较为广谱、抽象性的分析功能，反而一定要关注数据背后的应用逻辑，如果需求方自己抽象不出来，可以去求助专家，切莫犯了上面笑话中的错误。当然，用户要是说就需要在大屏上显示个实时值、平均值，当我这段话没说。
 
@@ -10775,7 +10905,7 @@ PS：说到对不相关数据进行分析，讲个笑话调侃一下某些闭着
 
 适应与变革之争，是作为智慧化进程的推动者，进行这一切工作的出发点之争，内生性逻辑之争，自我驱动的愿景之争，这样的争论往往是直接叩问内心的，也是最考验高层决策者的。
 
-所谓适应，是指智慧系统作为技术工具，主要服务于已有业务管理模式，或者服务于业已制定的改革计划，这时，所有的逻辑都将是产品化的：弄清需求，做出产品，部署应用，拿钱走人------这也是产品经理最熟悉的套路：我就是个安心开发产品的工具人，一切变革进程的结果与我无关。当然，时至今日能如此坦荡荡地介绍产品功能的人怕是已经不多了，更多人喜欢在产品介绍特别是商务、技术营销阶段不遗余力的吹嘘产品诱发业务管理变革所能产生的收益，然后在实施阶段缩回到``工具人''角色，摆出一副``产品是你选的，怎么用是你的事''的姿态，留给决策者一个大大的麻烦。这也是笔者在之前的文章中反复指出``管理者是蓝图的绘制者和变革的推动者\ldots{} \ldots{}应当具备很强的主体意识和执行意愿，和比较强的规划能力''的原因------在这样的场景中，任何智慧进程的目的性取决于需求方的决策者，而它带来的收益与苦果，也会最直接的作用于决策人身上。
+所谓适应，是指智慧系统作为技术工具，主要服务于已有业务管理模式，或者服务于业已制定的改革计划，这时，所有的逻辑都将是产品化的：弄清需求，做出产品，部署应用，拿钱走人------这也是产品经理最熟悉的套路：我就是个安心开发产品的工具人，一切变革进程的结果与我无关。当然，时至今日能如此坦荡荡地介绍产品功能的人怕是已经不多了，更多人喜欢在产品介绍特别是商务、技术营销阶段不遗余力的吹嘘产品诱发业务管理变革所能产生的收益，然后在实施阶段缩回到``工具人''角色，摆出一副``产品是你选的，怎么用是你的事''的姿态，留给决策者一个大大的麻烦。这也是笔者在之前的文章中反复指出``管理者是蓝图的绘制者和变革的推动者\ldots{} \ldots 应当具备很强的主体意识和执行意愿，和比较强的规划能力''的原因------在这样的场景中，任何智慧进程的目的性取决于需求方的决策者，而它带来的收益与苦果，也会最直接的作用于决策人身上。
 
 所谓变革，指的是智慧化进程推进之初，就希望依靠进程本身所引领的模式创新带来改革效应。严格来说，这是高层决策者应当绝对慎重去考虑的问题，毕竟，如果选择了由智慧化去引导模式变革，可能要意味着把企业转型发展的命运交到ICT部门甚至外部咨询公司/系统供应商的手中，即便是边做边看、不行就停的模式，也可能带来高昂的变革成本。而在这一过程，业务抽象、需求分析、架构规划等各个初始化步骤中前面``两大争''的碰撞，就更显得珍贵。笔者在上篇文章中曾写到过：只有掌握了业务咨询能力和应用场景抽象能力的一方才能最终统领整个产业，而这两项能力，也是变革驱动型逻辑的承担者所必要具备的能力。否则，一个产品型部门/公司的主观能动性再强，也无法把控战略转型发展的大潮。
 
@@ -10807,19 +10937,19 @@ PS：说到对不相关数据进行分析，讲个笑话调侃一下某些闭着
 
 如今大学时一个学院的同学少有还在环境这个相关的行当里，因为这个行当既苦且窄。若从进入这个专业算起，已经过了大约十二年的时光。十二年，足以让你当年暗恋的女孩嫁为他妇；足以将年轻的校草喂成油腻大叔，但同样的十二年，如果我们还坚持在这个最开始的选择上，能不能算作是初心不改？如果可以，这大概能作为我们办这个公众号的一个初衷吧。
 
-初心不改，就应该完成一些使命。是的，北京雾霾的时候，你知道了雾霾的可怕，那南方空气中的氮、硫化合物就不可怕么？室内空气中的甲醛和VOC就不可怕么？土壤中迁移的砷和汞就不可怕么？你知道每年有多少的农药、重金属和持久性有机污染物进入到环境么？你知道每天在聒噪的声环境状态下生活对身心会造成多大的创伤么？\ldots{}\ldots{}是的，真相常常触目惊心，我们不能等到雾霾来袭的时候才知道治理大气，更不能等到水源枯竭的时候，才知道珍惜水源。如果作为环境人我们也回避这些责任，那人与自然和谐相处的中国梦恐怕也只是空谈。
+初心不改，就应该完成一些使命。是的，北京雾霾的时候，你知道了雾霾的可怕，那南方空气中的氮、硫化合物就不可怕么？室内空气中的甲醛和VOC就不可怕么？土壤中迁移的砷和汞就不可怕么？你知道每年有多少的农药、重金属和持久性有机污染物进入到环境么？你知道每天在聒噪的声环境状态下生活对身心会造成多大的创伤么？\ldots\ldots 是的，真相常常触目惊心，我们不能等到雾霾来袭的时候才知道治理大气，更不能等到水源枯竭的时候，才知道珍惜水源。如果作为环境人我们也回避这些责任，那人与自然和谐相处的中国梦恐怕也只是空谈。
 
 正因为如此，作为一群正在三十岁当口的环境人，我们有气力、有精力更有愿望撸起袖子干起来。在我们的队伍中，有在海外读博后，随意一篇随笔就能被科学网主页转载的科院小飞侠；有在高校里谈笑间文章与项目齐飞的青年才俊；既有从环保机关到地方监测站的一线骨干；更有大国企到民营企业环境项目的一手负责人；最不济的大概就是我这样留在科学院里，守着自己一亩三分地的人了。我们愿意用一个平台去展示一下我们的工作，不需要一定摆出科学的姿态佩戴高大上的光环，我们更愿意去讲述一些故事，如果把我们的心路历程呈现出来，其实是一部环境人的血与沙。
 
 因此我们更想去展示一些实实在在的东西，更希望推送的每一篇文章都言之有物。环境访谈、热点解读和前沿动向将是这个公众号最主要的推送方向。这些东西，或在天边、或在眼前、或有所耳闻、或已然亲历。这些内容，科研的、政策性的、工程项目的、经历感悟的，简而言之，我们希望来访的每一个人都能在公众号的不同模块中找到一些共鸣、读出一些趣味，都能感受到作者撰写每一个字的用心。如果一不小心，刚好帮助到解决你的困惑或者其他实际的问题，那对我们而言，真的是初心有值了。
 
-在这之外，我们是一群很有趣也很有范的人，同时也为了增加公众号的受众，我们也愿意分享一下环境人的生活日常。我们的生活也许不尽如人意，但我们的文字一定充满情趣，疲劳之余来此闲读，倒也是消磨时间的好去处。同时更希望这个公众号能成为一个交流的平台，我们可以在这里谈天说地、交友论道而共同进步\ldots{}\ldots{}但我们拒绝黄、拒绝赌、拒绝黄赌毒。
+在这之外，我们是一群很有趣也很有范的人，同时也为了增加公众号的受众，我们也愿意分享一下环境人的生活日常。我们的生活也许不尽如人意，但我们的文字一定充满情趣，疲劳之余来此闲读，倒也是消磨时间的好去处。同时更希望这个公众号能成为一个交流的平台，我们可以在这里谈天说地、交友论道而共同进步\ldots\ldots 但我们拒绝黄、拒绝赌、拒绝黄赌毒。
 
 鲁迅先生说：``愿中国青年都摆脱冷气，只是向上走，不必听自暴自弃者流的话。能做事的做事，能发声的发声。有一分热，发一分光。就令萤火一般，也可以在黑暗里发一点光。不必等候炬火，此后如竟没有炬火，我便是唯一的光。''我们不奢求去做唯一的光，但我们愿意和大家一起发光来照亮前路。
 
 开篇数语，不过投瓦砾以引玉珠，愿这个公众号能越办越好，也希望再过十二年，眼前的这些人能够依旧初心不改。
 
-黑板报计划一周一更，多谢关注，我们下周见\ldots{}\ldots{}
+黑板报计划一周一更，多谢关注，我们下周见\ldots\ldots{}
 
 \hypertarget{ux6211ux4eecux4e5fux8ff7ux832bux4f46ux4e0dux66feux5374ux6b65-ux9ed1ux677fux62a5ux5468ux5e74ux5fd7}{%
 \section{我们也迷茫，但不曾却步 \textbar{} 黑板报周年志}\label{ux6211ux4eecux4e5fux8ff7ux832bux4f46ux4e0dux66feux5374ux6b65-ux9ed1ux677fux62a5ux5468ux5e74ux5fd7}}
@@ -10874,9 +11004,9 @@ PS：说到对不相关数据进行分析，讲个笑话调侃一下某些闭着
 \hypertarget{ux65f6ux95f4}{%
 \subsection{时间}\label{ux65f6ux95f4}}
 
-热情淡了化作坚持；提不起笔可以努力，但真的腾不出时间该怎么办？团队里在自主创业的``班长''常常为了陪好客户而醉卧街头，我们也不好在没有送他回家的情况下说你今天简报还没发；南城国企的``看透''一届文人化身武夫，天天在工地和各种不同人等斗智斗勇，眼看夫妻都要失和，我们也不好让他再多熬一夜出个稿子；朝阳私企的 ``天枫''出访岛国失联一周，让人揣测莫不是文艺老青年又焕发第二春，也不合适一直催着编辑稿件\ldots{}\ldots{}焚我残躯，熊熊烈火，人到三十，忧患实多！
+热情淡了化作坚持；提不起笔可以努力，但真的腾不出时间该怎么办？团队里在自主创业的``班长''常常为了陪好客户而醉卧街头，我们也不好在没有送他回家的情况下说你今天简报还没发；南城国企的``看透''一届文人化身武夫，天天在工地和各种不同人等斗智斗勇，眼看夫妻都要失和，我们也不好让他再多熬一夜出个稿子；朝阳私企的 ``天枫''出访岛国失联一周，让人揣测莫不是文艺老青年又焕发第二春，也不合适一直催着编辑稿件\ldots\ldots 焚我残躯，熊熊烈火，人到三十，忧患实多！
 
-然而，最庆幸的是困难的时候还有人可以相互扶持。作为黑板报的发起人，``次要男主角''说的最多的莫过于要是大家都没时间，就我来弄，结果他既能写，又能校，还能编辑排版，一年下来，着实提高不少；公众号的主写手``Yufree''看似不食人间烟火，但在缺少稿源的时候，淡然甩出平时积累的许多文稿，当真是赠人文章，手留余香；而在男同志更擅长群里口号和喝酒牛皮的时候，群里的女同胞们反而凭借对``巾帼不让须眉''的深刻理解默默撑起了公众号的半边天\ldots{}\ldots{}而这些多多少少能成为我们``初入中年''，面对生活的压迫仍能继续前行的动力。
+然而，最庆幸的是困难的时候还有人可以相互扶持。作为黑板报的发起人，``次要男主角''说的最多的莫过于要是大家都没时间，就我来弄，结果他既能写，又能校，还能编辑排版，一年下来，着实提高不少；公众号的主写手``Yufree''看似不食人间烟火，但在缺少稿源的时候，淡然甩出平时积累的许多文稿，当真是赠人文章，手留余香；而在男同志更擅长群里口号和喝酒牛皮的时候，群里的女同胞们反而凭借对``巾帼不让须眉''的深刻理解默默撑起了公众号的半边天\ldots\ldots 而这些多多少少能成为我们``初入中年''，面对生活的压迫仍能继续前行的动力。
 
 人到三十，NBA里的风城玫瑰还可以绽放出如同九年前的光彩，我们中的人有多少还能记起自己五年前的样子？尚没有太多的人脉和资源，又开始失去内心的自在与平静，每一天都似乎忙忙碌碌，而每一天又似乎都在碌碌无为。不再有情怀、失去了文字、抽不出时间，黑板报的困境不过是一群人甚至一代人迷茫的缩影。
 
@@ -11023,7 +11153,7 @@ BYE，五年。HI，十年。
 
 我的一个领导，每天坚持至少跑5公里，不管什么天气，不管每天多忙多累，都坚持跑步5公里。有时候外面下雨，就在走廊上跑；有时候，去出差，就在酒店房间跑。因为我们常常抱怨没有地方可以运动，没有时间可以运动，随着时间的流逝，我们成功收获了满身肥肉。以此举例，只是想说，生活是可以管理的，可以有规律地过日子的。
 
-所以，我经常会想，有多少人为了生活奔波劳累，在每天的工作中渐渐的失去了对自己的有效管理，最终变成了那个自己讨厌的人。当然，说起对生活的管理，不得不说智能手机。智能手机，一定程度上使得人们的信息交流更为流畅了，也对工作起到了极大地助推作用。但是若是时间管理不当，智能手机常常会成为我们正步向前的障碍。你是不是时常会刷抖音，一刷2小时就过去了；你是不是在看直播，一看3小时过去了；你是不是刷微博、朋友圈，把消息看完凌晨1点了；你是不是开启了网络游戏，盯住屏幕又到了午夜；你是不是追着最新的电视剧，乐呵呵的一看就是一天了\ldots{}\ldots{}我们在智能手机面前，表现得像个瘾君子，迷途难知返。一年前，当我经过时间统计，发现我花了太多时间在智能手机上的时候，我果断删掉了所有的娱乐软件，甚至是自己喜欢的直播吧也断然卸载掉，现在就留下一个微信朋友圈，用来发布黑板报和公司消息，偶尔关心下身边朋友的状态，仅此而已。
+所以，我经常会想，有多少人为了生活奔波劳累，在每天的工作中渐渐的失去了对自己的有效管理，最终变成了那个自己讨厌的人。当然，说起对生活的管理，不得不说智能手机。智能手机，一定程度上使得人们的信息交流更为流畅了，也对工作起到了极大地助推作用。但是若是时间管理不当，智能手机常常会成为我们正步向前的障碍。你是不是时常会刷抖音，一刷2小时就过去了；你是不是在看直播，一看3小时过去了；你是不是刷微博、朋友圈，把消息看完凌晨1点了；你是不是开启了网络游戏，盯住屏幕又到了午夜；你是不是追着最新的电视剧，乐呵呵的一看就是一天了\ldots\ldots 我们在智能手机面前，表现得像个瘾君子，迷途难知返。一年前，当我经过时间统计，发现我花了太多时间在智能手机上的时候，我果断删掉了所有的娱乐软件，甚至是自己喜欢的直播吧也断然卸载掉，现在就留下一个微信朋友圈，用来发布黑板报和公司消息，偶尔关心下身边朋友的状态，仅此而已。
 
 时下的很多青年人，在平时的非工作时间，常常抱着手机娱乐到深夜凌晨，第二天眯着熊猫眼就去上班了。这样的上班工作效率，用脚也能想到有多高。生活需要管理，需要自律和自制。然后基于此，有一段时间，我让站长早起提醒我。后来，我起的比他还早，不是为了工作，而是希望自己形成习惯，对自己负责。早起晚睡，争取到了两头的时间，这样我们就有了充足的时间做好每天的规划，或者工作或者学习，都有条不紊。
 
@@ -11061,7 +11191,7 @@ BYE，五年。HI，十年。
 
 疫苗事件让整个社会陷入了恐慌！网络上各种说辞，官方的、民间的，你不知道去相信谁的，你又迫切想知道谁说的是真的，因为这件事情关乎孩子，孩子是底线。以前也有各种行业爆出造假、作弊的新闻：食品不安全、豆腐渣工程、阴阳合同等等，有的与己无关，有的自带免疫，忍忍就过去了。这次就不一样了，有人说中国人很能忍，但是有两样东西动不得，一个是钱，另一个是孩子。钱的事儿P2P持续暴雷，民众集体维权可窥一斑，孩子的事儿每出一件，定能引起社会强烈反响，三鹿奶粉事件，红黄蓝事件，砍杀儿童事件，到今天的疫苗事件，件件直逼天下父母软肋，强哥发文力挺严惩对此次事件负责人士，也是为人父母啊。
 
-然而\ldots{}\ldots{}红黄蓝股票一度受到重创后，已然开始反弹，背后的资本更是开了更多的幼儿教育场所；三鹿事件受到牵连的人，只是换了一个地方办公而已，据说后来还刚好分管了疫苗。鲁迅先生说中国大概太老了。是的啊，老到很容易磨毁了大家的心气。作为一群环境专业的爬虫，我们不敢去妄谈其他专业的事情，但在自身领域的一些感悟，也许能给诸如疫苗事件一些启发。
+然而\ldots\ldots 红黄蓝股票一度受到重创后，已然开始反弹，背后的资本更是开了更多的幼儿教育场所；三鹿事件受到牵连的人，只是换了一个地方办公而已，据说后来还刚好分管了疫苗。鲁迅先生说中国大概太老了。是的啊，老到很容易磨毁了大家的心气。作为一群环境专业的爬虫，我们不敢去妄谈其他专业的事情，但在自身领域的一些感悟，也许能给诸如疫苗事件一些启发。
 
 到底能不能管？管不管得住？这两天网上陆续看到戏谑让环保局管疫苗吧（公众号：侃言侃语），说明了一个问题，能管，只要强压对了地方。
 
@@ -11079,7 +11209,7 @@ BYE，五年。HI，十年。
 \hypertarget{ux5f3aux538bux7ba1ux5236}{%
 \subsection{强压管制}\label{ux5f3aux538bux7ba1ux5236}}
 
-2013年以来，``大气十条''、``水十条''、``土十条''污染防治三大行动计划陆续发布实施，2018年，国务院政府工作报告首次提出``三大攻坚战''，污染防治为三大之一，把环境治理放在了战争的高度，这是何等决心。中央环保督察、巡查、回头看、绿盾行动\ldots{}，各种动作频频出手，不给涉事企业、政府、人员喘息机会，强硬管理。环保工作人员长时间连续作战，常常连续48小时无休、甚至有的倒在了工作岗位，侧面反映这场战争的残酷和决绝。
+2013年以来，``大气十条''、``水十条''、``土十条''污染防治三大行动计划陆续发布实施，2018年，国务院政府工作报告首次提出``三大攻坚战''，污染防治为三大之一，把环境治理放在了战争的高度，这是何等决心。中央环保督察、巡查、回头看、绿盾行动\ldots，各种动作频频出手，不给涉事企业、政府、人员喘息机会，强硬管理。环保工作人员长时间连续作战，常常连续48小时无休、甚至有的倒在了工作岗位，侧面反映这场战争的残酷和决绝。
 
 \includegraphics[width=6.67in]{images/fw3}
 
@@ -11165,7 +11295,7 @@ BYE，五年。HI，十年。
 
 \includegraphics[width=8.33in]{images/gtd1}
 
-邮件日记、GTD、番茄时钟、康奈尔笔记法、晨间日记、紧急-重要四象限法则、甘特图、香肠战术\ldots{}\ldots{}各种体系都有着自己的拥趸与应用场景，一般人从无到有时任何体系都会很大的改变工作效率，但一段时间后可能每种方法都不那么灵光了，方法本身可能没什么问题，更多的不协调可能是使用者本身过于依赖方法来实现目标而没有真正思考目标本身究竟是否适合方法背后的假设。
+邮件日记、GTD、番茄时钟、康奈尔笔记法、晨间日记、紧急-重要四象限法则、甘特图、香肠战术\ldots\ldots 各种体系都有着自己的拥趸与应用场景，一般人从无到有时任何体系都会很大的改变工作效率，但一段时间后可能每种方法都不那么灵光了，方法本身可能没什么问题，更多的不协调可能是使用者本身过于依赖方法来实现目标而没有真正思考目标本身究竟是否适合方法背后的假设。
 
 就算我列出每种方法的适用场景恐怕也不能解决方法失灵问题，因为任何机械查表式的套用都有着大力丸跟万金油的嫌疑，属于思想上的懒惰，多半还会遇到使用者对场景的混淆。这方面我的建议是先随意找一种方法论完全吃透，然后在实践中发现其局限性，然后能动改进，形成自己的套路。今天想分享下我在信息处理角度下关于PKM的一些想法。
 
@@ -11189,7 +11319,7 @@ BYE，五年。HI，十年。
 
 回到PKM，单纯追求效率意义同样不大，一年读几百本书或几分钟读一本书都是在刷数据，舍本逐末。PKM 最好的验证不是数据，而是不断问自己我的知识与思考自由度是否更大了？从知识的应用角度进行验证是最简单的，或者说带着问题去求知是最有效的，让知识压缩进头脑，然后解压成行动，每一步都有思考反馈才是对知识本身的尊重。
 
-现代社会的压力让所有人都焦虑，最开始是害怕自己落后，后来是害怕孩子落后。解决焦虑的方法是购买确定性，例如学个高薪专业、买个学区房、考个证、嫁个有钱人\ldots{}这也是拒绝思考的表现，所有现阶段的确定性都存在未来的不确定性，不是说你花了钱就安全了，最多是感到安全而已。对知识的追求也是如此，很多人只是为了缓解焦虑而求知，没用的，只有理解并拥抱不确定性才能真正解决焦虑问题，体会知识本身乐趣。
+现代社会的压力让所有人都焦虑，最开始是害怕自己落后，后来是害怕孩子落后。解决焦虑的方法是购买确定性，例如学个高薪专业、买个学区房、考个证、嫁个有钱人\ldots 这也是拒绝思考的表现，所有现阶段的确定性都存在未来的不确定性，不是说你花了钱就安全了，最多是感到安全而已。对知识的追求也是如此，很多人只是为了缓解焦虑而求知，没用的，只有理解并拥抱不确定性才能真正解决焦虑问题，体会知识本身乐趣。
 
 \includegraphics[width=8.33in]{images/gtd4}
 
@@ -11248,7 +11378,7 @@ BYE，五年。HI，十年。
 
 2016年，全国高中升高等教育的升学率从1990年的27.3\%提升到了94.5\%，一个高等教育学位对未来20年的年青人已经成了标配。《趣味物理学》、《从一到无穷大》、《十万个为什么》等科普经典里的内容对于普遍接受过高等教育的群体吸引力正在下降，一方面多数内容实际都成了通识教育的一部分;另一方面则是搜索引擎其实替代了大量的常识性科普，``你不会网上搜一下''成了年青人的常用语。
 
-其实高中毕业，不论你学的文还是理，知识传授上一般侧重知识或事实本身，或者说学到的是通识。例如地球是圆的、力学有三大定律、元素周期表是按什么排的\ldots{}这类知识其实就算老师不教，你看看《十万个为什么》什么的也都能知道。科普主要面向知识背景是高中组的，大多数人不进行科研，就算进行科研其很多科学背景知识也是高中的(因为你大学可能学了某个专业，但另外的学科最理想也是停留在高中阶段)。这部分内容基本不用科普，或者说包含在更广泛的知识普及中就好了，需要思考推理的部分不多，主要是了解事实，形成背景概念。这对于本来就关注的人没什么难度，但如果是中小学生科普，重点要关注这部分。
+其实高中毕业，不论你学的文还是理，知识传授上一般侧重知识或事实本身，或者说学到的是通识。例如地球是圆的、力学有三大定律、元素周期表是按什么排的\ldots 这类知识其实就算老师不教，你看看《十万个为什么》什么的也都能知道。科普主要面向知识背景是高中组的，大多数人不进行科研，就算进行科研其很多科学背景知识也是高中的(因为你大学可能学了某个专业，但另外的学科最理想也是停留在高中阶段)。这部分内容基本不用科普，或者说包含在更广泛的知识普及中就好了，需要思考推理的部分不多，主要是了解事实，形成背景概念。这对于本来就关注的人没什么难度，但如果是中小学生科普，重点要关注这部分。
 
 然而，科普的潜在受众并没有减少，打着``养生保健''主题的各类伪科学与阴谋论侵蚀着中老年群体;年青人对科技里技术层面的关注远远超过对科学的关注，实用主义下电脑算命、星座研究等伪科学在技术下获得重生并展示了强大的生命力;流行文化中的成功学虽然不断引入心理学与行为经济学的研究成果，但公众对于得出结论过程的关注显然少于关心结论本身。类比美国科普杂志的发行量与人口比例，科普的主动受众大概是大几百万的级别，占总人口千分之二三，这些人会主动寻找甚至创作科普作品。对其他人而言，在走出校园后，科学知识就成了个``靠谱的黑匣子''，敬而远之，不明觉厉。
 
@@ -11257,7 +11387,7 @@ BYE，五年。HI，十年。
 
 \includegraphics[width=8.33in]{images/pops3}
 
-大多数科普文章其实是在做大学教材的通俗版，这类文章普及的是专业知识，例如PM2.5是怎么回事?行星间距离如何测量?端粒长度跟寿命关系\ldots{}这类文章告诉我们从已知的高中阶段背景知识如何得到专业的背景知识，大都是专业概念普及，这个是社会大多数人科学背景的上限，却是专业职业化要求的下限。目前这个层次的科学知识几乎可以被维基百科覆盖，也就是说你可以用维基百科作为这类科普文的一个主要参考，另一方面就是趣味性了，如果你能加入更多互动跟多媒体，自然比枯燥的维基百科要好很多。如果你本科专业是理工学科，那么此类文章基本不用看，因为拿到学士学位就表明你已经掌握了这部分内容。这部分内容互联网的替代效果比较明显，国内做的也不错。但科学知识是不断更新的，如果过分强调已有观点其实不但不是科普，反而是科黑。例如方舟子的作品就有点过分强调知识的正确性而不考虑科学的发展，他本身其实也远离科研很久了，这个语境下他实际成了已有(甚至是过时)科学知识的卫道士的角色。
+大多数科普文章其实是在做大学教材的通俗版，这类文章普及的是专业知识，例如PM2.5是怎么回事?行星间距离如何测量?端粒长度跟寿命关系\ldots 这类文章告诉我们从已知的高中阶段背景知识如何得到专业的背景知识，大都是专业概念普及，这个是社会大多数人科学背景的上限，却是专业职业化要求的下限。目前这个层次的科学知识几乎可以被维基百科覆盖，也就是说你可以用维基百科作为这类科普文的一个主要参考，另一方面就是趣味性了，如果你能加入更多互动跟多媒体，自然比枯燥的维基百科要好很多。如果你本科专业是理工学科，那么此类文章基本不用看，因为拿到学士学位就表明你已经掌握了这部分内容。这部分内容互联网的替代效果比较明显，国内做的也不错。但科学知识是不断更新的，如果过分强调已有观点其实不但不是科普，反而是科黑。例如方舟子的作品就有点过分强调知识的正确性而不考虑科学的发展，他本身其实也远离科研很久了，这个语境下他实际成了已有(甚至是过时)科学知识的卫道士的角色。
 
 \hypertarget{ux524dux6cbfux79d1ux666e}{%
 \subsection{前沿科普}\label{ux524dux6cbfux79d1ux666e}}
@@ -11395,7 +11525,7 @@ BYE，五年。HI，十年。
 
 文明可以让个体脱离物种的生存要求来实现其他诉求或者说高质量的生活，整体后果就是种群数量被内部社会结构限制住了。少而精似乎是人类文明发展的必然，然而少而精是可持续的吗？我对经济学了解有限，但从整体需求角度可以进行另一番解读。每个人的价值需求一体两面，一份是面向他人的而另一份是面向自己的，面向他人的是共同认可价值需求，面向自己的价值由自我评价。一台游戏机对于所有人而言价值可能是300美元，但对于不喜欢玩游戏的人而言是个人价值是0，对于喜欢玩游戏的人而言超过300美元。也就是说只有一件商品对具体个人来说产生的价值大于面向其他所有人的价格后，这个人才会付费，这个需求才会被响应。也就是说，下面这个不等式成立才会有经济行为：
 
-面向个人价值\textgreater{}市场销售价格
+面向个人价值\textgreater 市场销售价格
 
 长期以来的经济系统里商品市售价格普遍低于面向个体的价值，都是被生存压力限制的，例如大米、衣服、住房等，所以当个体经济实力到位后就会产生购买。但经济增长后，商品种类开始增多，个人需求开始出现差异。例如有些人追求高音质就会买很玄学的音响设备，但对那个人而言，音响设备产生的个人价值还是高于市售价格，他肯定会去买买买。要知道，这样的需求是可以无限制产生的，被响应的需求就会促进经济总量。但同时注意到有些人的所谓生活必需品其实对另外一些人而言个人价值低于市售价格，除非因为某些事件提升了个人价值或市售价格降低了，否则这些人不会去购买。普惠技术是作用在降低市售价格这一端的，而K策略则是作用在提高面向个人价值这一端的。
 
@@ -11453,7 +11583,7 @@ BYE，五年。HI，十年。
 \hypertarget{ux7ed3ux8bed-15}{%
 \subsection{结语}\label{ux7ed3ux8bed-15}}
 
-上面说的是问题吗？这取决于你的价值认同，有些就是不可逆的趋势，有些就是这几年会出现的临时现象。我觉得这些对个人而言可能真的是无关痛痒的，但从整体考虑又确实是老祖宗那套不适用的新情况。忙着催婚占据公园相亲角的父母可能有个为从内心就拒斥婚姻怕麻烦的子女，担心城市活力的市长总是被投机的游资惦记，明明是自己国家倒卖军火搞的小国内乱不断难民四起的发达国家又担心本来应该成为低端劳动者的移民抢了自己的饭碗\ldots{}\ldots{}国家的边界会不会退化到城郊结合部？城郊结合部的边界会不会退化为个人智能手机与虚拟现实游戏？太多科幻作品与新闻热点报道都做出了猜想，当我们把这些猜想重叠后，未来的轮廓就会逐渐清晰，这个图景人类历史上没有太多的参考，自然也不能开倒车用过去的模型来解释，个人之于历史进程还是太渺小了。
+上面说的是问题吗？这取决于你的价值认同，有些就是不可逆的趋势，有些就是这几年会出现的临时现象。我觉得这些对个人而言可能真的是无关痛痒的，但从整体考虑又确实是老祖宗那套不适用的新情况。忙着催婚占据公园相亲角的父母可能有个为从内心就拒斥婚姻怕麻烦的子女，担心城市活力的市长总是被投机的游资惦记，明明是自己国家倒卖军火搞的小国内乱不断难民四起的发达国家又担心本来应该成为低端劳动者的移民抢了自己的饭碗\ldots\ldots 国家的边界会不会退化到城郊结合部？城郊结合部的边界会不会退化为个人智能手机与虚拟现实游戏？太多科幻作品与新闻热点报道都做出了猜想，当我们把这些猜想重叠后，未来的轮廓就会逐渐清晰，这个图景人类历史上没有太多的参考，自然也不能开倒车用过去的模型来解释，个人之于历史进程还是太渺小了。
 
 校稿：广播站王站长
 编辑：Lisa小姐
@@ -11558,7 +11688,7 @@ BYE，五年。HI，十年。
 
 对于PM2.5质量浓度，目前我国已经实时公布190个城市的数据，并且可以查看过去24小时的浓度变化数值，每月，在中国环境监测总站网站上还会公布全国168个主要城市的浓度排名；意大利呢，在公布实时数据的同时，能够查看过去6天的浓度变化数值，并且可以下载从2001年至今的历史数据报告，相较而言，意大利的信息公开更为彻底。对于科研工作者来说，历史数据的价值还是比较高的，希望我国在信息公开方面能够再大胆一些。
 
-在交流时，明显能够感觉出意方政府很关注民众意见，比如说意方要在某城建造机场第三跑道，但当地民众质疑飞机会产生大量空气污染物造成健康损害，因此抗议项目建设。在当地选举的时候，一位代表民意反对建设跑道的被选举人成功当选。但是比较尴尬的是，这位被选举人当选后，立即违背初衷着手推进该项目的进行\ldots{}\ldots{}
+在交流时，明显能够感觉出意方政府很关注民众意见，比如说意方要在某城建造机场第三跑道，但当地民众质疑飞机会产生大量空气污染物造成健康损害，因此抗议项目建设。在当地选举的时候，一位代表民意反对建设跑道的被选举人成功当选。但是比较尴尬的是，这位被选举人当选后，立即违背初衷着手推进该项目的进行\ldots\ldots{}
 
 因此我们可以看出，民众的意见足以左右政局，在我国，各级政府目前极为关注空气质量，是因为空气质量是作为政府的一项绩效考核指标。所以，无论是国外还是国内，官员们更加畏惧的是职位的变化，只是国外民众能够直接参与考核，我国是通过政府机构组织考核，民众的参与程度稍显不足。
 
@@ -11627,7 +11757,7 @@ BYE，五年。HI，十年。
 
 就这21个参数就可以构成标准模型，然而还是解释不了引力、暗物质与暗能量。我觉得假设民科要起步，至少先搞明白这些。
 
-除了我们人类搞物理，外星人是否搞物理？我们能否从外星科技中实现跨越式发展？根据德雷克公式，这个答案可能空间非常大。我们既有可能是所有智慧生命中最早的那一批，也可能我们本来就是外星人，毕竟地球上都能找到火星陨石。从我们有能力把天线指向太阳系之外到今天也没过多少年，我们的外星朋友可能有类似的情况，也可能我们就是他们设计的诸多模拟中的一个，为了研究生命发展历程。光速等限制条件可能让我们之间交流起来非常费劲，而地球也没有义务一直适合人类居住，生命是如此偶然又是如此多彩且我们现在就在感受，而且我们还发展了物理学。很多科幻描述的未来里人类只能在太空飞船里流浪，另一些科幻则认为没等技术发展到冲出太阳系文明自身就会崩溃，最终地球回归原始，还有一些则去关注了生命自身，当生命的意义脱离了生存压力，最后可能都要脱离肉体而以意识体形式在星际永生\ldots{}无论如何，不管之前我们是否孤独，现在我们似乎很好，处在能问想答有资源的状态，单纯看人类历史，这个状态也就刚刚开始没多久。
+除了我们人类搞物理，外星人是否搞物理？我们能否从外星科技中实现跨越式发展？根据德雷克公式，这个答案可能空间非常大。我们既有可能是所有智慧生命中最早的那一批，也可能我们本来就是外星人，毕竟地球上都能找到火星陨石。从我们有能力把天线指向太阳系之外到今天也没过多少年，我们的外星朋友可能有类似的情况，也可能我们就是他们设计的诸多模拟中的一个，为了研究生命发展历程。光速等限制条件可能让我们之间交流起来非常费劲，而地球也没有义务一直适合人类居住，生命是如此偶然又是如此多彩且我们现在就在感受，而且我们还发展了物理学。很多科幻描述的未来里人类只能在太空飞船里流浪，另一些科幻则认为没等技术发展到冲出太阳系文明自身就会崩溃，最终地球回归原始，还有一些则去关注了生命自身，当生命的意义脱离了生存压力，最后可能都要脱离肉体而以意识体形式在星际永生\ldots 无论如何，不管之前我们是否孤独，现在我们似乎很好，处在能问想答有资源的状态，单纯看人类历史，这个状态也就刚刚开始没多久。
 
 宇宙的终极问题是什么？为什么它存在？为什么它要符合规律演绎？作者在最后提出了科学可检测宇宙的概念。这是一个伴随人类认知而不断扩展的宇宙，我们可检验的宇宙尺度会因为科学的进步而变得更大，也许我们会不断减少哲学问题的总数，也许我们最终发现当前物理规律相比那不知道的95\%只是一个特定环境。眼下我们知道我们不知道的东西还有很多很多，而不知道不知道的东西可能更多，我们的认知在野蛮生长，但可能还不够揭开哪怕一个原子的秘密，然而这正是科学探索的迷人之处。宇宙没有义务让人类理解，地球没有义务让人类宜居，人类也没有义务去回答终极问题，然而科学家就是这样一伙人，他们努力理解着自身与外界，这本身也是生命的美。
 
@@ -11774,7 +11904,7 @@ G4，G5保罗的神奇已经不用多说，而G6，G7保罗缺阵的影响更是
 
 勇士虽然赢了西决，但是勇士的整体表现实在是让我很失望。不仅仅是他们缺少了上个赛季那种复仇的专注，也在于他们的懈怠。懈怠表现在哪里呢？G4和G5最后时刻，只落后两分，还有大约10s的时间，他们一次没有叫暂停，并没有形成一次出机会的投篮；另一次干脆直接失误，这说明勇士在平时训练里甚至都没有演练过最后时刻比分胶着时的战术，因为他们太自大，他们自认为不会被逼迫到这个地步，或者说输了一场还可以在后面赢回来，但是他们没想到被逼到了悬崖边。但勇士这个赛季的运气实在是太好了。打马刺，莱昂纳德不打；打鹈鹕，考辛斯伤停；打火箭，保罗受伤。还是那句话，命运并不总是公平的。
 
-话说回来，勇士还是太强，除了G2火箭角色球员三分大爆发外，你会发现，勇士赢都是大胜，火箭赢都是拼小分，当然，这更凸显了火箭这赛季的伟大。对骑士不利的消息是，随着火箭的当头棒喝，G6和G7的勇士总算是找回了一点自己的样子。真正的勇士是我前文提到的，不遗余力的炮轰并享受其中，是库里投完三分转身调戏一下场下的哈登，是贝尔胯下回传库里张手三分命中。他们连续在落后17分和15分的劣势中挽救赛点，又开始有一种你是想被库里一波弄死还是想被阿杜慢慢收割的感觉。当然，汤神如果开了，那就直接别打了吧。火箭一巴掌拍散了勇士的懒散，逼出了最强的勇士\ldots{}\ldots{}然后把他们送给了骑士。
+话说回来，勇士还是太强，除了G2火箭角色球员三分大爆发外，你会发现，勇士赢都是大胜，火箭赢都是拼小分，当然，这更凸显了火箭这赛季的伟大。对骑士不利的消息是，随着火箭的当头棒喝，G6和G7的勇士总算是找回了一点自己的样子。真正的勇士是我前文提到的，不遗余力的炮轰并享受其中，是库里投完三分转身调戏一下场下的哈登，是贝尔胯下回传库里张手三分命中。他们连续在落后17分和15分的劣势中挽救赛点，又开始有一种你是想被库里一波弄死还是想被阿杜慢慢收割的感觉。当然，汤神如果开了，那就直接别打了吧。火箭一巴掌拍散了勇士的懒散，逼出了最强的勇士\ldots\ldots 然后把他们送给了骑士。
 
 \includegraphics[width=8.33in]{images/nba4}
 
@@ -11793,7 +11923,7 @@ G4，G5保罗的神奇已经不用多说，而G6，G7保罗缺阵的影响更是
 
 我曾多么喜欢没转会到热火之前的詹姆斯啊，怼翻奇才，跨过活塞，挑战三巨头的凯子。英雄年少，平筐骑扣，追风补帽。小前的身高、大前的体重、中锋的力量、分位的手感、控卫的速度，这简直就是每一个篮球爱好者的终极偶像。
 
-我又曾多么厌恶做决定1和决定2的老詹啊，三巨头被诺维斯基单核挑落；关键时刻甩锅；绝境下靠的是阿伦一剑封喉；骚德刚刚老去就立即选择了欧文年轻的肉体\ldots{}\ldots{}
+我又曾多么厌恶做决定1和决定2的老詹啊，三巨头被诺维斯基单核挑落；关键时刻甩锅；绝境下靠的是阿伦一剑封喉；骚德刚刚老去就立即选择了欧文年轻的肉体\ldots\ldots{}
 
 但这并不能质疑老詹的强，也不能丝毫影响老詹在G6和G7两场带给我的震撼。没有甩锅，没有畏惧，没有质疑，有的只有一往无前，有的只有血帽、三分和突破。``自古美人如名将，人间不许见白头！''老詹是不服老的。
 
@@ -11810,7 +11940,7 @@ G4，G5保罗的神奇已经不用多说，而G6，G7保罗缺阵的影响更是
 \hypertarget{section-5}{%
 \subsection{7}\label{section-5}}
 
-最后，谈谈总决赛吧\ldots{}\ldots{}算了，不谈了，一群人围殴老詹，实在是不忍心，心疼。考虑到老詹现在处于灭霸状态，阿杜可能不能像去年那么风光，所以库里努努力抢一个Fmvp回家吧。
+最后，谈谈总决赛吧\ldots\ldots 算了，不谈了，一群人围殴老詹，实在是不忍心，心疼。考虑到老詹现在处于灭霸状态，阿杜可能不能像去年那么风光，所以库里努努力抢一个Fmvp回家吧。
 
 作者：广播站王站长
 编辑：次要男主角
@@ -11889,7 +12019,7 @@ G4，G5保罗的神奇已经不用多说，而G6，G7保罗缺阵的影响更是
 
 有人说她们只看重来钱快，那世间几个人不是为了来钱快奔波？
 
-有人说她们很懒，不愿意去\ldots{}\ldots{}我班长可能会大耳刮子抽你，人家可能比你辛苦多了。
+有人说她们很懒，不愿意去\ldots\ldots 我班长可能会大耳刮子抽你，人家可能比你辛苦多了。
 
 人生如逆旅，你我亦行人。众生皆苦的世界里，高尚不在于对比，善良不挂于嘴边。
 
@@ -12010,7 +12140,7 @@ G4，G5保罗的神奇已经不用多说，而G6，G7保罗缺阵的影响更是
 
 李鸿章就犯了这个错误，他过度相信了和伊藤博文这个一生之敌的友情，也错误地低估了沙俄喂不饱的野心。
 
-北洋水师是命运跟李鸿章开的一个笑话，他像爱惜自己的孩子一样爱惜着这支队伍，可是过度的溺爱却最终导致了它的覆亡。当他让自己的心腹、不懂水军的丁汝昌作为水师提督的时候，北洋水师在很多人眼中便成为了另一个淮军。于是翁同龢老师傅在后来的过程中，对北洋水师的供给百般刁难：颐和园要翻修了，哪有那么多的钱再给到你李鸿章的水师里？于是这支建造时属于世界先进水准的水师，在七年后的甲午中日战争中已然全面落后于对手。技术的革新是一种无形的力量，一旦被淘汰，就再也追赶不上了。李鸿章太了解后来的现状，不忍心这支队伍损失太大，寄希望于调停，尽量避免主力对决，龟缩于港口，却给了对手合围全歼的机会\ldots{}\ldots{}不论如何，1895年，李鸿章创办北洋水师的功与过都已经在血与火中灰飞烟灭了。但我们仍然需要记住的是，水师提督丁汝昌、管带邓世昌以及北洋的那些将士们，他们仍然奋战到了生命的最后一刻。
+北洋水师是命运跟李鸿章开的一个笑话，他像爱惜自己的孩子一样爱惜着这支队伍，可是过度的溺爱却最终导致了它的覆亡。当他让自己的心腹、不懂水军的丁汝昌作为水师提督的时候，北洋水师在很多人眼中便成为了另一个淮军。于是翁同龢老师傅在后来的过程中，对北洋水师的供给百般刁难：颐和园要翻修了，哪有那么多的钱再给到你李鸿章的水师里？于是这支建造时属于世界先进水准的水师，在七年后的甲午中日战争中已然全面落后于对手。技术的革新是一种无形的力量，一旦被淘汰，就再也追赶不上了。李鸿章太了解后来的现状，不忍心这支队伍损失太大，寄希望于调停，尽量避免主力对决，龟缩于港口，却给了对手合围全歼的机会\ldots\ldots 不论如何，1895年，李鸿章创办北洋水师的功与过都已经在血与火中灰飞烟灭了。但我们仍然需要记住的是，水师提督丁汝昌、管带邓世昌以及北洋的那些将士们，他们仍然奋战到了生命的最后一刻。
 
 \includegraphics[width=6.67in]{images/his4}
 
@@ -12270,7 +12400,7 @@ G4，G5保罗的神奇已经不用多说，而G6，G7保罗缺阵的影响更是
 \hypertarget{ux9884ux544a-ux7b2cux4e00ux7ae0ux8d70ux8fdbux4f0aux6bd4ux5229ux4e9a}{%
 \subsubsection{预告 第一章：走进伊比利亚}\label{ux9884ux544a-ux7b2cux4e00ux7ae0ux8d70ux8fdbux4f0aux6bd4ux5229ux4e9a}}
 
-最后给大家预告几张美图\textasciitilde{}都是第一部``走进伊比利亚''未来更新的部分，敬请期待。
+最后给大家预告几张美图\textasciitilde 都是第一部``走进伊比利亚''未来更新的部分，敬请期待。
 
 \includegraphics[width=8.33in]{images/xt3}
 
@@ -12293,7 +12423,7 @@ G4，G5保罗的神奇已经不用多说，而G6，G7保罗缺阵的影响更是
 \hypertarget{ux8d70ux8fdbux4f0aux6bd4ux5229ux4e9a}{%
 \subsubsection{走进伊比利亚}\label{ux8d70ux8fdbux4f0aux6bd4ux5229ux4e9a}}
 
-在13年9月飞往西班牙之前，神秘的伊比利亚半岛对我而言只是一个遥远的向往，我对她的了解几乎和大家一样的有限：《大国崛起》里面那个海洋帝国的兴衰起落，西甲那几只耳熟能详的球队，斗牛士和弗拉明戈，《卡门》和《堂吉•诃德》\ldots{}而更多的近乎``野史''的知识，则是来自游戏，《大航海时代》中里斯本到波尔图的首航，《帝国时代2：征服者》里面``熙德''和瓦伦西亚的传奇，虽然是断断续续，也多少填补了一些知识的空白。
+在13年9月飞往西班牙之前，神秘的伊比利亚半岛对我而言只是一个遥远的向往，我对她的了解几乎和大家一样的有限：《大国崛起》里面那个海洋帝国的兴衰起落，西甲那几只耳熟能详的球队，斗牛士和弗拉明戈，《卡门》和《堂吉•诃德》\ldots 而更多的近乎``野史''的知识，则是来自游戏，《大航海时代》中里斯本到波尔图的首航，《帝国时代2：征服者》里面``熙德''和瓦伦西亚的传奇，虽然是断断续续，也多少填补了一些知识的空白。
 
 然而，在踏上那片土地之后才发现，她的历史几乎和华夏文明一样的源远流长。从B.C.6世纪的希腊，到B.C.2世纪的腓尼基-罗马，到A.D.4\textsubscript{7世纪的维斯哥特（西哥特人），到A.D.7}12世纪的摩尔人，再到A.D.15世纪的基督教光复战争和大航海，千年来这片土地一直纷争不断。无论是西欧的拉丁/蛮族文明，还是北非的阿拉伯文明，每一次扩张，兵锋所指就是这里；长期以来，不同的文明在这里战争、妥协，风格迥异的民族在这里争斗、融合。
 
@@ -12422,7 +12552,7 @@ B.C.211年，萨贡托被罗马收复，B.C.209年，伊比利亚最重要的据
 \hypertarget{ux884cux8d70ux5728ux9057ux8ff9ux95f4}{%
 \subsubsection{行走在遗迹间}\label{ux884cux8d70ux5728ux9057ux8ff9ux95f4}}
 
-塔拉戈纳依山傍河而建，从海边开始往内陆，地势是依次升高的，由于公交和租自行车都不太方便，所以我们选择了``行走''，老实说，一天下来还是蛮辛苦的，脚力差的亲们要做好思想准备。塔拉戈纳的所有罗马遗迹可以买一张通票(包含了2000年纳入世界文化遗产的4\textasciitilde{}5个地方)，具体价格已经不记得了，反正当时蹭紫慧妹子的学生证买到了优惠学生票:P。
+塔拉戈纳依山傍河而建，从海边开始往内陆，地势是依次升高的，由于公交和租自行车都不太方便，所以我们选择了``行走''，老实说，一天下来还是蛮辛苦的，脚力差的亲们要做好思想准备。塔拉戈纳的所有罗马遗迹可以买一张通票(包含了2000年纳入世界文化遗产的4\textasciitilde5个地方)，具体价格已经不记得了，反正当时蹭紫慧妹子的学生证买到了优惠学生票:P。
 
 从车站出发，向北步行不到一刻钟，便是塔拉戈纳最著名的罗马古迹------古竞技场;说到这里要咬文嚼字一下，圆形竞技场(amphitheater)，不是那种非常有名的的古罗马斗兽场(colosseum);两者的直观差别嘛，你要问一个玩《文明》的小伙伴，他会告诉你前者是加文化的，后者是加快乐的0.0;其实我觉得这样解释还是蛮到位的:P，因为说到底就是前者还有些theater的作用，后者则完全是角斗士堵上性命取悦``公民''主子的场所了。具体到建筑外形上，实际并没有太大的差别，一样的拱形外墙，一样的阶梯式看台，一样的比赛场地。
 
@@ -12500,7 +12630,7 @@ B.C.211年，萨贡托被罗马收复，B.C.209年，伊比利亚最重要的据
 
 在秋冬之交的时节，地中海日落后天色暗的格外迅速，离开教堂沿着大路返回海边时，身边已是华灯初上。然而，远处海边的晚霞与彤云却格外地绚丽，给我留下了难以磨灭的记忆。下面这张照片曾长久地作为我笔记本电脑的桌面背景(而罗卡角的日落则长久地作为我手机的背景，看来我对``暖阳与深海的重逢''还是格外的偏爱啊，笑)，记述着当时混杂了惊叹、苍凉与宁和的奇特感受。
 
-有人说，诗是穿越千年的心灵相通;当你面对某个景色，回想起一句诗时，感觉突然就对了;而我想说，虽然搜遍脑海，也不能给这个景色配一句诗(古人好像没谁有机会看到海边的落日好吧\ldots{})，但所幸有照片，留住了那个时刻内心最``对''的触动。有时候，白天的小镇、阳光、海浪和沙滩，快乐的心情与亮丽的风景，并不是旅游的全部;日暮、长夜、萧萧落木，反而更像是历史之行的深刻注脚吧。
+有人说，诗是穿越千年的心灵相通;当你面对某个景色，回想起一句诗时，感觉突然就对了;而我想说，虽然搜遍脑海，也不能给这个景色配一句诗(古人好像没谁有机会看到海边的落日好吧\ldots)，但所幸有照片，留住了那个时刻内心最``对''的触动。有时候，白天的小镇、阳光、海浪和沙滩，快乐的心情与亮丽的风景，并不是旅游的全部;日暮、长夜、萧萧落木，反而更像是历史之行的深刻注脚吧。
 
 \includegraphics[width=5.62in]{images/xt40}
 
@@ -12533,7 +12663,7 @@ B.C.211年，萨贡托被罗马收复，B.C.209年，伊比利亚最重要的据
 
 \includegraphics[width=8.33in]{images/xt45}
 
-水道桥的下方是炮兵广场，被水道桥分成了两侧。一侧可以走车，游客中心和象征罗马统治的狼雕像便立于道路两侧。另一侧则是步行广场，广场的角落里有一家米其林三星餐厅Condido，售卖蜚声世界的``塞哥维亚烤乳猪''。餐厅自 1786 年开业至今已两百多年，曾接待过西班牙国王卡洛斯以及众多大牌明星和要员。餐厅里面是典型的西班牙装饰风格，即便不吃饭，光是欣赏一下内部装潢，其实也算是视觉上的盛宴了（然而是听说的，我并没有进去\textgreater{}.\textless{}）。
+水道桥的下方是炮兵广场，被水道桥分成了两侧。一侧可以走车，游客中心和象征罗马统治的狼雕像便立于道路两侧。另一侧则是步行广场，广场的角落里有一家米其林三星餐厅Condido，售卖蜚声世界的``塞哥维亚烤乳猪''。餐厅自 1786 年开业至今已两百多年，曾接待过西班牙国王卡洛斯以及众多大牌明星和要员。餐厅里面是典型的西班牙装饰风格，即便不吃饭，光是欣赏一下内部装潢，其实也算是视觉上的盛宴了（然而是听说的，我并没有进去\textgreater.\textless）。
 
 \includegraphics[width=8.33in]{images/xt46}
 
@@ -12569,7 +12699,7 @@ B.C.211年，萨贡托被罗马收复，B.C.209年，伊比利亚最重要的据
 \hypertarget{ux8352ux51c9ux4e4bux5730ux7684ux963fux5c14ux5361ux624e}{%
 \subsubsection{荒凉之地的``阿尔卡扎''}\label{ux8352ux51c9ux4e4bux5730ux7684ux963fux5c14ux5361ux624e}}
 
-沿着老城的街巷再往西北走不远，四周的建筑便会迅速的褪去，与你隔着一个广场相望的，便是赫赫有名的阿尔卡扎城堡了。各种介绍上都说，这个城堡是迪士尼白雪公主故事中城堡的原型，但其实我真的不大记得白雪公主城堡长成个什么样子了\ldots{}不过，眼前的阿尔卡扎城堡的确美不胜收。巍峨的主楼，圆形的角塔，青色的屋顶与米色的砖石相得益彰，在蓝天绿树的映衬下真的有那么一点童话的意味。
+沿着老城的街巷再往西北走不远，四周的建筑便会迅速的褪去，与你隔着一个广场相望的，便是赫赫有名的阿尔卡扎城堡了。各种介绍上都说，这个城堡是迪士尼白雪公主故事中城堡的原型，但其实我真的不大记得白雪公主城堡长成个什么样子了\ldots 不过，眼前的阿尔卡扎城堡的确美不胜收。巍峨的主楼，圆形的角塔，青色的屋顶与米色的砖石相得益彰，在蓝天绿树的映衬下真的有那么一点童话的意味。
 
 \includegraphics[width=8.33in]{images/xt53}
 
@@ -12615,7 +12745,7 @@ B.C.211年，萨贡托被罗马收复，B.C.209年，伊比利亚最重要的据
 
 值得一提的是，这里地下回廊的外墙便是当年西哥特人留下的古城堡的围墙，粗糙的砖石和黄土鲜明地展示着当年城垣的印记，也让人不由得感叹一句，当年杀进西班牙、扫平欧洲大地的哥特人，纵然骁勇善战，但相比于罗马而言文明的程度实在相差太多。
 
-在罗马覆灭之后，西方文明陷入了千年的``黑暗中世纪''，这些从黄泥茅草屋中走出的``蛮族''，用他们的巨手满不在乎地在南欧大地上扫扫，就把曾经开敞、明朗的罗马建筑风尚全都推进了地中海冰冷的深渊中（是不是还能回想起前面章节中塔拉戈纳那座被拆掉的古罗马竞技场和砌在竞技场中间的教堂？那也是哥特人干的\textgreater{}.\textless{}）。而当他们统治起来，又建起高大厚重的城堡、尖塔高耸的教堂时，却懊恼地发现，似乎无论怎么模仿，也找不回曾经罗马圣殿宏伟的样子了。甚至，待到千百年后，人们再拾起希腊/罗马的文明碎片时，发现自己已经忘记了该如何拼凑出一个完整的原型。于是，文艺复兴时代的人们开始把之前千百年间的``非罗马''的东西，都唤作``哥特式''的------要知道，当年这个``哥特式的''称谓可不代表什么好意，而在很大程度上是野蛮怪异的代名词------只不过那些恼怒的复古派不曾想到，又过了几百年之后，这些建筑文化却又成为了西方文明引以为傲的继承者。
+在罗马覆灭之后，西方文明陷入了千年的``黑暗中世纪''，这些从黄泥茅草屋中走出的``蛮族''，用他们的巨手满不在乎地在南欧大地上扫扫，就把曾经开敞、明朗的罗马建筑风尚全都推进了地中海冰冷的深渊中（是不是还能回想起前面章节中塔拉戈纳那座被拆掉的古罗马竞技场和砌在竞技场中间的教堂？那也是哥特人干的\textgreater.\textless）。而当他们统治起来，又建起高大厚重的城堡、尖塔高耸的教堂时，却懊恼地发现，似乎无论怎么模仿，也找不回曾经罗马圣殿宏伟的样子了。甚至，待到千百年后，人们再拾起希腊/罗马的文明碎片时，发现自己已经忘记了该如何拼凑出一个完整的原型。于是，文艺复兴时代的人们开始把之前千百年间的``非罗马''的东西，都唤作``哥特式''的------要知道，当年这个``哥特式的''称谓可不代表什么好意，而在很大程度上是野蛮怪异的代名词------只不过那些恼怒的复古派不曾想到，又过了几百年之后，这些建筑文化却又成为了西方文明引以为傲的继承者。
 
 然而，西班牙是幸运的，在哥特人统治了三百年后，摩尔人带着当时更为发达的阿拉伯文明跨过地中海席卷而来，给这片``后罗马时期''的土地带来了数不清的圆塔、柱厅、回廊、庭院和水景；在长达数百年的``光复战争''的拉锯中，退居西班牙北方的哥特王朝也逐渐习惯并延续了曾经摩尔人的建筑风格（除了教堂）。这也使得我们有幸在这片远离中东和北非的土地上，看到大量摩尔和哥特风格的融合------但从某种角度上来说，这种融合对于哥特文明而言是悲惨的，因为它先闯入了一个远比自己昌盛的文明体系之中，随后又被另一个昌盛的文明体系所碾压，两下挤压过来，西哥特自己在西班牙所剩下的东西，也许真的不太多了。就好像蒙元之于唐宋、大清之于大明，入主后的政权也许可以掌握，但精神层面往往会快速溃败而被同化。信奉阿里乌斯教派的西哥特王朝冲入了满地天主教徒的西班牙，一百年间便被同化改了国教；而光复战争取胜后的哥特王朝，建起的城门和城堡却仍是阿拉伯式的------我想，这也是我要把哥特和摩尔放到一个章节来讲的主要原因，因为对于罗马到王朝之间的这一千年历史而言，择开这两者之间的纠缠实在是太困难了。
 
@@ -13010,17 +13140,17 @@ CNS：评职称利器，帽子敲门砖，根据学科情况子刊也算
 
 科比终于赢得了球队老大的地位，这时候的科比正步入生涯的巅峰期，篮球技术已经完全成型，那洛杉矶凌晨四点的球馆里磨炼出来的翻身后仰跳投，像极了他的偶像乔丹。还有各种眼花缭乱的得分手段，在那个不鼓励投三分的年代，科比的三分球甚至投的比乔丹还好，然而湖人队的战绩并没有因为他一个人的努力而变好。2004-2005赛季湖人队第一次缺席季后赛，2005-2006赛季湖人在大比分3-1领先的情况下被太阳实现超级大逆转，在季后赛首轮被狠狠地钉在耻辱柱上。
 
-科比环视四顾，夺冠功臣中只剩下老鱼费舍尔；控球后卫斯马什•帕克，一个混迹街球场的半吊子；小前锋德文•乔治，一个不太会投篮的白人；中锋格兰特，一个矮壮蓝领，后因严重的伤病长期缺战；唯一的安慰是全能型大前锋拉马尔奥多姆，后湖人荣耀中的功勋之臣，然而当时的他初入湖人，时常在球场上走神梦游，令科比恨不得把他撕碎。湖人的庶民阵容消磨着科比的绝对巅峰期，包括那传说中的连续4场50+、3节62分、单场81分\ldots{}.此时的科比眼神依然桀骜不驯，他不仅想赢对手，甚至想蹂躏他们，让他们心生阴影，滚出篮球场。但是连年的失败让科比愤怒不甘，而后出现了07年休赛期的逼宫事件。
+科比环视四顾，夺冠功臣中只剩下老鱼费舍尔；控球后卫斯马什•帕克，一个混迹街球场的半吊子；小前锋德文•乔治，一个不太会投篮的白人；中锋格兰特，一个矮壮蓝领，后因严重的伤病长期缺战；唯一的安慰是全能型大前锋拉马尔奥多姆，后湖人荣耀中的功勋之臣，然而当时的他初入湖人，时常在球场上走神梦游，令科比恨不得把他撕碎。湖人的庶民阵容消磨着科比的绝对巅峰期，包括那传说中的连续4场50+、3节62分、单场81分\ldots.此时的科比眼神依然桀骜不驯，他不仅想赢对手，甚至想蹂躏他们，让他们心生阴影，滚出篮球场。但是连年的失败让科比愤怒不甘，而后出现了07年休赛期的逼宫事件。
 
 科比向管理层的逼宫施压，让他们得到了肱股之臣---保罗-大加索尔，一个全能型西班牙中锋，让姚明无奈的对手，而后他们又培养出另一条小鲨鱼---安德鲁-拜纳姆，虽然统治力不如沙克，但是好歹也是场均18+10的优质战力，湖人的冠军阵容就此拼成。但是，科比追逐冠军的脚步因为东部绿衫军凯尔特人的崛起而停滞了，07-08赛季在总决赛第六场被君子剑雷阿伦的8记三分射穿，兵败北岸花园球馆之后，科比率领原班人马卷土重来，终于在后一年攻破绿军的铁桶阵，赢得生涯第4冠。下一年又轻松统治了拥有魔兽的奥兰多魔术，再下一冠。2个FMVP和总冠军奖杯是对科比作为大当家的认可，科比第一次以湖人领袖的身份赢得了总冠军。
 
-正当科比踌躇满志地准备比肩乔丹之时，达拉斯小牛狠狠地踢了他们的屁股，季后赛第二轮干净利落地将湖人零封出局，是轻敌大意亦或是实力不济，科比恐怕已经无心关心。2011-2012赛季，湖人交易来了史蒂芬-纳什和魔兽霍华德，准备继续冲冠，却在季后赛第二轮再次被青春风暴俄城雷霆4-1扫地出门。随着核心阵容的老化，至此湖人再未染指总冠军。科比也在蹉跎的岁月中开始经历大伤，之前的掌骨骨折、手指脱臼让人看到了倔强的科比怎么在严重的伤病状况下一只手玩转比赛，缠着纱布用一只手投篮，把脱臼的手指掰直了继续打球\ldots{}\ldots{}这些都不是一般人可以做到的。随后跟腱断裂、膝伤、肩伤后的科比更像是湖人荣光日薄西山的剪影，在人们眼中由清晰渐渐模糊，最终淡出了历史舞台。长江后浪推前浪，一代新人换旧人，热火三巨头，勇士王朝开始引领了NBA新的潮流\ldots{}\ldots{}
+正当科比踌躇满志地准备比肩乔丹之时，达拉斯小牛狠狠地踢了他们的屁股，季后赛第二轮干净利落地将湖人零封出局，是轻敌大意亦或是实力不济，科比恐怕已经无心关心。2011-2012赛季，湖人交易来了史蒂芬-纳什和魔兽霍华德，准备继续冲冠，却在季后赛第二轮再次被青春风暴俄城雷霆4-1扫地出门。随着核心阵容的老化，至此湖人再未染指总冠军。科比也在蹉跎的岁月中开始经历大伤，之前的掌骨骨折、手指脱臼让人看到了倔强的科比怎么在严重的伤病状况下一只手玩转比赛，缠着纱布用一只手投篮，把脱臼的手指掰直了继续打球\ldots\ldots 这些都不是一般人可以做到的。随后跟腱断裂、膝伤、肩伤后的科比更像是湖人荣光日薄西山的剪影，在人们眼中由清晰渐渐模糊，最终淡出了历史舞台。长江后浪推前浪，一代新人换旧人，热火三巨头，勇士王朝开始引领了NBA新的潮流\ldots\ldots{}
 
 2016年4月14日，这是NBA常规赛最后一天，也是科比-布莱恩特的最后一战。20年职业生涯里，科比给我们带来无限惊喜，此刻的洛杉矶，此刻的斯台普斯，那个创造历史的男人--科比•布莱恩特用一场近乎疯狂的砍分秀让我们看哭。最终凭借科比惊人的表现，湖人以101-96逆转击败了犹他爵士。科比50投22中，其中三分球21投6中，拿下了60分。一场万众瞩目的比赛，他依旧是主角，他依旧能创造奇迹，但NBA江湖从此再无黑曼巴---Mamba out。科比用曼巴精神激励着篮球青训营的每一个年轻人，科比用一个篮球分析类节目Detail向观众诠释着篮球的精髓，科比用一部短小精悍的《亲爱的篮球》赢得奥斯卡小金人，在另一个领域获得了成功。
 
 正当人们以为科比在篮球生涯后会有更多精彩的时候，北京时间2020年1月27日，科比和二女儿吉安娜在一起直升机事故中去世，突然得像从天空划过的流星，迅速消逝在视野中。人们的错愕和悲伤从世界各地喷涌而出，怎道这声安息！
 
-科比一直以来都不是我最喜欢的那个球员，作为一名土著科黑，讨厌科比的孤傲和独立，这与中国``和谐社会、人人为我，我为人人''的口号格格不入；讨厌科比在一次突破中撞伤姚明，间接导致大姚的职业生涯结束得过于短暂；讨厌科比在比赛读秒中用一记侧身骑马射箭绝杀了韦德的迈阿密热火队（这才是我的最爱）；我讨厌\ldots{}\ldots{}但我却无法否定科比的努力与坚韧，我敬佩他能看见凌晨四点的洛杉矶，敬佩如探囊取物的得分盛宴，敬佩他扳指求胜的坚毅，敬佩他跟腱断裂后的罚球，敬佩他巡回表演最后一场的60分\ldots{}\ldots{}科比这名球员很神奇，不喜欢他的人很多，但所有人都承认他强到发指。
+科比一直以来都不是我最喜欢的那个球员，作为一名土著科黑，讨厌科比的孤傲和独立，这与中国``和谐社会、人人为我，我为人人''的口号格格不入；讨厌科比在一次突破中撞伤姚明，间接导致大姚的职业生涯结束得过于短暂；讨厌科比在比赛读秒中用一记侧身骑马射箭绝杀了韦德的迈阿密热火队（这才是我的最爱）；我讨厌\ldots\ldots 但我却无法否定科比的努力与坚韧，我敬佩他能看见凌晨四点的洛杉矶，敬佩如探囊取物的得分盛宴，敬佩他扳指求胜的坚毅，敬佩他跟腱断裂后的罚球，敬佩他巡回表演最后一场的60分\ldots\ldots 科比这名球员很神奇，不喜欢他的人很多，但所有人都承认他强到发指。
 
 如今我这个年纪的80后，当年和我一起奔跑在球场上的兄弟，都成为了上有老、下有小的中年男人，作为家里的顶梁柱，每天为生活奔波，一年都摸不到两次球，我们的``职业生涯''也跟随着科比的退役戛然而止。我们因为篮球而熟知这些运动员，知道他们的生日与喜好，知道他们初入联盟的意气风发，也知道他们离开时的英雄迟暮；我们有各自喜欢的球队与球员，感受着他们成功的喜悦，也经历他们失败的懊恼。因此当科比离开的时候，就仿佛是一个和我们一起打过很长时间篮球的伙伴离我们远去，不管他曾经是我们的队友还是对手，都带着青春的记忆远离。
 
@@ -13086,7 +13216,7 @@ CNS：评职称利器，帽子敲门砖，根据学科情况子刊也算
 
 王道就是在社会生产力发展、人口增加、统治阶级权力欲望膨胀的时期，倡导我们都放下欲望，回到曾经的理想国。当人君不喜欢大雅的音乐，就喜欢靡靡之音里、轻衫薄衣下的曼妙身姿，难道还能用礼去约束他吗？这显然是痴人说梦。所以孔子奔走的一生，如同丧家之犬。
 
-先秦的儒家三哲，孔子迷失在失落的理想国、孟子振聋发聩叫不醒装睡的梁惠王、荀子实际已经开始吸纳法家的思想，并培养出两位法家的门徒\ldots{}\ldots{}怎么看儒家都是衰落的一族。但是神奇的是，后来的两千年里，儒家却大放异彩，这无疑得益于董仲舒。
+先秦的儒家三哲，孔子迷失在失落的理想国、孟子振聋发聩叫不醒装睡的梁惠王、荀子实际已经开始吸纳法家的思想，并培养出两位法家的门徒\ldots\ldots 怎么看儒家都是衰落的一族。但是神奇的是，后来的两千年里，儒家却大放异彩，这无疑得益于董仲舒。
 
 但需要注意的是董仲舒的儒家思想和先秦的儒家思想已经不是一回事情了。他的``天人三策''里，发展出来的``天人合一，君权神授''的思想，正好合了汉武帝天地六合唯我独尊的意。汉武帝并不是一个普通的君主，一个方面汉武作为能和始皇帝并称的千古一帝，并不满足于他几位前任的``无为''思想；另一方面，他又是个爱慕神仙求长生的君主，据说他曾真的在方士的引导下见到了已经故去的李夫人，为此还写下了婉转动人的《李夫人歌》。因此发展出君权神授又能经世致用的儒家思想便在汉武的倡导下一发不可收拾。但是，虽然汉武罢黜百家，独尊儒术，但纵观他的一生，重用酷吏、穷兵黩武，似乎也只是吸纳了儒家的外表，至于``仁而爱人''，却是没有见到。
 
@@ -13130,9 +13260,9 @@ CNS：评职称利器，帽子敲门砖，根据学科情况子刊也算
 
 这其实很不正常，因为虽然封建社会人的平均寿命不高，但这主要是因为早殇和战争死亡。一旦活过了成年，在食物不短缺、没有战争的情况下，大部分人是可以轻松活过四、五十岁的。而且东汉末年的皇帝并不是来源于一支，因为殇帝、冲帝和质帝都没有活过10岁，因此后继的皇帝只能从别的支脉中挑选，而后来灵帝的亲生儿子献帝就活了很久，因此短命的症结不在于基因层面。考虑到这些成年皇帝死亡年龄非常接近，他们有很大概率是死于同一种丹药的慢性中毒。
 
-东汉往后，中国历史诞生了一段非常重要的文化精神，叫魏晋风骨。有这个风骨的名士，经常秉烛夜游、袒胸露乳、穿旧衣、喝热酒\ldots{}\ldots{}其实吧，就是应对吃``五石散''后的不良反应，要``行散''。
+东汉往后，中国历史诞生了一段非常重要的文化精神，叫魏晋风骨。有这个风骨的名士，经常秉烛夜游、袒胸露乳、穿旧衣、喝热酒\ldots\ldots 其实吧，就是应对吃``五石散''后的不良反应，要``行散''。
 
-五石散，一种最早用于驱寒的药物，后来发现具有重振男性雄风的效果，再后来发现还有致幻的特殊功用。五石散产生于东汉，在曹魏时期开始在士族阶层广为流行。在魏晋五胡十六国时期中，但凡有记载去山中开采石药（嵇康）、喜爱旧衣（桓温）、放浪形骸（王羲之）、捉虱而谈（王猛）\ldots{}\ldots{}都是服食五石散的。尽管五石散最早被认为是东汉末年张仲景发明以治愈风寒，但事实上五石散是一个调制非常困难，服用须非常小心的药物，高昂的成本让五石散从没有真正在民间传播过，从它的发展轨迹来看，五石散很可能是一种从宫中传到士族阶层的药物。它的前身极有可能是宫中用来为皇帝助兴寻欢的丹药，而从魏晋时期服用五石散发明出的诸多讲究来看，东汉中后期的皇帝们，可能是五石散最早的一批实践者，为后来服食的人提供了大量失败的经验。服用五石散不得当的，大概就是30出头的寿命，而即便魏晋时已经发展出很成熟的服用方法，服用的人寿命一般也就到50出头。这也是为何魏晋士人一过青春，便会发出生命过半的悲叹。五石散实实在在改变了那个时代历史的走向，也改变了一个时期所展现的精神面貌。
+五石散，一种最早用于驱寒的药物，后来发现具有重振男性雄风的效果，再后来发现还有致幻的特殊功用。五石散产生于东汉，在曹魏时期开始在士族阶层广为流行。在魏晋五胡十六国时期中，但凡有记载去山中开采石药（嵇康）、喜爱旧衣（桓温）、放浪形骸（王羲之）、捉虱而谈（王猛）\ldots\ldots 都是服食五石散的。尽管五石散最早被认为是东汉末年张仲景发明以治愈风寒，但事实上五石散是一个调制非常困难，服用须非常小心的药物，高昂的成本让五石散从没有真正在民间传播过，从它的发展轨迹来看，五石散很可能是一种从宫中传到士族阶层的药物。它的前身极有可能是宫中用来为皇帝助兴寻欢的丹药，而从魏晋时期服用五石散发明出的诸多讲究来看，东汉中后期的皇帝们，可能是五石散最早的一批实践者，为后来服食的人提供了大量失败的经验。服用五石散不得当的，大概就是30出头的寿命，而即便魏晋时已经发展出很成熟的服用方法，服用的人寿命一般也就到50出头。这也是为何魏晋士人一过青春，便会发出生命过半的悲叹。五石散实实在在改变了那个时代历史的走向，也改变了一个时期所展现的精神面貌。
 
 东汉后期，皇帝的短命造成了皇权的旁落，在这段外戚和宦官交替专权的历史里，有一个很大的疑问：文官集团（士族）去哪里了？
 
@@ -13162,7 +13292,7 @@ CNS：评职称利器，帽子敲门砖，根据学科情况子刊也算
 
 先看看西汉的宣帝，这是西汉最后一位有作为的君主，他得以即位是因为霍光刚刚废了之前的皇帝：昌邑王刘贺。宣帝每次和霍光一起乘车都会紧张地汗流浃背，霍光还只是废了刘贺，并没有杀他，宣帝仍然战战兢兢。以此类推，便能想象桓帝的生活。这13年里，零星有一些诸如李固的文官想要对抗梁冀，但杯水车薪，文官集团默契地选择了集体沉默。后来帮助桓帝的是谁呢？五个宦官。他们实实在在诛灭了梁冀一族，让桓帝当上了真正的皇帝。当清退梁冀党羽时，整个朝堂几乎为之一空，这就不难理解为什么桓帝宁肯信任宦官也不愿相信文官集团。
 
-而宦官走上台前后，就遭到了文官集团的强烈抵制。第一次党锢之争的时候，文官集团们不仅把持舆论，甚至置皇帝的特赦于不顾，也要和宦官鱼死网破。这就很有趣了，在张纲发出``豺狼当道、安问狐狸？''后的接近20年间，这些文官集团面对飞扬跋扈的梁冀和整日活在恐惧中的皇帝时，沉默不语。而在梁冀被诛灭后的短短7年后，他们就改头换面，宁肯罔顾国法，置身家性命于不顾，也要卫道殉难\ldots{}\ldots{}所以，男人的变脸未必输于女人。
+而宦官走上台前后，就遭到了文官集团的强烈抵制。第一次党锢之争的时候，文官集团们不仅把持舆论，甚至置皇帝的特赦于不顾，也要和宦官鱼死网破。这就很有趣了，在张纲发出``豺狼当道、安问狐狸？''后的接近20年间，这些文官集团面对飞扬跋扈的梁冀和整日活在恐惧中的皇帝时，沉默不语。而在梁冀被诛灭后的短短7年后，他们就改头换面，宁肯罔顾国法，置身家性命于不顾，也要卫道殉难\ldots\ldots 所以，男人的变脸未必输于女人。
 
 究其根本，不过是宦官当权，打破了文官集团的固有利益。在相权丧失无法保证文官集团的利益时，文官集团开启了自我保护的模式：形成``士族''。这个以宗族为核心、土地为资源、部曲为保证、联姻为纽带的庞大势力盘踞地方，一些士族进据朝堂，和外戚势力合为一派。东汉的外戚（尤其窦家和梁家）本质里也是士族大家的一支，他们深知士族利益的所在，虽然在中央敛财聚势，但仍然把地方利益让渡给其他的士族。但出身并不优越的宦官当权，是无法理解士族利益的平衡，因此当宦官开始向士族索取利益的时候，引起了广大文官集团的集体抗拒。
 
@@ -13237,7 +13367,7 @@ CNS：评职称利器，帽子敲门砖，根据学科情况子刊也算
 
 \includegraphics[width=6.67in]{images/hhcs3}
 
-所以其实我挺理解很多劝博士毕业转行或毕业不做学术的看法的，那怕你手握博士学位，在国内想走到教授也是个p\textless{}0.05的事，大概20个人里有一个。考虑到一般博士同学同院系大概也就是20个人，如果学术水平不在前面，基本可以重新考虑下人生规划了，因为此时你选择科研就真的需要兴趣激发了，不然身边的落差会折磨你几十年。而且上面的估计有个严重的问题，那就是大量使用了均匀分布，但真实的情况却是极不均匀分布，你的师承关系跟毕业院校都会把这个分布搞得更加极端，而且后发者优势在科研里面非常常见。同时，目前教职数目趋稳，如果你没赶上窗口期大爆发，基本就是这个竞争强度了，只会更强不会更弱。具体到幻化残生这四个学科中的环境，虽然国家很重视，但在杰青或优青的名单中每年能分到多少个这都是一个巴掌数的过来的，各位可自行倒推下看看竞争强度。如果眼光放远些，其实别的学科的竞争压力也好不到哪去，但对于知识迭代比较快的幻化残生，很多压力与鸿沟可能你没毕业就已经出现了，更糟的是你毕了业才发现。
+所以其实我挺理解很多劝博士毕业转行或毕业不做学术的看法的，那怕你手握博士学位，在国内想走到教授也是个p\textless0.05的事，大概20个人里有一个。考虑到一般博士同学同院系大概也就是20个人，如果学术水平不在前面，基本可以重新考虑下人生规划了，因为此时你选择科研就真的需要兴趣激发了，不然身边的落差会折磨你几十年。而且上面的估计有个严重的问题，那就是大量使用了均匀分布，但真实的情况却是极不均匀分布，你的师承关系跟毕业院校都会把这个分布搞得更加极端，而且后发者优势在科研里面非常常见。同时，目前教职数目趋稳，如果你没赶上窗口期大爆发，基本就是这个竞争强度了，只会更强不会更弱。具体到幻化残生这四个学科中的环境，虽然国家很重视，但在杰青或优青的名单中每年能分到多少个这都是一个巴掌数的过来的，各位可自行倒推下看看竞争强度。如果眼光放远些，其实别的学科的竞争压力也好不到哪去，但对于知识迭代比较快的幻化残生，很多压力与鸿沟可能你没毕业就已经出现了，更糟的是你毕了业才发现。
 
 \includegraphics[width=6.67in]{images/hhcs4}
 
@@ -13369,7 +13499,7 @@ CNS：评职称利器，帽子敲门砖，根据学科情况子刊也算
 
 \includegraphics[width=8.33in]{images/kq1}
 
-认可的一面，搞研究都是有科学与工程之分的，你让搞理论研究的一群人跑去拉横向，搞转化，这本来就是强人所难。同时，科学家应当有一点担当和骨头，因为科学家毕竟不是政客也不是商人。科学家应该是什么样子呢?我研究生室友(一个读博期间发了七八篇IF\textgreater{}5的文章，写《纳米非米》的那位)曾跟我说过一个故事，他参加过的一次毕业答辩，请了一位老先生，老先生来的时候，抱着那天要答辩的几个人的纸质版毕业论文，颤颤巍巍地说，这几位的我已经看完了，需要修改的都在上面做了标注，还有几份我实在看不过来了，跟你们先说一下。
+认可的一面，搞研究都是有科学与工程之分的，你让搞理论研究的一群人跑去拉横向，搞转化，这本来就是强人所难。同时，科学家应当有一点担当和骨头，因为科学家毕竟不是政客也不是商人。科学家应该是什么样子呢?我研究生室友(一个读博期间发了七八篇IF\textgreater5的文章，写《纳米非米》的那位)曾跟我说过一个故事，他参加过的一次毕业答辩，请了一位老先生，老先生来的时候，抱着那天要答辩的几个人的纸质版毕业论文，颤颤巍巍地说，这几位的我已经看完了，需要修改的都在上面做了标注，还有几份我实在看不过来了，跟你们先说一下。
 
 汗颜吗?我所经历的几次答辩就好像小孩子在过家家，达到毕业要求，大家按照流程行事，最后皆大欢喜。这个世界，你当然可以有一套自己钻研出来的规律在里面游刃有余，但这并不是世界需要价值统一的地方。毕竟``文章千古事，得失寸心知''。我当然也知道长袖善舞的人在哪个行当都不会混的太差，但问题就在于，这个世界的诱惑实在太多，一旦你走向聚光灯下舞起了长袖，是否还能记得住自己最开始的一些想法。而更大的危机是，很多的科研人员从最开始就不知道自己的想法，他们贪图的不过是科研圈的安逸。
 
@@ -13390,7 +13520,7 @@ CNS：评职称利器，帽子敲门砖，根据学科情况子刊也算
 
 \includegraphics[width=8.33in]{images/kq3}
 
-突然一天，你横向做起来了，你成暴发户了，你土豪了，你\ldots{}\ldots{}还能记起科研的初衷在于探索未知世界的乐趣吗?如果不能理解这个问题，你就该知道，你把做横向的情商拿去搞金融，你早就和马云、健林一起指点江山了，是科研拖了你后腿。
+突然一天，你横向做起来了，你成暴发户了，你土豪了，你\ldots\ldots 还能记起科研的初衷在于探索未知世界的乐趣吗?如果不能理解这个问题，你就该知道，你把做横向的情商拿去搞金融，你早就和马云、健林一起指点江山了，是科研拖了你后腿。
 
 于是又有好事者问，站长你现在科研到什么地步了?恩，隔壁工头又叫了，先回去搬砖了。
 
@@ -13527,9 +13657,9 @@ CNS：评职称利器，帽子敲门砖，根据学科情况子刊也算
 
 \includegraphics[width=8.33in]{images/hjzf1}
 
-目前，常见的环境污染投诉方式包括：电话（12369专线、各类公开电话）、网站（各级各类政府网站专栏）、微信、微博以及传统的来信等，这些投诉最终都会按程序转给监察大队去处理。引发环境污染投诉的原因有很多种，可能是在家里闻到了臭味，可能是在河边散步看见了污水流到了河里，也可能是半夜睡觉时旁边工地还在浇筑混凝土\ldots{}\ldots{}不同的投诉就会有不同的诉求，可能是要求不打扰自己的正常生活，也可能是要求工厂搬迁，或者是要求给予赔偿，等等。
+目前，常见的环境污染投诉方式包括：电话（12369专线、各类公开电话）、网站（各级各类政府网站专栏）、微信、微博以及传统的来信等，这些投诉最终都会按程序转给监察大队去处理。引发环境污染投诉的原因有很多种，可能是在家里闻到了臭味，可能是在河边散步看见了污水流到了河里，也可能是半夜睡觉时旁边工地还在浇筑混凝土\ldots\ldots 不同的投诉就会有不同的诉求，可能是要求不打扰自己的正常生活，也可能是要求工厂搬迁，或者是要求给予赔偿，等等。
 
-接到投诉处理任务后，执法人员必须到被投诉单位现场调查、了解。那是不是执法人员开个执法车、穿套执法制服就能如天神降临一般突然出现在违法企业、抓他们排污现行呢？NO,NO,NO，很有可能你连人家大门都进不去！看门的大爷会说``我不认识字，你们是干什么的？''``有没有预约？''``老板说了，他不出来接，我们就不能开门''\ldots{}\ldots{}最经典的是当你问员工老板的电话时，他们的统一回答是：``我不知道，我昨天才来上班的。''就算进到了厂区，你可能看见的是废气、废水这些污染防治设施全部都在运行、固废也按要求堆放、台账记录也很规范等等。但是，有可能你的脚下就埋得有一根暗管、有可能你没有来的时候他们设施完全没有开、也有可能危废台账存在造假\ldots{}\ldots{}.那怎么办呢？可以仔细检查各类档案、台账。具体来讲，执法人员进入厂区后，需要对企业的环评手续、排污许可、污染治理设施等方面进行全方位的检查，执法人员需要携带影像设备、测距仪、流量计、勤务随录机、便携式打印机、环境执法管理及移动执法系统、标准采样设备等必须设备和仪器。如果有需要，还会核查电费单据、水费单据、生产记录等资料。当然也有可能会沿着管网撬开每一个井盖进行摸排，以查清投诉是否属实，这些 ``下河''``翻围墙''``钢钎撬下水道井盖''的绝技向来都是``传男不传女的''！
+接到投诉处理任务后，执法人员必须到被投诉单位现场调查、了解。那是不是执法人员开个执法车、穿套执法制服就能如天神降临一般突然出现在违法企业、抓他们排污现行呢？NO,NO,NO，很有可能你连人家大门都进不去！看门的大爷会说``我不认识字，你们是干什么的？''``有没有预约？''``老板说了，他不出来接，我们就不能开门''\ldots\ldots 最经典的是当你问员工老板的电话时，他们的统一回答是：``我不知道，我昨天才来上班的。''就算进到了厂区，你可能看见的是废气、废水这些污染防治设施全部都在运行、固废也按要求堆放、台账记录也很规范等等。但是，有可能你的脚下就埋得有一根暗管、有可能你没有来的时候他们设施完全没有开、也有可能危废台账存在造假\ldots\ldots.那怎么办呢？可以仔细检查各类档案、台账。具体来讲，执法人员进入厂区后，需要对企业的环评手续、排污许可、污染治理设施等方面进行全方位的检查，执法人员需要携带影像设备、测距仪、流量计、勤务随录机、便携式打印机、环境执法管理及移动执法系统、标准采样设备等必须设备和仪器。如果有需要，还会核查电费单据、水费单据、生产记录等资料。当然也有可能会沿着管网撬开每一个井盖进行摸排，以查清投诉是否属实，这些 ``下河''``翻围墙''``钢钎撬下水道井盖''的绝技向来都是``传男不传女的''！
 
 \includegraphics[width=5.58in]{images/hjzf2}
 
@@ -14046,7 +14176,7 @@ A 部门主张
 
 本次事件作为第一次进入公众视野的处理单位排污纠纷案，法院方面的态度的确很难让人满意。
 
-首先，对于进水超标是否对粪大肠菌群超标造成影响一事，关乎本案核心诉求，在这点上污水处理厂和环保部门各执一词。法院若无法判断此类专业问题，应要求污水处理厂进行补充举证，而非直接采纳环保部门``没有影响''这一主张。（有关关联性的举证，我会单开一篇技术类文章，但在这里简单描述一下原理，污水中的悬浮颗粒物、有机物、色度处理不干净，哪怕残留个20\%，都会成数量级的降低消毒工艺的处理效果------也就是说可能直接导致粪大肠杆菌灭活效率10倍、100倍的衰减。而本案例中，就算污水处理厂开足马力多处理50\%的污染物，剩下的污染物浓度仍然和一个一般的污水处理厂的进水一样。然后说只要用紫外多照照，就不会影响杀菌达标，你会信吗？然而当地环保部门反正信了，还用来举证了\ldots{}）
+首先，对于进水超标是否对粪大肠菌群超标造成影响一事，关乎本案核心诉求，在这点上污水处理厂和环保部门各执一词。法院若无法判断此类专业问题，应要求污水处理厂进行补充举证，而非直接采纳环保部门``没有影响''这一主张。（有关关联性的举证，我会单开一篇技术类文章，但在这里简单描述一下原理，污水中的悬浮颗粒物、有机物、色度处理不干净，哪怕残留个20\%，都会成数量级的降低消毒工艺的处理效果------也就是说可能直接导致粪大肠杆菌灭活效率10倍、100倍的衰减。而本案例中，就算污水处理厂开足马力多处理50\%的污染物，剩下的污染物浓度仍然和一个一般的污水处理厂的进水一样。然后说只要用紫外多照照，就不会影响杀菌达标，你会信吗？然而当地环保部门反正信了，还用来举证了\ldots）
 
 \includegraphics[width=6.67in]{images/py4}
 
@@ -14260,21 +14390,21 @@ IT领域有一种职业叫做全栈工程师，指那种运用多领域知识完
 \hypertarget{ux5f53ux79d1ux7814ux4eceux4fe1ux4ef0ux8ffdux6c42ux6210ux4e3aux4e00ux79cdux804cux4e1a}{%
 \section{当科研从信仰追求成为一种职业}\label{ux5f53ux79d1ux7814ux4eceux4fe1ux4ef0ux8ffdux6c42ux6210ux4e3aux4e00ux79cdux804cux4e1a}}
 
-我曾在《听花杂记之初唐四杰》中说过，不要相信田园诗人的怡然自得，也不要相信边塞诗人的慷慨激昂，因为事实上他们并不真的就是农民或者战士。他们中绝大多数人的身份是``士''，即没落的贵族或者地主阶级。那些看似潦倒的背后，依然有底层人民不可能触及的人脉和资源，这让他们能在生活之外多一些精神层面的追求。艺术之外、哲学和科学也诞生于此，大家孜孜不倦地探寻重复枯燥生活之外的东西，许多哲学家也是科学家；许多艺术家也是发明家\ldots{}\ldots{}最初的科学研究，多是底层中层阶级的信仰追求。
+我曾在《听花杂记之初唐四杰》中说过，不要相信田园诗人的怡然自得，也不要相信边塞诗人的慷慨激昂，因为事实上他们并不真的就是农民或者战士。他们中绝大多数人的身份是``士''，即没落的贵族或者地主阶级。那些看似潦倒的背后，依然有底层人民不可能触及的人脉和资源，这让他们能在生活之外多一些精神层面的追求。艺术之外、哲学和科学也诞生于此，大家孜孜不倦地探寻重复枯燥生活之外的东西，许多哲学家也是科学家；许多艺术家也是发明家\ldots\ldots 最初的科学研究，多是底层中层阶级的信仰追求。
 
 因为层次再低的下层阶级会更关心衣食的着落；而层次更高的上层阶级则更关心政治和享乐；但中层阶级的精英在不满足于温饱，又不能晋升打破阶级固化的时候，天地万物和宇宙洪荒就成了最好的灵魂寄托。当然，这其中不乏有人一开始就怀揣探索世界的强烈愿望，然而条件依然必不可少。
 
-随着整个社会生产力的进步和温饱的逐步普及，科研的大门开始向更为广阔的民众敞开。虽然广阔的人源刺激了科研的蓬勃，但不可避免地带来两个问题：两极分化和整体追求的逐步丧失。顶级科学家们名利双收，但是底层科研工作者也是要吃饭的；而相比较最早把科研作为一种精神追求的人来说，现在更多的科研工作者选择科研的动机在于：本科毕业没啥好选择，所以读了个研究生；研究生毕业没啥好选择，所以读了个博士；博士毕业没啥好选择，所以做了个科研\ldots{}\ldots{}这非常现实，因为很多时候命运能给我们的选择并不多。
+随着整个社会生产力的进步和温饱的逐步普及，科研的大门开始向更为广阔的民众敞开。虽然广阔的人源刺激了科研的蓬勃，但不可避免地带来两个问题：两极分化和整体追求的逐步丧失。顶级科学家们名利双收，但是底层科研工作者也是要吃饭的；而相比较最早把科研作为一种精神追求的人来说，现在更多的科研工作者选择科研的动机在于：本科毕业没啥好选择，所以读了个研究生；研究生毕业没啥好选择，所以读了个博士；博士毕业没啥好选择，所以做了个科研\ldots\ldots 这非常现实，因为很多时候命运能给我们的选择并不多。
 
 于是成为一名科学家，从事科学研究，这原本是一件极其要求精神追求的工作，而如今已经逐步变为一种职业，科研事实上开始成为一种谋生的方式而已。
 
-随着研究的逐步深入，科研很多时候是一件非常烧钱的事情：冷冻扫描电镜、傅里叶变换质谱、大型粒子对撞机\ldots{}\ldots{}基本上是挪一挪位置就会花掉让你惊掉下巴的钱。小的层面来讲，场地要钱、试剂要钱、测试要钱、甚至工资也和经费挂钩\ldots{}\ldots{}亘古不变的真理，不论多么高尚的事情，一旦和钱纠缠不清，就一定会被腐蚀上铜臭味。
+随着研究的逐步深入，科研很多时候是一件非常烧钱的事情：冷冻扫描电镜、傅里叶变换质谱、大型粒子对撞机\ldots\ldots 基本上是挪一挪位置就会花掉让你惊掉下巴的钱。小的层面来讲，场地要钱、试剂要钱、测试要钱、甚至工资也和经费挂钩\ldots\ldots 亘古不变的真理，不论多么高尚的事情，一旦和钱纠缠不清，就一定会被腐蚀上铜臭味。
 
-于是，做科研就必须要申请经费，申请经费就肯定需要有人评定，评委基本就掌握了生杀大权，于是申请的方向是不是主流方向、评委是谁、如何评定\ldots{}\ldots{}这些都会牵涉出一个个方向形成的圈子。圈子最核心的地方是该领域的大牛，然后按照师生裙带、合作紧密等逐步往外辐射，越往内，获得的资源就丰富。但同时不能忽略的是，圈子的本质是一种既得利益的抱团阻外，不论外在的论调如何粉饰，科研圈子和``山头主义''等并没有本质区别。
+于是，做科研就必须要申请经费，申请经费就肯定需要有人评定，评委基本就掌握了生杀大权，于是申请的方向是不是主流方向、评委是谁、如何评定\ldots\ldots 这些都会牵涉出一个个方向形成的圈子。圈子最核心的地方是该领域的大牛，然后按照师生裙带、合作紧密等逐步往外辐射，越往内，获得的资源就丰富。但同时不能忽略的是，圈子的本质是一种既得利益的抱团阻外，不论外在的论调如何粉饰，科研圈子和``山头主义''等并没有本质区别。
 
 圈子是任何地方都不应该回避的问题，圈子的存在也未必就一定是件坏事。但问题就在于作为既得利益群体，对这个蛋糕的划分有多少的自知之明。既得利益者寸步不让，阶层就会完全固化，上升通道的堵死会让整个社会都变成一潭死水，最后，整个上层都会被腐朽而烂掉。放到科研圈子来说，作为圈子核心层面的人，掌握了更大的资源和话语权的时候，能不能心平气和地聆听圈外的不同声音，在看到蓬勃向上的青年工作者时能不以门户之见加以打压或者扶持一把时，就是一个科研良心问题了，这也是这个方向能否持续向前发展的关键。这就如《权力的游戏》里，骑士精神随着队伍发展开始成为虚妄的道德约束时，你依然可以在詹姆、布兰妮身上看到骑士精神的光辉。
 
-但圈子也可能会衍生一个非常可怕的问题，我称之为``保健药''骗局。一个骗局的内容如果都是假的，那破解起来就很容易，纯假的东西，败露只不过是时间问题。偷换了材料的公路经不起时间就会沟壑不平；代过笔的文字不经意就会出卖作者的习惯和经历；造假的博士穿着博士服也听不懂知网\ldots{}\ldots{}但如果像``楚门的世界''，一个骗局的东西都是真的，那即便置身其中，恐怕也会恍然不觉。
+但圈子也可能会衍生一个非常可怕的问题，我称之为``保健药''骗局。一个骗局的内容如果都是假的，那破解起来就很容易，纯假的东西，败露只不过是时间问题。偷换了材料的公路经不起时间就会沟壑不平；代过笔的文字不经意就会出卖作者的习惯和经历；造假的博士穿着博士服也听不懂知网\ldots\ldots 但如果像``楚门的世界''，一个骗局的东西都是真的，那即便置身其中，恐怕也会恍然不觉。
 
 ``保健药''骗局，说有些东西就好像吃大保健药一样，你说它没有用吧，它的成分是货真价实的；但你说它真有什么用吧，吃了又好像没有啥实际功效。
 
@@ -14402,7 +14532,7 @@ IT领域有一种职业叫做全栈工程师，指那种运用多领域知识完
 
 其实，不只是化工科企，放大了到社会的各个方面，管理和规划始终是一种智慧。也许大家是习惯了一种模式。读书的时候临近考试，大家习惯突击，冲刺，临时抱佛脚。工作后，一遇检查，也是加班加点，透支身体，顾此失彼。安全问题也是，需要制度性规划和管理和强有力的执行力。中国的文化是一种中庸文化，不喜欢走极端，什么事情感觉差不多就过去了，这也导致许多安全隐患未得以解决。
 
-但话又说回来，任何事物都有两面性，如果做任何事情都需要经过一系列的培训也够折腾的，有时候明明不是很危险的事情，也要花费许多时间和精力在上面，造成效率低下。如何权衡安全和效率，收益和风险，成为一个问题。但总归来说，安全还是最重要，毕竟事故一旦发生，以后可能再也没机会做事情了 \ldots{}\ldots{}
+但话又说回来，任何事物都有两面性，如果做任何事情都需要经过一系列的培训也够折腾的，有时候明明不是很危险的事情，也要花费许多时间和精力在上面，造成效率低下。如何权衡安全和效率，收益和风险，成为一个问题。但总归来说，安全还是最重要，毕竟事故一旦发生，以后可能再也没机会做事情了 \ldots\ldots{}
 
 作者：松之映
 校稿：广播站王站长
@@ -14420,7 +14550,7 @@ IT领域有一种职业叫做全栈工程师，指那种运用多领域知识完
 
 二是筹备时间之久。本届环境监测大比武是我国第二届大比武，距离上届的已过去9年，在过去的9年里，组织第二届全国大比武的呼声一直没有断过，部分省市几乎每年组织省级或者市级比赛，本届大比武可谓是十年磨一剑。
 
-三是奖励规格之高。获得总分前10名的选手给予一等奖；对获得一、二、三等奖的选手，可作为专业技术职称评审的破格条件；一等奖第一名优先推荐``全国五一劳动奖章''，并列入科学技术部和中华全国总工会合作的``高技能领军人才和优秀产业技术紧缺人才出国（境）培训项目计划''；一等奖的青年选手，优选6人，优先申报``全国青年岗位能手''；一等奖的女选手，优选5\textasciitilde{}10名，优先申报``巾帼建功标兵''。
+三是奖励规格之高。获得总分前10名的选手给予一等奖；对获得一、二、三等奖的选手，可作为专业技术职称评审的破格条件；一等奖第一名优先推荐``全国五一劳动奖章''，并列入科学技术部和中华全国总工会合作的``高技能领军人才和优秀产业技术紧缺人才出国（境）培训项目计划''；一等奖的青年选手，优选6人，优先申报``全国青年岗位能手''；一等奖的女选手，优选5\textasciitilde10名，优先申报``巾帼建功标兵''。
 
 因此，环境监测大比武作为一场技术实力的硬碰硬，整个生态环境系统无人不知，是环保人一场盛事。
 
@@ -14715,7 +14845,7 @@ IT领域有一种职业叫做全栈工程师，指那种运用多领域知识完
 
 领略过晋江新风貌的人一定会惊讶于何种力量推动着这座闽南县级小城发生如此卓著的变化，其中当然不乏晋江市政府的高度重视和大力投入，但是真正的幕后英雄要属晋江土生土长的一个个民营企业家，他们有的声名远扬，有的小打小闹，有的飞黄腾达，有的破落沉沦，但是无碍于他们用勤劳双手创造财富，实现对家乡的热忱回馈，他们的努力和拼搏，他们的牺牲和贡献，才是晋江旧貌换新颜的根源所在。
 
-安踏、361º、七匹狼、柒牌、盼盼、利郎、恒安、九牧王\ldots{}\ldots{}.这些老百姓耳熟能详的品牌都来自晋江。而打造这些品牌的都是生于斯长于斯的民营企业家。
+安踏、361º、七匹狼、柒牌、盼盼、利郎、恒安、九牧王\ldots\ldots.这些老百姓耳熟能详的品牌都来自晋江。而打造这些品牌的都是生于斯长于斯的民营企业家。
 
 利郎男装，简约而不简单------
 
@@ -14752,9 +14882,9 @@ IT领域有一种职业叫做全栈工程师，指那种运用多领域知识完
 
 可重复性危机是当前科研领域里最大的问题，这里我们从空假设显著性检验（NHST）这一核心开始聊一下。NHST更常见的形式是p值，也就是在空假设成立的条件下某事件发生的概率。p值有多流行呢？根据 Jeff Leek 的估计，如果把p值当成一篇文献，那么其被引次数已经超过300万次了，当之无愧的史上被引次数之王，甩第二名一个数量级。原因其实很简单，p值已经渗透到几乎所有学科的研究中了，特别是实验学科。可想而知，如果产生p值的 NHST 出了问题其影响力有多大。
 
-如果一个假设对另一个假设来说很稀少，NHST会在很低的条件概率下拒绝掉，然后那些稀少的事情在NHST里就成了无法被检验的事情。这个例子最早是 Cohen提出用来说明人们在使用NHST时的问题。空假设某人是美国人，备择假设是非美国人。我们知道某人是国会议员的概率是百万分之二，空假设里很难发生，备择假设里无法发生。空假设我们拒绝了某人是美国人，那么根据NHST，他不是美国人。但问题是议员一定要是美国人，在此类问题里，NHST永远无法认定稀有事件，也就是功效永远不足，并会给出错误答案。稀有事件总会发生，NHST总会把此类事件当成显著，即使不那么稀有，例如小概率事件如果发生了，我们就可以拒绝了。本质上是多数人在使用p值时搞混了条件概率，拿上面美国国会议员的例子来说，我们的假设 H0 在面对张三这个数据 D 时给出了拒绝 p(H0\textbar{}D) = 0，这个决定是构建在假设 H0 成立时出现 D 的概率太低（即p(D\textbar{}H0)之上，也就是说NHST下，我们默认下面的概率是成立的：
+如果一个假设对另一个假设来说很稀少，NHST会在很低的条件概率下拒绝掉，然后那些稀少的事情在NHST里就成了无法被检验的事情。这个例子最早是 Cohen提出用来说明人们在使用NHST时的问题。空假设某人是美国人，备择假设是非美国人。我们知道某人是国会议员的概率是百万分之二，空假设里很难发生，备择假设里无法发生。空假设我们拒绝了某人是美国人，那么根据NHST，他不是美国人。但问题是议员一定要是美国人，在此类问题里，NHST永远无法认定稀有事件，也就是功效永远不足，并会给出错误答案。稀有事件总会发生，NHST总会把此类事件当成显著，即使不那么稀有，例如小概率事件如果发生了，我们就可以拒绝了。本质上是多数人在使用p值时搞混了条件概率，拿上面美国国会议员的例子来说，我们的假设 H0 在面对张三这个数据 D 时给出了拒绝 p(H0\textbar D) = 0，这个决定是构建在假设 H0 成立时出现 D 的概率太低（即p(D\textbar H0)之上，也就是说NHST下，我们默认下面的概率是成立的：
 
-p(D\textbar{}H0)=p(H0\textbar{}D)
+p(D\textbar H0)=p(H0\textbar D)
 
 如果你修过任何基础的统计学课程都会知道这两个概率之间差了一个贝叶斯公式。通过使用贝叶斯定理，在新数据出现后原有概率是要被更新而不是直接拒绝掉的。p值给的是前者，要想知道随机生成的概率，需要知道空假设是真的的概率。通俗点说就是 NHST 属于革命派，不认可就打倒你；贝叶斯属于改良派，用新的证据更新原有理论。这个悖论的本质就是把假设下的事实与事实下的假设搞混导致的，这是NHST的一个致命问题。然而致命问题可不止这一个。
 
@@ -14873,6 +15003,6 @@ What Can You Be With a PhD 是一个在纽约大都会地区两年召开一次�
 校稿：广播站王站长
 编辑：天枫
 
-\bibliography{book.bib}
+  \bibliography{book.bib}
 
 \end{document}

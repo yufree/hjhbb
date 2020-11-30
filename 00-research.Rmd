@@ -3812,3 +3812,87 @@ https://pubs.acs.org/doi/10.1021/acs.est.9b02473
 链接：https://pubs.acs.org/doi/10.1021/acs.est.0c03512
 
 题目：Rapid Increase in Cement-Related Mercury Emissions and Deposition in China during 2005–2015
+
+## 十一月 {-}
+
+### 研究动态 {-}
+
+- 这是一篇多暴露对多终点（微生物组学）研究，但研究对相关性要求也太松了，0.2的相关系数阈值外带没有FDR控制让结果可信度大大降低。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.estlett.0c00776
+
+题目：Exposures to Semivolatile Organic Compounds in Indoor Environments and Associations with the Gut Microbiomes of Children
+
+- 棕碳油球（Brown Carbonaceous Tarballs）是一种不同于黑碳的球状含碳黏性可吸光气溶胶，这项工作在青藏高原大气中检出了可能来自印度中央平原的棕碳油球，暗示人类活动影响或加剧第三极的冰川融化。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.estlett.0c00735
+
+题目：Evidence for Large Amounts of Brown Carbonaceous Tarballs in the Himalayan Atmosphere
+
+- 长效注射型避孕药甲羟孕酮一个已知副作用是降低骨密度，研究人员推测这会导致血液中释放更多的重金属，一组非裔美国青年妇女的队列研究证实了该避孕药确实提高了使用者的血铅浓度，可能以后测血铅的调查问卷要加一项问下个人用药史。
+
+推荐人：于淼
+
+链接：https://ehp.niehs.nih.gov/doi/10.1289/EHP7017
+
+题目：Depot Medroxyprogesterone Acetate Use and Blood Lead Levels in a Cohort of Young Women
+
+- 这是一篇发在EHP上介绍研究的文章，相比相对严谨但有点八股的研究文章本身，这类文章其实更接地气，科学家应该学点类似华尔街日报体的写法，想说服别人先说服自己。回看这篇文章，很多人做全氟其实自己都不知道半衰期就知道有害，看到别人做短链就也做短链，但短链也许活性高，但也正因为高活性半衰期短，能更快被代谢掉，持久性不那么强了。
+
+推荐人：于淼
+
+链接：https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7657368/
+
+题目：Breaking It Down: Estimating Short-Chain PFAS Half-Lives in a Human Population
+
+- 磷的地球化学循环从人的利用角度看其实是循环不动的，沉积到海底的磷等变回磷矿估计人类都灭绝了，这篇文章考察了基于降水预测前景的全球耕地磷流失，前景不容乐观。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.0c03978
+
+题目：Global Phosphorus Losses from Croplands under Future Precipitation Scenarios
+
+- 污染物安全评价经常依赖均值，但实际数值分布却依赖其物理化学性质，居民楼供水管线中铅的浓度波动就可以用计算流体动力学模拟来得到浓度的动态的变化，研究发现“活塞流”的传统研究方式会高估铅的释放也无法捕捉到铅组件在管道连接处的释放规律。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.0c03232
+
+题目：Unraveling the Causes of Excess Lead in Drinking Water Supply Systems of Densely Populated High-Rise Buildings in Hong Kong
+
+- 被动采样技术可以算环境化学的特色采样手段了，这篇文章介绍了动态被动采样技术，提出用不同厚度的被动采样器来进行原位校准，值得推广。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.0c04437
+
+题目：Kinetic Passive Sampling: In Situ Calibration Using the Contaminant Mass Measured in Parallel Samplers with Different Thicknesses
+
+- 大麻是一种很有争议的毒品，近些年由于抗焦虑“神”药大麻二酚（CBD）的医药潜力而备受关注，这里要说明的是大麻的致幻成分是四氢大麻酚（THC）而大麻二酚是其结构类似物但没有致幻作用，也是大麻中提取来的而大麻被炒作及广泛种植也是因为CBD产业而不是THC。这篇研究关注的是三手大麻的风险问题，也就是类似三手烟的概念，研究发现THC会与臭氧反应生成未知的氧化产物，但由于低挥发性其风险可能不如三手烟。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.0c03728
+
+题目：Heterogeneous Ozonolysis of Tetrahydrocannabinol: Implications for Thirdhand Cannabis Smoke
+
+- 西加拿大油气开采行业的甲烷排放通过监测数据反推发现比政府清单报告高出了接近两倍，看来源清单法必须要跟监测做对应，不然自己报的数存在很大操作空间。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.0c04117
+
+题目：Eight-Year Estimates of Methane Emissions from Oil and Gas Operations in Western Canada Are Nearly Twice Those Reported in Inventories
+
+- 这是篇观点文章，从概念与历史发展上区分了关于持久性有机污染物的一些定义，给出了科学家对这些物质认识的一些变化与趋势，想不到80年代 persistent polar pollutants 曾经被称为 P3，看来词义弱化这个现象无处不在。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.0c05257
+
+题目：What’s in a Name: Persistent, Mobile, and Toxic (PMT) and Very Persistent and Very Mobile (vPvM) Substances
