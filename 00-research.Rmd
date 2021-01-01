@@ -3896,3 +3896,79 @@ https://pubs.acs.org/doi/10.1021/acs.est.9b02473
 链接：https://pubs.acs.org/doi/10.1021/acs.est.0c05257
 
 题目：What’s in a Name: Persistent, Mobile, and Toxic (PMT) and Very Persistent and Very Mobile (vPvM) Substances
+
+## 十二月 {-}
+
+### 研究动态 {-}
+
+- 可重复性是科研的基本要求，这篇文章系统介绍了环境模型中关于可重复性、可复算性等概念，在科研大环境存在可重复性危机的情况下值得关注。
+
+推荐人：于淼
+
+链接：https://www.sciencedirect.com/science/article/pii/S1364815219311612
+
+题目：A taxonomy for reproducible and replicable research in environmental modelling
+
+- 偏远山区村庄存在饮用水问题，自来水管网很可能长时间覆盖不到，因此电水壶烧水、柴火烧水还有瓶装水成为当前解决方案。这篇文章调查了中国广西河南偏远地区的1033户人家的用水模式，结合空气质量与用水水质分析发现电水壶烧水可能要比瓶装水更有利于饮水安全，不过伴随城市化与人口流动，偏远山区村庄的终极饮水解决方案更可能是移民到附近的现代化城市。
+
+推荐人：于淼
+
+链接：https://pubmed.ncbi.nlm.nih.gov/33275452/
+
+题目：Boiled or Bottled: Regional and Seasonal Exposures to Drinking Water Contamination and Household Air Pollution in Rural China
+
+- 算是给微塑料这个研究风口降温吧，这篇研究发现塑料来源的河流输送到海湾的有机污染物贡献量不大，跟总输送量比差了四五个数量级。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.0c05446
+
+题目：Plastics Are an Insignificant Carrier of Riverine Organic Pollutants to the Coastal Oceans
+
+- 太阳能海水脱盐属于解决未来淡水危机的一种可持续策略，这篇文章提出了一种卷状脱盐设施结构并发现其提供了更快的蒸发效率，其实这也是很多菜谱写适量的原因，锅的形状不同，火候控制无法标准化，即使给出调料用量也无法重现。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.0c05449
+
+题目：Rational 3D Coiled Morphology for Efficient Solar-Driven Desalination
+
+- 很多听起来高大上的技术会伴随使用成本下降进入到民用领域，这篇研究就用测序的方法来研究大楼的发霉情况，能落地的应用才应是技术的最终去向，否则就是概念泡沫。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.0c03904
+
+题目：DNA Sequence-Based Approach for Classifying the Mold Status of Buildings
+
+- 这篇研究利用排放清单与监测给出了挥发有机物不同来源的示踪化合物，特异性不错，可用来跟其他溯源手段进行定量对比。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.0c05467
+
+题目：Identifying Volatile Chemical Product Tracer Compounds in U.S. Cities
+
+- 蓝藻水华算是老问题了，这篇综述特别关注了淡水湖面气溶胶中蓝藻毒素对呼吸系统的影响，对我国淡水湖研究有借鉴意义。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.0c06653
+
+题目：Toxic Cyanobacteria: A Growing Threat to Water and Air Quality
+
+- 这篇研究给发展中国家城市卫生建设做了个调查，通过比对开支与付费意愿研究需要花多少钱才能搭建健康的城市卫生系统，结构发现搭建下水道管网是最贵的，连接几家的小型化粪池是最便宜的。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.0c06348
+
+题目：How Much Will Safe Sanitation for all Cost? Evidence from Five Cities
+
+- 这篇研究用DNA甲基化这种表冠遗传指标来研究学龄儿童长期铅暴露与智力下降的关系，这里使用了因果分析中的 Mediation Analysis，建议做暴露研究的都来学下，结论认为当前的血铅标准需要修改。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.0c01696
+
+题目：DNA Methylation Biomarkers of IQ Reduction are Associated with Long-term Lead Exposure in School Aged Children in Southern China
