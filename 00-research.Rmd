@@ -3972,3 +3972,79 @@ https://pubs.acs.org/doi/10.1021/acs.est.9b02473
 链接：https://pubs.acs.org/doi/10.1021/acs.est.0c01696
 
 题目：DNA Methylation Biomarkers of IQ Reduction are Associated with Long-term Lead Exposure in School Aged Children in Southern China
+
+## 一月 {-}
+
+### 研究动态 {-}
+
+- 搞笑诺贝尔奖曾颁给研究掉地上多久的食物可以吃这类研究（五秒规则），这篇研究构建了手指接触物理表面微生物转移的模型
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.0c04678
+
+题目：Modeling and Experimental Validation of Microbial Transfer via Surface Touch
+
+- 家用铅试纸可以作为一种正规检查的替代，这份研究测了16种市售试纸的效果，第一轮测溶解态铅浓度就淘汰了12种，而且发现几乎所有试纸对颗粒态铅都测不好，需要额外加酸溶出。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.0c07614
+
+题目：Challenges of Detecting Lead in Drinking Water Using at-Home Test Kits
+
+- EHP早在2001年就开始跟上海疾控中心合作翻译优秀的内容为中文，现在这个项目要停了，一方面是要中国科研人员现在阅读外文文献已经不像二十年前那么困难，另一方面现在EHP上也有相对稳定的中国研究团队投稿了，这算是国内环境健康研究的一个里程碑吧，从亦步亦趋到有一席之地，不过考虑到EHP一直存在经营问题，可能也有别的解释。
+
+推荐人：于淼
+
+链接：https://ehp.niehs.nih.gov/doi/10.1289/EHP8737
+
+题目：A New Era for EHP's International Program
+
+- 杀虫剂处理过的蚊帐号称抵抗疟疾的“疫苗”，推广近三十年挽救无数生命，然而在非洲一些低收入地区蚊帐还被用来捕鱼，这样蚊帐上的拟除虫菊酯就释放到了水体里，配合过度捕捞对鱼的种群多样性形成威胁，也存在危害渔夫健康的风险，这篇评论讨论了这个尴尬的问题。
+
+推荐人：于淼
+
+链接：https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7793550/
+
+题目：Implications of Insecticide-Treated Mosquito Net Fishing in Lower Income Countries
+
+- 通常我们评价二氧化碳关注的是其温室效应，但这篇文章评价了空气中二氧化碳比例升高到模型预测水平后对老鼠肺功能的长期影响，结果发现还真对肺功能特别是母鼠的肺功能产生了损伤，这个结论要是可靠那么人类可得抓紧进化了，要不然我们就得开发碳捕集口罩了。
+
+推荐人：于淼
+
+链接：https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7805407/
+
+题目：Mouse Lung Structure and Function after Long-Term Exposure to an Atmospheric Carbon Dioxide Level Predicted by Climate Change Modeling
+
+- 我感觉Hites退休了有转行当非虚构文学作家的倾向，这篇文章梳理了美国毒死蜱这种非持久性有机污染物从上市到逐渐退市的过程，在这种新产品上市-广泛推广-监管-退市-下一种新产品上市的循环中新产品的危害似乎在降低，但也可能引入了更大的风险，除了反复推陈出新，也许我们需要一些新思路来平衡需求与风险。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.0c06579
+
+题目：The Rise and Fall of Chlorpyrifos in the United States
+
+- 现在海岸水质监测预报已经纳入实际决策了，这篇文章考察了利用高频短期采样构建预测模型的可能性，发现两天采样已经足够构建预测模型了，测试的126种模型里随机森林效果最好，如果能做model stacking就更好了。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.0c06742
+
+题目：A Day at the Beach: Enabling Coastal Water Quality Prediction with High-Frequency Sampling and Data-Driven Models
+
+- 想不到除了精准医疗现在还有精准纳滤这么个研究领域了，通过制备具有选择性的纳滤膜在防止有害物质的同时保留有益溶质，感觉这概念要是让搞面膜的微商听明白了一准又能割一茬韭菜。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.0c04593
+
+题目：Differentiating Solutes with Precise Nanofiltration for Next Generation Environmental Separations: A Review
+
+- 这篇综述关注了大麻的环境影响，伴随大麻在美国的半合法化，其种植面积在迅速扩张，任何被现代化农业选中的物种都需要学术界预先评价下环境风险，否则会打开另一个潘多拉魔盒，但科研总是慢市场半拍。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.estlett.0c00844
+
+题目：Cannabis and the Environment: What Science Tells Us and What We Still Need to Know
