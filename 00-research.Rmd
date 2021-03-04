@@ -4048,3 +4048,79 @@ https://pubs.acs.org/doi/10.1021/acs.est.9b02473
 链接：https://pubs.acs.org/doi/10.1021/acs.estlett.0c00844
 
 题目：Cannabis and the Environment: What Science Tells Us and What We Still Need to Know
+
+## 二月 {-}
+
+### 研究动态 {-}
+
+- 居家令期间加州的城市用水总量减少了，看来疫情对市政给排水的设计也会产生影响。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.estlett.0c00979
+
+题目：Stay-at-Home Orders during the COVID-19 Pandemic Reduced Urban Water Use
+
+- 废水流行病学是基于城市污水处理厂中标记物浓度来评估公共健康相关事件的方法，例如酒精消费量就可以通过硫酸乙酯来估计，然而，校正因子会严重影响估计的不确定度，这篇文章利用酒类销售数据结合监测数据给出了更准确的校正因子。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.estlett.1c00065
+
+题目：Estimating Alcohol Consumption by Wastewater-Based Epidemiology: An Assessment of the Correction Factor for Ethyl Sulfate Using Large-Scale National Monitoring Data
+
+- 海水中藻类会富集溴元素，但近些年发现淡水生态系统中的溴含量也在提高，这篇研究利用淡水藻类对这一现象进行了证实并指出淡水藻类提高的溴含量会导致更高的含溴消毒副产物风险。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.estlett.1c00024
+
+题目：Increasing Bromine in Intracellular Organic Matter of Freshwater Algae Growing in Bromide-Elevated Environments and Its Impacts on Characteristics of DBP Precursors
+
+- 磷富集机体（Polyphosphate-accumulating organisms，PAO）指的是一类能够富集磷的微生物，氧化条件储存磷，还原条件释放磷，对PAO的关注主要是在水处理方面，这篇综述讨论了其在农业中研究现状，目前相对缺乏，需要更多研究者关注。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.0c03566
+
+题目：Critical Review of Polyphosphate and Polyphosphate Accumulating Organisms for Agricultural Water Quality Management
+
+- 这篇文章使用热解化学电离质谱测定了北京超细颗粒物中的化学组成，相比海洋跟森林的超细颗粒物，北京的样品含更多的含氮含硫化合物，这种整体定性定量比关注单一化合物的信息收集更全面些。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.0c06053
+
+题目：Composition of Ultrafine Particles in Urban Beijing: Measurement Using a Thermal Desorption Chemical Ionization Mass Spectrometer
+
+-  阻燃剂这个行业目前陷入了一种生产-被发现毒性高-停产引入新产品-新产品被发现毒性高-停产引入新产品的循环之中，这篇观点文章的矛头指向了近几年开始广泛使用的聚合阻燃剂的安全评价，不过绝对的安全是不存在的，这个怪圈需要被新思路打破。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.0c08126
+
+题目：High Production, Low Information: We Need To Know More About Polymeric Flame Retardants
+
+- 农残这个问题比想象的要复杂，这篇研究发现即使已经转为有机农场20年，其土壤中也会检出农药，所以有机食品大概就是买个概念跟心理安慰。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.0c06405
+
+题目：Widespread Occurrence of Pesticides in Organically Managed Agricultural Soils—the Ghost of a Conventional Agricultural Past?
+
+- 流行病学中可穿戴设备被认为是很好的追踪工具，这篇研究发现当被动采样位置不同时，得到的暴露物组成也是不一样的，也就是个体层面的不确定度很高，可比性有限。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.0c05522
+
+题目：Head, Shoulders, Knees, and Toes: Placement of Wearable Passive Samplers Alters Exposure Profiles Observed
+
+- 根据目的设计水处理的纳滤膜是个挺不错的想法，不过总感觉要进分子印迹的坑，理念先进效果有限。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.0c08101
+
+题目：Fit-for-Purpose Design of Nanofiltration Membranes for Simultaneous Nutrient Recovery and Micropollutant Removal
