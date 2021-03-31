@@ -16,8 +16,6 @@ pm2.5201760
 pm2.556
 section-171
 section-172
-pm2.5201760
-pm2.556
 section-173
 section-174
 section-175
@@ -40,28 +38,16 @@ section-191
 section-192
 section-193
 section-194
-<<<<<<< HEAD
 section-195
-=======
 voc
-section-195
 vocs
 vocs-1
 vocs-2
->>>>>>> 1e72a51a26063e01808ea0432045f826dd6fa10f
 section-196
-voc
 section-197
-<<<<<<< HEAD
-vocs
-vocs-1
-vocs-2
-=======
 vocs-3
->>>>>>> 1e72a51a26063e01808ea0432045f826dd6fa10f
 section-198
 section-199
-vocs-3
 section-200
 section-201
 section-202
@@ -70,21 +56,13 @@ section-204
 section-205
 section-206
 section-207
-<<<<<<< HEAD
 section-208
-=======
 pops
-section-208
 pops-1
 pops-2
 pops-3
->>>>>>> 1e72a51a26063e01808ea0432045f826dd6fa10f
 section-209
-pops
 section-210
-pops-1
-pops-2
-pops-3
 section-211
 section-212
 section-213
@@ -96,8 +74,6 @@ moma
 moma-1
 section-218
 section-219
-moma
-moma-1
 section-220
 section-221
 section-222
@@ -156,11 +132,8 @@ section-274
 section-275
 section-276
 section-277
-<<<<<<< HEAD
 section-278
 section-279
-=======
->>>>>>> 1e72a51a26063e01808ea0432045f826dd6fa10f
 am
 am-1
 am-2
@@ -169,14 +142,8 @@ am-4
 am-5
 am-6
 am-7
-<<<<<<< HEAD
-=======
-section-278
 p
-section-279
->>>>>>> 1e72a51a26063e01808ea0432045f826dd6fa10f
 section-280
-p
 section-281
 section-282
 section-283
@@ -235,50 +202,27 @@ section-335
 section-336
 section-337
 section-338
-<<<<<<< HEAD
 section-339
 section-340
 eng
 our--sv30-
 section-341
-=======
-eng
-our--sv30-
-section-339
->>>>>>> 1e72a51a26063e01808ea0432045f826dd6fa10f
 our
 our-1
 our-2
 our-3
-<<<<<<< HEAD
-section-342
-=======
-section-340
-section-341
 section-342
 sv30
->>>>>>> 1e72a51a26063e01808ea0432045f826dd6fa10f
 section-343
 srt
 section-344
-<<<<<<< HEAD
-sv30
-=======
 srt-1
 srt-2
->>>>>>> 1e72a51a26063e01808ea0432045f826dd6fa10f
 section-345
-srt
 section-346
-<<<<<<< HEAD
-srt-1
-srt-2
-=======
 ao
->>>>>>> 1e72a51a26063e01808ea0432045f826dd6fa10f
 section-347
 section-348
-ao
 section-349
 section-350
 section-351
@@ -294,19 +238,12 @@ section-360
 section-361
 section-362
 section-363
-<<<<<<< HEAD
-=======
 cod
 cod-1
 cod-2
 cod-3
->>>>>>> 1e72a51a26063e01808ea0432045f826dd6fa10f
 section-364
 section-365
-cod
-cod-1
-cod-2
-cod-3
 section-366
 section-367
 section-368
@@ -391,8 +328,6 @@ technician
 rd
 section-446
 section-447
-technician
-rd
 section-448
 section-449
 section-450
@@ -401,7 +336,6 @@ section-452
 classmate
 section-453
 section-454
-classmate
 section-455
 section-456
 section-457
@@ -424,7 +358,6 @@ section-473
 pkm
 section-474
 section-475
-pkm
 section-476
 section-477
 section-478
@@ -516,7 +449,6 @@ section-567
 no
 section-568
 section-569
-no
 section-570
 section-571
 section-572
@@ -531,19 +463,12 @@ section-580
 section-581
 section-582
 section-583
-<<<<<<< HEAD
 section-584
 section-585
 part1
-=======
-part1
-section-584
-section-585
 career
->>>>>>> 1e72a51a26063e01808ea0432045f826dd6fa10f
 section-586
 section-587
-career
 section-588
 section-589
 section-590
@@ -580,10 +505,7 @@ section-619
 sci-1
 sci-2
 section-620
-sci
 section-621
-sci-1
-sci-2
 section-622
 section-623
 section-624
@@ -629,7 +551,6 @@ section-663
 pi
 section-664
 section-665
-pi
 section-666
 section-667
 section-668
@@ -659,12 +580,13 @@ section-691
 section-692
 section-693
 section-694
-<<<<<<< HEAD
 section-695
 section-696
 wcub
 section-697
-=======
-wcub
-section-695
->>>>>>> 1e72a51a26063e01808ea0432045f826dd6fa10f
+section-533
+section-535
+section-541
+section-543
+section-698
+section-699

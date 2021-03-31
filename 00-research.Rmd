@@ -4124,3 +4124,111 @@ https://pubs.acs.org/doi/10.1021/acs.est.9b02473
 链接：https://pubs.acs.org/doi/10.1021/acs.est.0c08101
 
 题目：Fit-for-Purpose Design of Nanofiltration Membranes for Simultaneous Nutrient Recovery and Micropollutant Removal
+
+## 三月 {-}
+
+### 研究动态 {-}
+
+- 这篇文章研究了手在室内污染物半挥发性有机污染物传播中的作用，所用的统计方法值得关注。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.estlett.0c01006
+
+题目：Hands as Agents of Chemical Transport in the Indoor Environment
+
+- 这篇文章研究了磁性大气细颗粒物的来源，发现钢铁工业是主要来源，证据是光谱与形态学实验。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.estlett.1c00164
+
+题目：Magnetic Particles Unintentionally Emitted from Anthropogenic Sources: Iron and Steel Plants
+
+- 这篇文章给出了一份比较详尽的进行效应引导分析的流程，使用的软件也是开源的，具备不错的可重复性。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.0c06712
+
+题目：Identifying Toxicologically Significant Compounds in Urban Wildfire Ash Using In Vitro Bioassays and High-Resolution Mass Spectrometry
+
+- 从微生物群落的全基因组角度讨论微塑料问题应该是个比较务实的研究方向，有些发现也很有启发性。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.0c07952
+
+题目：Exploring the Composition and Functions of Plastic Microbiome Using Whole-Genome Sequencing
+
+- 这个研究结论很有意思，大气中挥发性有机污染物大都认为是机动车来源，这篇文章用质谱数据配合PMF溯源研究发现挥发性化学品例如有机溶剂、建筑物涂料等挥发性化学品在美国几个城市取代交通源成为挥发性有机污染物的主要来源。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.0c05471
+
+题目：Observations Confirm that Volatile Chemical Products Are a Major Source of Petrochemical Emissions in U.S. Cities
+
+- 污泥脱水经常是资源化的必要步骤，但脱水经常会富集重金属不利于做肥料，这篇文章利用离子液体对污泥进行重金属分离，应当是个有应用前景的技术。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.0c03724
+
+题目：Demetallization of Sewage Sludge Using Low-Cost Ionic Liquids
+
+- 左旋葡聚糖经常被用来作为生物质燃烧的标志污染物进行溯源，之前的推荐曾经说过汽车来源也会产生，但这篇研究发现左旋葡聚糖的降解过程对当前的生物质燃烧溯源也有影响会造成低估，需要在溯源模型中矫正这个影响。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.0c07313
+
+题目：Impacts of Chemical Degradation on the Global Budget of Atmospheric Levoglucosan and Its Use As a Biomass Burning Tracer
+
+- 环境监测一般是静态定点监测，如果采样点是移动的就会对数据实时分析产生很高要求，这篇文章介绍了利用机器学习模型来进行移动采样的大气污染监测的方法。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.0c08034
+
+题目：Urban Air Pollution Mapping Using Fleet Vehicles as Mobile Monitors and Machine Learning
+
+- 农药残留的毒性经常要同其代谢物一起讨论，但代谢物的种类一般很难分析全了，这篇文章分析了美国溪流中108种农药跟116种转化产物，然后利用等摩尔替代的方式估计出转化产物的综合毒性大概被低估了一个数量级
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.0c06625
+
+题目：Inclusion of Pesticide Transformation Products Is Key to Estimating Pesticide Exposures and Effects in Small U.S. Streams
+
+- 利用无人机低空遥感技术找景区里的垃圾堆放点感觉有点大材小用，但无人机作为环境监测的一种手段应该还有不小的想象空间。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.0c04068
+
+题目：Automatic Detection of Scattered Garbage Regions Using Small Unmanned Aerial Vehicle Low-Altitude Remote Sensing Images for High-Altitude Natural Reserve Environmental Protection
+
+- 现在流行所谓的环境友好烟花更多是概念炒作，这篇研究发现国庆节放这种烟花无助于空气质量改善，类似于减了尼古丁的香烟，不抽才是最好的应对方法。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.0c03521
+
+题目：Are Environmentally Friendly Fireworks Really “Green” for Air Quality? A Study from the 2019 National Day Fireworks Display in Shenzhen
+
+- 以前觉得 eDNA 就算是学术造词的典型了，现在又出来个 eProtein，是不是也该把 eRNA 或 eMiRNA 造出来占坑？这篇文章不但造词，还结合了转基因的热点话题，然后其实实验结果啥有意义的点也没发现，这种写作技巧应该是点了公务员天赋了。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.0c05731
+
+题目：Fate of Environmental Proteins (eProteins) from Genetically Engineered Crops in Streams is Controlled by Water pH and Ecosystem Metabolism
+
+- Citizen Science 指的是业余科研爱好者做的研究，有点类似国内“民科”的提法但却是在西方社会大为推广的运动，参与者很多是教师、中学生或志愿者。这篇观点文章指出当前职业科研与民众间存在的沟通鸿沟，当前世界人们解读科研成果越来越依赖价值判断，甚至影响到了期刊运营与审稿意见，但职业科学家却对民科长期报不信任态度而忽视了民科在社区中的普及科学思想的积极作用，这个群体其实可以通过与科学家协作等方式促进民众对科研成果的理解，最后作者呼吁职业科学家应放下成见通过民科团体更好传播科学思想。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.0c07873
+
+题目：Is Citizen Science Dead?
