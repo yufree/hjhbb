@@ -4232,3 +4232,79 @@ https://pubs.acs.org/doi/10.1021/acs.est.9b02473
 链接：https://pubs.acs.org/doi/10.1021/acs.est.0c07873
 
 题目：Is Citizen Science Dead?
+
+## 四月 {-}
+
+### 研究动态 {-}
+
+- 湖泊富营养化后会经历很长时间恢复到寡营养化，之前一直会只考虑磷，这篇文章利用一个曾经富营养化湖的恢复过程数据证明，提升的浮游物中的碳磷比可能是寡营养化启动的指标。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.0c08526
+
+题目：Increasing Carbon-to-Phosphorus Ratio (C:P) from Seston as a Prime Indicator for the Initiation of Lake Reoligotrophication
+
+- 这个问题很好，太阳能蒸馏法产生淡水时挥发性半挥发性有机污染物去哪了？文章给的答案也很直接，很大一部分还在蒸馏水里。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.0c07191
+
+题目：Interfacial Solar Distillation for Freshwater Production: Fate of Volatile and Semivolatile Organic Contaminants
+
+- 这篇文章第一次给出了海洋喷洒气溶胶（Sea Spray Aerosols）中植物毒素富集现象的测量方法，不知道有没有做下海洋微层的相关研究，方法应该差不多。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.1c00995
+
+题目：Phycotoxin-Enriched Sea Spray Aerosols: Methods, Mechanisms, and Human Exposure
+
+- 以前讨论微塑料污染都是水环境，这篇关注了另一类大陆“海洋”：沙漠中的微塑料污染状况。按这个思路，下一个就是你了：太空垃圾
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.1c00615
+
+题目：Microplastics in the Lut and Kavir Deserts, Iran
+
+- 在手机平均屏幕时间3小时的今天，手机壳确实是一种重要的暴露来源，但如果无线耳机与语音操作成熟，下一个关注点是不是该是耳机耳塞套了？
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.0c07603
+
+题目：Insights into Persistent Toxic Substances in Protective Cases of Mobile Phones: Occurrence, Health Risks, and Implications
+
+- 以前评价汞污染，会认为总汞会转为甲基汞，然后用甲基汞毒性来评价，这篇文章发现鱼体内汞也会形成汞硒化合物，因此可能直接用甲基汞含量而不是总汞就可以评价毒性了。当然，汞硒化合物的低生物有效性也使鱼不再是食物硒的良好来源了。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.estlett.1c00217
+
+题目：Chemical Forms of Mercury in Blue Marlin Billfish: Implications for Human Exposure
+
+- 这样的分析到今天还能发出来，显示出传统定量分析与基于高分辨质谱的非目的分析还是存在很大的隔阂，两拨人还没法互相统一到一个定性定量框架里。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.estlett.1c00285
+
+题目：Integration of 103 Semivolatile Organic Compounds into One Multianalyte Method for Human Serum Analysis: An Innovative Approach within Exposure Assessment
+
+- 这篇文章尝试回答一个很有意思的问题，过去二十年里中国资本发展中环境压力的影响，发现大概只有35%的资本折旧了，其余的则投入了生产消费循环之中。这算是计算问题吧，打比方你买了一本书看完了后二手卖出，从经济视角依旧产生价值循环但环境影响却只发生在最初生产，因此评价环境影响所用的经济指标确实需要搞清楚这里面的比重，不然算出的数一定五花八门。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.0c07263
+
+题目：Linking the Environmental Pressures of China’s Capital Development to Global Final Consumption of the Past Decades and into the Future
+
+- 这篇文章显示，同样是发达国家，在承受环境压力上也是不平等的，不同的产业消费结构是主要原因。不过这种不平等在全球化框架下似乎无解。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.0c08836
+
+题目：Multidimensional Analyses Reveal Unequal Resource, Economic, and Environmental Gains and Losses among the Global Aluminum Trade Leaders
