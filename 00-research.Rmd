@@ -4308,3 +4308,79 @@ https://pubs.acs.org/doi/10.1021/acs.est.9b02473
 链接：https://pubs.acs.org/doi/10.1021/acs.est.0c08836
 
 题目：Multidimensional Analyses Reveal Unequal Resource, Economic, and Environmental Gains and Losses among the Global Aluminum Trade Leaders
+
+## 五月 {-}
+
+### 研究动态 {-}
+
+- 单颗粒分析是ICP-MS分析金属纳米颗粒粒径的一种特殊方法，这篇文章把这个概念跟微塑料纳塑料联系起来了，不过从结果上看似乎得是含金属元素的纳米尺度颗粒物或胶束才行，纯有机的在ICP段都得烧成温室气体了，感觉像是为了技术创造了一个问题。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.estlett.1c00314
+
+题目：Application of Single-Particle ICP-MS to Determine the Mass Distribution and Number Concentrations of Environmental Nanoparticles and Colloids
+
+- 这篇文章分析了一下国内碳排放交易试点城市与省份pm2.5的排放，发现该政策确实降低了4.8%的排放浓度，不过因为文章是商学院人写的，这个降低的效益又比较小也没看到效益的区间估计，可以拿来吹牛但不够严谨。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.1c00248
+
+题目：Has Carbon Emissions Trading Reduced PM2.5 in China?
+
+- 这篇关于全氟化合物溯源的展望写的不错，里面的理念可以推广到同系物污染物的溯源研究中，当然问题也是共通的。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.0c08506
+
+题目：Environmental Source Tracking of Per- and Polyfluoroalkyl Substances within a Forensic Context: Current and Future Techniques
+
+- 这篇文章思路很棒，抗生素抗性如果用基因检测不太现实，这项工作发现利用溶解氧与氨的数据可以一定程度替代基因检测指示抗生素抗性热点。也就是说，较易获取的常规监测指标如果同时可以指示其他污染，那么其实可以基于现有监测数据挖掘更多环境信息。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.1c00939
+
+题目：Developing Surrogate Markers for Predicting Antibiotic Resistance “Hot Spots” in Rivers Where Limited Data Are Available
+
+- 这篇文章做了一件都知道很重要但都不愿做的事，提取文献数据给中国持久性有机污染物做了一个在线数据库<https://pops.hhra.net/>，有这个做环境调查的综述方便多了。
+
+推荐人：于淼
+
+链接：https://ehp.niehs.nih.gov/doi/10.1289/EHP8685
+
+题目：A Web-Based Database on Exposure to Persistent Organic Pollutants in China
+
+- 这篇文章研究了双链RNA与单链RNA的水解稳定性，虽然都知道双链稳定些，但降解途径并不一致，其中双链RNA在中性pH下可以稳定几个月，这篇文章很多发现对其他学科研究有借鉴意义。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.1c01255
+
+题目：Duplex Structure of Double-Stranded RNA Provides Stability against Hydrolysis Relative to Single-Stranded RNA
+
+- 这篇文章介绍了使用实时光腔衰荡光谱分析电子烟气溶胶成分的方法，不过这种做痕量分析的光谱实在太小众了。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.0c07325
+
+题目：A Rapid and Sensitive Chemical Screening Method for E-Cigarette Aerosols Based on Runtime Cavity Ringdown Spectroscopy
+
+- 这篇文章发现烟碱类农药的毒性在有无助剂的条件下是不一样的，这个结果有点类似草甘膦，但农药的安全评价里除了主要成分，其他添加剂的影响也应该系统讨论。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.1c00872
+
+题目：Potential Environmental Health Risk Analysis of Neonicotinoids and a Synergist
+
+- 这篇研究视角很独特，考虑的是洋流对PAH的环境行为干扰。洋流可以看作海洋中的河流，既然大气环流有蚱蜢跳，洋流对持久性有机污染物应该也有类似的规律，不过采样难度估计有点大。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.1c01009
+
+题目：Enhanced Sinks of Polycyclic Aromatic Hydrocarbons Due to Kuroshio Intrusion: Implications on Biogeochemical Processes in the Ocean-Dominated Marginal Seas
