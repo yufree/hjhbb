@@ -4384,3 +4384,79 @@ https://pubs.acs.org/doi/10.1021/acs.est.9b02473
 链接：https://pubs.acs.org/doi/10.1021/acs.est.1c01009
 
 题目：Enhanced Sinks of Polycyclic Aromatic Hydrocarbons Due to Kuroshio Intrusion: Implications on Biogeochemical Processes in the Ocean-Dominated Marginal Seas
+
+## 六月 {-}
+
+### 研究动态 {-}
+
+- 中美关系紧张不仅仅是政治问题，对全球可持续发展也构成威胁，这篇文章分析了中美关系紧张后引发的相关问题与应对方案
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.0c08750
+
+题目：U.S.–China Collaboration is Vital to Global Plans for a Healthy Environment and Sustainable Development
+
+- 能源液体燃料（Power-to-Liquid） 是一种新理念，指的是通过费托合成反应用可再生能源产生的电能将二氧化碳转为液态能源的技术，该技术碳排放非常低，这篇文章评价了这项技术的环境与经济表现，认为只要生产电力单位的排放不超过 222 gCO2e/kWh，混合能源液体燃料与生物质燃料的技术路线就可行并给出了美国全国减排开支范围。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.0c07674
+
+题目：Environmental and Economic Performance of Hybrid Power-to-Liquid and Biomass-to-Liquid Fuel Production in the United States
+
+- 这篇文章考察了孟加拉兴建农村公共厕所对环境粪便污染的长期影响，结果跟短期影响差不多，对照组与控制组几乎没有区别。也就是说，这个卫生政策基本没用。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.1c01114
+
+题目：Longitudinal Effects of a Sanitation Intervention on Environmental Fecal Contamination in a Cluster-Randomized Controlled Trial in Rural Bangladesh
+
+- 这个发现很有意思，吹风机可以产生超细颗粒物，例如纳米尺度的碳、铁、铜还有银，感觉算得上家用纳米材料反应釜了。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.0c08564
+
+题目：Ultrafine Particles Emitted through Routine Operation of a Hairdryer
+
+- 文本挖掘工具现在应用越来越广了，可以预见以后文献综述应该可以做到计算机辅助完成了，这是篇评价污染物风险的应用。
+
+推荐人：于淼
+
+链接：https://ehp.niehs.nih.gov/doi/10.1289/EHP6702
+
+题目：Application of Text Mining in Risk Assessment of Chemical Mixtures: A Case Study of Polycyclic Aromatic Hydrocarbons (PAHs)
+
+- 当下北半球很多地区都在经历热浪，但这篇文章考察了与之对立的冷潮（cold spell），在日本气候记录里，冷潮明显提高了多个地区的死亡率。
+
+推荐人：于淼
+
+链接：https://pubmed.ncbi.nlm.nih.gov/34128690/
+
+题目：Cold Spells and Cause-Specific Mortality in 47 Japanese Prefectures: A Systematic Evaluation
+
+- 很早就有研究发现环境污染会造成细胞线粒体损伤，最近的研究则认为线粒体累积损伤会引发炎症，这篇文章算是用实验把线粒体损伤与炎症激活过程给联系起来了。新发现新技术总是有利于回答老问题，如果这条响应通路说得通那么可能开辟一个慢性炎症的环境毒理研究方向。
+
+推荐人：于淼
+
+链接：https://ehp.niehs.nih.gov/doi/10.1289/EHP8314
+
+题目：Assessing the Association of Mitochondrial Function and Inflammasome Activation in Murine Macrophages Exposed to Select Mitotoxic Tri-Organotin Compounds
+
+- 这个发现比较重要，全球河流超过一半出现了断流现象，鉴于当前监管与气候变化模型经常排除断流水体，很多结论要重新看了。
+
+推荐人：于淼
+
+链接：https://www.nature.com/articles/s41586-021-03565-5
+
+题目：Global prevalence of non-perennial rivers and streams
+
+- 因果推断已经渗透到环境风险评价了，相比传统统计分析，因果分析更符合直觉，应成为未来研究人员的主流工具与必学技能，起码也得看得懂因果图。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.1c01241
+
+题目：Causal Approach to Determining the Environmental Risks of Seabed Mining
