@@ -4460,3 +4460,87 @@ https://pubs.acs.org/doi/10.1021/acs.est.9b02473
 链接：https://pubs.acs.org/doi/10.1021/acs.est.1c01241
 
 题目：Causal Approach to Determining the Environmental Risks of Seabed Mining
+
+## 六月 {-}
+
+### 研究动态 {-}
+
+- 伦敦20世纪的发展给环境和居民健康带来的负作用一致延续至今。汽油是20世纪环境中铅的主要来源。1999年停止在汽油中加铅后直到现在，伦敦环境中的铅污染仍然来主要自禁铅之前的汽车尾气排放。铅同位素的在环境中的比较稳定而且可以迁移，导致了含铅汽油排放在环境里的大量的铅仍然可以威胁到现在儿童的大脑发育。
+
+推荐人：张雪莹
+
+链接：https://doi.org/10.1073/pnas.2102791118
+
+题目：Strong evidence for the continued contribution of lead deposited during the 20th century to the atmospheric environment in London of today
+
+- 婴幼儿奶粉经常是按照营养需求设计配方的，不过这篇研究发现奶粉配方与当地水中都有锰的情况下锰暴露风险就提高了，也就是说想降低风险要么用纯净水冲奶粉，要么就要根据不同地方水质调整奶粉配方。
+
+推荐人：于淼
+
+链接：https://ehp.niehs.nih.gov/doi/10.1289/EHP7901
+
+题目：Potential for Manganese-Induced Neurologic Harm to Formula-Fed Infants: A Risk Assessment of Total Oral Exposure
+
+- 这篇文章考察了室内环境里气生纳米颗粒物的去除过程，主要贡献还是沉积，这篇文章倒是给出了不同来源的粒径分布，不然还以为是PM0.1换皮。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/abs/10.1021/acs.est.0c08739
+
+题目：Contributions of Coagulation, Deposition, and Ventilation to the Removal of Airborne Nanoparticles in Indoor Environments
+
+- 这篇文章讨论了全氟化合物的收益与危害，我不太同意这篇文章的观点，但思路是没问题的。考察任何单一或一类污染物都会最终落实到禁用后的社会收益与损失，特别是收益跟损失的不是一批人的时候，不过也正因为如此不能只考虑单一或一类污染物，学术界经常搞出用环境风险更大的纳米材料来降解单一污染物的文章，缺少系统性评价手段实际浪费了大量的研究资源。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.1c03565
+
+题目：The True Cost of PFAS and the Benefits of Acting Now
+
+- 这是篇用FTICR质谱分析土壤有机质的综述，整个工作流程写的很清楚，可以直接套模版。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.1c01135
+
+题目：Soil Organic Matter Characterization by Fourier Transform Ion Cyclotron Resonance Mass Spectrometry (FTICR MS): A Critical Review of Sample Preparation, Analysis, and Data Interpretation
+
+- 现在大国都制定了油车退市的计划表，这篇文章从零部件生产角度考察了当前不同车型对原材料的需求变化，发现电动或混动车大概让原材料需求翻倍，除了电池增加的部分，电动车对铜有额外需求，看文献买期货的可以下手了。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.1c00970
+
+题目：Characterizing the Changes in Material Use due to Vehicle Electrification
+
+- GAPS项目公布了运行十年后全球40个站点5或10年的持久性有机污染物的数据，中国有大连、哈尔滨、成都、青城山还有纳木错五个点，所有数据在附件里都有，文章里图表可视化做的稀烂，踩坑之多简直可以拿来做反面教材。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/abs/10.1021/acs.est.1c01705
+
+题目：Tracking POPs in Global Air from the First 10 Years of the GAPS Network (2005 to 2014)
+
+- 这篇文章是一个典型的暴露组学研究，与代谢组学或环境非目的分析最大的区别在于需要区分非目的分析中化合物是内源代谢还是外源暴露，然后还需要将其连在一起进行分子层面健康影响的讨论。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.1c01010
+
+题目：A Comprehensive Non-targeted Analysis Study of the Prenatal Exposome
+
+- 由于环境学科给的工资招不到最高水平的码农，当前环境研究中用到的机器学习的技术大概落后业界10年，不过这也大概是行业内能看懂新技术基本名词所需要的时间。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/full/10.1021/acs.est.1c01849
+
+题目：Applied Machine Learning for Prediction of CO2 Adsorption on Biomass Waste-Derived Porous Carbons
+
+- 这项微塑料研究很有意思，发现鱼更多是无意中摄入微塑料而且还有类似咳嗽的行为，这种生理应激会极大程度影响风险评价。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.1c01753
+
+题目：Fish Ingest Microplastics Unintentionally
