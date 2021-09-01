@@ -4544,3 +4544,79 @@ https://pubs.acs.org/doi/10.1021/acs.est.9b02473
 链接：https://pubs.acs.org/doi/10.1021/acs.est.1c01753
 
 题目：Fish Ingest Microplastics Unintentionally
+
+## 八月 {-}
+
+### 研究动态 {-}
+
+- 这篇文章对环境科学与工程研究中的数据分析提出了一个通用框架，适合研究生入门。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/abs/10.1021/acs.est.1c01026
+
+题目：Data Analytics for Environmental Science and Engineering Research
+
+- 这篇文章虽然关注的物质不新，但角度很巧，是从口红跟美甲行业入手的。不过我更关心的问题是，研究人员如果去独立解析化妆品或其他工业品的成分，算不算逆向工程？会不会有知识产权问题？
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.estlett.1c00512
+
+题目：A Cocktail of Industrial Chemicals in Lipstick and Nail Polish: Profiles and Health Implications
+
+- 这篇文章关注了封城前后两个美国社区的废水成分变化，主要关注了处方药跟毒品，结果发现阿片类药物需求上升，毒品因为供应不足价格上涨反而减少，抗抑郁药物的水平有了一定提升。这种废水流行病学的研究值得推广。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.estlett.1c00426
+
+题目：Trends in Substance Use in Two United States Communities during Early COVID-19 Lockdowns Based on Wastewater Analysis
+
+- 这篇观点文章认为微塑料的毒性研究应该使用颗粒数浓度而非质量浓度提高数据可比性，作为污染物载体，不论微塑料还是空气中的细颗粒物，质量浓度的意义确实有限，但最好也按粒径分级下。
+
+推荐人：于淼
+
+链接：http://dx.doi.org/10.1021/acs.est.1c04093
+
+题目：Converting mg/L to Particles/L: Reconciling the Occurrence and Toxicity Literature on Microplastics
+
+- 这篇文章算是对当前简单套用机器学习模型做预测的一种反思，数据泄漏其实是新手特别容易犯的错误，特别是当数据量有限的时候。
+
+推荐人：于淼
+
+链接：http://dx.doi.org/10.1021/acs.est.1c04041
+
+题目：Predicting Micropollutant Removal by Reverse Osmosis and Nanofiltration Membranes: Is Machine Learning Viable?
+
+- 这篇综述总结了当前环境分析中高分辨质谱检测污染物转化产物的技术，后面展望里提到的问题值得关注。
+
+推荐人：于淼
+
+链接：https://doi.org/10.1016/j.trac.2021.116409
+
+题目：Recent advances in data-mining techniques for measuring transformation products by high-resolution mass spectrometry
+
+- 这篇文章通过测定公元前12000年到17世纪人骸骨中的重金属确认了铅的暴露基本与同时代铅的生产能力挂钩，另外这篇文章的TOC很有特色。
+
+推荐人：于淼
+
+链接：http://dx.doi.org/10.1021/acs.est.1c00614
+
+题目：Lead in Archeological Human Bones Reflecting Historical Changes in Lead Production
+
+- 这篇文章关注了时序数据中的昼夜循环问题，利用经验方法将其解析了出来，这对监测实践还是很有意义的。
+
+推荐人：于淼
+
+链接：http://dx.doi.org/10.1021/acs.est.1c00498
+
+题目：A Multiscale Approach to Timescale Analysis: Isolating Diel Signals from Solute Concentration Time Series
+
+- 这篇前瞻文章关注了空气净化过程中的副产品，认为其中的风险要被仔细评估，毕竟净化过程也涉及氧化还原反应，可能引入新的污染物。
+
+推荐人：于淼
+
+链接：http://dx.doi.org/10.1021/acs.est.1c02582
+
+题目：Unintended Consequences of Air Cleaning Chemistry
