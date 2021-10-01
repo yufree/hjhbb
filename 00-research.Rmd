@@ -4620,3 +4620,95 @@ https://pubs.acs.org/doi/10.1021/acs.est.9b02473
 链接：http://dx.doi.org/10.1021/acs.est.1c02582
 
 题目：Unintended Consequences of Air Cleaning Chemistry
+
+## 九月 {-}
+
+### 研究动态 {-}
+
+- 这是2019年日本群马大学开完暴露组学研讨会后做的总结，厘清了一些暴露组学概念，此外最近也上线了一个新期刊exposome，主编 Gary W. Miller
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.estlett.1c00648
+
+题目：Defining the Scope of Exposome Studies and Research Needs from a Multidisciplinary Perspective
+
+- 自从田振宇在science上报道了6PPD-quinone，轮胎橡胶衍生污染物的研究受到了更多的关注，中国作为潜在的汽车消费大国，相关研究也应该展开。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.estlett.1c00682
+
+题目：Occurrences of Tire Rubber-Derived Contaminants in Cold-Climate Urban Runoff
+
+- 这篇文章从专家视角给出了心血管毒素的12个关键特征，可以跟EDA连着筛样品了。
+
+推荐人：于淼
+
+链接：https://pubmed.ncbi.nlm.nih.gov/34558968/
+
+题目：Key Characteristics of Cardiovascular Toxicants
+
+- 这篇文章发现洗衣服会把半挥发性有机物从室内给输送到室外，不过这也无解吧，衣服上这类污染物要么暴露给人体，要么释放到环境里，总不能给衣服加个纳米材料涂层原位降解吧？就算有价格也一定很感人。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.1c02674
+
+题目：Textile Washing Conveys SVOCs from Indoors to Outdoors: Application and Evaluation of a Residential Multimedia Model
+
+- 这篇文章发现铅弹猎杀小动物会提高区域内鸟类食腐者的铅暴露，幸亏鱼钩一般是铁做的，不然作为终极食腐者的人类也少不了成为猎人或渔夫重金属污染的汇。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.1c01041
+
+题目：Small-Mammal Shooting as a Conduit for Lead Exposure in Avian Scavengers
+
+- 这篇文章其实就讲了下可降解塑料的实际降解效果，不过实验设计上却考虑了气候变化的影响，虽然这项研究看不出多少区别，但气候变化对土壤微生物菌群的影响确实是个有意思的思考方向，毕竟现在开放式城市污水处理厂的生化降解也确实会被气候变暖影响，但我估计极端天气影响会更大。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.1c02695
+
+题目：Back to the Future: Decomposability of a Biobased and Biodegradable Plastic in Field Soil Environments and Its Microbiome under Ambient and Future Climates
+
+- 这是复旦大学王梓萌老师在ES&T上发表的致敬中国水化学学科先驱的文章，更多读书笔记与本文中文介绍可以在AG期刊公众号上读到，一个学科历史的起承转合对于把握学科发展动态是十分重要的，希望能看到更多类似作品。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.1c03014
+
+题目：How Aquatic Chemistry Took Root and Has Flourished in China: Classical Textbooks, a Tale of Two Manganese, and a Dynamic Community
+
+- 这项研究发现自来水烧开了泡茶也会产生卤代芳香消毒副产物，而且很多是未知的，所以，下一项研究对象是不是速溶咖啡？
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.1c03419
+
+题目：Are Disinfection Byproducts (DBPs) Formed in My Cup of Tea? Regulated, Priority, and Unknown DBPs
+
+- 这项研究讨论了人类抗抑郁药物对鱼群聚行为的影响，暴露了抗抑郁药物氟西汀后，成对鱼的群聚效应更强了，希望渔民不要用这结果去捞鱼，不过按照网民的声称抑郁的比例，似乎也不用额外买药了。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.1c04084
+
+题目：Context is Key: Social Environment Mediates the Impacts of a Psychoactive Pollutant on Shoaling Behavior in Fish
+
+- 这类模型组合的研究如果放到机器学习领域就是个习题水平，不过也已经超过了业内平均水平（把随机森林当机器学习同义词），找到好的应用切入点是关键。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.1c01097
+
+题目：Novel Application of Machine Learning Algorithms and Model-Agnostic Methods to Identify Factors Influencing Childhood Blood Lead Levels
+
+- 持久性有机污染物（POPs）的湿沉降是一种有效的清除机制，但目前多数研究集中在极地降雪的放大效应且用模型预测来讨论降雨对有机物的归趋影响，这项研究用实验数据讨论了降雨的放大效应，发现降雪降雨对POPs的清除效果类似，不同污染物会不一样。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.1c03295
+
+题目：Rain Amplification of Persistent Organic Pollutants
