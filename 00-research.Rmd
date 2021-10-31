@@ -4712,3 +4712,79 @@ https://pubs.acs.org/doi/10.1021/acs.est.9b02473
 链接：https://pubs.acs.org/doi/10.1021/acs.est.1c03295
 
 题目：Rain Amplification of Persistent Organic Pollutants
+
+## 十月 {-}
+
+### 研究动态 {-}
+
+- 大流行期间一次性口罩的使用确实有提高挥发性有机污染物的暴露风险，不过这篇文章提出了一个解决方案：50摄氏度下加热60分钟可以减少80%的挥发性有机污染物。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.1c04591
+
+题目：On the Flip Side of Mask Wearing: Increased Exposure to Volatile Organic Compounds and a Risk-Reducing Solution
+
+- 这篇文章提到了固有光学性质（ inherent optical properties，IPO）在湖泊领域的应用，IPO技术其实更常见于海洋遥感数据的矫正，不过如果传感技术成熟，自然水体的IPO监控应该可以提供一个更具备综合性的指标。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.1c02585
+
+题目：The Imprint of Primary Production on High-Frequency Profiles of Lake Optical Properties
+
+- 流行病学证据往往是环境暴露于健康判断的重要参考，这项研究发现血液中三卤甲烷含量会影响血液中甲状腺功能的生物标记物，但并不会影响甲状腺功能。其实这个现象还是有一定普遍性的，很多健康相关的分子生物数据很难解释，甚至会出现互相矛盾，机理上的空白或缺失可能是重要原因。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.1c04008
+
+题目：Relationship between Blood Trihalomethane Concentrations and Serum Thyroid Function Measures in U.S. Adults
+
+- 这篇观点文章认为当前化学品种类太多太复杂了，所以需要引入“化学简化”的理念，也就是说尽量控制工业品中使用的化合物，这样可能提高回收利用效率。不过我感觉还是太理想化了，工业品首先满足的是消费端需求，很多消费品里之所以引入化合物也是因为有对应需求，例如建材里可以不加阻燃剂但着火风险就会高。比起提出新理念，对风险的量化更重要，如果着火风险每年损失一百亿而阻燃剂健康风险每年损失两百亿，那么只要结果出来阻燃剂就会自然退出市场。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.1c04903
+
+题目：The Need for Chemical Simplification As a Logical Consequence of Ever-Increasing Chemical Pollution
+
+- 这是国内学者对煤改气工程的一篇观点文章，指出了当前政策推进中的问题，例如不可持续性的补贴、有限的能源供给、过度管控、对建筑物保暖的忽视及公众预期的理解不足等。确实，如果这个工程能顺利推进，这会是全世界最大的居民能源转换项目，不过里面的问题也不能忽视，也是需要按实际情况进行量化决策。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.1c06544
+
+题目：The World’S Largest Residential Energy Switching Program Is at Risk
+
+- 日本中纬度气候从下雪为主变成下雨为主后淡水更多从地下水输送到海洋，而且20年来其中无机碳的流量也翻倍了。这篇研究并不是模拟或模型数据，而是真实测量数据，算是一种气候变暖的独立证据吧，其生态意义还不清楚。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.1c05108
+
+题目：A Shift from Snow to Rain in Midlatitude Japan Increases Fresh Submarine Groundwater Discharge and Doubled Inorganic Carbon Flux over 20 Years
+
+- 这是关于环境水体中包膜病毒的综述与荟萃分析，这个作者之前也综述过非包膜病毒，其实作者的研究方法完全有希望自动化，通过一个脚本每年跑一次生成新的报告。文本挖掘这个工具如果用的好，特定研究方向的综述应该在未来可以做到自动生成实时更新，研究人员也就不用费力洗数据了。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.1c03977
+
+题目：Systematic Review and Meta-Analysis of the Persistence of Enveloped Viruses in Environmental Waters and Wastewater in the Absence of Disinfectants
+
+- 这篇专题文章介绍了牡蛎在脱氮方面的应用前景，确实现在工业固氮是制造了大量活性氮，也造成了水体富营养化，不过牡蛎生态圈来脱氮确实可以作为一种应对近海富营养化的思路，美国切萨皮克湾项目运行的就不错，说不定将来城市污水厂会加一个基因改造过的淡水牡蛎池来脱氮。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.1c01901
+
+题目：Beyond Bioextraction: The Role of Oyster-Mediated Denitrification in Nutrient Management
+
+- 很少见的概念讨论文章，梳理了自由基、活性氧还有高级氧化等概念，硫酸根自由基算不算活性氧，或者说活性氧该不该包括所有氧化性自由基，这确实需要搞清楚，否则长期下去同一个词就有可能出现不同的定义，提高学科间交流成本。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.1c06651
+
+题目：Is Sulfate Radical a ROS?
