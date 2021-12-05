@@ -4788,3 +4788,79 @@ https://pubs.acs.org/doi/10.1021/acs.est.9b02473
 链接：https://pubs.acs.org/doi/10.1021/acs.est.1c06651
 
 题目：Is Sulfate Radical a ROS?
+
+## 十一月 {-}
+
+### 研究动态 {-}
+
+- 这篇文章展示了暴露组学研究的一些问题。首先，如果暴露组最终要找的暴露物最后都要用已知标准来验证，那么能找到未知新暴露物的可能性为零，跟事先买所有已知污染物标准后建库然后多次进样目的性筛查本质上没区别。其次， Schymanski 标准其实没有多少科学依据，现实中经常出现子离子相同的不同物质与因为没找到电离条件不电离的物质，那么在Schymanski标准里或者给个很高的可信度但为假阳性；或者因为没子离子永远是个很低的可信度，研究者不应该被卡在鉴定可信度的泥潭里打滚，只要真实列出你鉴定的过程让读者判断就可以。最后，暴露组学应该去关注生物学与流行病学意义，单纯鉴定并无环境意义。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.estlett.1c00848
+
+题目：The Potential of Sewage Sludge to Predict and Evaluate the Human Chemical Exposome
+
+- 这篇文章认为胰蛋白胨要比牛血清白蛋白更适合用来研究污染物与蛋白的相互作用，确实裂解过的蛋白片段更接近环境中蛋白质的存在形态，这会不会是e-DNA后下一个炒作对象？e-protein 或 e-peptide
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.estlett.1c00783
+
+题目：Why Should Tryptones Rather Than Bovine Serum Albumin Be Used as Model Proteins to Explore the Interactions between Proteins and Pollutants in Environments?
+
+- 环境样品前处理特别是痕量分析不不确定度是很高的，这篇文章讨论了使用固相萃取来分离富集溶解性有机质时化学分馏与自组装现象，如果不矫正结果恐怕比较难看。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.1c04535
+
+题目：Solid-Phase Extraction of Aquatic Organic Matter: Loading-Dependent Chemical Fractionation and Self-Assembly
+
+- 这篇文章用贝叶斯神经网络重构了1990-2019这三十年的地表臭氧数据并对比了城乡差异，个人感觉没有什么明确结论。作者认为除了美东城市臭氧的变化速率是1.9±2.3 ppbV，是一种“增长”，可以说重新定义了噪音。我不反对用更新的模型来审视过去的数据，但不能为了新而新，而且从模型表现上看肯定过拟合了。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.1c04797
+
+题目：Spatial Resolved Surface Ozone with Urban and Rural Differentiation during 1990–2019: A Space–Time Bayesian Neural Network Downscaler
+
+- 与持久性有机污染物相对应的是持久性不那么强的有机污染物，这篇文章从环境流行病学角度研究认为产前暴露非持久性有机污染物可能影响胎儿生长，可以看到很多持久性不强的污染物其实是以代谢物形态被检测的，或许应该关注下代谢机理。
+
+推荐人：于淼
+
+链接：https://ehp.niehs.nih.gov/doi/10.1289/EHP9178
+
+题目：Prenatal Exposure to Nonpersistent Chemical Mixtures and Fetal Growth: A Population-Based Study
+
+- 我非常怀疑这篇文章的结论，测了PCBs，测了海豚种群数，然后就说PCBs影响了海豚种群，问题在于PCBs暴露过程其实也与其他人类活动例如过度捕捞等问题同时出现或相关，相信做渔业研究的肯定不会把种群数下降简单归因到一类物质的暴露上。打个不恰当比方，疫情来了环境中消毒剂检出率高了，同时传染病也因为出现变种在持续流行，总不能说消毒剂使用促进了疾病流行吧。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.1c03837
+
+题目：Long-Term Consequences of High Polychlorinated Biphenyl Exposure: Projected Decline of Delphinid Populations in a Hotspot for Chemical Pollution
+
+- 这篇文章关注了巴西城市贫民窟下水道体系与细螺旋体病原体的关系，认为改善的排水条件有利于降低病原体污染，其实当前全球都面临类似的基建老化问题，如果处理维护不得当，老化的城市给排水管网很可能会促进相关疫病流行。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.1c04916
+
+题目：Effect of Sewerage on the Contamination of Soil with Pathogenic Leptospira in Urban Slums
+
+- 又到了看论文投资赔钱的季节了，因为气候变化，化石燃料会在各国政策下逐渐退出历史舞台，但与之相关的锂元素需求则会不断提高，这篇文章分析了美国锂元素在不同能源路线下的供需，看起来不论那条路线都伴随更多的锂元素使用量。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.1c03562
+
+题目：Uncertain Future of American Lithium: A Perspective until 2050
+
+- 这篇文章发现了浪花气溶胶中存在天然源肺表面活性剂，虽然浓度很低达不到危害程度，但这玩意可以用来载药，要是顺道把其他活性物质送出去性质就不一样了，不过这个思路到可以借鉴去解释一些水土不服的现象。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.1c04075
+
+题目：Sea Spray Aerosols Contain the Major Component of Human Lung Surfactant
