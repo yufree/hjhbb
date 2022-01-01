@@ -4864,3 +4864,87 @@ https://pubs.acs.org/doi/10.1021/acs.est.9b02473
 链接：https://pubs.acs.org/doi/10.1021/acs.est.1c04075
 
 题目：Sea Spray Aerosols Contain the Major Component of Human Lung Surfactant
+
+## 十二月 {-}
+
+### 研究动态 {-}
+
+- 美国卫生与公众服务部第15次致癌物报告又增加了8种致癌物，这样致癌物总数达到了一个二进制整数256，新增致癌物包括了幽门螺旋杆菌、阻燃剂三氧化二锑与六种消毒副产物卤代乙酸。其实很多致癌物并不是单一物质，例如抽烟、饮酒、二手烟、阳光照射等，完全规避生活中致癌物是不现实的，害怕致癌物产生的净效应不一定比致癌物暴露的后果更小，但了解危害细节可更好帮助决策。
+
+推荐人：于淼
+
+链接：https://www.niehs.nih.gov/news/newsroom/releases/2021/december21/index.cfm
+
+题目：Eight Substances Added to 15th Report on Carcinogens
+
+- 这项研究主要关注了新型兴奋剂，采集了2020-2021新年期间10个国家污水并检测了其中28种兴奋剂。应该说想法挺有意思，但样本量比较有限且实际意义也很模糊，毕竟不是所有被采样国家都有过年嗑药的习惯。不过倒是有个衍生问题，城市污水实际上包含了丰富的城市人群的健康与暴露信息，如何规范使用会涉及伦理讨论。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.estlett.1c00807
+
+题目：A Taste for New Psychoactive Substances: Wastewater Analysis Study of 10 Countries
+
+- 这是一篇从生态毒理角度写的关于水生环境中抗抑郁药物对鱼影响的综述，药物滥用或成瘾问题不仅仅是社会问题，也是环境问题。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.1c04724
+
+题目：The potential for adverse effects in fish exposed to antidepressants in the aquatic environment
+
+- 这篇文章提出了反渗透膜技术中盐水传输的新模型，更好解释了跨膜传输过程中压力下降的过程。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.1c05649
+
+题目：Salt and Water Transport in Reverse Osmosis Membranes: Beyond the Solution-Diffusion Model
+
+- 这项研究切入点很有意思，气候变化大背景下自然影响淡水循环，污染量相同的情况下浓度会变化，这就需要对之前的源头排放要求作出改变了。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.1c06242
+
+题目：Dry Climate Aggravates Riverine Nitrogen Pollution in Australia by Water Volume Reduction
+
+- 这篇文章结论很有意思但感觉有点说不通，北极PAH污染降低可能跟产业链转移有关不假，但PAH本来就有天然源，只从排放清单变化这一个角度解释感觉很牵强。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.1c05198
+
+题目：Globalization-Driven Industry Relocation Significantly Reduces Arctic PAH Contamination
+
+- 这篇文章有点离线效应引导分析的意思了，研究人员采集了污水厂水样，分别测定了其中消毒副产物与其细胞毒性，计算了不同物质的细胞毒性当量进行比较，发现含氮与含碘消毒副产物是毒性主要来源，属于思路很清晰的研究范例。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.1c07998
+
+题目：Drivers of Disinfection Byproduct Cytotoxicity in U.S. Drinking Water: Should Other DBPs Be Considered for Regulation?
+
+- 这篇基于荟萃分析的综述关注了室内运动与室外运动的效果，认为自然条件锻炼效果相当好一些。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.1c05151
+
+题目：Benefits to Performance and Well-Being of Nature-Based Exercise: A Critical Systematic Review and Meta-Analysis
+
+- 这篇文章给微塑料纤维单独建了一个线性拖拽模型，用来考察其在流体中的行为。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.1c06188
+
+题目：Improved Settling Velocity for Microplastic Fibers: A New Shape-Dependent Drag Model
+
+- 10月份有人说要做化学简化，现在又有人附和为药物简化，不过跟上次那个过于理想的想法相比，这篇观点文章更有实际意义，因为药品确实是需要做些简化来避免衍生问题的。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.1c07178
+
+题目：Pharmaceutical Simplification: Killing Two Birds with One Stone
