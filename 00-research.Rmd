@@ -4948,3 +4948,87 @@ https://pubs.acs.org/doi/10.1021/acs.est.9b02473
 链接：https://pubs.acs.org/doi/10.1021/acs.est.1c07178
 
 题目：Pharmaceutical Simplification: Killing Two Birds with One Stone
+
+## 一月 {-}
+
+### 研究动态 {-}
+
+- 这篇文章介绍了一种脱盐用的3D工程树，通过对木棒进行处理与阵列放置可以以高于树木的效率挥发地下水，这项技术对于海水淡化或边远地区的饮用水脱盐非常有意义。另外这项研究里也使用了Comsol仿真，这个技术虽然主要是化工领域在用，但环境领域里也可拿来解决很多实际问题。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.1c05777
+
+题目：Upscaling 3D Engineered Trees for Off-Grid Desalination
+
+- 这篇文章利用广东湛江一个火山湖底泥里的放射性同位素数据还原了过去100多年中国东南部化石燃料的排放过程，数据显示最近几年化石燃料排放减速了，这可以算是气候变化的另一类独立证据。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.1c05424
+
+题目：Sediment Soot Radiocarbon Indicates that Recent Pollution Controls Slowed Fossil Fuel Emissions in Southeastern China
+
+- 这篇文章研究了人造光源对水蚤的影响，人造光跟自然光的光谱是不同的，通常会少一些波段或强度有区别，这对人的眼睛而言是无法识别的，但对生态系统的影响确实值得深入关注。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.1c06286
+
+题目：Artificial Light Pollution with Different Wavelengths at Night Interferes with Development, Reproduction, and Antipredator Defenses of Daphnia magna
+
+- 这篇文章利用ABM研究了新冠病毒的社区传播模式，发现70%感染的人并不传播，而13.4%的人造成了80%二次传播，相比公布每日感染人数，针对每个家庭接触史独立建模评估风险才是更科学的方式。有些人长期独居或接触面小的话基本不可能造成二次传播，但天天到处跑的职业或社交小能手才是病毒真正能传播开的重要节点，每天行走步数超过2万的人应该凭记录优先获得疫苗免疫与定期检测，这样才能有效控制防疫成本并平衡多数人的正常生活，希望有更多ABM的人能够关注环境问题。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.1c05633
+
+题目：Exploring the Local Determinants of SARS-CoV-2 Transmission and Control via an Exposure-Based Model
+
+- 这篇文章结果挑战了很多畅销书里提到的前工业时代的铅汞全球排放的观点，文章依据是加勒比海里一个偏远火山湖沉积物的铅汞数据，看来火山湖是个研究工业化环境影响的好东西啊。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/full/10.1021/acs.est.1c06791
+
+题目：Caribbean Lead and Mercury Pollution Archived in a Crater Lake
+
+- 溴仿是一种很不稳定的化合物，会在环境中迅速转化而没有被关注，这篇文章发现工业区溴仿排放量远高于自然本底，这就需要关注了，因为这不仅相当于提供了一个溴代化合物的原料库，也对很多自然源三溴仿相关环境过程研究形成了干扰。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.1c05073
+
+题目：Underestimation of Anthropogenic Bromoform Released into the Environment?
+
+- 这是一篇单纯关于效应引导分析的方法类文章，给出了一套完整的工作流程，这样的工作意义其实更大，因为新发现很多时候是靠运气的，但在能靠运气之前也要具备对应的技术整合平台，这往往需要很多年各种经验的积累，这种平台一般代表了课题组的核心竞争力。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/abs/10.1021/acs.est.1c04168
+
+题目：High-Performance Data Processing Workflow Incorporating Effect-Directed Analysis for Feature Prioritization in Suspect and Nontarget Screening
+
+- 这项研究在痰液中检出了微塑料并认为吸烟与插管可能是其来源，文明地吐痰可能是人排出微塑料的一个途径。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.1c03859
+
+题目：Detection and Analysis of Microplastics in Human Sputum
+
+- 这项研究用一种手表式被动采样腕带来监测南非儿童的暴露组，其实就是放了三个PDMS棒，这玩意倒是可以考虑在举办短期群体活动时每人发一个然后回收，这样就可以拿到活动中的暴露组了，而短期活动通常很难进行监测，不过如果用到长期采样，我觉得反而引入了太多不确定因素，没有很大的人群基数结论往往可信度有限。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.1c06481
+
+题目：Assessing the External Exposome Using Wearable Passive Samplers and High-Resolution Mass Spectrometry among South African Children Participating in the VHEMBE Study
+
+- 这项研究关注了DOM中MS1与MS2数据分类，本质上还是质量差，感觉跟GNPS的分子网络非常像，高情商说就是殊途同归了，低情商说就是重复造轮子了。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.1c04726
+
+题目：Unsupervised Structural Classification of Dissolved Organic Matter Based on Fragmentation Pathways
