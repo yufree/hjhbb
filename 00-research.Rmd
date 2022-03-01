@@ -5032,3 +5032,79 @@ https://pubs.acs.org/doi/10.1021/acs.est.9b02473
 链接：https://pubs.acs.org/doi/10.1021/acs.est.1c04726
 
 题目：Unsupervised Structural Classification of Dissolved Organic Matter Based on Fragmentation Pathways
+
+## 二月 {-}
+
+### 研究动态 {-}
+
+- 这项研究发现老式小型渔船可能是重要的PM2.5排放源，而我国渔船有70-100万条，其中一半是小型渔船。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.estlett.1c00927
+
+题目：High PM2.5 Emission from Typical Old, Small Fishing Vessels in China
+
+- 这是一个基于QSAR模型的急性毒性预测工具，画出结构或提供smiles就可以给出6个毒性终点的预测，结果虽然还不能达到商用软件水平，但好在数据模型都开源，非常容易上手。
+
+推荐人：于淼
+
+链接：https://ehp.niehs.nih.gov/doi/suppl/10.1289/EHP9341
+
+题目：STopTox: An in Silico Alternative to Animal Testing for Acute Systemic and Topical Toxicity
+
+- 这是一个基于化学品用途与结构预测环境行为与风险的模型，同样整合了很多环境归趋模型、暴露模型与毒性预测模型，而且也可以灵活替代其中的组件，我试用了一下，作为快速决策工具还是很方便的。
+
+推荐人：于淼
+
+链接：https://ehp.niehs.nih.gov/doi/10.1289/EHP9372
+
+题目：Development and Evaluation of a Holistic and Mechanistic Modeling Framework for Chemical Emissions, Fate, Exposure, and Risk
+
+- 海鸟体内汞浓度在过去20年呈U型，先下降后上升，研究认为这是海鸟的食谱发生了改变，从鳕鱼变成大西洋鲱鱼了。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.1c07633
+
+题目：A U-Turn for Mercury Concentrations over 20 Years: How Do Environmental Conditions Affect Exposure in Arctic Seabirds?
+
+- 这篇前瞻文章指出了塑料纤维作为细菌性疾病载体研究的缺乏，有意思的是其中一章写了19年11月后突然出现了大量相关研究，我猜应该是新冠流行这事给不同学科研究人员提供了新的热点排列组合思路。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.1c05405
+
+题目：Plastic Debris As a Vector for Bacterial Disease: An Interdisciplinary Systematic Review
+
+- 这篇文章认为中国的电力生产减少了淡水中生物多样性，我读了一下论证过程，其中生物多样性是用水消耗量与热污染来估计的而不是实验数据，这样的研究几乎从一开始就用模型限定了结论，存在一定误导性。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.1c07155
+
+题目：Biodiversity Loss from Freshwater Use for China’s Electricity Generation
+
+- 这篇综述讨论了精准去除毒性有机污染物的技术，其实说白了还是分子印迹与表面修饰那一套，很多里面提到的技术其实选择性不强，感觉ES&T最近综述与前瞻文章特别多，不知道是不是要刷影响因子。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.1c07824
+
+题目：Accurate Removal of Toxic Organic Pollutants from Complex Water Matrices
+
+- 这篇文章讨论了慢性环境扰动对微生物种群的影响，不过我其实就想吐槽下表1，贴张图片就算了，一个热图放到表格里算怎么回事？更关键是，这也不是热图啊。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.1c05106
+
+题目：Chronic Environmental Perturbation Influences Microbial Community Assembly Patterns
+
+- 这篇文章用NMR跟FTICRMS研究了不同海洋溶解性有机质的成分，其实很多DOM的研究与讨论思路都可以用到非目的分析里，核心就是放弃对单个分子的定性而是探索结构模式。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.1c04566
+
+题目：Marine Dissolved Organic Matter Shares Thousands of Molecular Formulae Yet Differs Structurally across Major Water Masses
