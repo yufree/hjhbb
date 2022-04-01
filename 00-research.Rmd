@@ -5108,3 +5108,79 @@ https://pubs.acs.org/doi/10.1021/acs.est.9b02473
 链接：https://pubs.acs.org/doi/10.1021/acs.est.1c04566
 
 题目：Marine Dissolved Organic Matter Shares Thousands of Molecular Formulae Yet Differs Structurally across Major Water Masses
+
+## 三月 {-}
+
+### 研究动态 {-}
+
+- 对化学污染采取有效和及时的行动需要来自自然和社会科学领域的科学家和专家的大力支持，这里概述了《关于持久性有机污染物的斯德哥尔摩公约》下对这种科学支持的持续需求。
+
+推荐人：王湛筠
+
+链接：https://pubs.acs.org/doi/abs/10.1021/acs.est.1c06120
+
+题目：Enhancing Scientific Support for the Stockholm Convention’s Implementation: An Analysis of Policy Needs for Scientific Evidence
+
+- 目前对有害化学品的管理往往是狭隘而低效的。这篇文章展示了我们应如何从气候治理中学习，以有效解决化学污染的全球危机。
+
+推荐人：王湛筠
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.1c06615
+
+题目：Time to Break the “Lock-In” Impediments to Chemicals Management
+
+- 这篇文章讨论了美国30年来热带气旋过后死亡率上升的现象，研究方法用的是额外死亡率这种对比历史同时期无热带气旋数据的思路，结果发现死亡率最高可提升33.4%。这种研究方法要比官方公布的直接死亡人数更准一些，也是量化灾难损失的重要参考，在气候变化的当下这类研究更值得关注。
+
+推荐人：于淼
+
+链接：https://jamanetwork.com/journals/jama/article-abstract/2789661
+
+题目：Association of Tropical Cyclones With County-Level Mortality in the US
+
+- 这篇文章介绍了一种自动化文献搜索配合自然语言处理来寻找癌症风险证据的方法，目前来看还是无法取代专家。文中讨论了这种自动化方向的局限性，短期内应该无法突破，主要是很多人理解起来非常容易的生物概念不容易被标准化程序识别。当然，现在是transformer的天下了，这个问题应该不难被最终解决。
+
+推荐人：于淼
+
+链接：https://ehp.niehs.nih.gov/doi/10.1289/EHP9112
+
+题目：Automated Network Assembly of Mechanistic Literature for Informed Evidence Identification to Support Cancer Risk Assessment
+
+- 这是一篇很有新闻感的论文，研究了5G技术的相关波段对斑马鱼的影响，转录组与行为数据结果显示也确实有影响，很可能以后被拿来攻击5G技术。不过现在5G已经在大城市铺开了，直接流病数据应该不难获取，这种动物控制实验如果没有流病支持，更大的可能是效应太小。此外，这篇文章的可视化跟p值的使用都可以拿来作为反面教材。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.estlett.2c00037
+
+题目：Transcriptomic and Long-Term Behavioral Deficits Associated with Developmental 3.5 GHz Radiofrequency Radiation Exposures in Zebrafish
+
+- 这是一篇比较典型的统计学家做环境效应的论文，其关注点更多在宏观指标，把具体的生物标志物作为工具变量来讨论时基本不提任何机理。其实统计学家避而不谈的因果关系在生物方面是可以找到证据的，现在的问题可能在于搞生物的看不懂流病模型，搞流病的不知道咋讨论机理，两边对着同一个科学问题井水不犯河水地各自研究。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.1c06916
+
+题目：Ambient Air Pollutants and Traffic Factors Were Associated with Blood and Urine Biomarkers and Asthma Risk
+
+- 这篇文章用化学指纹的定量信息替代定性来溯源是个不错的方向，其实该技术早就用在肉制品来源检测了，如果最终关注的是来源，那么死磕定性真的属于可有可无的步骤，只是多数化学出身的人心理上过不了这个坎。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.1c06655
+
+题目：Machine Learning Applications for Chemical Fingerprinting and Environmental Source Tracking Using Non-target Chemical Data
+
+- 这篇文章提到一个现象，2020年因为疫情政策街上车少了，但车速更快了。也就是说，如果街上车很多时会导致走走停停的慢车速，这确实是研究碳排放一个视角。不过，我觉得伴随更多电动车或混动车上路，对应的模型也应该有所修正。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.1c06828
+
+题目：Observing Annual Trends in Vehicular CO2 Emissions
+
+- 这篇文章模拟了一个更温暖环境下硅藻的短期与长期繁衍过程，用蛋白质组学考察了其对代谢影响，发现硅藻短期代谢受到影响，但经过700代繁衍最终也适应了更高温度。确实在气候变化这件事上地球不需要被拯救，只是适应了当前气候的人需要自救。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.1c08584
+
+题目：Metabolic Adaptation of a Globally Important Diatom following 700 Generations of Selection under a Warmer Temperature
