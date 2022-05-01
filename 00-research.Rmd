@@ -5184,3 +5184,79 @@ https://pubs.acs.org/doi/10.1021/acs.est.9b02473
 链接：https://pubs.acs.org/doi/10.1021/acs.est.1c08584
 
 题目：Metabolic Adaptation of a Globally Important Diatom following 700 Generations of Selection under a Warmer Temperature
+
+## 四月 {-}
+
+### 研究动态 {-}
+
+- 研究收集了全国33个城市的废水，发现西北地区废水sidenafil（伟哥）含量最高。sidenafil含量和烟草、酒精用量正相关，和地区年龄、经济水平、婚姻比例、就业率也正相关。非常有意思的WBE研究。
+
+推荐人：赵皓琪
+
+链接：https://doi.org/10.1016/j.watres.2022.118446
+
+题目：Assessment of correlations between sildenafil use and comorbidities and lifestyle factors using wastewater-based epidemiology
+
+- 这篇文章能发表说明两件事：1）非计算机统计专业特别喜欢随机森林这个看起来高大上实际调包就能算的模型；2）非计算机统计专业还喜欢用线性模型的评价指标R2来评价非线性模型，要知道随机森林里算R2是能算出负值的。这文章缝合属性太强了，硬是吸取了不可解释性与R2原教旨主义的双重缺点。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.estlett.1c00970
+
+题目：A Random Forest Model for Daily PM2.5 Personal Exposure Assessment for a Chinese Cohort
+
+- 这篇观点文章讨论了元宇宙与生物多样性的机会与风险，其实本质上就是在说用虚拟现实的沉浸式体验来体会物种多样性，不管怎样我还是很佩服作者能找到这么刁钻的角度来看热点话题的。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.2c01562
+
+题目：Opportunities and Risks of the “Metaverse” For Biodiversity and the Environment
+
+- 这篇文章从DOM分子组成与碳排放污染物排放的关系讨论了国内湖水的天然与人为因素影响，这个思路非常有启发性，污染物排放与环境介质中有机物组成变化的关系对考察宏观生态影响会有不少探索性发现。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.1c08148
+
+题目：Lake Chemodiversity Driven by Natural and Anthropogenic Factors
+
+- 这篇文章考察了人体挥发性有机物的排放速率与影响因素，认为臭氧、衣着及温度会对人体VOC排放产生影响，实验设计有点心理学实验的味道了。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.1c08764
+
+题目：Emission Rates of Volatile Organic Compounds from Humans
+
+- 这篇文章考察了棉质衣服上新冠病毒在不同室内环境的变化，认为新冠病毒颗粒通过衣服再悬浮被人吸入导致二次传播的可能性较低，大概一天后就会失活。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.1c08342
+
+题目：Modeling Clothing as a Vector for Transporting Airborne Particles and Pathogens across Indoor Microenvironments
+
+- 这篇文章利用飞行轨迹数据分析了飞机的高分辨污染物排放状况。这也是很好的切入点，现在传感器无处不在，利用得当应该可以得到很多高质量高分辨率的环境数据。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.1c08741
+
+题目：Developing a High-Resolution Emission Inventory of China’s Aviation Sector Using Real-World Flight Trajectory Data
+
+- 这篇综述讨论了eDNA在环境中的不同形态及当前对环境持久性的理解，然后发现大多数研究并未讨论这些参数，之后给出了可能的研究方向，文章不长但很多精华讨论。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.1c07638
+
+题目：The Multiple States of Environmental DNA and What Is Known about Their Persistence in Aquatic Environments
+
+- 这篇文章看题目就知道具有新闻价值了，不过开个玩笑，水分子是不是也算广义上的 sub-100nm Nanoparticles？
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.1c06768
+
+题目：Common Single-Use Consumer Plastic Products Release Trillions of Sub-100 nm Nanoparticles per Liter into Water during Normal Use
