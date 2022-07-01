@@ -5336,3 +5336,79 @@ https://pubs.acs.org/doi/10.1021/acs.est.9b02473
 链接：https://www.science.org/doi/10.1126/science.abb8677
 
 题目：A global environmental crisis 42,000 years ago
+
+## 六月 {-}
+
+### 研究动态 {-}
+
+- 这篇算是给人群全氟化合物的暴露与整体死亡率一个直接证据，这里需要注意的是作者都是四川大学的，但用的是美国的NHANES (1999–2014)的公开数据。也就是说如果数据够公开，全世界都乐于去挖掘数据里的规律，受益的是数据公开的国家，因为结论可以直接套到自己政策制定上，反之不公开或没有统一公开平台，就会有很多重复造轮子研究资源浪费的事，我们迫切需要一个国家级环境暴露的开放式人群队列数据共享平台，不然研究成果跟资源都去给别人做参考了。回到研究，这里用到一个k means 非监督聚类配合 elbow method 来划分高中低混合暴露组，然后对每种全氟化合物算分组均值后就可以走流行病学生存分析那一套流程了，思路很巧妙，可以套用到其他混合暴露污染物的风险评价里，毕竟当前其实定义整体高低暴露还是有困难的。
+
+推荐人：于淼
+
+链接：https://ehp.niehs.nih.gov/doi/10.1289/EHP10393
+
+题目：Exposure to Per- and Polyfluoroalkyl Substances and Mortality in U.S. Adults: A Population-Based Cohort Study
+
+- 窃以为提高学术见识最快的方法是审稿，但对审稿机会有限的研究生而言，读comment跟reply也有同样疗效，这是上月推荐的环境基因交互作用文章的后续跟进，主要质疑了血统影响。其实这部分更能突出论文的“论”字，读不同观点有助于形成自己的观点。这月EHP上还有个comment是三月一篇机器学习文章的质疑，主要是意大利人认为他们模型没有用全监测数据而且空间变量都没用。其实读论文只看结论是工科思维，理科关注的科学问题通常答案是开放式的，在更充分的实验证据出现前，有些问题就是只能讨论个大概。
+
+推荐人：于淼
+
+链接：https://ehp.niehs.nih.gov/doi/10.1289/EHP11607
+
+题目：Response to “Comment on ‘Evaluation of a Gene–Environment Interaction of PON1 and Low-Level Nerve Agent Exposure with Gulf War Illness: A Prevalence Case–Control Study Drawn from the U.S. Military Health Survey’s National Population Sample’”
+
+- 这个研究发现印度如果转向四轮电池驱动电动车其实温室气体排放与二氧化硫排放更高了，看了下似乎主要是因为印度当前能源结构跟基建问题。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.1c07718
+
+题目：Should India Move toward Vehicle Electrification? Assessing Life-Cycle Greenhouse Gas and Criteria Air Pollutant Emissions of Alternative and Conventional Fuel Vehicles in India
+
+- 这项研究发现去活酵母细胞可以有效去除水中痕量的铅。推荐的一个原因在于其方法第一部分详细写了如何洗瓶子，也算是个手艺活了。
+
+推荐人：于淼
+
+链接：https://www.nature.com/articles/s43247-022-00463-0
+
+题目：Lead removal at trace concentrations from water by inactive yeast cells
+
+- 这项研究认为美国学校午餐里少吃牛肉多吃全谷食品会减少环境影响，可能很多人会感觉莫名其妙，但据我所知美国学校中午那顿免费午餐浪费极为惊人，换换环境友好的食谱也不过分，这篇文章公开了审稿意见，感觉一团和气。
+
+推荐人：于淼
+
+链接：https://www.nature.com/articles/s43247-022-00452-3
+
+题目：Less animal protein and more whole grain in US school lunches could greatly reduce environmental impacts
+
+- 这是个关于便携式空气净化器的人群随机对照试验，结果发现怀孕时暴露可能影响4岁孩子的认知表现。不过读这种结论一般用了“可能”的表述大概率p值是高于0.05的，实际上我看了下结果也确实如此，论文里如何表述阴性结果是一门艺术。
+
+推荐人：于淼
+
+链接：https://ehp.niehs.nih.gov/doi/10.1289/EHP10302
+
+题目：Portable HEPA Filter Air Cleaner Use during Pregnancy and Children’s Cognitive Performance at Four Years of Age: The UGAAR Randomized Controlled Trial
+
+- 这篇论文通过计算发现油气石化行业甲烷排放主要发生在油气区的前处理过程而非生产过程。
+
+推荐人：ACS Editors' Choice
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.2c00927
+
+题目：Hydrocarbon Tracers Suggest Methane Emissions from Fossil Sources Occur Predominately Before Gas Processing and That Petroleum Plays Are a Significant Source
+
+- 这项研究发现根据WHO新空气质量指南，非人为源细颗粒物在某些地方都超标了，简单说就是只要标准够高，地球都不宜居了，感觉有点像把工业源汽车源的污染物降低后沙尘暴来了的段子。
+
+推荐人：ACS Editors' Choice
+
+链接：https://pubs.acs.org/doi/10.1021/acs.estlett.2c00203
+
+题目：Updated World Health Organization Air Quality Guidelines Highlight the Importance of Non-anthropogenic PM2.5
+
+- 这项研究关注了海洋变暖后浮游生物的变化，认为适应后其营养值会减少，这会直接影响海洋生态系统。这类变化虽然看上去很遥远，但后果可能是谁都想不到的。
+
+推荐人：于淼
+
+链接：https://www.science.org/doi/10.1126/science.abo5235
+
+题目：Phytoplankton response to a warming ocean
