@@ -5412,3 +5412,79 @@ https://pubs.acs.org/doi/10.1021/acs.est.9b02473
 链接：https://www.science.org/doi/10.1126/science.abo5235
 
 题目：Phytoplankton response to a warming ocean
+
+## 七月 {-}
+
+### 研究动态 {-}
+
+- 这项研究利用手机智力游戏、用户邮编前三位及空气监测数据研究了野火烟雾短期暴露对认知水平的影响。这个研究框架很容易自动化长期化用来评价环境影响，就看手游公司能不能配合下在日常任务中加入些益智游戏了。其实互联网公司很多数据都具备研究价值，例如某品类商品（槟郎、酒）的全国收货地址数据可直接用来评价追踪区域人群健康状况，只要汇总数据就可以也不怎么涉及隐私。
+
+推荐人：于淼
+
+链接：https://ehp.niehs.nih.gov/doi/10.1289/EHP10498
+
+题目：Short-Term Exposure to Wildfire Smoke and PM2.5 and Cognitive Performance in a Brain-Training Game: A Longitudinal Study of U.S. Adults
+
+- 这项研究发现BDE-209在人体样本中降解产物羟基化过程发生在临位，而我博士阶段曾发现植物对多溴联苯醚的甲氧基代谢过程会发生在对位，这种取代位置特异性很容易从质谱碎裂规律上发现，甚至不用得到具体的结构信息。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.2c02074
+
+题目：New Insights into Human Biotransformation of BDE-209: Unique Occurrence of Metabolites of Ortho-Substituted Hydroxylated Higher Brominated Diphenyl Ethers in the Serum of e-Waste Dismantlers
+
+- 现在很多研究可以受益于自动监测的环境数据，但其实多数人多数时间是在室内的，有些环境影响例如高温热浪如果不穿透建筑物的隔离其实影响会小很多。不过，老房子在设计时可能并不考虑气候变化，这项研究就发现住在无空调房子的老人会出现明显的高温相关症状。国内现在的老旧小区改造除了装电梯，可能还要考虑装套相对节能的中央空调。
+
+推荐人：于淼
+
+链接：https://pubmed.ncbi.nlm.nih.gov/35857398/
+
+题目：A Longitudinal Study on the Impact of Indoor Temperature on Heat-Related Symptoms in Older Adults Living in Non–Air-Conditioned Households
+
+- 这篇文章关注了小学室内尘土中的真菌，特意对比了浸过水的教室跟正常教室，发现真菌种类更多样，酵母相对丰度更高，虽然还不清楚环境意义是什么，但从酿酒角度看泡过水的教室酿的啤酒风味层次应该更丰富。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.2c01703
+
+题目：Mycobiota and the Contribution of Yeasts in Floor Dust of 50 Elementary Schools Characterized with Sequencing Internal Transcribed Spacer Region of Ribosomal DNA
+
+- 特定化合物的稳定同位素分馏可以用来溯源或追踪某个生命过程，这篇文章利用脂肪酸的碳氢同位素分馏现象来追踪鱼的迁移，其实我更好奇这个过程究竟是怎么来的，是不同地方这两种元素的原料本身就有差别还是说特定环境加速了某个能产生分馏的生命过程？
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.2c02089
+
+题目：Assessment of Compound-Specific Fatty Acid δ13C and δ2H Values to Track Fish Mobility in a Small Sub-alpine Catchment
+
+- 一般计算湖泊磷含量是按照输入输出来算，也就是可以控制支流输入来控制富营养化，但这篇研究发现风可以使沉积的磷重新悬浮而悬浮后生物有效性还是很高，这样就需要更严格控制输入了，否则下游水体的磷输入总是被低估的。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.2c02820
+
+题目：Wind-Driven Sediment Resuspension in the World’s Fourth Largest Lake Contributes Substantial Phosphorus Load to the 11th Largest Lake
+
+- 《大灭绝时代》是一本很出色的非虚构书籍，获得过普利策奖，我印象最深的就是里面提到海洋酸化后很多甲壳类的碳酸钙外壳会被溶解，这项研究却发现海洋酸化后北海海狗螺的壳在过去130年里变厚了，看来生命也并不是坐以待毙吗，进化速度还是挺快的。
+
+推荐人：于淼
+
+链接：https://www.nature.com/articles/s43247-022-00486-7
+
+题目：Shell thickness of Nucella lapillus in the North Sea increased over the last 130 years despite ocean acidification
+
+- 通过地下水的标记物研究发现，美国超过1/3作为公共用水的地下水是全新世的，更容易被地表污染。这种划分方法挺新的，我记得当年学的区分方法是潜水层跟深层地下水，深层地下水一般可认为是不可再生资源，但这种用地质年代来划分的方法似乎更合理些。
+
+推荐人：于淼
+
+链接：https://www.nature.com/articles/s43247-022-00473-y
+
+题目：Over a third of groundwater in USA public-supply aquifers is Anthropocene-age and susceptible to surface contamination
+
+- 虽然还是预印本，但《科学》杂志已经报道了这个结果，过去二十年全球空气污染的气候影响下降了30%，但更清洁的空气却加速了全球变暖，这个悖论现象在于人们可能需要做出一个无奈的选择：是死于气候灾害还是呼吸道疾病？
+
+推荐人：于淼
+
+链接：https://acp.copernicus.org/preprints/acp-2022-295/
+
+题目：Robust evidence for reversal in the aerosol effective climate forcing trend
