@@ -5488,3 +5488,80 @@ https://pubs.acs.org/doi/10.1021/acs.est.9b02473
 链接：https://acp.copernicus.org/preprints/acp-2022-295/
 
 题目：Robust evidence for reversal in the aerosol effective climate forcing trend
+
+## 八月 {-}
+
+### 研究动态 {-}
+
+- 目前环境科学研究的一个趋势就是软科学化，经常代入社会调查数据这个考察维度，例如这篇就发现铅暴露跟阅读成绩会受到种族居住隔离现象的影响。同样的现象与结果，如果解释为社会经济地位与单亲家庭可能就发不了PNAS了，但作者把这些本质影响用种族居住隔离一包装，就非常美国特色了，也更有话题性。环境科学研究人员如果总想搞个大新闻，很可能就会沾染社会学研究的一些不良风气，做研究还是要扎扎实实从本质原理出发讨论科学问题，当然评价体系大环境可能还是更喜欢讲故事，不然公众也不会掏钱。
+
+推荐人：于淼
+
+链接：https://www.pnas.org/doi/full/10.1073/pnas.2117868119
+
+题目：Racial residential segregation shapes the relationship between early childhood lead exposure and fourth-grade standardized test scores
+
+- 汽车的油改电已是大势所趋，海南省会在2030年淘汰所有油车，美国加州则会在2035年淘汰油车，石油-美元体系在可预见的未来会改为锂电主导的全球能源格局。这篇文章评估了纽约市公交车油改电后的变化，认为改善了当地空气质量，不过另一个问题就是电从哪里来？如果是从远郊火电厂来的，那么城市油改电的本质其实是将污染转移到偏远地区，当然总量应该也是降低的。
+
+推荐人：于淼
+
+链接：https://www.nature.com/articles/s41370-022-00454-5.pdf
+
+题目：Clean fleets, different streets: evaluating the effect of New York City’s clean bus program on changes to estimated ambient air pollution
+
+- 当前评价混合物暴露风险的方法基本就是WQS，可以给出混合物中单体的风险贡献，这篇文章引入置换检验来增强其推断，这篇可能更侧重假阳性与统计功效。但我估计环境化学背景的人绝大多数都不知道这是什么玩意，虽然他们做的也是混合物暴露研究，对于这种目前课程根本就没涉及到但研究中用的多的方法，建议从院系层面开些研讨班请人来普及下，指望自学不太现实。
+
+推荐人：于淼
+
+链接：https://ehp.niehs.nih.gov/doi/10.1289/EHP10570
+
+题目：A Permutation Test-Based Approach to Strengthening Inference on the Effects of Environmental Mixtures: Comparison between Single-Index Analytic Methods
+
+- 311日本地震海啸已经过去十一年了，但相关讨论更多围绕在次生的福岛核泄漏上，这篇文章关注了失去家园对受难者的长期影响。伴随气候变化，很多原本宜居的地方极端气候灾害的频率也在提高，有必要评估相关影响来做预案，更不用说今年开始人口就要负增长了，很多城市要进入衰退期，此时可能出现有预案但没钱的尴尬场景，日本在这方面可以算探路者了。
+
+推荐人：于淼
+
+链接：https://ehp.niehs.nih.gov/doi/10.1289/EHP10903
+
+题目：Long-Term Associations between Disaster-Related Home Loss and Health and Well-Being of Older Survivors: Nine Years after the 2011 Great East Japan Earthquake and Tsunami
+
+- 这篇文章发现虽然三卤甲烷总量在调控下降低，但还是贡献了10%的膀胱癌患者，也就是调控有用但不够。从研究角度怎么呼吁这种警告都不算过分，但问题最终可能还是在钱上，类似的问题也出在全氟化合物上，如果我们算不出调控的机会成本与公共健康额外开支的确切数字，那么这种呼吁很难转为政策。这里不应该是环境研究人员去引入既有经济指标来讨论，而是应该把调查数据或分子定量数据设计为新的经济指标，指望搞经济的文科生理解理工科研究指标跨度太大，还得是训练更多有问题背景的人去掌握经济学指标的设计。
+
+推荐人：于淼
+
+链接：https://ehp.niehs.nih.gov/doi/10.1289/EHP9985
+
+题目：Estimating National Exposures and Potential Bladder Cancer Cases Associated with Chlorination DBPs in U.S. Drinking Water
+
+- 多氯联苯在美国被管控已经超过四十年了，按说现在再测到这玩意都算出土文物了。不过不生产不代表不产生，很多持久性污染物会通过一些产品缓慢释放，另外一些则属于无意产生的，这里面的代表就是PCB-11了，这玩意现在已经成了目前PCB监测的高检出率代表了，一般认为这是来自黄色染料生产的副产品，这篇文章也讨论了相关内容。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.2c02517
+
+题目：Inadvertently Generated PCBs in Consumer Products: Concentrations, Fate and Transport, and Preliminary Exposure Assessment
+
+- 环保政策可以算是大型社会实验了。从研究角度，任何实验都需要考虑各种可能性来论证，美国的毒性物质控制法案（TSCA）要求美国环保署去做毒性评估，这篇文章作者读了官方报告后认为这个评估是垃圾，存在巨大改进空间，需要进行资源化处理。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.2c02079
+
+题目：Toxic Substances Control Act (TSCA) Implementation: How the Amended Law Has Failed to Protect Vulnerable Populations from Toxic Chemicals in the United States
+
+- 这篇观点文章很幽默，讽刺了学术界造词的现象，认为重金属研究领域很多描述看似严谨，但毫无实际意义。要我说，如果一个研究领域天天说自己的发现可能有用，大概率当前没用，更大概率是卷出来的排列组合式水文。不要慌张，基本上无害。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.2c03056
+
+题目：“Potentially Toxic Element”─Something that Means Everything Means Nothing
+
+- 其实如果利用好了公众科学的资源，环境与生态学研究可以以很多不同形态展开，可以考察很多有意思的科学问题，这篇文章做了一个导论式介绍。
+
+推荐人：于淼
+
+链接：https://www.nature.com/articles/s43586-022-00144-4
+
+题目：Citizen science in environmental and ecological sciences
+
