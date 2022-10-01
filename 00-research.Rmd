@@ -5565,3 +5565,86 @@ https://pubs.acs.org/doi/10.1021/acs.est.9b02473
 
 题目：Citizen science in environmental and ecological sciences
 
+## 九月 {-}
+
+### 研究动态 {-}
+
+- 这篇文章给出了今年冬奥期间细颗粒物浓度源解析的结果，细颗粒物浓度变异中46.1%来自气象条件另外53.9%来自源控制措施。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.estlett.2c00532
+
+题目：Significant Reduction in Fine Particulate Matter in Beijing during 2022 Beijing Winter Olympics
+
+- 这篇文章关注了加州监狱及偏远地区的饮用水系统，发现囚犯与偏远地区的饮用水长期受到砷污染影响，这篇文章其实更偏环境伦理了，因为囚犯里不同肤色比例差异很大，很多监狱选址也在废矿区等本底污染重的地方，这样看来也许以后法官审判时如果罪犯去一个环境条件差的地方量刑上可以宽松一点，算是拿健康换刑期了。
+
+推荐人：于淼
+
+链接：https://ehp.niehs.nih.gov/doi/10.1289/EHP10758
+
+题目：The Human Right to Water: A 20-Year Comparative Analysis of Arsenic in Rural and Carceral Drinking Water Systems in California
+
+- 这篇综述关注了移民与非移民的环境健康关系，发现关注这个问题的还不多，已有研究大概表示移民的环境暴露更多。移民问题在不远的未来一定会成为人口达峰的发达经济体无法回避的问题，定量环境暴露差异应该对评估移民贡献与政策有帮助。
+
+推荐人：于淼
+
+链接：https://ehp.niehs.nih.gov/doi/10.1289/EHP9855
+
+题目：The Intersection of Immigrant and Environmental Health: A Scoping Review of Observational Population Exposure and Epidemiologic Studies
+
+- 这篇文章关注了新冠核酸测试的环境影响，一次测试大概是 612.9 g 二氧化碳当量，这个参考值对定量衡量政策可行性很有帮助。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.2c04039
+
+题目：Potential Life-Cycle Environmental Impacts of the COVID-19 Nucleic Acid Test
+
+- 这篇文章对比了西安两个时间段里常规监测与基于出租车的移动监测的细颗粒物数据结果区别，很多指标差异明显，倒不一定是哪个更准或更好，可能还是需要更明确的科学问题来使用数据，起码检测装置放出租车上交通或尾气来源的贡献本来就会高，但很多讨论还是很有进一步研究价值的。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.2c02354
+
+题目：Evaluation of City-Scale Disparities in PM2.5 Exposure Using Hyper-Localized Taxi-Based Mobile Monitoring
+
+- 环境学科有个常识，富裕国家生产力高，人均能量消耗要高于贫穷国家，这篇文章补上了下半句，富裕国家的人均能量的利用效率低于贫穷国家。在能源利用上的开源与节流两条路上，发达国家选了浪费。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.2c03462
+
+题目：Energy Intensity of Final Consumption: the Richer, the Poorer the Efficiency
+
+- 这篇观点文章我很认同，很多自动化工具的初衷是让研究人员能关注更重要的事，但不是让外行瞎用。我最近审稿就遇到很多流水线论文，明显望文生义不知道自己在做什么，FDR、鉴定还有背景数据库统统没有，对着低质量结果大肆讨论，很难想象这种文章会给学科进步带来什么益处。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.2c05588
+
+题目：Avoiding the Misuse of Pathway Analysis Tools in Environmental Metabolomics
+
+- 这篇文章发现，全球尺度地表都在变暖，但城市变暖更快。其中提到了中印在城市化进程更快而欧洲则减弱变暖趋势，但我不认为是欧洲绿化做的好，更可能是人口无法支撑城市规模了。
+
+推荐人：于淼
+
+链接：https://www.nature.com/articles/s43247-022-00539-x
+
+题目：Surface warming in global cities is substantially more rapid than in rural background areas
+
+- 气候变化对于牛的选育也有影响而牛的精液质量会随环境温度上升而下降，这篇文章指出要优先去选育温度耐受的品种，或许，未来我们能吃到的牛肉也应该会因此变了风味。
+
+推荐人：于淼
+
+链接：https://www.nature.com/articles/s41598-022-17708-9
+
+题目：Seasonal variation in bull semen quality demonstrates there are heat-sensitive and heat-tolerant bulls
+
+- 这种“没有发现”的发现其实才是研究的常态，很多这样的结果根本就没地方发表，发表了也没有关注度，但不论工作量还是技术手段都跟“有发现”的研究没大区别。
+
+推荐人：于淼
+
+链接：https://www.nature.com/articles/s41598-022-19509-6
+
+题目：No association between prenatal lead exposure and neurodevelopment during early childhood in the Japan Environment and Children’s Study
