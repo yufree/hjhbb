@@ -5648,3 +5648,80 @@ https://pubs.acs.org/doi/10.1021/acs.est.9b02473
 链接：https://www.nature.com/articles/s41598-022-19509-6
 
 题目：No association between prenatal lead exposure and neurodevelopment during early childhood in the Japan Environment and Children’s Study
+
+## 十月 {-}
+
+### 研究动态 {-}
+
+- 这是篇新闻关注度很高的论文，提出了一种“疑罪从有”的污染物判断想法。简单说就是他们拉了个生产全氟化合物的工厂、排放源及污水厂清单，大概接近六万个点，然后从里面找了五百多个站点数据做验证（依赖另一个收集全氟化合物环境调查数据的项目），之后就说这六万个点都可能是排放源。之后新闻就说新研究发现美国遍地全氟化合物，但其实这相当于先射箭后画靶子，验证准确率不可能低了。不过，因为检测成本确实也高，这个思路作为风险评价策略还是有一点价值。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.estlett.2c00502
+
+题目：Presumptive Contamination: A New Approach to PFAS Contamination Based on Likely Sources
+
+- 疫情期间谷歌曾经公布过一组人群流动性数据，这篇研究以此为基础结合了另一个观鸟计划的数据研究了鸟类的行为变化，这项研究关注的是英国数据，研究人员却主要是加拿大人跟美国人，伴随数据开放的趋势，我们应该会看到越来越多的纯数据挖掘研究，从投资收益比来说，单纯雇佣人去采集并公开高质量数据，然后等其它国家有兴趣研究人员来挖掘发表相关论文或报告其实是很不错的资助模式，比单独资助小课题组做区域小研究要划算。英国在这方面算是有先例了，biobank的数据几乎全世界的人都在挖，经济停滞的日本也有类似计划。
+
+推荐人：于淼
+
+链接：https://royalsocietypublishing.org/doi/10.1098/rspb.2021.2740
+
+题目：Avian behaviour changes in response to human activity during the COVID-19 lockdown in the United Kingdom
+
+- 氨氢燃料有望替代可能产生温室效应的化石燃料成为下一代航运能源的主力，这项研究却认为大量使用氨可能扰乱自然界氮循环，感觉人类现在就是对着元素周期表前十位在拆东墙补西墙。
+
+推荐人：于淼
+
+链接：https://www.nature.com/articles/s41560-022-01124-4
+
+题目：Using ammonia as a shipping fuel could disturb the nitrogen cycle
+
+- 联合国发展报告Sustainable Development Goal (SDG) 目标 6.3 是关于污水处理的，这篇研究用模型评估了下发现就算达标很多地方水质也没有足够改善，我好奇翻了下这个目标6.3，发现就下面一句话，核心就是未处理污水减半：
+By 2030, improve water quality by reducing pollution, eliminating dumping and minimizing release of hazardous chemicals and materials, halving the proportion of untreated wastewater and substantially increasing recycling and safe reuse globally
+
+推荐人：于淼
+
+链接：https://www.nature.com/articles/s43247-022-00554-y
+
+题目：Current wastewater treatment targets are insufficient to protect surface water quality
+
+- 我没搞明白文氏图为啥算新东西，文氏图超过四个组就很难看清楚了，现在大趋势是用upset图来直观展示多分组的重叠关系。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.2c02229
+
+题目：A Novel 4-Set Venn Diagram Model Based on High-Resolution Mass Spectrometry To Monitor Wastewater Treatment
+
+- 可解释性机器学习模型确实是可以跟实验学科很好结合的点，但这篇文章里用到的模型牵扯随机过程，即使有实验验证也不好说可以解释机制。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/full/10.1021/acs.est.2c01894
+
+题目：Building Interpretable Machine Learning Models to Identify Chemometric Trends in Seabirds of the North Pacific Ocean
+
+- 传统QSPR喜欢预测已知物保留时间，但非目的分析能检测到的只有保留时间跟碎片离子，这篇直接算了未知物碎片离子的分子描述符，然后用分子描述符来预测EC50而跳过产物鉴定这个没啥实际意义的步骤，终于有人意识到质谱数据分析中产物鉴定及不必要也不充分的地位了。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.2c02536
+
+题目：MS2Tox Machine Learning Tool for Predicting the Ecotoxicity of Unidentified Chemicals in Water by Nontarget LC-HRMS
+
+- NLP发展到现在确实可以到应用领域降维打击，但这篇工作确实太浅了，基本可看作Nvivo 11的一个广告，另外网络分析如果不涉及网络结构属性的定量分析，那就单纯是个可视化手段，谈不上分析。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.2c04683
+
+题目：The Transformation of 40-Year Coastal Wetland Policies in China: Network Analysis and Text Analysis
+
+- 黑炭是最近几年比较火的主题，这篇文章认为黑非洲东部的大气黑炭来源是区域性草原火灾，主要实验证据是碳的稳定同位素与放射性同位素，占比超过95%，远高于世界其他地区。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.2c05837
+
+题目：Atmospheric Black Carbon Loadings and Sources over Eastern Sub-Saharan Africa Are Governed by the Regional Savanna Fires
