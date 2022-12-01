@@ -5725,3 +5725,79 @@ By 2030, improve water quality by reducing pollution, eliminating dumping and mi
 链接：https://pubs.acs.org/doi/10.1021/acs.est.2c05837
 
 题目：Atmospheric Black Carbon Loadings and Sources over Eastern Sub-Saharan Africa Are Governed by the Regional Savanna Fires
+
+## 十月 {-}
+
+### 研究动态 {-}
+
+- 这篇文章追踪了378人跨越10年的智能手机位置信息，其实最后只有61个人的数据，跨越10年的就更少了，但这种位置信息确实可以配合监测数据给出个人更准的暴露水平，之前都是依赖家庭地址数据，确实可以做很多有意思的研究，我最先想做的就是看看平时活动范围广的人是否更容易受传染病影响，如果是，先给他们打疫苗会不会能在早期阻断传染病大流行。
+
+推荐人：于淼
+
+链接：https://doi.org/10.1289/EHP10829
+
+题目：Bring Your Own Location Data: Use of Google Smartphone Location History Data for Environmental Health Research
+
+- 这篇文章介绍了快速检测铅的方法，有意思的是背后的香料问题，姜黄现在是被追捧的保健品，也是南亚人日常饮食中不可或缺的调料，但为了让颜色更黄会有人往里加铬酸铅，这一度直接提高了孟加拉人的血铅水平，也算是科技与狠活了。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.2c03241
+
+题目：Assessing Analytical Methods for the Rapid Detection of Lead Adulteration in the Global Spice Market
+
+- 这篇论文介绍了在俄塞俄比亚进行的一个饮用水净化实验。目前净化水最便宜的方法并不是氯，而是用日光照2L的透明塑料瓶来进行消毒，然而2L瓶子都不够一人一天喝的，推广有问题，而当地最流行的是20-25L的黄色塑料桶，考虑到当地日光紫外线强度高于2L瓶子标准方案的设计，于是研究人员把2L瓶子换成了25L透明塑料桶进行了随机对照实验，结果发现降低了当地儿童腹泻情况。这种研究方案可能不新颖，甚至都不能蹭微塑料的热点，但其实对于贫穷地区更有意义。
+
+推荐人：于淼
+
+链接：https://www.nature.com/articles/s41598-022-23709-5
+
+题目：Solar water disinfection in large-volume containers: from the laboratory to the field. A case study in Tigray, Ethiopia
+
+- 应对气候变化上不仅仅人在出力，这篇研究发现美国西部河狸自发建立了更多的水坝来平衡掉极端气候的影响，还改善了水质，自然界不用写论文或扯皮，他们直接行动来应对变化。
+
+推荐人：于淼
+
+链接：https://www.nature.com/articles/s41467-022-34022-0
+
+题目：Beaver dams overshadow climate extremes in controlling riparian hydrology and water quality
+
+- 这篇观点文章讨论了当前对多氯联苯的一些误解，其实把里面多氯联苯换成其他卤代持久性有机污染物也基本成立，这些东西禁止只是个起点，其持久性会让其影响很长时间。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/full/10.1021/acs.est.2c07943
+
+题目：Common Misconceptions about PCBs Obscure the Crisis of Children’s Exposure in School
+
+- 扑热息痛或对乙酰水杨酸在过去两年大流行里应该没少用，这篇文章用计算和实验发现其在氯消毒过程中会生成二聚体等多种分子量更大的产物，其实一直来都认为水处理氧化降解会最终矿化有机物为二氧化碳，但也许在过程中也会形成更稳定的分子多聚体。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.2c06394
+
+题目：Formation of Larger Molecular Weight Disinfection Byproducts from Acetaminophen in Chlorine Disinfection
+
+- 这项工作利用基因魔剪（CRISPR/Cas9）验证了水稻里的铅转运蛋白，这种研究比较难的点在于如何定位到候选蛋白，这篇论文是看到了该蛋白在转运锰与镉上的作用后进行的推测，这里其实可以引入组学方法来生成假设。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/abs/10.1021/acs.est.2c06384
+
+题目：OsNRAMP5 Is a Major Transporter for Lead Uptake in Rice
+
+- 这项研究发现烟碱类农药及其代谢产物可以畅通无阻穿过胎盘屏障，这个过程是被动的且与结构有关。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/full/10.1021/acs.est.2c06091
+
+题目：Neonicotinoid Insecticides and Their Metabolites Can Pass through the Human Placenta Unimpeded
+
+- 这篇文章有点莫名其妙，PCP常用来做动态检测，放到环境截断数据里找模式实在不知道想解决啥科学问题，另外环境截断数据经常用一半或开根号的检出限肯定有问题，但考虑到痕量检测不确定度其实也可以接受，拿PCP预测一个值然后用这个作为新模式发现估计环境化学背景的人看不懂啥是模式跟仿真，就算有代码也不知道咋用，而且实话说就是个svd分解。
+
+推荐人：于淼
+
+链接：https://pubmed.ncbi.nlm.nih.gov/36416734/
+
+题目：Principal Component Pursuit for Pattern Identification in Environmental Mixtures
