@@ -5801,3 +5801,87 @@ By 2030, improve water quality by reducing pollution, eliminating dumping and mi
 链接：https://pubmed.ncbi.nlm.nih.gov/36416734/
 
 题目：Principal Component Pursuit for Pattern Identification in Environmental Mixtures
+
+## 十二月 {-}
+
+### 研究动态 {-}
+
+- 这是第一篇带千人以上母婴对照且完整公开暴露与分子水平多组学数据的暴露组学研究，而这个HELIX项目可能也是欧洲标杆式的暴露组学项目，虽然数据分析方面就做了个单对单的暴露-分子相关性分析，但很多地方值得借鉴，例如纳入了流行病学常用的敏感度分析、网络分析、荟萃分析等方法，很多章节单独都可以发不错的论文，最重要的是所有数据目前完全公开，想做二次方法开发可以拿来直接用。同样的，数据公开的受益方其实还是被研究的群体，相当于让全世界的暴露组学研究人员来协助发现这个人群中存在的问题。
+
+推荐人：于淼
+
+链接：https://www.nature.com/articles/s41467-022-34422-2
+
+题目：Multi-omics signatures of the human early life exposome
+
+- 这是篇很短的文章，报道了在人脑脊液中发现了新烟碱与其代谢物。脑脊液是不错的研究神经毒性污染物的载体，就是取样不太方便。
+
+推荐人：于淼
+
+链接：https://ehp.niehs.nih.gov/doi/10.1289/EHP11374
+
+题目：Detection of Neonicotinoid Insecticides and Their Metabolites in Human Cerebrospinal Fluid
+
+- 这项研究发现了一个典型环境化学问题，季节性氮水平会影响饮用水里铅连接处腐蚀，文中也讨论了磷的影响（比氮影响小），看起来微生物矿化可能是一个原因。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.estlett.2c00581
+
+题目：Seasonal Fluctuations in Nitrate Levels Can Trigger Lead Solder Corrosion Problems in Drinking Water
+
+- 这项研究发现直接用分子描述符预测毒性分类等级比先预测EC50后预测毒性要更准些，这是当前比较流行的端到端预测，另外就是这篇文章编程部分用到了Julia，这个高级编程语言非常有潜力。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.2c07353
+
+题目：From Molecular Descriptors to Intrinsic Fish Toxicity of Chemicals: An Alternative Approach to Chemical Prioritization
+
+- 环境移动监测在我看来属于魔法级技术，展示定点连续监测的空间分布已经是挑战了，移动连续监测相当于对其进行时间序列采样，空间维度上数据极为稀疏，这项研究讨论了影响因素，作者给的建议是多停几站多些数据点，但那样移动连续监测其实就成半定点监测了，估计考虑上地表其他局部因素来建模会好些，否则数据可能得不出有意义的结果。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.2c05338
+
+题目：Impact of Mobile Monitoring Network Design on Air Pollution Exposure Assessment Models
+
+- 这项研究考察了老龄化对细颗粒物防控效果的影响，基本逻辑是虽然细颗粒物浓度下降会减少健康开支，但老龄化本身提高了细颗粒物的开支。因此虽然细颗粒物浓度下降了，但我们因此付出的代价依然不小。换句话说，如果老龄化的人口空气质量达不到优秀，那么跟相对年轻的人口不达标的空气质量相比经济医疗开支可能差不多。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/full/10.1021/acs.est.2c05386
+
+题目：Population Aging Driven Slowdown in the Reduction of Economic Cost-Attributed to PM2.5 Pollution after 2013 in China
+
+- 这应该是我看到的第一篇国内研究使用WQS的进行多暴露研究，另外也应该是国内环境化学领域第一篇使用因果推断研究氧化应激标记物的中介作用的文章，推荐读一下拓展下思路。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.2c06488
+
+题目：Co-Exposure to Bisphenols, Parabens, and Antimicrobials and Association with Coronary Heart Disease: Oxidative Stress as a Potential Mediating Factor?
+
+- 这项研究发现污水处理厂三级处理或许能去除更多污染物，但却可能提高处理后水的微生物抗生素抗性。这类文章属于技术难度不高但视角比较新的想法验证工作，其实可以做些新冠病毒相关研究。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.2c06168
+
+题目：Tertiary Wastewater Treatment Processes Can Be a Double-Edged Sword for Water Quality Improvement in View of Mitigating Antimicrobial Resistance and Pathogenicity
+
+- 有时候真是感觉隔行如隔山，环境纳米毒理学的学者认为纳米材料对植物暴露有毒性影响，而农业学者则把纳米金属颗粒当农药或混进肥料里促进吸收，经过计算发现比传统农药效率更高。我觉得有必要让这两波学者坐一起辩论，谁数据硬经费就给谁。
+
+推荐人：于淼
+
+链接：https://www.nature.com/articles/s43016-022-00665-x
+
+题目：Benefit of nano-enabled agrochemicals
+
+- 这项研究发现古长城建材的变化反映了西北地区绿洲的变化。从分子视角研究历史比看历史记录靠谱多了，现在更多关注同位素或元素组成的部分，说到底还是原子视角，想从分子视角研究没准可以上下组学技术，开拓一个考古组学。
+
+推荐人：于淼
+
+链接：https://www.nature.com/articles/s41598-022-27071-4
+
+题目：Ancient Great Wall building materials reveal environmental changes associated with oases in northwestern China
