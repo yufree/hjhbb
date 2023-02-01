@@ -5885,3 +5885,80 @@ By 2030, improve water quality by reducing pollution, eliminating dumping and mi
 链接：https://www.nature.com/articles/s41598-022-27071-4
 
 题目：Ancient Great Wall building materials reveal environmental changes associated with oases in northwestern China
+
+## 一月 {-}
+
+### 研究动态 {-}
+
+- 这是一篇非常科学原教旨主义的观察式论文，简单说就是用共聚焦显微镜观察并重构了细颗粒物的3D结构，发现边缘比较尖。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.estlett.2c00649
+
+题目：3D Imaging of Roadside and Underground Railway Particulate Matter Structures
+
+- 这篇文章发现母亲锗暴露会提高胎儿神经管缺陷的患病风险，不管是锗还是神经管缺陷都很偏门，比较好奇怎么想到对这个暴露-疾病组合进行检验的。现在看到很多文章会把两个东西放一起做相关然后做验证，但很少提及自己怎么想到的或将其模糊化，如果能公开思路那么对科研推动更明显。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.estlett.2c00964
+
+题目：First Evidence on the Adverse Effect of Maternal Germanium Exposure on Fetal Neural Tube Defects
+
+- 这篇文章介绍了一个有意思的现象，过去研究发现拉丁裔美国人虽然比较穷，但身体比美国白人更健康，这个悖论持续大概三十年，最近研究发现这个悖论又消失了，文章讨论了其中环境对健康的影响。
+
+推荐人：于淼
+
+链接：https://ehp.niehs.nih.gov/doi/10.1289/EHP11618
+
+题目：Paradox Lost? The Waning Health Advantage among the U.S. Hispanic Population
+
+- 这篇文章觉得区块链技术太耗电，碳排放太高，就提出另一种证明方式，大概就是原来哈希值算零的方法改成堆栈加权随机分发，这样节能99%，这是我在环境期刊看到第一个技术类区块链文章，很好奇咋找的审稿人，这个算法明显安全性不高。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/abs/10.1021/acs.est.2c05165
+
+题目：Confronting the Carbon-Footprint Challenge of Blockchain
+
+- 这篇文章关注了夜间氮氧化物，发现中国14-19年是增高的，但与此同时世界其他国家是降低的，而夜间氮氧化物对于第二天的空气污染有很强指示性。
+
+推荐人：于淼
+
+链接：https://www.nature.com/articles/s41561-022-01122-x
+
+题目：Increased night-time oxidation over China despite widespread decrease across the globe
+
+- 这篇文章对比美国EPA的空气监测与传感器实时监测，认为可以用便宜的传感器替代空气监测站来实时监测空气质量，r策略替代k策略。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/abs/10.1021/acs.est.2c06626
+
+题目：Investigating Use of Low-Cost Sensors to Increase Accuracy and Equity of Real-Time Air Quality Information
+
+- 这篇文章在18个不抽烟的人的气管肺泡灌洗液里检测并发现了微塑料，有点好奇微塑料跟PM2.5里有机颗粒的交集有多少了。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.2c06880
+
+题目：Evidence of Microplastics in Bronchoalveolar Lavage Fluid among Never-Smokers: A Prospective Case Series
+
+- 这篇文章提出调节氯化过程来抑制六价铬在饮用水管道中的释放，很好奇做消毒副产物的会怎么看？会不会两边又要打一架。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.2c05324
+
+题目：Inhibition of Hexavalent Chromium Release from Drinking Water Distribution Systems: Effects of Water Chemistry-Based Corrosion Control Strategies
+
+- 这篇文章综述了堆肥过程中温室气体与污染物的排放，很类似考察活性污泥水处理厂的温室气体排放，资源化利用跟污染很多时候可以同时出现在一件事上。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.2c05846
+
+题目：Greenhouse Gas and Air Pollutant Emissions from Composting
+
