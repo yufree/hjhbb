@@ -5962,3 +5962,86 @@ By 2030, improve water quality by reducing pollution, eliminating dumping and mi
 
 题目：Greenhouse Gas and Air Pollutant Emissions from Composting
 
+## 二月 {-}
+
+### 研究动态 {-}
+
+- 这篇文章用同位素技术详细评估了用博物馆鱼标本重构汞污染的进程，认为存在一些需要注意的地方，例如容器本身或同容器其他野生鱼的无机汞污染，但甲基汞似乎比较稳定。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.estlett.3c00009
+
+题目：Can Preserved Museum Specimens Be Used to Reconstruct Fish Mercury Burden and Sources through Time?
+
+- 这是哈佛大学公卫学院的新闻通稿，说的是他们的研究人员如何利用苹果手机应用来推进妇女健康研究，科技公司与研究机构的合作是很容易产生共赢结果的，国内大概十年前就出现过一波科技公司搞家用空气监测设备的新闻，但很少看到相关研究，估计还是缺乏互信机制。
+
+推荐人：于淼
+
+链接：https://www.hsph.harvard.edu/news/features/apple-womens-health-study-advances-understanding-of-menstrual-cycles-and-health/
+
+题目：Apple Women’s Health Study advances understanding of menstrual cycles and health
+
+- 2018年，美国加州28号法案禁用了畜牧业抗生素，这篇文章评估了前后人尿样中大肠杆菌抗生素抗性的变化，结果上看头孢类有所下降，氨基糖甙类、氟喹诺酮类和四环素类抗性变化不明显，这篇文章指出了因果分析可能对类似研究很重要，但我觉得抗生素抗性问题在畜牧业全球化背景下很难被地方政策所解决，虽然加州也是农业大省，但人们如果都是当地产的食物经济上不现实。
+
+推荐人：于淼
+
+链接：https://ehp.niehs.nih.gov/doi/10.1289/EHP11221
+
+题目：Impact of a Statewide Livestock Antibiotic Use Policy on Resistance in Human Urine Escherichia coli Isolates: A Synthetic Control Analysis
+
+- 这是用丹麦全国尺度队列研究交通噪声与耳鸣的关系，证据也比较直接，属于很经典的单暴露对单疾病假设检验的环境健康研究，与经典方法对应的就是多暴露对多疾病的探索发现式暴露组学研究，从经费使用效率上组学会高一些，但要谨防摘樱桃式用组学筛的结果当经典方法报道，要明确区分探索式研究与验证式研究，不然就会出现拿探索式结果当被验证的结论用，目前其实已经看到很多文章在用这个套路了。
+
+推荐人：于淼
+
+链接：https://ehp.niehs.nih.gov/doi/10.1289/EHP11248
+
+题目：Transportation Noise and Risk of Tinnitus: A Nationwide Cohort Study from Denmark
+
+- 这又是一篇国内利用NHANES公开数据发的文章，感觉美国这公开数据赚大了，国内应该尽早对标NIH创建类似机构来组织相关研究与数据收集工作，不然花中国纳税人钱研究美国人群数据的结论在国内也不一定准。不过这篇文章读起来还是有点问题的，文章通过内分泌干扰物几何平均值定义了高暴露与低暴露，然后去讨论其与死亡率关系，最后做出一个EDCs贡献56.52%死亡人数的结论，虽然这对环境化学申请经费有帮助，但属于典型相关不代表因果了，另外用死亡人数乘人均GDP（不严谨，此处计算也包括非市场贡献）来定义经济损失也有点过于简化了。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.2c07611
+
+题目：Association of Endocrine-Disrupting Chemicals with All-Cause and Cause-Specific Mortality in the U.S.: A Prospective Cohort Study
+
+- 也就Hites能用这种标题党写文章，不过在美国纯粹环境调查类文章已经越来越少见了，这两年NIH跟EPA很多项目其实已经在线公开了不少常规污染物的全国尺度监测数据（养活了很多公共卫生与流行病学课题组），所以除非新污染物或新视角，相关方法类或现状调查类文章已经很难被关注了。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.2c08318
+
+题目：Good News: Some Insecticides Have Been Virtually Eliminated in Air near the Great Lakes
+
+- 额，这篇偏工程，对工艺开发是有点启发性的，但模型在验证集上表现太差了，这种情况用AutoML就行，自己去选模型大概率搞出个过拟合的玩具模型，而且这篇文章没办法反向生成新工艺参数做测试，工程实践也完全没法用。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.2c05404
+
+题目：Understanding and Designing a High-Performance Ultrafiltration Membrane Using Machine Learning
+
+- 这篇文章模拟了化学武器攻击、家庭非法药物检测还有工厂泄漏三个场景下用非目的分析如何在三天之内锁定原因，这活是美国环保署做的，像是在给安捷伦卖仪器，也算是开发了没有问题创造问题发文章的新思路。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.2c06804
+
+题目：Demonstrating the Use of Non-targeted Analysis for Identification of Unknown Chemicals in Rapid Response Scenarios
+
+- 这篇文章讨论了煮意大利面加碘盐会产生消毒副产物的问题，视角非常刁钻，不过我这个中国胃煮意面从来都不放盐当面条吃，但我水煮豆腐放盐，不知道能不能写一篇中式炖煮过程中消毒副产物的生成问题讨论，反正只要关注自来水跟碘盐就可以了。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.2c05234
+
+题目：Overlooked Iodo-Disinfection Byproduct Formation When Cooking Pasta with Iodized Table Salt
+
+- 这篇文章用皮肤模型考察了京剧涂脸油彩的健康风险，特别考虑了舞台强光产生的活性氧，其实思路可以再开阔些，扩展到主持人、话剧演员啥的应该都有类似问题，浓妆跟油彩应该也差不了多少。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.2c03595
+
+题目：Insights into Health Risks of Face Paint Application to Opera Performers: The Release of Heavy Metals and Stage-Light-Induced Production of Reactive Oxygen Species
