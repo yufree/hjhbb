@@ -6045,3 +6045,77 @@ By 2030, improve water quality by reducing pollution, eliminating dumping and mi
 链接：https://pubs.acs.org/doi/10.1021/acs.est.2c03595
 
 题目：Insights into Health Risks of Face Paint Application to Opera Performers: The Release of Heavy Metals and Stage-Light-Induced Production of Reactive Oxygen Species
+
+## 三月 {-}
+
+### 研究动态 {-}
+
+- 富兰克林罗斯福时期的美国经济大萧条，许多人无法偿还房屋抵押贷款。为了帮助人们保住自己的房子，美国政府成立了房主贷款公司（Home Owners Loan Corporation，HOLC）。其目标是用更优惠的条件（例如更低的利率和更长的还款期）为抵押贷款提供再融资，以帮助人们还款并避免房屋被强制拍卖。这个HOLC 在评估房屋价值的时候，引入了当时种族歧视的观点。比如说同类社区如果黑人比较多，房屋价值就低。HOLC把房屋分成了ABCD四个档次 （部分地区还有第五档E)，房屋价值从高到低。第四档在HOLC发布的地图上通常用红色表示，这些地区除了房价低，还有很多比如犯罪率高、污染严重各种问题，这也是种族问题常说的”红线圈 (redlining）"的由来。
+虽然红线圈已经成为历史，但是不同社区空气质量的差异依然存在。本文研究了HOLC各档次之间与air toxics有关的呼吸系统疾病发病的差异。结果显示被分成C和D的社区, 呼吸系统疾病的发病率显著高于A和B区。这篇文章的数据和方法其实都不新颖。优势是比较了全美国不同城市间的差异，可以看得出来哪些城市的种族平等问题更严重。
+
+推荐人：张雪莹
+
+链接：https://ehp.niehs.nih.gov/doi/full/10.1289/EHP11371
+
+- 总觉得在中国很难开展Environmental justice的研究，因为中国的人种分布并不复杂，即使是少数民族也汉化得厉害。看到这篇文章的标题就觉得挺好奇，Xue Tao他们用什么方法在国内做空气污染不平等分布这类研究。原来是方法上考虑的分组和美国的同类文章不一样：这篇文章按照人群的性别、年龄、居住城市或乡村分类，不同于美国的同类研究按照人种分类。除了方法学上的创新，这篇文章发现从总体来讲，中国的老年人其实比年轻人接触的二氧化氮污染更多，而且受到的影响更大 （是不是和城市人口老龄化有关）。
+
+推荐人：张雪莹
+
+链接：https://pubs.acs.org/doi/abs/10.1021/acs.est.2c08022
+
+- 这篇文章发现6:2 fluorotelomer phosphate diester (6:2 diPAP)在城市污水厂全氟化合物中最多，同时也在厕纸中检测到了，因此推断厕纸可能是城市污水全氟化合物主要来源。我感觉论证不够充分，只算了厕纸单一化合物的贡献而且没详细讨论不确定性，如果把厕纸换成肥皂、洗发水、剃须泡沫这些也含有全氟化合物的东西进行分析逻辑也是通的，需要更仔细细致的研究。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.estlett.3c00094
+
+题目：Per- and Polyfluoroalkyl Substances in Toilet Paper and the Impact on Wastewater Systems
+
+-  暴露组学搞一个“万物相关”的大项目，把同一人群所有暴露跟所有疾病做个成对的相关分析，然后这种单一暴露对单一结果的基于假设检验的队列研究就没必要做了。毕竟假设可以无穷无尽，能做出相关效果的统计方法也无穷无尽，组学对环境健康研究最大的冲击就在于其会去考察不同暴露的贡献，这也有利于筛出优先关注的内容直接去进行机理探索。如果继续坚持做点对点研究，很容易捡了芝麻丢了西瓜，在p值上搞手段。
+
+推荐人：于淼
+
+链接：https://ehp.niehs.nih.gov/doi/10.1289/EHP11587
+
+题目：Suicide and Transportation Noise: A Prospective Cohort Study from Switzerland
+
+-  Biobank是英国一个对固定人群长期追踪并收集生物样品测试并采集数据的项目，可以不正确理解成英版NHANES，不过这个获取数据是要写申请并要收费的，但数据质量也很高，然后研究出的结论适用于英国人，不愧是老牌资本主义国家，属实商业思维拉满，加拿大还有个EMHS数据集也是类似情况，而这篇研究又是国内课题组做的，只能假定欧美人的结论可以忽略基因生活习惯差异套用在亚洲人上，这也会导致一些问题，例如当前建筑内空调最适温度就是按中年男性体感设计的，结果女性普遍会感到冷一些。
+
+推荐人：于淼
+
+链接：https://ehp.niehs.nih.gov/doi/10.1289/EHP10710
+
+题目：Association of Combined Exposure to Ambient Air Pollutants, Genetic Risk, and Incident Rheumatoid Arthritis: A Prospective Cohort Study in the UK Biobank
+
+- 这篇文章讨论了ChatGPT在环境研究中的应用问题，SI是亮点，给出很多应用案例，最后一个用ChatGPT配合Midjourney生成图片可以用来绘制文章的图形摘要。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.3c01818
+
+题目：ChatGPT and Environmental Research
+
+- 这篇文章关注了当建筑关闭一段时间重新启用时用什么样的水冲洗可以提高水质，有这个问题主要是疫情反复下很多学校办公楼会被关闭或人流量下降，此时供水系统更容易出现细菌污染的情况，这项研究考察了不同来源水冲洗的效果，发现差距并不大，而且也就一周左右微生物种群就恢复了。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.2c08123
+
+题目：Flushing Temporarily Improves Microbiological Water Quality for Buildings Supplied with Chloraminated Surface Water but Has Little Effect for Groundwater Supplies
+
+- 这篇文章讨论了俄乌冲突对水资源及水利设施的影响，其实这算是副作用，埃塞俄比亚、苏丹还有埃及围绕尼罗河复兴大坝那个争端才真有可能引发水资源战争，眼下非洲正经历人口大爆炸，相关可持续发展议题可能在未来十年引发高度关注。
+
+推荐人：于淼
+
+链接：https://www.nature.com/articles/s41893-023-01068-x
+
+题目：Impact of the Russia–Ukraine armed conflict on water resources and water infrastructure
+
+- 这篇文章指出即使达到食品安全标准的大米也依然会有来自重金属方面的健康风险。我读了下里面主要用了一种概率-模糊分析的方法进行的风险评价，我倒觉得模糊数学可以帮我们改造下p值的滥用问题。
+
+推荐人：于淼
+
+链接：https://www.nature.com/articles/s43247-023-00723-7
+
+题目：Heavy metal concentrations in rice that meet safety standards can still pose a risk to human health
+
