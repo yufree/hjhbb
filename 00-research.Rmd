@@ -6119,3 +6119,96 @@ By 2030, improve water quality by reducing pollution, eliminating dumping and mi
 
 题目：Heavy metal concentrations in rice that meet safety standards can still pose a risk to human health
 
+## 四月 {-}
+
+### 研究动态 {-}
+
+- 这是篇典型探索式研究的追踪，在之前研究中用在线数据库与实验室验证发现了过敏性皮炎跟异氰酸酯的关系，这篇研究则进一步关注了没有异氰酸酯暴露地区的污染物与疾病关系，然后发现了锑（Sb）存在相关性并用之前的实验套路进行了验证，用统计学思路讲就是不断从残差里探索规律，直到残差变成随机数。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.estlett.3c00142
+
+题目：Antimony Compounds Associate with Atopic Dermatitis and Influence Models of Itch and Dysbiosis
+
+- 恰好最近我也在做质谱成像，这篇可以说真的就只成了像，而且更像是在构建方法，质谱成像最大优势在于可以引入空间统计方法来讨论空间异质性与实际问题的联系，这里的样品是混凝土芯，应该配合混凝土材料讨论才更有实际意义，搞清楚哪种材料更容易吸附全氟化合物及其风险。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.estlett.3c00211
+
+题目：Visualization of the Distribution of PFOS and PFHxS in Concrete by DESI MSI
+
+- 这篇文章发现甜味剂三氯蔗糖跟PFAS在污水厂与自来水厂中浓度存在相关性，三氯蔗糖属于常见污水厂指示物，感觉可以成为一个做因果分析的好案例，期待进一步残差研究。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.estlett.3c00185
+
+题目：Sucralose and Predicted De Facto Wastewater Reuse Levels Correlate with PFAS Levels in Surface Waters
+
+- 这篇论文介绍了气候变化对全球耕地氮利用存在不平衡的影响，刚过去的世界地球日我在科普中国上发过一篇关于地球承载力的文章就涉及这个主题，事实上气候变化不仅仅影响氮肥利用率，也会改变农产品的营养组成。这个主题千头万绪，唯一不变的是我们对可能产生的变化了解还很有限，而且涉及机会公平问题。
+
+推荐人：于淼
+
+链接：https://www.nature.com/articles/s43016-023-00730-z
+
+题目：Climate change unequally affects nitrogen use and losses in global croplands
+
+科普中国文章：https://cloud.kepuchina.cn/newSearch/imgText?id=7048749042305814528 （地球到底可以承载多少人口？）
+
+- 这项研究考察了1700年以来土地利用变化与大象栖息地不断缩小碎片化的现象，可以作为当年西双版纳大象出走新闻的参考，人类在报道时会说大象侵入村庄，但大象可能会认为这是自古以来他们的领地。
+
+推荐人：于淼
+
+链接：https://www.nature.com/articles/s41598-023-30650-8
+
+题目：Land-use change is associated with multi-century loss of elephant ecosystems in Asia
+
+- 半年前南非的一座钻石矿山大坝垮了，当地研究人员用公开遥感数据探索了大坝的变化，发现了从工程建设开始就存在各种不合规问题，有必要将公开遥感数据直接对接一个智能监工系统，自动化预警大工程的违规行为。另外，现在人造钻石最大都能做一百多克拉的了，很多珠宝商都闭口不谈自己是天然还是人工了（区别不出来，人造品质更高），为啥还有人会去买这种硬碳蛋子？
+
+推荐人：于淼
+
+链接：https://www.nature.com/articles/s41598-023-31633-5
+
+题目：Public remotely sensed data raise concerns about history of failed Jagersfontein dam
+
+- 这篇文章未来可能会被环境健康领域大量引用，文章证明了肺癌的发展过程被细颗粒物的免疫炎症促进，而这一过程不涉及引发更多突变，这是传统认为环境先影响基因后促进癌症的范式的一个反例，指出了环境暴露会直接促进癌症。
+
+推荐人：于淼
+
+链接：https://www.nature.com/articles/s41586-023-05874-3
+
+题目：Lung adenocarcinoma promotion by air pollutants
+
+- 这篇文章报道了一种塑料覆盖岩石的复合体，可能成为微塑料来源，这让我嘴角不自觉上扬，想起了1818黄金眼的肉太岁。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.3c00662
+
+题目：Plastic–Rock Complexes as Hotspots for Microplastic Generation
+
+- nature发了篇社论，指出非洲联盟提出的绿色长城计划实现概率正变得越来越低。2007以来，这个项目开了无数的峰会，出了无数的论文论证正面效益，但目前项目几乎停滞或者说最需要的国家没有得到应有帮助。我国三北防护林英文名也是绿色长城，2050年建成也会是世界最大绿色工程，不过从今春的沙尘暴及舆论反馈来看，还存在很多需要解决的问题。
+
+推荐人：于淼
+
+链接：https://www.nature.com/articles/d41586-023-01293-6
+
+题目：Is Africa’s Great Green Wall project withering?
+
+- 这篇文章考察了增材制造（AM）的环境影响，没关系，我初看也不知道啥是增材制造，问了下AI，告诉我跟3D打印差不多一个概念，没有从设计到产品生产的额外环节，文章认为对小批量生产或小件产品环境友好且受技术等条件制约。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/full/10.1021/acs.est.2c04927
+
+题目：Is Additive Manufacturing an Environmentally and Economically Preferred Alternative for Mass Production?
+
+- 虽然没看出这篇研究有啥新意，而且很多环节还过时了，但能在环境顶刊推广开放科学概念就值得友情推荐一下。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.2c08200
+
+题目：Nontarget Analysis of Polluted Surface Waters in Bangladesh Using Open Science Workflows
