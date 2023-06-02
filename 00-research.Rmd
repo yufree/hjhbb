@@ -6212,3 +6212,79 @@ By 2030, improve water quality by reducing pollution, eliminating dumping and mi
 链接：https://pubs.acs.org/doi/10.1021/acs.est.2c08200
 
 题目：Nontarget Analysis of Polluted Surface Waters in Bangladesh Using Open Science Workflows
+
+## 五月 {-}
+
+### 研究动态 {-}
+
+- 挺有意思的仿真研究，用有限元方法仿真城市里风对不同树型的影响，对城市规划有参考价值，不过咋感觉虚幻5引擎也可以拿来做这种研究？
+
+推荐人：于淼
+
+链接：https://www.nature.com/articles/s41598-023-34071-5
+
+题目：Investigating the effects of wind loading on three dimensional tree models using numerical simulation with implications for urban design
+
+- 这篇文章指出中国食品系统一半的温室气体排放是在生产环节，但更有意思的是里面提及的各省排放模式的区别，发达地区会把土地用来进行附加值更高的工业生产从不发达地区进口粮食，这反而提高了不发达地区温室气体排放，相当于负债，感觉各省之间应该尽早尽快做出生产排放温室气体的详细数据，然后通过经济金融手段来让搭便车获利的群体付出应有的税费，否则欠发达地区的人一定会用脚投票出无人区或无人农业。
+
+推荐人：于淼
+
+链接：https://www.nature.com/articles/s43247-023-00809-2
+
+题目：Half of the greenhouse gas emissions from China’s food system occur during food production
+
+- 这篇评论提示要用好城市污水监测来为美国的药物滥用提供参考，国内目前的第二波新冠其实已经开始了，各地级市如果能对此做出污水监控，也可以有效提高医疗资源的效用并对公众作出预警，毕竟污水指标上升要早于临床诊断几天，而那几天正好是传播最快的时候。
+
+推荐人：于淼
+
+链接：https://www.nature.com/articles/s44221-023-00082-9
+
+题目：Wastewater-based monitoring could help guide responses to the USA opioid epidemic
+
+- 这是一组很适合作为课程大作业的数据，里面有三个欧洲城市两年间85种传感器收集的数据，而且又跨了疫情，可以拿来设计很多题目与考察角度。
+
+推荐人：于淼
+
+链接：https://www.nature.com/articles/s41597-023-02135-w
+
+题目：SensEURCity: A multi-city air quality dataset collected for 2020/2021 using open low-cost sensor systems
+
+- 这也算是篇占码头的文章，Emory派算是很早洞察代谢组学的环境应用前景的，只是到现在纯代谢组的山头不认那一套，环境这边做这个方向大都又是做非目的分析出身，还牵扯EPA跟NIEHS之间一些重复造轮子的旧事，不过一个学科里还有派别是还不成熟的表现，有机会写篇武侠风格的文章调侃下。
+
+推荐人：于淼
+
+链接：https://ehp.niehs.nih.gov/doi/10.1289/EHP11851
+
+题目：A State-of-the-Science Review on High-Resolution Metabolomics Application in Air Pollution Health Research: Current Progress, Analytical Challenges, and Recommendations for Future Direction
+
+- 这是篇新闻关注度比较高的综述，主要原因可能是季铵类消毒液在疫情期间的大量使用，真的是走狗烹，良弓藏，这大流行刚宣布结束，马上就开始说环境危害了，估计里面提到的挑战又能养活一堆课题组了。另外，这作者也太多了吧，均下来一人也就写了几百字，建议贡献内容不超过一千字的就放致谢吧，不然我猜编辑找审稿人时都头疼，把圈内人全列成作者这也没法审啊。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.2c08244
+
+题目：Quaternary Ammonium Compounds: A Chemical Class of Emerging Concern
+
+- 这篇文章的中介分析值得商榷，如果因果图是对的，那么贡献率太低，但我感觉很多健康指标其实是肥胖的结果而不是原因，同时很多指标可能是重金属指标异常的原因，这里直接假设重金属跟肥胖的关系我认为欠考虑。本质上，分子层面只可以放在宏观指标间做机理假设，或者做工具变量，拿来做中介分析非常怪，有循环论证嫌疑。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.2c09464
+
+题目：Why Do People Gain Belly Fat in Rural Areas? A Study of Urinary Metal(loid)s and Abdominal Obesity in China
+
+- 这篇文章认为切菜的聚丙烯菜板可能产生食物中微塑料成为被忽略的暴露源。按我观察，西式饮食基本用不上菜板，中式厨房菜板是木头的，而家里用塑料菜板的，大都吃外卖。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/abs/10.1021/acs.est.3c00924
+
+题目：Cutting Boards: An Overlooked Source of Microplastics in Human Food?
+
+- 这篇文章对当前主流机器学习与深度学习模型的可解释性进行了综述，这里我再强调一下，传统机器学习的特征值都是已知且作为输入，深度学习会利用神经网络自主学习数据中的特征，而且里面可解释性里还有细分种类或较为通用的夏普利值或lime，感觉作者自己也是看着文章里的方法总结分类而不是系统了解过当前模型可解释性的研究概况。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.3c00653
+
+题目：Advancing Computational Toxicology by Interpretable Machine Learning
