@@ -6288,3 +6288,79 @@ By 2030, improve water quality by reducing pollution, eliminating dumping and mi
 链接：https://pubs.acs.org/doi/10.1021/acs.est.3c00653
 
 题目：Advancing Computational Toxicology by Interpretable Machine Learning
+
+## 六月 {-}
+
+### 研究动态 {-}
+
+- 这篇文章通过生化模型模拟发现，按当前行为规范，扩大有机农业可能造成土壤有机碳汇的减少。说到底有机农业的产率跟能量利用率都比不上化肥农药主导下的农业，斯里兰卡政府为此默默点了个赞。
+
+推荐人：于淼
+
+链接：https://rdcu.be/dfMQd
+
+题目：Soil organic carbon stocks potentially at risk of decline with organic farming expansion
+
+- 大坝的生态影响属于周期性话题，隔几年就会讨论一次，不过新闻都是针对很大的大坝输出，这篇研究关注了美国所有中型水坝，发现其提高了河流的碎片化水平。另外，这篇稿件公开了实名同行评议的内容，可以作为小NC审稿人水平的参考。
+
+推荐人：于淼
+
+链接：https://rdcu.be/dfMQU
+
+题目：The evolution of dam induced river fragmentation in the United States
+
+- 威廉·透纳跟莫奈都是19世纪的印象派画家代表，活的也够长，这项工作分析了百份画作中对比度差异并与当时当地的二氧化硫浓度构建了模型，发现这些画能很好反映出当地污染水平。说起来，最近二十年伴随智能手机普及，每个人手机里根本不看但舍不得删的照片里也保留了这些信息，不知道会不会有人拿这个发文章，起码写个侦探小说。先别急，这篇年初的文章已经收获两个一正一反两个评论（文章主页有链接），一个说这两个画家特别喜欢画雾，另一个则说这是他们作画风格的改变跟污染没关系，这就是研究要读合订本的意义。
+
+推荐人：于淼
+
+链接：https://www.pnas.org./doi/abs/10.1073/pnas.2219118120
+
+题目：Paintings by Turner and Monet depict trends in 19th century air pollution
+
+- 这项工作关注了阳光暴露下隐形眼镜释放微塑料的现象，里面用的暴露量是按全球日均水平辐照度算的。额，人眼用这个算是不是太高了，一来我们有眼皮与眨眼，二来大部分人接触的也是灯光而不是日光，日光下也不大可能直视，眼睛暴露的大都是散射光。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.3c01601
+
+题目：High-Content Screening Discovers Microplastics Released by Contact Lenses under Sunlight
+
+- 这是篇纯生态毒理的综述，讨论了药物对鱼的影响及考虑的因素，里面提到的药物活性成分（API）概念其实也对应了效应引导分析的研究思路，只不过一个是筛已知成分，一个是先测活性来找到API后再定性。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/full/10.1021/acs.est.2c09576
+
+题目：Factors Determining the Susceptibility of Fish to Effects of Human Pharmaceuticals
+
+- 超临界流体色谱做非目的分析确实少见，从这篇文章来看特别适合做极性物质或者说代谢物，离子化效率也挺高的。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.3c00120
+
+题目：Supercritical Fluid Chromatography Coupled to High-Resolution Mass Spectrometry Reveals Persistent Mobile Organic Compounds with Unknown Toxicity in Wastewater Effluents
+
+- 这种单纯的文献分析还是挺有意思的，过去50年里环境样品中分析过19,776有CAS号的物质，大部分都是各种优先污染物及其结构类似物，这文章很多图适合放幻灯片里做背景。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.3c00120
+
+题目：How Many Chemicals in Commerce Have Been Analyzed in Environmental Media? A 50 Year Bibliometric Analysis
+
+- DNA加合物组学可以看做DNA官能团修饰的另一种描述，这篇文章声称是第一篇将污染物暴露与DNA修饰连接起来的工作，粗读下论证比较充分，如果可靠，那么我们又多了一种指示环境污染的手段与指标体系。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.3c00499
+
+题目：DNA Adductomics for the Biological Effect Assessment of Contaminant Exposure in Marine Sediments
+
+- 这又是一篇作者列表比题目长的文章，不过内容还是很重要的，讨论了环境样品中微生物抗性基因的定量单位，最后推荐了ARG copy per cell 作为通用单位。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.3c00159
+
+题目：Toward a Universal Unit for Quantification of Antibiotic Resistance Genes in Environmental Samples
