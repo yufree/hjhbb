@@ -6364,3 +6364,79 @@ By 2030, improve water quality by reducing pollution, eliminating dumping and mi
 链接：https://pubs.acs.org/doi/10.1021/acs.est.3c00159
 
 题目：Toward a Universal Unit for Quantification of Antibiotic Resistance Genes in Environmental Samples
+
+## 七月 {-}
+
+### 研究动态 {-}
+
+- 这篇文章是少有讨论非目的分析里前处理问题的，磷脂的去除可以弱化基质效应提高其他化合物的响应，其实这个在环境化学里属于常识，但生物那边都是离心过滤后直接上样的。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.3c00663
+
+题目：Phospholipid Removal for Enhanced Chemical Exposomics in Human Plasma
+
+- 这文章介绍了利用智能手机摄像头配合试剂盒测水样COD的方法，很适合野外监测，之前看过不用试剂盒的，但那个适用范围有限，这种试剂盒类型的通过简单预处理应该更靠谱些。
+
+推荐人：于淼
+
+链接：https://www.nature.com/articles/s41598-023-37126-9
+
+题目：Decentralized environmental applications of a smartphone-based method for chemical oxygen demand and color analysis
+
+- 这篇文章指出虽然有鹿特丹公约来限制有害化学品的全球贸易，还是有接近一半的相关贸易是非法的。看起来国际贸易数据里也可挖出不少环境相关议题的答案，特别是在政策方面。
+
+推荐人：于淼
+
+链接：https://www.nature.com/articles/s41893-023-01158-w
+
+题目：Continuing large-scale global trade and illegal trade of highly hazardous chemicals
+
+- 又是一篇上正刊的环境研究，是关于珊瑚礁里的塑料污染的，这篇文章提供了不少有冲击力的照片，搞不好后面会有人写成相关议题的非虚构畅销书。
+
+推荐人：于淼
+
+链接：https://www.nature.com/articles/s41586-023-06113-5
+
+题目：Plastic pollution on the world’s coral reefs
+
+- 这篇前瞻文章提出大气富营养化可能是一个重要研究领域。大气富营养化指的是气生藻类及其可能对公共健康的影响，例如微囊藻毒素。这倒让我想起十几年前韩国家用加湿器里加入聚六亚甲基胍盐酸盐做消毒剂后导致上万人死亡的新闻，去年还被拍成了电影。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.3c01368
+
+题目：Will “Air Eutrophication” Increase the Risk of Ecological Threat to Public Health?
+
+- 很有意思的便携式主动空气质量监控设备，不过看起来也不小，但作为主动采样装置能做到手掌大小还是很不容易了。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.3c02238
+
+题目：AirPen: A Wearable Monitor for Characterizing Exposures to Particulate Matter and Volatile Organic Compounds
+
+- 这篇文章指出可以用昆虫多样性指数来指示非洲的生物多样性，模型可以说非常简陋，不过考虑到作者来自肯尼亚，还是有必要关注下欠发达地区的研究的，毕竟眼下人口还在暴增的就剩下非洲这一块地了。
+
+推荐人：于淼
+
+链接：https://www.nature.com/articles/s43247-023-00896-1
+
+题目：Insect diversity is a good indicator of biodiversity status in Africa
+ 
+- 这篇文章发现白令海更老的阿拉斯加鳕鱼体内有更多微塑料，微塑料种类也更多，这让我想到那会不会老母鸡体内持久性污染物累积也更多？恐怕很多传统食材的食品安全性要重新考虑了。
+
+推荐人：于淼
+
+链接：https://www.science.org/doi/10.1126/sciadv.adf5897
+
+题目：Elder fish means more microplastics? Alaska pollock microplastic story in the Bering Sea
+
+- 这篇文章指出天然有机物在氯化消毒过程中如果有药物存在会显著提高毒性，我比较感性的是里面提到的氯暴露的归一化思路，似乎可以推广到其他污染物。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.3c00742
+
+题目：Contributions of Pharmaceuticals to DBP Formation and Developmental Toxicity in Chlorination of NOM-containing Source Water
