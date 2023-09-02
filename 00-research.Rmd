@@ -6440,3 +6440,79 @@ By 2030, improve water quality by reducing pollution, eliminating dumping and mi
 链接：https://pubs.acs.org/doi/10.1021/acs.est.3c00742
 
 题目：Contributions of Pharmaceuticals to DBP Formation and Developmental Toxicity in Chlorination of NOM-containing Source Water
+
+## 八月 {-}
+
+### 研究动态 {-}
+
+- 这篇文章提出了一种去除室内带电气溶胶的简便方案：用电风扇与电苍蝇拍搭一个简易室内空气气溶胶净化器。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.estlett.3c00541
+
+题目：Extremely Inexpensive and Simple Method To Remove Indoor Respiratory Aerosols
+
+- 目前天上只有两个空间站，一个是国际空间站，一个是天宫号，这篇文章检测了国际空间站室内灰尘里的持久性有机污染物，发现很多污染物含量是超过地面的中位数浓度的，我比较好奇失重条件咋收集的室内灰尘，看了下是采集的空气滤网。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.estlett.3c00448
+
+题目：Persistent Organic Contaminants in Dust from the International Space Station
+
+- 乌克兰有四个地方的covid病例非常低，研究半天发现这个地方的共性是放射性氡含量比较高，很可能是氡气放射性引发的活性氧抑制了病毒传播，可以理解为放疗，看起来呼吸道传染病跟放射性污染存在某种暴露拮抗效应，很刁钻的研究角度。
+
+推荐人：于淼
+
+链接：https://www.nature.com/articles/s41598-023-39705-2
+
+题目：Influence of the natural radon radiation on the spread of the COVID 19 pandemic
+
+- 海洋塑料研究一直有两个数对不上，一方面估计每年会排放800万吨塑料，另一方面海洋表面就估计出25万吨塑料，这篇研究引入更多变量进行系统研究，发现前面的估计高估了排放量，每年应该就50万吨塑料，但海洋表面应该有200万吨塑料且还在累积，不过超过95%的都是大块塑料，之前研究高估微塑料的量了。
+
+推荐人：于淼
+
+链接：https://www.nature.com/articles/s41561-023-01216-0
+
+题目：Global mass of buoyant marine plastics dominated by large long-lived debris
+
+- 这项研究关注了春季融雪时自来水里出现的臭气，通过两年的检测认为，小分子氨基酸很可能是产生臭气的源头。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.3c00719
+
+题目：Amino Acids as Potential Precursors to Odorous Compounds in Tap Water during Spring Runoff Events
+
+- eDNA从发现到现在不过十五年，现在eRNA文章又冒出来了，我猜有部分原因可能是疫情期间检测环境样品里RNA病毒的技术做了铺垫，不过也可能就是个巧合。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.3c03737
+
+题目：Environmental RNA as a Noninvasive Tool for Assessing Toxic Effects in Fish: A Proof-of-concept Study Using Japanese Medaka Exposed to Pyrene
+
+- 技术进步总会伴生一些研究的合规性问题，同样因为疫情流行起来的废水检测其实是涉及环境伦理问题的，这篇论文讨论了对这类研究的伦理审查。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.3c04529
+
+题目：Structured Ethical Review for Wastewater-Based Testing in Support of Public Health
+
+- 同位素比例示踪研究发现，当前欧洲野猪体内Cs 137的来源包括了60年前的核武器实验与切尔诺贝利实验的泄漏且60年前核武器实验是主要的超标来源，这个技术也可以用到福岛上来检验所谓ALPS是不是真的有效。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.3c03565
+
+题目：Disproportionately High Contributions of 60 Year Old Weapons-137Cs Explain the Persistence of Radioactive Contamination in Bavarian Wild Boars
+
+- 这篇文章挺意外的，一般认为实验室模拟数据跟真实环境会有比较大差异，但这项研究发现美国西部野火排放的VOC跟高低温热解有关而与燃料种类无关，这恰好也是实验室模拟出的结果。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.3c00537
+
+题目：Fuel-Type Independent Parameterization of Volatile Organic Compound Emissions from Western US Wildfires
