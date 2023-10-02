@@ -6516,3 +6516,79 @@ By 2030, improve water quality by reducing pollution, eliminating dumping and mi
 链接：https://pubs.acs.org/doi/10.1021/acs.est.3c00537
 
 题目：Fuel-Type Independent Parameterization of Volatile Organic Compound Emissions from Western US Wildfires
+
+## 九月 {-}
+
+### 研究动态 {-}
+
+- 王老师这篇文章非常有启发性，通过元素浓度在生命与非生命系统的相关性揭示了水圈的纽带角色，联系水标准制定与当前“河流综合症”等问题，为环境与健康研究提供了一个很独特的视角。也就是说，如果水环境中某个或某些元素的比例有异常，那么当地公卫压力很可能也比较高，生命体内元素组成也是进化后适应环境的重要线索。
+
+推荐人：于淼
+
+链接：https://www.sciengine.com/SSTe/doi/10.1360/N072023-0135
+
+题目：水脉相连: 从元素相关性解析水在地球-人类系统的纽带作用
+
+- 又是NHANES，我查了下最近几年用这个数据的文章每年有接近5000篇，相当于每周接近一百篇，绝大部分都是做数据二次挖掘的，这次讨论的是大麻与重金属暴露关系，算是美国特色研究方向。另外，EHP好像也开始优化影响因子了，基本每篇文章都要找人写个非同行评议的文章介绍发在当期期刊上，引用自加一，这倒是CNS常用手段，现在也下放了。国内喜欢发公众号介绍论文，但其实可以搞个中文姊妹刊作为正式发表的评论性文章或增刊特辑，这样也会利于介绍性文章作为出版物传播，当然大概率会被出版集团搞成一门生意。
+
+推荐人：于淼
+
+链接：https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10467359/
+
+题目：Blood and Urinary Metal Levels among Exclusive Marijuana Users in NHANES (2005–2018)
+
+-  这是一组我国20年的高分辨玉米产区图数据，可以拿来给本科生布置数据挖掘作业。另外我注意到数据发布在计算所搞的科学数据银行上，这个平台之前还真没注意过，希望以后已发表工作的原始数据或开源数据都可以上传到这里方便数据复用，这也是提高研究影响力与可重复性的一种方式。
+
+推荐人：于淼
+
+链接：https://www.nature.com/articles/s41597-023-02573-6
+
+题目：A twenty-year dataset of high-resolution maize distribution in China
+
+- 这是一篇发在nature上的通讯，非常简短，通篇就说了一件事，那就是砍伐森林来咖啡种植已经快300年了，然后引了一篇1757年的文献，咖啡在消除森林方面也是功不可没，之后说现在存在不砍森林的咖啡种植方法需要标识。顺便说个冷知识，这种小通讯的稿子非常英国，nature直到1973年才开始对研究性稿件进行强制同行评议，到今天也才50年，science早个20年，同行评议成为主流也就是最近30年的事，之前很多诺奖级结果其实是靠编辑口味来发表的。
+
+推荐人：于淼
+
+链接：https://www.nature.com/articles/d41586-023-03019-0
+
+题目：Coffee’s legacy: almost 300 years of deforestation
+
+- 这是另一篇发在nature上的通讯，也非常简短，是针对一则欧洲可能放松全氟化合物限制令的新闻，认为确实不应该禁止所有全氟化合物，特别应该排除掉已被证明毒性较低的三氟乙酸（TFA）、可降解为三氟乙酸的物质以及含单个碳氟官能团的物质。
+
+推荐人：于淼
+
+链接：https://www.nature.com/articles/d41586-023-02913-x
+
+题目：Forever chemicals: don’t ban the harmless ones
+
+- 这篇有点蹭热点了，拿来精调做QSPR模型有点莫名其妙，而且GPT之前已经有很多transformer构架的QSPR模型发出来了，效果也不错，GPT-3是自然语言大模型，QSPR又不是自然语言，你要说给一个QSPR模型接个报告模块拿GPT精调下还算靠谱，让语言模型理解QSPR大可不必，GPT-3的数理推断也不是强项。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.estlett.3c00599
+
+题目：Developing Quantitative Structure–Activity Relationship (QSAR) Models for Water Contaminants’ Activities/Properties by Fine-Tuning GPT-3 Models
+
+- 这篇属于幻想型的，拿一堆地理数据去预测鱼肉里PFAS污染属于逻辑上似乎可行但数据很难收集的，用底泥都比用鱼强，鱼被采样的地方又不代表长期暴露的地方，就45个跨越10年的样本还搞区域尺度预测，真的想不到有啥科学意义，审稿人明显不合格。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.3c03670
+
+题目：Using Geospatial Data and Random Forest To Predict PFAS Contamination in Fish Tissue in the Columbia River Basin, United States
+
+- 这篇文章关注了一次性尿不湿里挥发性有机物的健康风险，别的不说，这个视角确实很有前瞻性，毕竟现在虽然新生儿数量在下降，但老年人在增多啊，尿不湿完美覆盖这两组高消费人群，这个皮肤暴露途径确实很有必要关注。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.3c02862
+
+题目：Volatile Organic Compounds in Disposable Diapers and Baby Wipes in the US: A Survey of Products and Health Risks
+
+- 这篇文章思路很有意思，一般我们说非目的分析能测到的就是保留时间、荷质比以及碎片离子，这项工作的思路是在样品前处理阶段用不同溶剂去萃取样品里的物质算一个水相-有机相响应比，也就是拿实验多加了一个或几个物理化学性质测定的维度，这就可以用来缩小候选分子的范围。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.3c03003
+
+题目：Extracting Structural Information from Physicochemical Property Measurements Using Machine Learning─A New Approach for Structure Elucidation in Non-targeted Analysis
