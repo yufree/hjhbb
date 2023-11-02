@@ -6592,3 +6592,78 @@ By 2030, improve water quality by reducing pollution, eliminating dumping and mi
 链接：https://pubs.acs.org/doi/10.1021/acs.est.3c03003
 
 题目：Extracting Structural Information from Physicochemical Property Measurements Using Machine Learning─A New Approach for Structure Elucidation in Non-targeted Analysis
+
+## 十月 {-}
+
+### 研究动态 {-}
+
+- NIEHS刚刚庆祝了姐妹计划运行20周年，这是美国唯一一个追踪乳腺癌病人姐妹的队列，人数在5万这个量级，数据可通过网站索取，虽然开始追踪的是乳腺癌，其实后续更多研究是放在各种疾病发病率与环境暴露上了，也是数据重复利用率比较高的研究。
+
+推荐人：于淼
+
+链接：https://sisterstudy.niehs.nih.gov/English/index1.htm
+
+- 很多科幻作品里丧尸的设定都是真菌感染，这项研究发现加拿大温哥华岛上树木采伐会提高寄生在上面的真菌对人的感染率，推测可能是采伐过程容易将真菌气溶胶化，进而提高了其对人的暴露概率。
+
+推荐人：于淼
+
+链接：https://ehp.niehs.nih.gov/doi/10.1289/EHP12396
+
+题目：Forest Disturbance and Disease: Exploring the Effects of Tree Harvesting Area on Cryptococcus gattii sensu lato Infection Risk, Vancouver Island, Canada, 1998–2014
+
+- 烤葵花籽的口味会影响多环芳烃的释放，柠檬味产生多环芳烃最多，猪草（hogweed）最少，我国葵花籽很多是炒的，温度更高，不知道会不会有不一样的结论。
+
+推荐人：于淼
+
+链接：https://www.nature.com/articles/s41598-023-44994-8
+
+题目：The effect of flavorings on PAHs level in the roasted sunflower seeds
+
+- 天然橡胶是一种重要的工业原材料，天然橡胶种植一直以来都被认为是森林砍伐的重要原因，这篇正刊文章利用高分辨地图数据发现天然橡胶的影响可能是之前估计的两到三倍。
+
+推荐人：于淼
+
+链接：https://www.nature.com/articles/s41586-023-06642-z
+
+题目：High-resolution maps show that rubber causes substantial deforestation
+
+- 虽然决策树相比随机森林要简单很多，但可解释性要强很多，这篇文章里那张决策树的图适合用来告诉实验科学家决策树的原理，方便对机器学习算法祛魅，所谓随机森林，可大致理解为反复采样形成若干棵决策树预测结果平均后形成预测。
+
+推荐人：于淼
+
+链接：https://www.nature.com/articles/s41598-023-45301-1
+
+题目：Identification of PCB congeners and their thresholds associated with diabetes using decision tree analysis
+
+- 测量问题对于分析化学非常重要，而统计学里随机效应模型是比较适合用来处理平行样的，这篇文章讨论了这个问题，但我很怀疑有多少实验背景的人能看懂。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.3c02231
+
+题目：Separating Measurement Error and Signal in Environmental Data: Use of Replicates to Address Uncertainty
+
+- 暴露组的模拟研究，其实类似这样的研究应该更多一些，因为太多人在使用统计方法时完全不评价方法的灵敏度，这会导致为了用方法而用方法，得出的结论价值不高。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.3c04805
+
+题目：Statistical Approaches to Study Exposome-Health Associations in the Context of Repeated Exposure Data: A Simulation Study
+
+- 为了让纳瓦霍人喝上消毒水，研究人员改良了他们传统瓷器，加入了纳米银颗粒，假设几千年后有人出土这些瓷器，真不知道会得出什么结论。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.3c03462
+
+题目：Integrating Navajo Pottery Techniques To Improve Silver Nanoparticle-Enabled Ceramic Water Filters for Disinfection
+
+- 这篇文章指出机场除冰剂可能是附近水体里磷的重要来源，我比较好奇冬天下雪后水体磷含量升高是否有环境意义。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.3c03417
+
+题目：Airport Deicers: An Unrecognized Source of Phosphorus Loading in Receiving Waters
+
