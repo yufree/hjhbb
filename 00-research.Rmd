@@ -6667,3 +6667,78 @@ By 2030, improve water quality by reducing pollution, eliminating dumping and mi
 
 题目：Airport Deicers: An Unrecognized Source of Phosphorus Loading in Receiving Waters
 
+## 十一月 {-}
+
+### 研究动态 {-}
+
+- 多吃生长过程中温室气体排放少的食物可以减少代谢综合征发生的可能性。所以为了健康，饮食不仅要低碳（水化合物），还要低碳（排放）。对于这篇文章，我的感觉是当下大家为了发好文章拿基金都挺不容易的，好好的营养学研究硬往气候变化上面靠。
+
+推荐人：张雪莹
+
+链接：https://doi.org/10.1289/EHP12727
+
+题目：Low Greenhouse Gas Emission Self-Selective Diets and Risk of Metabolic Syndrome in Adults 40 and Older: A Prospective Cohort Study in South Korea
+
+- 这篇文章认为植物为主的饮食有利于环境，但会提高农药暴露风险，不过这属于数学游戏，农药暴露的风险会累积到动物体内，如果不累积，那么风险很可能有限，热水烫一下就好了，查了下作者，全是搞流病统计的，没有环境科学常识。
+
+推荐人：于淼
+
+链接：https://www.nature.com/articles/s41598-023-46032-z
+
+题目：Environmental pressures and pesticide exposure associated with an increase in the share of plant-based foods in the diet
+
+- 今年的印度跟十几年前的中国非常接近，刚经历了登录月球、开G20、航母下水、经济全球第五、人口世界第一……连空气污染都是烧秸秆导致的，这个剧本特别眼熟，历史不会重演，一直在押韵，很可能过去中国出现过的环境问题都要在南亚重演一遍。
+
+推荐人：于淼
+
+链接：https://www.nature.com/articles/d41586-023-03517-1
+
+题目：Why is Delhi’s air pollution so bad right now?
+
+- 这篇文章评估了去年北溪管道被炸对当地生态系统的影响，很可能影响了一种濒危海豚，爆炸将海底沉积物重新卷起，很可能把过去沉积的三丁基锡跟铅重新暴露给鳕鱼，更不用说天然气本身就是温室气体，看起来20世纪的环境污染事件是排放出来的，21世纪的环境污染事件是再悬浮20世纪沉积物出来的。
+
+推荐人：于淼
+
+链接：https://www.nature.com/articles/s41598-023-47290-7
+
+题目：Environmental impact of the explosion of the Nord Stream pipelines
+
+- 研究人员报道了一种高营养高蛋白的可持续食物，好听的名字叫做裸蚌，传统的名字叫做船蛆，就是那种生长在木头里的虫子，长得快还没有壳，东南亚已经吃了很久了，或许几年后我们就能看到这种食物及其保健品的大量生产。
+
+推荐人：于淼
+
+链接：https://www.nature.com/articles/s44264-023-00004-y
+
+题目：Naked Clams to open a new sector in sustainable nutritious food production
+
+- 这文章我只想吐槽TOC，如果想展示多集合交集要用upset plot，用venn diagram不要超过四个集合，现在这个TOC想读明白的可能性无限接近零，很炫酷，但没用。同样存在这个问题的是弦图（Chord Diagram），元素多了读起来很费劲，除了炫技外实用价值很低。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.3c05814
+
+题目：Metabolomic Signatures of Exposure to Nitrate and Trihalomethanes in Drinking Water and Colorectal Cancer Risk in a Spanish Multicentric Study (MCC-Spain)
+
+- 现在很少见这种考察萃取方法的文章的，伴随组学研究的流行，这块其实需要加强，从这篇文章看回收率都不高。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.3c05962
+
+题目：Recovery of 400 Chemicals with Three Extraction Methods for Low Volumes of Human Plasma Quantified by Instrumental Analysis and In Vitro Bioassays
+
+- 这篇文章提出用表面喷洒甲基溴化铵，然后紫外光下观察光致发光来快速发现铅污染，有点鲁米诺反应的意思。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.3c06058
+
+题目：Direct Environmental Lead Detection by Photoluminescent Perovskite Formation with Nanogram Sensitivity
+
+- 这项工作想法不错，但最核心的3D细胞模型没看出有啥优势，好像换成传统模型也没问题，我还以为能讨论下对细胞组织形态上或3D结构上的影响，又一看是肺癌细胞，估计也形不成结构，感觉这个3D细胞模型有点鸡肋了。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.3c07573
+
+题目：Effects of Indoor Dust Exposure on Lung Cells: Association of Chemical Composition with Phenotypic and Lipid Changes in a 3D Lung Cancer Cell Model
