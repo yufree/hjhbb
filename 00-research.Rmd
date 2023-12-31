@@ -6742,3 +6742,83 @@ By 2030, improve water quality by reducing pollution, eliminating dumping and mi
 链接：https://pubs.acs.org/doi/10.1021/acs.est.3c07573
 
 题目：Effects of Indoor Dust Exposure on Lung Cells: Association of Chemical Composition with Phenotypic and Lipid Changes in a 3D Lung Cancer Cell Model
+
+## 十二月 {-}
+
+### 研究动态 {-}
+
+- 这篇文章评估了室内外液晶单体的环境持久性，发现室内环境持久性特别长，我数了下屋里的液晶屏，感觉这确实值得关注，前提是真的有漏液能进入室内环境。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.estlett.3c00831
+
+题目：Evaluating the Environmental Persistence of Liquid Crystal Monomers Indoors and Outdoors
+
+- 这项研究结果指出输液可能是一个暴露微塑料的直接途径，上次见到批判输液时我记得说的是里面有玻璃渣还有抗生素滥用，我更好奇的是异物进入循环系统的实际风险及机理。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.estlett.3c00905
+
+题目：Microplastics Entry into the Blood by Infusion Therapy: Few but a Direct Pathway
+
+- 大气模型通常给人一种很高深的感觉，这篇文章在使用模型预测了撒哈拉的沙将吹到芬兰的几天前发起了一次公众科学运动，动员国民在科学引导下收集雪样，最后收集了五百多个地区的样品，也确认了扩散模型的预测。其实这种活动通过智能手机应用应该也可以做到，起码作为科普祛魅活动很有意义。
+
+推荐人：于淼
+
+链接：https://www.nature.com/articles/s41598-023-46321-7
+
+题目：African dust transport and deposition modelling verified through a citizen science campaign in Finland
+
+- 去年有两次室温超导的新闻，科普了很多电磁概念，这篇评论文章则从生命周期评价、碳排放等的环境角度出发，论证了可以用永磁体来替代现在常见的粒子加速器的可行性，我的第一反应是运送永磁体的卡车司机手机还能不能用。
+
+推荐人：于淼
+
+链接：https://www.nature.com/articles/s42254-023-00678-w
+
+题目：Using permanent magnets to reduce the impact of accelerators
+
+- EHP年底发了个重磅啊，这应该是确认草甘膦危害的直接环境流行病学证据了，草甘膦因为是当前用量最广的农药，可以预见很多搞集体诉讼的律师已经摩拳擦掌了。
+
+推荐人：于淼
+
+链接：https://ehp.niehs.nih.gov/doi/10.1289/EHP12834
+
+题目：Glyphosate Use and Mosaic Loss of Chromosome Y among Male Farmers in the Agricultural Health Study
+
+- 这项研究关注了通过唾液暴露橡胶运动场内释放环境持久性自由基的风险，想法不错。运动有益健康而暴露引发损伤，如果能追踪在橡胶场地与绿地运动的两组人，然后看下健康改善效果，如果有区别，那就可以追根溯源了。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.3c03278
+
+题目：Emerging Health Risks of Crumb Rubber: Inhalation of Environmentally Persistent Free Radicals via Saliva During Artificial Turf Activities
+
+- 现在仍可以说是AI环境应用的草莽时代，这篇又是组学又是AlphaFold2，但落脚点其实就是一个毒性评价，可以作为后续类似研究的思路参考。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.3c05327
+
+题目：Multiomics Sequencing and AlphaFold2 Analysis of the Stereoselective Behavior of Mefentrifluconazole for Bioactivity Improvement and Risk Reduction
+
+- 代谢组学里最喜欢的案例就是拿来区分红酒产地，这篇非目的分析溯源也是类似的思路，如果结合下其他技术手段是可以用到环境实时监控的，因为是质谱指纹综合评价而非特定标记物，这个指标几乎无法作假。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.3c06688
+
+题目：Application of Nontarget High-Resolution Mass Spectrometry Fingerprints for Qualitative and Quantitative Source Apportionment: A Real Case Study
+
+- 这篇利用可解释性机器学习、同位素标记配合反应组学研究了紫外线光解DOM的反应与转化过程，这个技术组合我是没想到的，另一篇则开发了DOM目的性质量差分析，很高兴看到反应组学技术能够耦合到具体环境问题里去。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.3c05213
+
+https://pubs.acs.org/doi/10.1021/acs.est.3c06871
+
+题目：Interpretable Machine Learning and Reactomics Assisted Isotopically Labeled FT-ICR-MS for Exploring the Reactivity and Transformation of Natural Organic Matter during Ultraviolet Photolysis
+
+Deciphering Microbe-Mediated Dissolved Organic Matter Reactome in Wastewater Treatment Plants Using Directed Paired Mass Distance
