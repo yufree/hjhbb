@@ -6822,3 +6822,79 @@ https://pubs.acs.org/doi/10.1021/acs.est.3c06871
 题目：Interpretable Machine Learning and Reactomics Assisted Isotopically Labeled FT-ICR-MS for Exploring the Reactivity and Transformation of Natural Organic Matter during Ultraviolet Photolysis
 
 Deciphering Microbe-Mediated Dissolved Organic Matter Reactome in Wastewater Treatment Plants Using Directed Paired Mass Distance
+
+## 一月 {-}
+
+### 研究动态 {-}
+
+- 这篇文章考察了国内一线城市电动汽车对空气质量的影响，其中看到一个有意思的点，电动出租车对空气质量改善不明显而网约电动汽车改善明显，这两种车环境影响差异很可能是使用方式造成的，这个点其实可以深挖一下。
+
+推荐人：于淼
+
+链接: https://www.nature.com/articles/s41598-023-50745-6
+
+题目：Impact of battery electric vehicle usage on air quality in three Chinese first-tier cities
+
+- 有句俗语是太阳底下没有新鲜事，现在可以改成卫星底下没有新鲜事了，这项研究发现了七成海洋捕捞与三成运输活动是没有公开记录的，这不利于环境影响的评估，在马斯克大幅降低航空航天成本后，可以预见未来十年内的夜空里会多出无数传感器，这对第三方独立研究自然是好事，相当于被动公开。
+
+推荐人：于淼
+
+链接: https://www.nature.com/articles/s41586-023-06825-8
+
+题目：Satellite mapping reveals extensive industrial activity at sea
+
+- 看介绍酒视频时经常听到泥煤风味威士忌配烤肉，至少我听起来像是一级致癌物开大会，这篇综述关注了酒精饮料里多环芳烃问题，指出很多酒类风味来源其实是致癌物，存在暴露风险。
+
+推荐人：于淼
+
+链接: https://ehp.niehs.nih.gov/doi/10.1289/EHP13506
+
+题目：A State-of-the-Science Review of Alcoholic Beverages and Polycyclic Aromatic Hydrocarbons
+
+- 这篇文章用了WGCNA，我实测过多组数据，代谢组学数据不满足WGCNA无尺度网络假设，以后不要用了。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.3c08033
+
+题目：Kynurenic Acid Plays a Protective Role in Hepatotoxicity Induced by HFPO-DA in Male MiceKynurenic Acid Plays a Protective Role in Hepatotoxicity Induced by HFPO-DA in Male Mice
+
+- 公共服务定价问题很有实际意义，也是经典环境经济学问题，这篇文章综述了粪坑管理的付费意愿，我关注的点在于其研究方法里从1846篇缩小到14篇这件事，如果综述篇数过少，其实可以单纯作为数据分析文章发表。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.3c06628
+
+题目：Determinants of Willingness to Pay for Fecal Sludge Management Services and Knowledge Gaps: A Scoping Review
+
+- 这篇文章部分解决我一个长期困惑，反复撒杀虫剂的地区，害虫是符合随机死亡还是自然选择模型，现在看在没撒过农药的地方是自然选择，在撒过的地方随机死亡。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.3c08031
+
+题目：Mortality Pattern of Poecilus cupreus Beetles after Repeated Topical Exposure to Insecticide─Stochastic Death or Individual Tolerance?
+
+- 这篇文章介绍了太阳能驱动的二氧化碳捕集技术，认为这项技术成本上与环境友好度上都优于传统技术。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.3c08269
+
+题目：Solar-Powered Direct Air Capture: Techno-Economic and Environmental Assessment
+
+- 这篇综述讨论了铁死亡这个由谷胱甘肽耗竭引发的细胞程序性死亡过程在环境毒理学研究中的意义，这个过程发现也就十几年，依赖铁离子的参与，怎么看都非常对环境毒理研究的胃口。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.3c06127
+
+题目：Ferroptosis Induced by Pollutants: An Emerging Mechanism in Environmental Toxicology
+
+- 这篇综述讨论了铁死亡这个由谷胱甘肽耗竭引发的细胞程序性死亡过程在环境毒理学研究中的意义，这个过程发现也就十几年，依赖铁离子的参与，怎么看都非常对环境毒理研究的胃口。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.3c06127
+
+题目：Ferroptosis Induced by Pollutants: An Emerging Mechanism in Environmental Toxicology
