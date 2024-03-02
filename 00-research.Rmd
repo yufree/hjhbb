@@ -6898,3 +6898,79 @@ Deciphering Microbe-Mediated Dissolved Organic Matter Reactome in Wastewater Tre
 链接：https://pubs.acs.org/doi/10.1021/acs.est.3c06127
 
 题目：Ferroptosis Induced by Pollutants: An Emerging Mechanism in Environmental Toxicology
+
+## 二月 {-}
+
+### 研究动态 {-}
+
+- 非常实用的文章，烧开水可以减少微/纳塑料暴露风险，不过得是硬水，原理是碳酸钙的共沉淀作用，要是这么说，是不是带化学处理的污水厂事实上也处理了微纳塑料？另外，自来水厂处理工艺也应该有絮凝，如果出水已经去除了，那么自来水里的又是哪来的？
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.estlett.4c00081
+
+题目：Drinking Boiled Tap Water Reduces Human Intake of Nanoplastics and Microplastics
+
+- 这篇文章量化了阿尔卑斯山土壤侵蚀里人类活动的贡献，发现3800年前开始气候就无法解释土壤侵蚀变化了，人类活动（畜牧业/农业）可能是主要驱动因素。
+
+推荐人：于淼
+
+链接：https://www.nature.com/articles/s41467-024-45123-3
+
+题目：Human-triggered magnification of erosion rates in European Alps since the Bronze Age
+
+- 这篇文章讨论了5G信号对小鼠微生物组及代谢组的影响，组学肯定能找出一大堆影响，但进一步讨论是有限的，这种文章因为话题性高，以后很有可能被当枪使。
+
+推荐人：于淼
+
+链接：https://www.nature.com/articles/s41598-024-53842-2
+
+题目：Effects of radiofrequency field from 5G communication on fecal microbiome and metabolome profiles in mice
+
+- nature的新闻报道了一项从数百个湖里同一天采集环境DNA样品的公众科学家项目，环境DNA的采样相对容易标准化，确实适合作为公众参与的科研项目。
+
+推荐人：于淼
+
+链接：https://www.nature.com/articles/d41586-024-00520-y
+
+题目：Why citizen scientists are gathering DNA from hundreds of lakes — on the same day
+
+- 这是一组国内环境抗生素抗性基因丰度的数据库，虽然大概率是畜牧业主导，但可以考虑跟感染性疾病的流病数据对应一下，说不定能挖出些有意思的结果。
+
+推荐人：于淼
+
+链接：https://www.nature.com/articles/s41597-024-03084-8
+
+题目：A database on the abundance of environmental antibiotic resistance genes
+
+- 美国是有一段红线政策期来强制隔离有色人种的，这篇文章发现虽然政策已经成为历史，但空气污染角度对有色人种的影响还存在，隔离区到今天呼吸的空气也是最差的。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.3c03230
+
+题目：Air Pollution Inequality in the Denver Metroplex and its Relationship to Historical Redlining
+
+- 这篇文章的发现挺出乎我意料的，似乎用同一类污染物的平均物化性质跟用单体结论评价暴露差不多，那是不是说可以推广到其他污染物呢？
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.3c09186
+
+题目：Are We Justified in Modeling Human Exposure to Chlorinated Paraffin Mixtures Using the Average Properties of Congeners and Homologues?
+
+- 这篇文章介绍了一种用甾醇跟三氯生甲基三氯生组成的粪便污染评价体系，其中关于三氯生的部分推导挺有意思，还提到了发达国家的联合污水溢流（CSO）现象。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.3c08847
+
+题目：A Unique Monitoring Method for Fecal and Sewage-Derived Chemical Pollution Utilizing International Pellet Watch Approach
+
+- 这篇研究发现居住地绿化水平对成年人高血压有保护作用，我看了下里面因果图没考虑经济状况，但学历是有交互影响的，当然局限性文章也提了，但我觉得如果结论里提了对男性高学历影响大，那大概率需要讨论下统计功效了。
+
+推荐人：于淼
+
+链接：https://ehp.niehs.nih.gov/doi/10.1289/EHP13071
+
+题目：Exposure to Neighborhood Greenness and Hypertension Incidence in Adults: A Longitudinal Cohort Study in Taiwan
