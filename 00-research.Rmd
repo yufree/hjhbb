@@ -6974,3 +6974,79 @@ Deciphering Microbe-Mediated Dissolved Organic Matter Reactome in Wastewater Tre
 链接：https://ehp.niehs.nih.gov/doi/10.1289/EHP13071
 
 题目：Exposure to Neighborhood Greenness and Hypertension Incidence in Adults: A Longitudinal Cohort Study in Taiwan
+
+## 三月 {-}
+
+### 研究动态 {-}
+
+- 解决全球变暖的诸多思路中，有一派比较激进，打算用气球在高空释放二氧化硫来冷却地球，类似火山喷发，现在已经有初创公司跟进了，但问题是这个路线缺乏监管会破坏臭氧层，而且也会直接打击发展中国家利用太阳能风能替代传统能源的进度，确实需要仔细算账。
+
+推荐人：于淼
+
+链接：https://www.scientificamerican.com/article/sunlight-dimming-climate-schemes-need-worldwide-oversight/
+
+题目：Sunlight-Dimming Climate Schemes Need Worldwide Oversight
+
+- 用水凝胶提取特种污水里的淡水是个挺有意思的方向。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.estlett.4c00075
+
+题目：Water Recovery from Wastewater by Hydrogels
+
+- 针对特定样品或物种的图谱（atlas）是这两年解决代谢组/暴露组研究的一个思路，当生物样本信息限定后，未知物搜索空间就可以收缩到一个可操作水平，当然这篇研究还是比较传统，用目的分析测定267种外源物质然后与流行病学宏观指标做了多暴露分析，其实可以更进一步把影响的代谢通路用血液样品也做出来。不过这篇文章放出的数据可以进一步挖掘，为后续研究提供支持。
+
+推荐人：于淼
+
+链接：https://www.nature.com/articles/s41467-024-46595-z
+
+题目：An exposome atlas of serum reveals the risk of chronic diseases in the Chinese population
+
+- 研究速递老朋友，Hites 老爷子过世了，他一手推动了质谱，特别是高分辨质谱在环境化学的应用，也是少数同时关心统计学的环境化学家，同时也是自嘲为了保留车位当院长的化学单口喜剧大师，与我而言也是第一个接受我稿子的期刊编辑，本以为他退休后能接着在学术期刊专栏上指点江山，没想到已经过世了，缅怀老爷子！
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.4c01779
+
+题目：Celebrating Ronald A. Hites, “a Simple Country Chemist”. Ronald A. Hites, 1942–2024
+
+- 这是一篇关注点比较偏门的研究，有些地方不通自来水被解释为当地人不习惯水里的氯味，但这篇定量研究发现虽然原住民跟非原住民的口味阈值不一样，但都高于自来水标准，也就是说氯味不是很多人不接受自来水的限制因素。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.3c05630
+
+题目：Chlorine Water Taste Threshold and Acceptability among Indigenous and Non-Indigenous Populations in Rural Panama
+
+- 这项研究发现我国东南沿海可食用牡蛎里存在抗组胺药，这对人问题不大，但对野生动物存在生态毒性，我比较好奇为啥会有抗过敏药，其浓度会不会有季节性规律。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.3c10588
+
+题目：Pharmaceutical Residues in Edible Oysters along the Coasts of the East and South China Seas and Associated Health Risks to Humans and Wildlife
+
+- 这项工作关注了广州城市热岛效应，发现提高绿化与更平均的空间分布在降温上有协同作用，当然提高绿化率效果更好。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.3c11048
+
+题目：Cooling Effect of Green Spaces on Urban Heat Island in a Chinese Megacity: Increasing Coverage versus Optimizing Spatial Distribution
+
+- 这项工作关注了孕前夫妇血清中全氟化合物浓度与暴露相关指标关系，发现饮食而非行为可能是重要来源，海产品与浓度正相关，玉米饼负相关，提醒下这里的相关不代表因果。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.3c08457
+
+题目：Predictors of Serum Per- and Polyfluoroalkyl Substances Concentrations among U.S. Couples Attending a Fertility Clinic
+
+- 这项研究提出服装纤维在生物作用下可能成为冰核，这个思路对大气微塑料研究比较新，甚至可以看看全球变暖条件下的影响。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.3c09600
+
+题目：Clothing Textiles as Carriers of Biological Ice Nucleation Active Particles
