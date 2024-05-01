@@ -7050,3 +7050,87 @@ Deciphering Microbe-Mediated Dissolved Organic Matter Reactome in Wastewater Tre
 链接：https://pubs.acs.org/doi/10.1021/acs.est.3c09600
 
 题目：Clothing Textiles as Carriers of Biological Ice Nucleation Active Particles
+
+## 四月 {-}
+
+### 研究动态 {-}
+
+- 过期鲑鱼罐头有啥用，答案是研究海洋鱼类寄生虫，这篇研究发现79到19这四十年间两种鲑鱼罐头里寄生虫增加了，而鲑鱼是各种线虫的中间宿主，因此推测过度捕捞现象的减少导致种群恢复。当然，罐头里的寄生虫是死的。
+
+推荐人：于淼
+
+链接：https://onlinelibrary.wiley.com/doi/10.1002/ece3.11043
+
+题目：Opening a can of worms: Archived canned fish fillets reveal 40 years of change in parasite burden for four Alaskan salmon species
+
+- 这是《科学美国人》转载的暴露组学研究的科普文章，从公共卫生角度，暴露组学跟分析流行病学界限很模糊，对新技术的容忍度更高，从环境化学角度，暴露组学则更多是从微观分子层面联系宏观健康指标的研究方向。
+
+推荐人：于淼
+
+链接：https://www.scientificamerican.com/article/what-is-pollution-doing-to-our-brains-exposomics-reveals-links-to-many/
+
+题目：How Air Pollution Damages the Brain
+
+- 对环保政策友好的加州成了潜在温室气体硫酰氟的主要排放地，占了美国60% 至 85%的排放量，而硫酰氟是一种杀白蚁的熏蒸剂，而其真实环境半衰期比预期的要长。
+
+推荐人：于淼
+
+链接：https://www.nature.com/articles/s43247-024-01294-x
+
+题目：California dominates U.S. emissions of the pesticide and potent greenhouse gas sulfuryl fluoride
+
+- 这项研究切入点比较有意思，纤维状微塑料对水蚤有缠绕效果，类似魔术贴，其生态影响值得关注。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.estlett.4c00279
+
+题目：Entanglement of Daphnia magna by Fibrous Microplastics through “Hook and Loop” Action
+
+- 这篇文章关注了气候变化下激增的真菌感染疾病，还有抗真菌药抗性的问题，里面有些讨论例如现代医学副产品很有意思，那些因为新药研发生存下来的免疫力低下人群很可能是真菌疾病的受害者。
+
+推荐人：于淼
+
+链接：https://ehp.niehs.nih.gov/doi/10.1289/EHP14722
+
+题目：Wake-up Call: Rapid Increase in Human Fungal Diseases under Climate Change
+
+- 9年前我拿了中科院第一届博士生国际会议资助的钱出国跑到耶路撒冷的isotope2015会议上做过一个直接分子同位素的概念口头报告，彼时我还没有用过高分辨质谱，低分辩质谱的数据误差偏大，报告完了这项目就搁置了，现在终于有人用orbitrap做出来了，只要是好坑总有人来填。另外，利用直接分子同位素比溯源其实很有应用前景，特别在环境领域。
+
+推荐人：于淼
+
+链接：https://www.nature.com/articles/s41596-024-00981-5
+
+题目：A guide to precise measurements of isotope abundance by ESI-Orbitrap MS
+
+- 这研究估计后面会被反复拿来当案例，丹麦的一处社会住房因室内空气中多氯联苯 (PCB) 超标被要求拆掉，研究人员给工人佩戴了腕带，然后测了所有209种PCBs，测到29个色谱峰，含量最多的三种却不在典型的七种PCBs指标或 WHO 12 PCB 中，这就很尴尬了，人为设定的优先控制污染物究竟控制了个啥？会不会之前构建在监测PCB单体上的暴露研究全都跑偏了？
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.3c10304
+
+题目：Quantifying 209 Polychlorinated Biphenyl Congeners in Silicone Wristbands to Evaluate Differences in Exposure among Demolition Workers
+
+- 这项研究有点实践意义，供水中断会提高压力与情绪波动，但有规律可预测的断水则会减弱影响，结论就是未来气候变化出现水资源危机时，供水系统尽量保持可预测的断水防止居民失控。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.3c08443
+
+题目：Water Supply Interruptions Are Associated with More Frequent Stressful Behaviors and Emotions but Mitigated by Predictability: A Multisite Study
+
+- 这项研究完美展示了如何通过新概念的排列组合来发文章，怀疑以前做过钙钛矿纳米材料。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.3c10825
+
+题目：eDNA Adsorption onto Microplastics: Impacts of Water Chemistry and Polymer Physiochemical Properties
+
+- 用随机双盲实验测试室内环境质量与考试分数的关系确实挺有创意的，但仅仅考试那一段时间的暴露就影响成绩感觉说不通，那高考是不是在有空气净化器的教室考就分更高？怀疑有场外因素。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.3c10372
+
+题目：Reducing Indoor Particulate Air Pollution Improves Student Test Scores: A Randomized Double-Blind Crossover Study
