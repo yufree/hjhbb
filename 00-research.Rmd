@@ -7134,3 +7134,95 @@ Deciphering Microbe-Mediated Dissolved Organic Matter Reactome in Wastewater Tre
 链接：https://pubs.acs.org/doi/10.1021/acs.est.3c10372
 
 题目：Reducing Indoor Particulate Air Pollution Improves Student Test Scores: A Randomized Double-Blind Crossover Study
+
+## 五月 {-}
+
+### 研究动态 {-}
+
+- 研究发现室内燃气灶喷出的二氧化氮含量经常超过卫生组织认为安全的水平，室内污染超了室外污染的标，看来开窗通气是个好习惯。
+
+推荐人：于淼
+
+链接：https://www.science.org/doi/10.1126/sciadv.adm8680
+
+题目：Nitrogen dioxide exposure, health outcomes, and associated demographic disparities due to gas and propane combustion by U.S. stoves
+
+- 酿造啤酒后的酵母可以用来回收电子垃圾中的金属，这个技术的优势在于当前啤酒厂富裕的酵母都是直接扔掉的。
+
+推荐人：于淼
+
+链接：https://www.frontiersin.org/articles/10.3389/fbioe.2024.1345112/full
+
+题目：Spent brewer’s yeast as a selective biosorbent for metal recovery from polymetallic waste streams
+
+- 这项研究一个亮点在于把全氟化合物与MassIVE 这个公开数据库的联用，特别适合讨论新兴污染物的全球分布，另一个则是关注了预测假阳性，这个问题属于谱匹配算法设计的锅，一般确实都是更多考虑准确性而不是假阳性，但哪怕余弦相似度，通过对低响应峰概率加权也能很快降低假阳性。
+
+推荐人：于淼
+
+链接：https://www.science.org/doi/10.1126/sciadv.adn1039
+
+题目：Machine learning–enhanced molecular network reveals global exposure to hundreds of unknown PFAS
+
+- 今年2月我推荐过烧开水可以减少微/纳塑料暴露风险的研究，这是后续的评论，主要关注点之前也说了，那就是这个方法适用于硬水，但目前用硬水的地区普遍都有软化水的装置，塑料成分本身也很复杂。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.estlett.4c00265
+
+题目：Comment on “Drinking Boiled Tap Water Reduces Human Intake of Nanoplastics and Microplastics”
+
+- 这篇文章挺适合拍电影的，日本研究人员发现环境中钆跟镧过量，通过到多个污水厂还有污泥处理中心蹲点检测，发现钆跟镧跟区域医院数量相关，进一步又发现钆总是在周一出现高峰而镧比较稳定，通过化合物分析最终发现给肾病患者服用以预防高磷血症的碳酸镧片剂可能是镧过量的来源，日本人对元素周期表还真是莫名执着啊。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.estlett.4c00166
+
+题目：Hospital Effluent as a New Source of Anthropogenic Lanthanum in the Environment
+
+- 这篇文章考察了城市再生水与饮用水的遗传毒性，差距不大甚至再生水更低，但有意思的是当前研究的消毒副产物（DBP）对总遗传毒性只贡献了 2-27%，未知 DBP 比已知 DBP 是遗传毒性更重要。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.4c01596
+
+题目：Mammalian Cell Genotoxicity of Potable Reuse and Conventional Drinking Waters
+
+- 文章题目已经给出研究结论了，这篇论文有意思的在于题图是罕见的美漫风格，通讯作者的姓是更罕见的China。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.4c02090
+
+题目：Tethered balloon system and High-Resolution Mass Spectrometry Reveal Increased Organonitrates Aloft Compared to the Ground Level
+
+- 解析溶解性有机质（DOM）可以看做环境科学里的黑箱圣杯，这项工作尝试从光学分析视角构建DOM的分子基础，说白了就是把其环境理化特性关联到具体发光官能团上，这样的思路用质谱应该更简单。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.3c10881
+
+题目：Inferring the Molecular Basis for Dissolved Organic Matter Photochemical and Optical Properties
+
+- 这篇文章发现不洗澡会增加室内人体通过羧酸和更高的臭氧-皮肤反应产生的羰基化合物的排放，数据来自四名男性志愿者，但据我观察超市女性护肤品货柜一般是男性的5-10倍，可看作不同物种。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.4c01698
+
+题目：How Does Personal Hygiene Influence Indoor Air Quality?
+
+- 这篇文章通过实验发现人和鳟鱼血浆中 PFAS 结合行为差异可以通过脂质和蛋白质含量的差异来解释，里面讨论了血浆这个复杂环境下特异性吸附与非特异性吸附的关系，蛋白质-水和脂质-水分配系数以及血浆的蛋白质和脂质含量参数化的质量平衡模型可能是以后评价污染物生态毒理的重要模型。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.3c10824
+
+题目：Species Difference? Bovine, Trout, and Human Plasma Protein Binding of Per- and Polyfluoroalkyl Substances
+
+- 这篇文章展示了同位素溯源确定了麻雀跟儿童铅是同源的，并论证用麻雀来识别和预测附近儿童的铅暴露水平。很多家养动物或与人共生关系密切的野生动物都可以参考这个思路来试试，例如老鼠蟑螂啥的。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.4c00946
+
+题目：House Sparrows as Sentinels of Childhood Lead Exposure
