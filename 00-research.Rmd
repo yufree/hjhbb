@@ -7226,3 +7226,79 @@ Deciphering Microbe-Mediated Dissolved Organic Matter Reactome in Wastewater Tre
 链接：https://pubs.acs.org/doi/10.1021/acs.est.4c00946
 
 题目：House Sparrows as Sentinels of Childhood Lead Exposure
+
+## 六月 {-}
+
+### 研究动态 {-}
+
+- 分子重生是用已经灭绝生物的基因序列重新合成之前存在过的分子，现在这项技术已经跟深度学习结合用来挖掘之前存在过的抗生素，这个思路应该可以迁移到环境领域研究进化史里生态系统如何应对细菌感染。
+
+推荐人：于淼
+
+链接：https://www.nature.com/articles/s41551-024-01201-x
+
+题目：Deep-learning-enabled antibiotic discovery through molecular de-extinction
+
+- 看起来在全球变暖背景下我们要重新定义四季了，按照温度前25%的天数定义夏季，从1952到2011，夏天从78天变成了95天，热浪这种极端气候的影响也会逐年增强。
+
+推荐人：于淼
+
+链接：https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2020GL091753
+
+题目：Changing Lengths of the Four Seasons by Global Warming
+
+- Nature Chemistry 很罕见发表一篇环境化学的科普文章，面向有化学基础的人介绍了环境化学的特色概念与研究解读建议。
+
+推荐人：于淼
+
+链接：https://www.nature.com/articles/s41557-024-01554-5
+
+题目：How we talk about harmful chemicals in the environment
+
+- 仓鼠向文献，收集了2,712 种已知塑料添加剂列表，然后讨论了致癌性，跟所有早期研究类似，毒理数据大多是缺失的，不过这个列表至少能给个范围。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.3c06840
+
+题目：The Known and Unknown: Investigating the Carcinogenic Potential of Plastic Additives
+
+- 这篇文章讨论了林地转为耕地过程中对微生物不同营养层相互作用的影响，角度比较新。不过摘要里提了句土壤全磷水平增加导致农田土壤生态系统多功能性大幅退化（下降207%），我很好奇这是降到负数了吗？
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.4c01203
+
+题目：Forest-to-Cropland Conversion Reshapes Microbial Hierarchical Interactions and Degrades Ecosystem Multifunctionality at a National Scale
+
+- 源内反应碎片贡献了二级谱图信息的70%，这可能就是MS2全扫跟MRM的本质区别，这篇短文会对非目的分析与代谢组学产生深远影响。
+
+推荐人：于淼
+
+链接：https://www.nature.com/articles/s42255-024-01076-x
+
+题目：The hidden impact of in-source fragmentation in metabolic and chemical mass spectrometry data interpretation
+
+- 这篇文章讨论了空调使用对室内外环境还有电力系统的影响，这对高温天气城市能源调节预案有参考价值。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.4c00424
+
+题目：Moderating AC Usage Can Reduce Thermal Disparity between Indoor and Outdoor Environments
+
+- 这项研究属于魔法打败魔法的案例，与其细分鉴定气味中的成分，不如直接用二级谱图训练预测模型，这种端到端的模型在工程应用上可大力推广，不然所有人都要被未知物鉴定给锁死研究思路。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.4c01763
+
+题目：Predicting Odor Sensory Attributes of Unidentified Chemicals in Water Using Fragmentation Mass Spectra with Machine Learning Models
+
+- 这篇文章从全球贸易角度解析了砷的流动，除了自然界循环，全球贸易对不同地区环境污染物的调节其实也扮演重要角色，希望看到两者结合的论文，系统评价人类行为的影响。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.4c04715
+
+题目：Direct, Embedded, and Embodied Trade of Arsenic: 1990–2019
