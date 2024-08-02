@@ -7302,3 +7302,87 @@ Deciphering Microbe-Mediated Dissolved Organic Matter Reactome in Wastewater Tre
 链接：https://pubs.acs.org/doi/10.1021/acs.est.4c04715
 
 题目：Direct, Embedded, and Embodied Trade of Arsenic: 1990–2019
+
+## 七月 {-}
+
+### 研究动态 {-}
+
+- 欧洲研究人员用卫星数据发现了23年发生在哈萨克斯坦的有史以来最大的天然气泄漏事件，泄漏量131 ± 34 千吨甲烷，作为对比，被炸了的北溪管道泄漏量还不到这次的误差值。对于消息闭塞的地区，类似卫星这类监测数据可能是我们了解事故的唯一手段。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.estlett.4c00399
+
+题目：Multisatellite Data Depicts a Record-Breaking Methane Leak from a Well Blowout
+
+- 这篇文章很难算研究，但确实是一种视角，PFAS 作为惰性成分和佐剂的用途可用于控制农药的分散特性，作者向美国和加拿大的州和联邦机构提记录提取了相关数据并从可公开访问的数据库中收集数据进行分析，认为是一种潜在风险。看来永久化合物这个提法确实是个筐。
+
+推荐人：于淼
+
+链接：https://ehp.niehs.nih.gov/doi/10.1289/EHP13954
+
+题目：Forever Pesticides: A Growing Source of PFAS Contamination in the Environment
+
+- 气候变化跟环境化学的联系越来越大，这项研究发现PVC 薄膜微塑料在持续干旱的断流河里更碎，也就是更可能释放里面的污染物。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.4c00528
+
+题目：The Duration of Dry Events Promotes PVC Film Fragmentation in Intermittent Rivers
+
+- 基于高分辨质谱做环境暴露组学的综述，涵盖了相关领域的几乎所有关键主题，适合作为研究生入门该领域的读物。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.4c01156
+
+题目：High-Resolution Mass Spectrometry for Human Exposomics: Expanding Chemical Space Coverage
+
+- 之前确实没考虑过ICP-MS还可以做非目的分析，这篇文章给出了不少案例与思路，卤素质量平衡这个点确实很有用，特别适合评估“未知的未知”问题。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.4c00504
+
+题目：ICP-MS As a Contributing Tool to Nontarget Screening (NTS) Analysis for Environmental Monitoring
+
+- 环境专业对八大污染事件应该不陌生，不过算起来新世纪的几次事件例如福岛泄露、北溪二号啥的影响也不见得比之前低，这篇研究关注的是去年6月加拿大魁北克的山林野火，想来也是末日景象，环境学科其实可以学生物医药领域搞特殊案例分析与专题报道，有助于提高学科影响力。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.4c02016
+
+题目：Physicochemical Characterization of the Particulate Matter in New Jersey/New York City Area, Resulting from the Canadian Quebec Wildfires in June 2023
+
+- 很少在ES&T上看到这种纯技术以低成本为卖点的文章，不过这里是用软件自动化替代物料与人工成本，也算是环境领域新质生产力。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.4c01928
+
+题目：Introducing ARTiMiS: A Low-Cost Flow Imaging Microscope for Microalgal Monitoring
+
+- 这篇文章关注了未成年人教育中空气污染带来的健康负担，发现城乡发展医疗资源差距会给学生带来明显暴露风险，虽然我对有些结论存疑，但这个视角是值得关注的，暴露的风险不仅来自于暴露本身，还有应对资源的多寡。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.4c02733
+
+题目：Unequal Health Burden from Air Pollution among Minors in Education
+
+- 这项发现如果进一步确认也是改写教科书的发现，在海底锰结核上可能发生原电池反应电解水生成氧气，之前认为氧气只产自生物，这现象开始也被当成仪器故障，这对生态学也好进化论也好都会产生影响。
+
+推荐人：于淼
+
+链接：https://www.nature.com/articles/s41561-024-01480-8
+
+题目：Evidence of dark oxygen production at the abyssal seafloor
+
+- 《科学》七月发表的空气污染特刊， 展示了当前科技、社会、人群健康的大环境下, 关于空气污染的一些新思考。
+
+推荐人：张雪莹
+
+链接：https://www.science.org/toc/science/385/6707
+
+题目：Science Special Issue: Air pollution
