@@ -7386,3 +7386,79 @@ Deciphering Microbe-Mediated Dissolved Organic Matter Reactome in Wastewater Tre
 链接：https://www.science.org/toc/science/385/6707
 
 题目：Science Special Issue: Air pollution
+
+## 八月 {-}
+
+### 研究动态 {-}
+
+- 作为全球变暖的副产品，北极航道是近年来讨论比较多的新航线，然而新研究发现更高的温度没有带来更长通航季，反而是大块海冰的频繁出现缩减了通航季。
+
+推荐人：于淼
+
+链接：https://www.nature.com/articles/s43247-024-01477-6
+
+题目：Sea ice choke points reduce the length of the shipping season in the Northwest Passage
+
+- 植物应对恶劣环境的策略对考察生态影响很重要，这项研究发现野火中植物面对烟雾会“憋气”，也就是关闭气孔中断光合作用，但烟雾过去后又会剧烈进行光合作用与挥发性有机物的释放。
+
+推荐人：于淼
+
+链接：https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023GL106667
+
+题目：Wildfire Smoke Directly Changes Biogenic Volatile Organic Emissions and Photosynthesis of Ponderosa Pines
+
+- 疫情期间，冰川融化后释放的病毒曾被当成一种威胁，这项研究则关注了青藏高原冰柱里冰川病毒对环境的适应性，看起来为了应对地质年代级别的气候变化，病毒的群落也在冷暖气候下出现变化，而且持续感染黄杆菌。
+
+推荐人：于淼
+
+链接：https://www.nature.com/articles/s41561-024-01508-z
+
+题目：Glacier-preserved Tibetan Plateau viral community probably linked to warm–cold climate variations
+
+- 这篇关于二恶英与全氟化合物的对比性综述水平很高。文章不仅总结了我们对二恶英的研究与控制，也指出了其与当前全氟化合物研究的相似性与不同，二恶英类物质的毒性受体是明确且保守的，物质本身的化学定义也很清楚，管控下也不存在刻意生产；全氟化合物不仅定义上涵盖上万种化学结构，其毒性机理也同时涉及受体与非受体途径，其本身也是有意生产出来的工业品。文章相对通俗易懂，适合作为教科书的扩展阅读材料。
+
+推荐人：于淼
+
+链接：https://ehp.niehs.nih.gov/doi/10.1289/EHP14449
+
+题目：Dioxins vs. PFAS: Science and Policy Challenges
+
+- 这篇文章事实上提供了一个很好的研究工具，可以生成特定区域特定污染物在专利中的趋势，基于pubchem，例如可以用来寻找由于政策差异形成使用方式差异的物质，事实上形成国家尺度上的控制对照实验，可以做一些大型暴露研究。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.estlett.4c00560
+
+题目：Revealing Chemical Trends: Insights from Data-Driven Visualization and Patent Analysis in Exposomics Research
+
+- 这项研究用腕带被动采样结合高分辨质谱研究了人的化学品暴露，发现了明显的性别差异，女性佩戴的腕带有 458 个特征较高，只有 21 个特征在男性佩戴的腕带上显着较高，可能来源于个人护理品。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.4c06008
+
+题目：Wristband Personal Passive Samplers and Suspect Screening Methods Highlight Gender Disparities in Chemical Exposures
+
+- 这项研究用扩散有序核磁共振波谱与混合模式色谱相结合来分离和表征海洋 HMWDOM 的两种主要成分：酰基多糖 (APS) 和高分子量腐殖质 (HS)，得到了其分子量的范围，APS 为 2.0–16 kDa，HS 为 0.9–6.5 kDa。虽然还是比较粗，但已经是比较小的范围了。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.4c03372
+
+题目：What Is the Molecular Weight of “High” Molecular Weight Dissolved Organic Matter?
+
+- 这篇文章评估了一带一路项目中建材的使用，发现540个项目到 2023 年将使用约 3.28 亿吨建筑材料，主要是骨料跟水泥，很少见这类评估研究，但一带一路如果完成应该会成为人类历史上最大的基建项目，确实需要环评。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.4c04142
+
+题目：A Comprehensive Accounting of Construction Materials in Belt and Road Initiative Projects
+
+- 这篇研究报道了北极社区废弃物燃烧会释放纳米材料，不过我感觉正常烧垃圾应该也会产生纳米材料。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.4c02598
+
+题目：Waste Combustion Releases Anthropogenic Nanomaterials in Indigenous Arctic Communities
