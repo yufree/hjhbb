@@ -7462,3 +7462,79 @@ Deciphering Microbe-Mediated Dissolved Organic Matter Reactome in Wastewater Tre
 链接：https://pubs.acs.org/doi/10.1021/acs.est.4c02598
 
 题目：Waste Combustion Releases Anthropogenic Nanomaterials in Indigenous Arctic Communities
+
+## 九月 {-}
+
+### 研究动态 {-}
+
+- 这篇文章关注了影响女性青春期提前的环境污染物问题，用GnRHR跟KISS1R两个分子过表达细胞系筛选Tox21里的化合物，发现葵子麝香可以激活这个过程，并用细胞实验进行了验证，整体研究思路很清晰，虽然还没有流行病与环境调查数据支持，但结论比较明确。
+
+推荐人：于淼
+
+链接：https://academic.oup.com/endo/article/165/10/bqae103/7749689
+
+题目：Identification of Environmental Compounds That May Trigger Early Female Puberty by Activating Human GnRHR and KISS1R
+
+- 马达加斯加在2016年开启了一波开矿热，上万名矿工涌入寻找蓝宝石，当时就有报道认为这会带来热带雨林损失，这篇文章用反事实分析发现这种指控并不真实存在。当然不是说没有森林退化，只是归因有问题。
+
+推荐人：于淼
+
+链接：https://www.nature.com/articles/s43247-024-01655-6
+
+题目：No evidence of increased forest loss from a mining rush in Madagascar’s eastern rainforests
+
+- 如果说还有什么话题能团结全球华人，那一定就是中国足球了，这项研究分析了中国职业足球俱乐部的时空分布，给出了一些实证结论，例如集中度提高及区域影响开始替代政策影响等，这些都与大都市圈化有关，当然，我还是觉得花钱发中国足球相关论文是资源浪费。
+
+推荐人：于淼
+
+链接：https://www.nature.com/articles/s41598-024-69131-x
+
+题目：Analysis of the spatio-temporal distribution of Chinese professional football clubs and influential factors based on empirical evidence of clubs
+
+- 二甲双胍可算是老药新用典范了，除了II型糖尿病，甚至还有抗衰老抗肿瘤疗效，可以预见在老龄化加速的地方这个药的使用量也会增加，其实城市污水处理厂里也经常检测到二甲双胍与其代谢物脒基脲，这项研究确立了这个代谢过程是被一种依赖镍的水解酶来实现的，同时因为二甲双胍属于人工合成药物，微生物对其的代谢也展示了进化的力量。
+
+推荐人：于淼
+
+链接：https://www.nature.com/articles/s41467-024-51752-5
+
+题目：Metformin hydrolase is a recently evolved nickel-dependent heteromeric ureohydrolase
+
+- 这篇文章开发了饮用水基因组目录，给出了能在当前饮用水消毒系统存活的菌株，命名了 Raskinella chromaquaticus，这种菌株存在于75%的饮用水系统里，可以代谢卤代化合物，可能有助于消毒副产物研究的溯源。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.4c05086
+
+题目：New Drinking Water Genome Catalog Identifies a Globally Distributed Bacterial Genus Adapted to Disinfected Drinking Water Systems
+
+- 这篇文章关注的是社会经济不平等与暴露组的关系，看结果只证明了具有区域性，有点地理决定论的意思，个人的社会经济地位似乎跟暴露关系不大，这跟北美的结果不太一样。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.4c01509
+
+题目：Socioeconomic Inequalities in the External Exposome in European Cohorts: The EXPANSE Project
+
+- 这项研究我在会议上听过报告，非常全面的时序暴露组数据，里面对污染物按检出率与检出稳定性的分类也很有启发性，多组学按检出稳定性对比也很直观。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.4c05235
+
+题目：Longitudinal Exposomics in a Multiomic Wellness Cohort Reveals Distinctive and Dynamic Environmental Chemical Mixtures in Blood
+
+- 一方面无人机在作为战争武器，另一方面也可以用来在树冠上采集环境DNA。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.4c05595
+
+题目：eProbe: Sampling of Environmental DNA within Tree Canopies with Drones
+
+- 这篇文章用AlphaFold2研究了人类蛋白组与内分泌干扰物的交互作用，很明显这块环境领域是落后的，AlphaFold3已经可以做蛋白质与小分子交互作用了，更不用说刚出的Chai-1了。AI4Science会把研究速度提到按天计算，其辐射的学科如果不能尽快用上，就会被远远甩开。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.4c03774
+
+题目：Interactions of Potential Endocrine-Disrupting Chemicals with Whole Human Proteome Predicted by AlphaFold2 Using an In Silico Approach
