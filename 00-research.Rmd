@@ -7538,3 +7538,79 @@ Deciphering Microbe-Mediated Dissolved Organic Matter Reactome in Wastewater Tre
 链接：https://pubs.acs.org/doi/10.1021/acs.est.4c03774
 
 题目：Interactions of Potential Endocrine-Disrupting Chemicals with Whole Human Proteome Predicted by AlphaFold2 Using an In Silico Approach
+
+## 十月 {-}
+
+### 研究动态 {-}
+
+- 这是篇荟萃分析，发现环境短期气温每升高10度，暴力犯罪率会提高9%，放到气候变化大背景里看，极端天气确有短期改变气温的能力，那么……
+
+推荐人：于淼
+
+链接：https://ehp.niehs.nih.gov/doi/10.1289/EHP14300
+
+题目：Temperature, Crime, and Violence: A Systematic Review and Meta-Analysis
+
+- 这种综述形式值得推广，综述完了还可以给一个塑料化合物的数据库方便二次挖掘。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.estlett.4c00355
+
+题目：LitChemPlast: An Open Database of Chemicals Measured in Plastics
+
+- 如果三五十年后的人来总结，这两年最容易被忽视的可能是航空航天领域的各种进展，这份数据给出了2020到2022年火箭发射相关的大气污染排放清单，目前这个领域还处在指数发展期，其环境影响可能会在未来某个时刻成为重大议题。
+
+推荐人：于淼
+
+链接：https://www.nature.com/articles/s41597-024-03910-z
+
+题目：Global 3D rocket launch and re-entry air pollutant and CO2 emissions at the onset of the megaconstellation era
+
+- 甲基溴是《蒙特利尔议定书》管制的物质，这份研究发现国内甲基溴排放量的很大一部分 (60%) 来自低估或未识别的排放源，特别是在东部地区。
+
+推荐人：于淼
+
+链接：https://www.nature.com/articles/s41467-024-53188-3
+
+题目：Unexplained high and persistent methyl bromide emissions in China
+
+- 互花米草是作为护堤草引入国内的，然后03年就上了国内第一批入侵物种名单，这篇文章介绍了不同处理措施下生态影响。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.4c05253
+
+题目：Ecological Effects of the Huge Invasive Species Removal Project in Coastal China
+
+- 这篇文章介绍了3D打印零价铁构件作为类芬顿反应试剂的技术，这种可定制组件如果可以大规模放在小区管网里，应该可以提高城市污水承载量。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.4c06536
+
+题目：Customizable Three-Dimensional Printed Zerovalent Iron: An Efficient and Reusable Fenton-like Reagent for Florfenicol Degradation
+
+- 磷元素的生物地球化学循环比较特殊，自然循环非常慢，那么开采出的磷一定会蓄积在某些地方，这篇文章关注了滞留在城市里的磷元素，主要是耕地流失与城市固体废物处理。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.4c08078
+
+题目：Trapped Urban Phosphorus: An Overlooked and Inaccessible Stock in the Anthropogenic Phosphorus Cycle
+
+- 这篇文章关注了一个有意思的点，新能源汽车碳排放确实为零，但新能源汽车因为有电池更重，而更重的车身会导致更多的轮胎磨损，而轮胎磨损可能释放毒性物质，这里面这笔账可能不好算清楚。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.4c04126
+
+题目：Persistent Environmental Injustice due to Brake and Tire Wear Emissions and Heavy-Duty Trucks in Future California Zero-Emission Fleets
+
+- 这篇文章介绍了一种用烟头做的无金属催化剂，可以把硫化氢转化为硫单质进行脱硫，这种技术看起来很有前景，毕竟我国现在烟民数量占全世界三分之一，烟头确实是个问题。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.4c06461
+
+题目：Waste to Wealth: Discarded Cigarette Butt-Derived Metal-Free N-Rich Carbon Catalysts for the Selective Catalytic Oxidation of Hydrogen Sulfide to Sulfur
