@@ -7614,3 +7614,79 @@ Deciphering Microbe-Mediated Dissolved Organic Matter Reactome in Wastewater Tre
 链接：https://pubs.acs.org/doi/10.1021/acs.est.4c06461
 
 题目：Waste to Wealth: Discarded Cigarette Butt-Derived Metal-Free N-Rich Carbon Catalysts for the Selective Catalytic Oxidation of Hydrogen Sulfide to Sulfur
+
+## 十一月 {-}
+
+### 研究动态 {-}
+
+- 上次说了EHP上一篇关于低碳排放的饮食有助于降低代谢综合征的文章。这次EHP又发表了一篇饮食碳排放和死亡率的关系。不过，这个关系是个U-shape，就是吃特别低和特别高的碳排放都会增加死亡风险。想起来十几年前有一次食品行业的重大改革，要求大家把食品里的各种成分都列在包装上，这样让消费者一目了然地看到这个食物里有害和有益的成分。也许不久以后也会在标签上看到碳排放量。
+
+推荐人：张雪莹
+
+链接：https://ehp.niehs.nih.gov/doi/10.1289/EHP14935
+
+题目：Association between Diet-Related Greenhouse Gas Emissions and Mortality among Japanese Adults: The Japan Collaborative Cohort Study
+
+- 这篇文章介绍了马达加斯加的鼠疫故事，里面提到了跨学科的 one health 概念，也就是把人与动物的环境健康问题连在一起研究，例如这篇文章里研究鼠疫会去考虑传播链上人跳蚤的角色而不仅仅是老鼠跳蚤。
+
+推荐人：于淼
+
+链接：https://ehp.niehs.nih.gov/doi/10.1289/EHP15224
+
+题目：Madagascar’s Plague: One Health Research Aims to Slow Its Spread
+
+- 这项研究发现极端高温与热浪导致儿童意外受伤的风险增加了 16.8-23.8%。女孩和学龄前儿童对高温表现出更高的脆弱性。其实这种研究的利益相关方是保险公司，极端高温与热浪增多，社会正常运行成本也会提高。
+
+推荐人：于淼
+
+链接：https://www.nature.com/articles/s43247-024-01846-1
+
+题目：Extreme heat and heatwaves are linked to the risk of unintentional child injuries in Guangzhou city
+
+- 生成式人工智能是近年来的热点，这篇文章讨论了其可能产生的电子垃圾，2020-2030大概要有1.2到5百万吨垃圾，贸易保护主义会让电子垃圾更多，更不用说耗电量了，科技公司之前提出的碳中和计划可能都没法完成。
+
+推荐人：于淼
+
+链接：https://www.nature.com/articles/s43588-024-00712-6
+
+题目：E-waste challenges of generative artificial intelligence
+
+- 这项研究对比了模拟雨与自然降雨对叶片细颗粒物的冲刷效果，发现模拟雨效果不好。怎么说呢，挺抽象，读着都能感觉到作者那种无奈，我估计本来是想提出一种模拟雨系统来研究植被冲刷效果，结果发现模拟效果不好就只能这么发了。
+
+推荐人：于淼
+
+链接：https://www.nature.com/articles/s41598-024-80071-4
+
+题目：A comparative study of foliar particulate matter wash-off from plants under natural and simulated rain conditions
+
+- 这项研究考察了钓鱼佬的饵料对鱼生长的影响，结果发现没影响。这研究里面问题太多了，鱼是不是抓了放？还有不打窝又咋算？咋不去研究拟饵的产生微塑料？我们钓鱼佬招你惹你了？
+
+推荐人：于淼
+
+链接：https://www.nature.com/articles/s41598-024-79880-4
+
+题目：Effects of angler’s groundbaits on fish physiology and growth
+
+- Nature的科学指数里中国已经稳居地球与环境科学类的第一，这篇文章从城市角度分析了一下，前五是北京、南京、广州、武汉与上海，第六才是美国的巴尔的摩华盛顿都市区，北京断崖式领先，上海跟政府机构合作多。
+
+推荐人：于淼
+
+链接：https://www.nature.com/articles/d41586-024-03527-7
+
+题目：Leading Nature Index science cities in Earth and environmental science: Research output gathers pace in China
+
+- 这篇观点文章分析了世界银行清洁烹饪项目在加纳推行过程中遇到的问题，并不是发了液化气罐就能取代柴火等固体燃料，这里面还有经济文化等的影响。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.4c10833
+
+题目：Clean Cooking Programs’ Long-Term Success Emerges from Feedback Dynamics
+
+- 这项研究关注了30对接受生育治疗的夫妻生物样本中的外源暴露，首次在卵泡和精液中检测到防晒成分阿伏苯宗和4-硝基苯酚。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.4c04356
+
+题目：Characterization of Chemical Exposome in A Paired Human Preconception Pilot Study
