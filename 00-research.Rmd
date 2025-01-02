@@ -7690,3 +7690,79 @@ Deciphering Microbe-Mediated Dissolved Organic Matter Reactome in Wastewater Tre
 链接：https://pubs.acs.org/doi/10.1021/acs.est.4c04356
 
 题目：Characterization of Chemical Exposome in A Paired Human Preconception Pilot Study
+
+## 十二月 {-}
+
+### 研究动态 {-}
+
+- 这篇文章探讨了在队列研究中使用病例-队列分析时，如何通过合并生物样本来提高暴露评估的效率。感觉流行病学也想搞核酸混合检测那套玩法了。
+
+推荐人：于淼
+
+链接：https://pubmed.ncbi.nlm.nih.gov/39718546/
+
+题目：Pooling Biospecimens for Efficient Exposure Assessment When Using Case-Cohort Analysis in Cohort Studies
+
+- 加州65号提案要求商家要在包装上标注所有可能的污染物，这样就天然形成了一种社会实验，这项工作讨论了提案施行后加州与非加州居民血液里的22种污染物，都有所降低，但没发现明显地域差异。国内也应该尽早构建全国尺度人群样本数据，这样可以更科学评价某项政策是否真的有效果。
+
+推荐人：于淼
+
+链接：https://pmc.ncbi.nlm.nih.gov/articles/PMC11493239/
+
+题目：Trends in NHANES Biomonitored Exposures in California and the United States following Enactment of California’s Proposition 65
+
+- 这个研究很古典，在缅因州一个高中饮用水里发现全氟化合物，研究人员采集了附近住户及湿地的样品，最后确认是高中的化粪池是周围住户私人水井的污染源。我很多同事就住在这个高中附近，孩子也在里面上学，不知道他们会有何感想。
+
+推荐人：于淼
+
+链接：https://pmc.ncbi.nlm.nih.gov/articles/PMC11613431/
+
+题目：Examining Potential PFAS Contamination of Private Wells from a High School in Rural Maine
+
+- 我认为糖暴露其实危害大过二手烟，糖本身也是在种植园经济后才普及的，并不在柴米油盐酱醋茶之列，其上瘾属性带来的健康风险很高。这项研究利用了英国二战后短期的食品配给制这个政策考察了在配给制中出生对其未来慢性病的影响，结果发现在糖配给结束前几年怀孕的婴儿在 50 多岁和 60 多岁时患糖尿病的风险降低了 35%，患高血压的风险降低了 20%。而糖配给制提供糖的量与当前推荐摄入量差不多，是比较低的。国内也有长期粮票配给制，应该也可开展类似研究。
+
+推荐人：于淼
+
+链接：https://www.science.org/doi/10.1126/science.adn5421
+
+题目：Exposure to sugar rationing in the first 1000 days of life protected against chronic disease
+
+- 这篇文章给出了测水样中可萃取有机氟的方法，最大的贡献在于提高了三氟乙酸的回收率。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.estlett.4c00774
+
+题目：A Novel Fluorine Mass Balance Method for Improved Characterization and Quantification of Extractable (Organo)fluorine in Drinking Water
+
+- 这项工作用unet来识别历史地图里未登记的废弃油气井，其实可以看成对历史图像数据的二次挖掘，毕竟官方清单一般都不全。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.4c04413
+
+题目：A Deep Learning Based Framework to Identify Undocumented Orphaned Oil and Gas Wells from Historical Maps: A Case Study for California and Oklahoma
+
+- 这篇文章提出可以用苍蝇来作为复合采样器，可以考察粪便里微生物的变化，想法很好，但如果哪个研究生被指派了这个课题，怕是会留下一辈子心里阴影。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.4c11869
+
+题目：Buzzing Beyond Annoyance: Flies as Nature’s Composite Samplers of Terrestrial Fecal Contamination
+
+- 马斯克最新的猛禽3火箭发动机是用金属3D打印一体成型，既然可以打印发动机，那么就可以模拟肺，这项工作用3D打印技术构建了可以养细胞的人工肺来研究呼吸暴露。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.4c08315
+
+题目：A Ventilated Three-Dimensional Artificial Lung System for Human Inhalation Exposure Studies
+
+- 海洋酸化是被舆论严重低估的环境问题，之前讨论都是贝壳溶解，这项研究发现还会影响软体动物的性别决定。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.4c07808
+
+题目：Low pH Means More Female Offspring: A Multigenerational Plasticity in the Sex Ratio of Marine Bivalves
