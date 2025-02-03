@@ -7766,3 +7766,79 @@ Deciphering Microbe-Mediated Dissolved Organic Matter Reactome in Wastewater Tre
 链接：https://pubs.acs.org/doi/10.1021/acs.est.4c07808
 
 题目：Low pH Means More Female Offspring: A Multigenerational Plasticity in the Sex Ratio of Marine Bivalves
+
+## 一月 {-}
+
+### 研究动态 {-}
+
+- PNAS新发的社会学研究。中国地质大学的Yueran Duan等分析了二十五年、覆盖19个学科类别的四万五千多名学术文章作者， 发现最后留在学术界的概率和博后期间的成果而不是博士期间的成果关系比较大。人们喜欢用毕业学校来评估科研人的前景，这个观念需要改进一下。另一个发现是，当科研工作者自己独立建组后，做的方向和之前博后博士期间的方向略微不同的人会更成功，发表更多更好的成果。 相比之下，研究方向改变特别小和特别大的科研人员产出比较少。这篇文章一经发表就受到了大家关注，估计是因为给广大科研工作者传递了正能量，
+
+推荐人：张雪莹
+
+链接：https://doi.org/10.1073/pnas.2402053122
+
+题目：Postdoc publications and citations link to academic retention and faculty success
+
+- 全美最大最烧钱的出生队列ECHO进入第二期了。这篇文章介绍了ECHO第二阶段的目标。ECHO目前还在收新的孕妇和儿童。至2030年8月，预计总样本量将达到60,000人.
+
+推荐人：张雪莹
+
+链接：https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0312677
+
+题目：Extending the Environmental influences on Child Health Outcomes (ECHO) Cohort through 2030: Rationale and study protocol
+
+- 其实这是去年的七月发表在EST上的文章。德州南部每年都刮飓风，飓风容易引起工厂的化工材料泄露产生二次灾害。这篇文章发现了少数族裔和贫困人路口多的地区，受到飓风带来的二次灾害影响大。一直想介绍这篇，因为在方法上，这项研究可以说是运用公开数据的典范。
+
+推荐人：张雪莹
+
+链接：https://pubs.acs.org/doi/full/10.1021/acs.est.3c10797
+
+题目：Climate Justice Implications of Natech Disasters: Excess Contaminant Releases during Hurricanes on the Texas Gulf Coast
+
+- PubChemLite 算是环境领域常用物质库了，这里面给出了log P跟CCS的预测值，我对预测值的态度是可以用来进行相对排序，绝对值一般不如实验靠谱。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.estlett.4c01003
+
+题目：PubChemLite Plus Collision Cross Section (CCS) Values for Enhanced Interpretation of Nontarget Environmental Data
+
+- 无火焰香氛蜡烛属于小众流行品了，不过这种LED灯模拟火焰的蜡烛也能提高大气纳米颗粒物的话，那么大多数室内空气清新剂怕也有类似效果。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.estlett.4c00986
+
+题目：Flame-Free Candles Are Not Pollution-Free: Scented Wax Melts as a Significant Source of Atmospheric Nanoparticles
+
+- 表格数据的基础模型tabpfn发布，用合成数据训练，在10000 行和 500 列及以下的数据集（基本覆盖科研y=f(x)领域）效果号称优于任何其他机器学习模型，无需从头训练，设定好训练集微调后，可以在几分之一秒内对新数据集进行推断。感觉自动化机器学习的春天还没开始就结束了，基础模型微调时代可能要来了。
+
+推荐人: 于淼
+
+链接: https://www.nature.com/articles/s41586-024-08328-6
+
+题目：Accurate predictions on small data with a tabular foundation model
+
+- KAN这个架构很适合研究用的非线性模型，侧重可解释性，不过这个应用有点迷，叶绿素浓度应该是机理模型可以直接预测的啊。
+
+推荐人: 于淼
+
+链接: https://pubs.acs.org/doi/10.1021/acs.est.4c11113
+
+题目：Predicting Chlorophyll-a Concentrations in the World’s Largest Lakes Using Kolmogorov-Arnold Networks
+
+- 这个研究很适合在国内复刻，研究人员衡量了芝加哥打车与公交的成本，然后发现34美元是分水岭，如果你的时薪超过34美元就打车，低于就公交，而这个数跟当地平均时薪30美元差不多，考虑环境影响这个成本就成了37美元，如果是电动车则不会增加。感觉像是逆向推出了打车软件的定价策略。
+
+推荐人: 于淼
+
+链接: https://pubs.acs.org/doi/10.1021/acs.est.4c08808
+
+题目：Chicago Riders’ Choice of Uber and Lyft over Transit Implies a Median Breakeven Value of Travel Time Equal to the Regional Hourly Wage of $30 per Hour
+
+- 感觉新冠过后环境化学与免疫相结合的研究多了起来，这项研究评估了加拿大的圣劳伦斯河口有污染的白鲸与波弗特海无污染白鲸的皮肤转录组差异，发现不少免疫相关基因受影响。其实对于外源污染物，除了肝肾代谢，免疫系统也确实最容易受影响的，不过免疫系统实验不太好做，这两年微生物组学发展倒是降低了这类研究门槛。
+
+推荐人: 于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.4c08272
+
+题目：Contaminant-Associated Disruption of the Skin Transcriptome in the Endangered St. Lawrence Estuary Beluga
