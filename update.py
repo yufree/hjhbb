@@ -1,4 +1,3 @@
-
 import feedparser
 from datetime import datetime, timedelta, timezone
 import json
@@ -60,9 +59,10 @@ def get_pubmed_abstracts(rss_url):
         # If the publication date is within one week, extract the abstract and URL
         if published_date >= one_week_ago:
             # Get the abstract and DOI of the entry
+            title = entry.title
             abstract = entry.content[0].value
             doi = entry.dc_identifier
-            abstracts_with_urls.append({"abstract": abstract, "doi": doi})
+            articles.append({"title": title, "abstract": abstract, "doi": doi})
 
     return abstracts_with_urls
 
@@ -73,33 +73,28 @@ pubmed_abstracts = get_pubmed_abstracts(rss_url)
 new_articles_data = []
 
 for abstract_data in pubmed_abstracts:
-    # Extract abstract and DOI
-    abstract = abstract_data["abstract"]
-    research_score, social_impact_score = extract_scores(abstract)
+    title = abstract_data["title"]
+    research_score, social_impact_score = extract_scores(abstract_data["abstract"])
     doi = abstract_data["doi"]
 
-    # Build a dictionary containing the abstract, scores, and DOI
-    abstract_data_with_scores = {
-        "abstract": abstract,
+    new_articles_data.append({
+        "title": title,
         "research_score": research_score,
         "social_impact_score": social_impact_score,
         "doi": doi
-    }
-
-    # Append the dictionary to the list
-    new_articles_data.append(abstract_data_with_scores)
-
+    })
+    
 # Create issue title and content
 issue_title = f"Weekly Article Matching - {datetime.now().strftime('%Y-%m-%d')}"
 issue_body = "Below are the article matching results from the past week:\n\n"
 
 for article_data in new_articles_data:
-    abstract = article_data["abstract"]
+    abstract = article_data["title"]
     research_score = article_data["research_score"]
     social_impact_score = article_data["social_impact_score"]
     doi = article_data.get("doi", "No DOI available")  # Default to "No DOI available" if DOI field is missing
 
-    issue_body += f"- **Article Abstract**: {abstract}\n"
+    issue_body += f"- **Title**: {abstract}\n"
     issue_body += f"  **Research Score**: {research_score}\n"
     issue_body += f"  **Social Impact Score**: {social_impact_score}\n"
     issue_body += f"  **DOI**: {doi}\n\n"
