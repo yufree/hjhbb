@@ -62,7 +62,7 @@ def get_pubmed_abstracts(rss_url):
             title = entry.title
             abstract = entry.content[0].value
             doi = entry.dc_identifier
-            articles.append({"title": title, "abstract": abstract, "doi": doi})
+            abstracts_with_urls.append({"title": title, "abstract": abstract, "doi": doi})
 
     return abstracts_with_urls
 
