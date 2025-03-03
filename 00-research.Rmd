@@ -7842,3 +7842,79 @@ Deciphering Microbe-Mediated Dissolved Organic Matter Reactome in Wastewater Tre
 链接：https://pubs.acs.org/doi/10.1021/acs.est.4c08272
 
 题目：Contaminant-Associated Disruption of the Skin Transcriptome in the Endangered St. Lawrence Estuary Beluga
+
+## 二月 {-}
+
+### 研究动态 {-}
+
+- 泰晤士河拥有全世界记录历史最长的河流水质记录，这150年的记录显示废水处理和农业管理的改善已将磷负荷减少了约 80%，然而并不足以抑制河流藻华，新的驱动因素是气候变暖，水温升高增加了3月至4月硅藻华， 7月至8月水温升高则有利于蓝藻生长的天数。
+
+推荐人：于淼
+
+链接：https://www.nature.com/articles/s43247-024-01978-4
+
+题目：A 150-year river water quality record shows reductions in phosphorus loads but not in algal growth potential
+
+- 人们对全球农作物种植的空间模式最近如何演变以及哪些作物对这些变化贡献最大了解甚少，这个开源数据集提供了2000年至2015 年的23种作物灌溉和雨养作物面积，我问了下deepseek能用来研究什么，又问了一些操作细节，代码就给出来了，感觉以后数据驱动的研究都可以自动化按需来做了。
+
+推荐人：于淼
+
+链接：https://www.nature.com/articles/s41597-024-04313-w
+
+题目：A global open-source dataset of monthly irrigated and rainfed cropped areas (MIRCA-OS) for the 21st century
+
+- 这篇文章虽然是2月发的，但相信作者自己都知道里面内容已经过时了，如果现在来做，应该用zero shot先让模型左右互搏提升推理能力，然后用里面少量冷启动数据对基础模型进行微调，蒸馏出一个专业推理模型。我建议环境领域的先别急，等下更好的开源基础模型，说不定很快大家就都失业了。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.estlett.5c00038
+
+题目：Evaluating and Advancing Large Language Models for Water Knowledge Tasks in Engineering and Research
+
+- Hermesis 可理解为生物体对极低剂量毒物或污染物的积极反应，而高剂量则会引起负面影响的现象。这篇观点文章讨论了这个现象在全球环境变化里的角色，这里面有很多未知，但确实是要对污染物的效应保持中立开放态度，而不是单纯认为全是负面。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.5c01101
+
+题目：Hormesis as a Hidden Hand in Global Environmental Change？
+
+- 这是篇比较系统讨论福岛污染水排放影响的论文，整合了放射性核素扩散、生物累积和全球海产品贸易等因素，也给了一个可视化可交互的网站来展示风险分布。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.4c08145
+
+题目：Fukushima Contaminated Water Risk Factor: Global Implications
+
+- 这篇文章报道了首次在陆生鸟类的砂囊里检出轮胎道路磨损颗粒，这个视角下，是不是走地鸡的外源暴露风险高于养殖鸡了，特别是那些散养在公路附近的。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.4c11843
+
+题目：Tire-Road-Wear Particles and Glass Beads in the Gizzard of the Endangered Terrestrial Bird, Okinawa Rail (Hypotaenidia okinawae)
+
+- 现在的城市排水系统应该是要求雨污分流的，但现实还是很多合流的，这项研究关注了溢流区苍蝇里携带人类线粒体 DNA 的情况，发现污水溢流处附近的苍蝇可能携带与污水相关的肠道病原体，并对公共卫生构成危害。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.4c14029
+
+题目：Blow Flies Pose a Public Health Hazard near Urban Combined Sewer Overflows
+
+- 这篇文章关注到北京与长沙两个城市脐带血中锂的浓度，北京明显比长沙高且来源不明，可能来自人为因素，我怀疑可能有城乡差异，电动车普及率也可以考虑，另外锂常被用来作为精神治疗药物，也有可能北京生活压力比长沙大，环境暴露风险高。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.4c12959
+
+题目：Lithium Levels in Umbilical Cord Blood from Two Cities in China: Indicating Unidentified Sources of Human Exposure
+
+- 印象中十几年前就看到过报道说减肥会导致脂溶性污染物释放到血液里，这篇算是给了一个证据，认为这些持久性有机污染物通过改变脂质代谢减弱了减肥手术对青少年血压改善的效果。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.4c13902
+
+题目：Metabolic Signatures in Adipose Tissue Linking Lipophilic Persistent Organic Pollutant Mixtures to Blood Pressure Five Years After Bariatric Surgery Among Adolescents
