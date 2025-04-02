@@ -23,7 +23,7 @@ jobs:
       - name: install curl
         run: sudo apt-get -y install libcurl4-openssl-dev 
       - name: Cache Renv packages
-        uses: actions/cache@v2
+        uses: actions/cache@v4
         with:
           path: $HOME/.local/share/renv
           key: r-${{ hashFiles('renv.lock') }}
