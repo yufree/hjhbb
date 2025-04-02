@@ -7918,3 +7918,79 @@ Deciphering Microbe-Mediated Dissolved Organic Matter Reactome in Wastewater Tre
 链接：https://pubs.acs.org/doi/10.1021/acs.est.4c13902
 
 题目：Metabolic Signatures in Adipose Tissue Linking Lipophilic Persistent Organic Pollutant Mixtures to Blood Pressure Five Years After Bariatric Surgery Among Adolescents
+
+## 三月 {-}
+
+### 研究动态 {-}
+
+- 新研究表明，微塑料可使植物的光合作用能力降低高达 12%，这个比例堪比超级火山喷发的天灾了。
+
+推荐人：于淼
+
+链接：https://www.pnas.org/doi/10.1073/pnas.2423957122
+
+题目：A global estimate of multiecosystem photosynthesis losses under microplastic pollution
+
+- 这是一套收集全球五个国家地表水水质（中美加英爱尔兰）的数据集，可以用来训练机器学习模型，其中中国数据是2001到2017年的8个地表水指标，美国与爱尔兰数据历史跨度最长。
+
+推荐人：于淼
+
+链接：https://www.nature.com/articles/s41597-025-04715-4
+
+题目：A Comprehensive Dataset of Surface Water Quality Spanning 1940-2023 for Empirical and ML Adopted Research
+
+- nature 发文介绍了长江数字孪生项目，借助仿真模型可以用来预测洪水路线、水利工程、调度、航运、生态影响和其他结果的实时建模。感觉这项目如果成功，环评这个职业可能就没了。
+
+推荐人：于淼
+
+链接：https://www.nature.com/articles/d41586-025-00720-0
+
+题目：How a vast digital twin of the Yangtze River could prevent flooding in China
+
+- 这个项目评估了使用白板记号笔教学通过BTEX暴露对伊朗大学教授健康的影响，发现确实有风险，不过现在幻灯片应该更普遍了，印象中国内十几年前的大学老师基本就不用板书了。
+
+推荐人：于淼
+
+链接：https://www.nature.com/articles/s41598-025-92336-7
+
+题目：Assessment of health risks of university professors through exposure to BTEX compounds from white board markers
+
+- 题目越短事越大，这项研究提供一种可以在桌面计算机运行的天气预报模型Aardvark Weather，收集来自卫星、气象站、船舶和其他传感器的观测数据，并得出高分辨率的全球和本地预报，结果与基于超算的数值模拟差不多，但算力需求小很多。
+
+推荐人：于淼
+
+链接：https://www.nature.com/articles/s41586-025-08897-0
+
+题目：End-to-end data-driven weather prediction
+
+- 这是日本研究人员对福岛自来水和地下水中的放射性核素的评估，事故发生 10 年后，所有饮用水样本的 137 Cs 水平都低于检测限，地下水的 222 Rn 水平升高。在两个来源中都测量到了痕量的 3 H (0.07–0.55 Bq L –1 )，自来水的水平通常较高。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.4c14601
+
+题目：Fukushima’s Tap and Groundwater a Decade after the Nuclear Accident with Radiocesium, Tritium, and Radon
+
+- 这篇文章发现优化城市绿地联通性而不是简单增加绿地面积可以减小国内城市极端热暴露，这对城市规划应该是挺重要的结论。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.4c11345
+
+题目：Optimizing Urban Greenspace Landscapes to Mitigate Population Exposure to Extreme Heat in 21st Century Chinese Cities
+
+- 这篇文章发现水文朊病毒运输是由沉积物促进的且可在沉积物里至少持续一年，这么看有必要引入AI研究下蛋白序列的环境持久性了。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.4c11497
+
+题目：Prion Partitioning and Persistence in Environmental Waters
+
+- 这篇观点文章认为微液滴可能是一个被忽视的空气中活跃化学反应的场所，其实这对新药研发也有启发，例如给药方式设计成微液滴，在喷洒过程中氧化激活活性组分。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.5c01041
+
+题目：Microdroplets: An Overlooked “Engine” of Chemistry in Air
