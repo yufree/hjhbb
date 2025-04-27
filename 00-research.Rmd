@@ -7994,3 +7994,80 @@ Deciphering Microbe-Mediated Dissolved Organic Matter Reactome in Wastewater Tre
 链接：https://pubs.acs.org/doi/10.1021/acs.est.5c01041
 
 题目：Microdroplets: An Overlooked “Engine” of Chemistry in Air
+
+## 四月 {-}
+
+### 研究动态 {-}
+
+- 这篇文章关注了美国公共供水系统里无机物的暴露的社会人口差异，这种研究其实可以直接取关注更底层的不同收入社区的基建经费问题，毕竟公共供水系统的出水标准是相对统一的，重金属差异要么来自管网老化，要么来自区域水质本底，实在没必要从接收端的社会成分来讨论，立论科学性不强，不过考虑到EHP现在被打击的都不接受新投稿了，放这种文章出来也可以看成一种抗议吧。
+
+推荐人：于淼
+
+链接：https://ehp.niehs.nih.gov/doi/10.1289/EHP14793
+
+题目：Sociodemographic Disparities in Exposures to Inorganic Contaminants in United States Public Water Systems
+
+- 这项基础研究在上海一片湿地上做了两年的微塑料风化实验，记录了一些指标变化，O/C比上升这个现象似乎可以深入挖掘下。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.4c12140
+
+题目：Weathering Process and Characteristics of Microplastics in Coastal Wetlands: A 24-Month In Situ Study
+
+- 这项研究发现单萜类化合物在大城市中出乎意料的高，挑战了传统认为这类物质主要是天然源的观点。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.5c00001
+
+题目：Significant but Overlooked: The Role of Anthropogenic Monoterpenes in Ozone Formation in a Chinese Megacity
+
+- 又到了读论文投资破产时间了，这项研究认为光伏技术如果全面使用钙钛矿路线，可降低能源成本21.2%，前提是当前预期到 2050 年，太阳能光伏将提供全球高达 79%的电力。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.5c0012
+
+题目：Transitioning Photovoltaics to All-Perovskite Tandems Reduces 2050 Climate Change Impacts of PV Sector by 16
+
+- 这篇短文评价了NHANES数据的代表性，单就尿样里的化合物而言，公开数据与受限数据间季节与地区差异是存在的，也就是在使用这类数据时不适宜研究季节性或区域性强的化合物暴露，例如防晒霜啥的。
+
+推荐人：于淼
+
+链接：https://ehp.niehs.nih.gov/doi/10.1289/EHP17203
+
+题目： Are NHANES data representative of the US population for chemicals with seasonal and regional use?
+
+- 用无人机搭载便携质谱做空气监测比拿来表演有意义多了，很适合用来应对环境突发事件，采集关键数据制定应对方案，建议地市级监测站都配备几套，里面那个质谱是离子阱的，已经完成国产化了。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.5c02330
+
+题目：Real-Time Visual Monitoring and High Spatiotemporal-Resolution Mapping of Air Pollutants Using a Drone-Mass Spectrometer System
+
+- 这是一篇关于阳光消毒的综述，里面提到了很多研究空白值的探索，例如目前包膜病毒研究大都来自医学实验室环境，环境阳光下的病毒行为关注不足，DNA单链病毒直接属于空白，天然水体里的光敏剂也没搞清楚。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.4c04766
+
+题目：Systematic Review and Meta-analysis on the Inactivation Rate of Viruses and Bacteriophage by Solar Wavelength Radiation
+
+- 马桶清洁片属于家居神器，清理顽固污渍很有效果，这项研究发现它们可能是污水里消毒副产物的来源，这个视角比较神奇，毕竟消毒副产物研究的出发点是自来水或直饮水，冲马桶的水里消毒副产物的危害更多可能是生态毒理影响吧。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.4c12026
+
+题目：Toilet Bowl Cleaning Tablets as Sources of Chlorine, Bromine, and Disinfection Byproducts in Wastewater
+
+- 这篇观点文章梳理了阻燃剂在加州的使用与禁用过程，指出实验证据已经显示“(1) 与未经阻燃化学品处理的椅子相比，经阻燃化学品处理的符合 TB117 的泡沫并未显著降低软垫椅子的火焰蔓延速度且无论织物类型如何以及泡沫中是否存在阻燃化学品，在覆盖织物和内部填充材料之间加入含玻璃纤维和改性腈纶的防火屏障均可显著降低无软垫椅子的火焰蔓延速度”，因此加州应在未来立法过程中在软装家具里永久禁用阻燃剂，转而使用防火屏障策略。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.5c03121
+
+题目：A Proposal to Permanently Ban Flame Retardant Chemicals to Meet California’s Flammability Standard for Upholstered Furniture
+
