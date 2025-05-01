@@ -35,11 +35,7 @@ jobs:
           path: _bookdown_files
           key: bookdown-${{ hashFiles('**/*Rmd') }}
           restore-keys: bookdown-
-
-      - name: Install packages
-        uses: r-lib/actions/setup-r-dependencies@v2
-        with:
-          extra-packages: digest
+          
       - name: Install packages
         run: |
           R -e 'install.packages("renv")'
