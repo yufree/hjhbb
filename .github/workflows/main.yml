@@ -37,6 +37,10 @@ jobs:
           restore-keys: bookdown-
 
       - name: Install packages
+      - uses: r-lib/actions/setup-r-dependencies@v2
+        with:
+          extra-packages: digest
+      - name: Install packages
         run: |
           R -e 'install.packages("renv")'
           R -e 'renv::restore()'
