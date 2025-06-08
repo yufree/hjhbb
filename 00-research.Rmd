@@ -8071,3 +8071,78 @@ Deciphering Microbe-Mediated Dissolved Organic Matter Reactome in Wastewater Tre
 
 题目：A Proposal to Permanently Ban Flame Retardant Chemicals to Meet California’s Flammability Standard for Upholstered Furniture
 
+## 五月 {-}
+
+### 研究动态 {-}
+
+- 这项研究用伤残调整生命年来衡量在家里烧开水带来的健康益处与使用固态燃料造成室内空气污染的净贡献，最后发现不论用啥燃料，烧开水的健康效益都是正向的，其实这个思路也可以去考察阻燃剂等化学品的人群健康净效应。
+
+推荐人：于淼
+
+链接：https://pubmed.ncbi.nlm.nih.gov/40344151/
+
+题目：Health Trade-offs of Boiling Drinking Water with Solid Fuels: A Modeling Study
+
+- 孕妇用药开发一直是比较难的，这种人体实验属于不可能，因此动物实验与预测就很重要，这项工作给了个基于QSPR的发育毒性预测工具，也许可以应个急。无论如何，好的切入点对提升文章影响力还是有帮助的。
+
+推荐人：于淼
+
+链接：https://pubmed.ncbi.nlm.nih.gov/40388119/
+
+题目：DeTox: an In-Silico Alternative to Animal Testing for Predicting Developmental Toxicity Potential
+
+- 这属于西方特色研究了，用模拟方法研究二手大麻气溶胶暴露，中国现在是全球香烟产销双第一大国，占全球接近一半，二手烟与三手烟研究可能也需要类似体系。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.4c14328
+
+题目：Secondhand Exposure to Simulated Cannabis Vaping Aerosols
+
+- 我确实没想到卤代化合物除了同位素特征峰外，离子淌度也有特殊规律，结构更紧凑CCS比较小，确实MS1配合离子淌度其实就可以筛了。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.4c13260
+
+题目：Exposing Halogenated Airborne Pollutants by Non-Targeted Screening of Passive Samplers Using Ion Mobility-Mass Spectrometry
+
+- 过期药物这个问题其实挺值得深入讨论的，这篇文章讨论了一些现状，例如很多药过了保质期有效成分也没减少，而且很多药物辅料释放到环境里也存在药物缓释风险。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.5c03842
+
+题目：Are We Throwing Away Medicines Too Early?
+
+- 长须鲸跟人寿命接近，很适合来研究暴露组，这篇文章就研究了鲸鱼体内暴露组与基因表达的影响，主要出现在内分泌干扰与生殖，其实陆地上与人寿命接近的野生大象也应该可以做类似研究。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.5c00844
+
+题目：Fin Whale as a Sink of Legacy and Emerging Contaminants: First Integrated Chemical Exposomics and Gene Expression Analysis in Cetaceans
+
+- 这篇文章关注了生物累积的异速生长现象，用自然实验阐明了尺寸和年龄对牡蛎金属生物累积的影响，发现年龄比尺寸影响大，年龄越大重金属浓度越低，这对采样挺关键的。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.4c14489
+
+题目：Natural Experiment Reveals Lower Metal Levels in Older Oysters: Disentangling Age, Size, and Growth Effects
+
+- 这篇文章研究了手性农药对于微生物抗性的影响，发现氟他酮的两种手性异构体里一种可以引发抗性，另一种则几乎不引发抗性，这项研究对新农药设计很重要。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.4c13010
+
+题目：Chiral Pesticides Selectively Influence the Dissemination of Antibiotic Resistance Genes: An Overlooked Environmental Risk
+
+- 我不太清楚这类研究有啥具体的意义，notebooklm完全可以做到类似功能甚至更好用，这种文章的半衰期太短了。
+
+推荐人：于淼
+
+链接：https://www.nature.com/articles/s41612-025-01070-4
+
+题目：AirGPT: pioneering the convergence of conversational AI with atmospheric science
