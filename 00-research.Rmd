@@ -8146,3 +8146,79 @@ Deciphering Microbe-Mediated Dissolved Organic Matter Reactome in Wastewater Tre
 链接：https://www.nature.com/articles/s41612-025-01070-4
 
 题目：AirGPT: pioneering the convergence of conversational AI with atmospheric science
+
+## 六月 {-}
+
+### 研究动态 {-}
+
+- EHP是美国国立卫生院支持的唯一的同行评议期刊，但也因为这是个联邦政府项目，在改版5年后熬过了疫情但遇上了新政府，现在基本就停刊了，这是编辑写的总结性社论。
+
+推荐人：于淼
+
+链接：https://ehp.niehs.nih.gov/doi/10.1289/EHP17962
+
+题目：A Chapter Closes at Environmental Health Perspectives
+
+- 这算是先行版教材了，总结了环境混合物的流行病学研究常用的统计方法。
+
+推荐人：于淼
+
+链接：https://ehp.niehs.nih.gov/doi/10.1289/EHP16791
+
+题目：Workflow for Statistical Analysis of Environmental Mixtures
+
+- NIH官方总结的暴露组学研究现状及他们的资助状况，列举了他们看重的质谱、空间数据、可穿戴设备、问卷、社会经济地位、数据整合等方向，文章不算长但基本都说到点上了。
+
+推荐人：于淼
+
+链接：https://ehp.niehs.nih.gov/doi/10.1289/EHP15561
+
+题目：Advancing Exposomics: From Concept to Practice in Environmental Health Sciences
+
+- 这篇文章介绍了一种低成本从大气捕集水的装置，甚至可以在死亡谷的低湿度环境里运行且锂离子不超标。
+
+推荐人：于淼
+
+链接：https://www.nature.com/articles/s44221-025-00447-2
+
+题目：A metre-scale vertical origami hydrogel panel for atmospheric water harvesting in Death Valley
+
+- 历史沉积过程中土壤中遗留的汞可能会延缓湖泊生物对汞沉积减少的响应，这个研究跟之前在五大湖做的由于全球变暖造成的有机污染物再释放可以放到一起，看起来单纯减排并不够，历史排放的环境遗留影响比预计的大。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.5c00834
+
+题目：Soil Mercury Accumulation Delays Fish Recovery from Atmospheric Deposition Declines
+
+- 这项研究提供了轮胎和道路磨损颗粒在水中沉降速度的实证数据，对于环境迁移建模很重要，算是世界模型的一个小小分支。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.5c04165
+
+题目：Settling Velocities of Tire and Road Wear Particles: Analyzing Finely Graded Density Fractions of Samples from a Road Simulator and a Highway Tunnel
+
+- 这项研究对比了氯化与氯胺化两种消毒方法在有天然有机质条件下的消毒副产物，氯胺化确实副产物少点，不过多个溴取代基以及芳香族结构中含有硝基和羧酸等功能基团的物质因为潜在毒性高值得关注。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.5c02725
+
+题目：Comparative Nontargeted Analysis and Toxicity of Brominated Disinfection Byproducts from Chlorination and Chloramination of Natural Organic Matter
+
+- 这是篇关于碳氟键的综述，比较有意思的是TOC，猜测某作者是边玩黑神话边写的论文。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.5c04015
+
+题目：Breaking the Carbon–Fluorine Stronghold: Reductive Defluorination of PFASs
+
+- 这项研究发现红树林生态系统里蛛网可以作为一种研究生物放大作用的介质，蛛网的采样过程感觉比较有难度，不过伴随人口下降，废弃建筑物里的蛛网确实有希望成为一种评估健康风险的手段。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.5c00313
+
+题目：Spider Webs as Noninvasive Indicators of Biomagnification and Tissue Partitioning of Halogenated Organic Contaminants in Mangrove Ecosystems
