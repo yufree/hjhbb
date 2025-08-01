@@ -8222,3 +8222,81 @@ Deciphering Microbe-Mediated Dissolved Organic Matter Reactome in Wastewater Tre
 链接：https://pubs.acs.org/doi/10.1021/acs.est.5c00313
 
 题目：Spider Webs as Noninvasive Indicators of Biomagnification and Tissue Partitioning of Halogenated Organic Contaminants in Mangrove Ecosystems
+
+## 七月 {-}
+
+### 研究动态 {-}
+
+- 这篇文章关联了鱼类烂鳃病与塑料球，提到烂鳃病是柱状黄杆菌，这个数据很适合做因果推断或中介分析，或者说很多流行病学研究的方法可以平移到生态毒理研究里。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.4c11916
+
+题目：Plastisphere Promotes Gill-Rot Disease: A Retrospective Study on a Sudden Fish Mortality Incident
+
+- 这项研究关注了室内做饭相关微生物的种群变化，确实经常在家下厨与吃外卖不同生活方式间的健康风险应该是不同的，通过微生物视角也比较好量化。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.5c02724
+
+题目：Cooking-Derived Organic Compounds Shape Bacterial Communities on Household Surfaces
+
+- 这项工作引入了一种太阳能驱动的合成植物，可以用来净化水体中PPCPs，原理是光照生成羟基自由基，净水效果比天然植物要好。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.5c00765
+
+题目：A Synthetic Hydrophyte for Sunlight-Driven Water Purification
+
+- 搬好板凳备好零食看学术期刊吵架是很有意思的，这次是关于斯德哥尔摩协定的，原作者发文认为现在新型污染物提名偏离科学，质疑者认为其用UV-328作为例子感到不快，原作者的回复则重申了政治不应干涉科学的原则。其实里面有很多潜台词，相信做相关研究的很明白这两方实际在讨论什么。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.5c05961
+https://pubs.acs.org/doi/10.1021/acs.est.5c08190
+
+题目：Correspondence on “The Stockholm Convention at a Crossroads: Questionable Nominations and Inadequate Compliance Threaten Its Acceptance and Utility”
+Rebuttal to Correspondence on “The Stockholm Convention at a Crossroads: Questionable Nominations and Inadequate Compliance Threaten Its Acceptance and Utility”
+
+- 这份前瞻文章关注了肥料里的化学梯度，如果利用得当可以大幅提高肥效，这类问题属于很重要但不那么高技术的课题，例如磷矿在地质尺度上是可循环的，但从人类开发利用角度其实不可循环，肥效如果能有明显提升其实是可以影响全球粮食安全的。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.5c04757
+
+题目：Unveiling Chemical Gradients in the Fertosphere: A Paradigm Shift to Enhance Fertilizer Efficiency and Decrease the Environmental Impact of Overfertilisation
+
+- 乳牙是非常好的暴露研究工具，本身形成过程类似树木年轮可以同时反映儿童出生前与出生后的污染物暴露，然后6周岁就会自然脱落，这项研究就发现了母体红细胞铅含量与儿童牙本质铅含量呈显著正相关，尤其在妊娠中期母体铅含量与产前牙本质铅含量之间观察到最强的关联。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.5c05460
+
+题目：Dentin Metal and Trace Elements in Deciduous Teeth: Findings from Project Viva
+
+- 这类研究我统称为鱼与熊掌类研究，就是研究某种日化用品毒性的工作，这篇就发现紫外线过滤剂可以在皮肤里形成光毒性葡萄糖苷代谢物，那么问题来了，究竟是涂防晒霜防皮肤癌还是不涂防光毒性呢？类似的还有各种阻燃剂类研究。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.5c05025
+
+题目：Metabolism of Oxybenzone and Dioxybenzone to Phototoxins in Human Skin Cells
+
+- 这项研究关注了小于胎龄儿与夜间室外光照的关系，夜间室外光照这个指标比较特殊，即用来说明光污染，也可以用来指示社会发展程度，结果显示夜间室外光照会提高小于胎龄儿风险，如果换一个视角解读，就成了夜生活越丰富，新生儿体重会偏低。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.5c02045
+
+题目：Trajectories of Outdoor Light at Night, Small for Gestational Age, and Effect Modification by Socio-Economic Status: A Population-Based Retrospective Cohort Study
+
+- 这项研究关注了城市中猫的肠道菌群，把猫分成了家养猫、自由放养猫和散养家猫三组，里面微生物多样性最高的是散养家猫，看起来撸猫也可能成为获取抗生素抗性的一条捷径。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.5c05156
+
+题目：Composition, Antibiotic Resistance, and Functionality of the Gut Microbiome in Urban Cats
