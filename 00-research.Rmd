@@ -8300,3 +8300,79 @@ Rebuttal to Correspondence on “The Stockholm Convention at a Crossroads: Quest
 链接：https://pubs.acs.org/doi/10.1021/acs.est.5c05156
 
 题目：Composition, Antibiotic Resistance, and Functionality of the Gut Microbiome in Urban Cats
+
+## 八月 {-}
+
+### 研究动态 {-}
+
+- 虽然题目很自由派，但内容偏事实陈述。过去20年私募股权市场目前已经占全球金融市场50%，而全球 75%的破坏自然的资本流动来自私营部门，私营部门仅贡献了 18%的对自然有益的投资。这个现象还是挺有意思的，经典外部性。
+
+推荐人：于淼
+
+链接：https://www.nature.com/articles/s41559-025-02828-y
+
+题目：Increase the regulation of biodiversity effects from private equity markets
+
+- 这篇文章发现即使平均排放量在高标准下下降，高排放车辆占比确越来越高，也就是提高排放标准似乎对高排放车辆几乎没用，需要新思路。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.5c05696
+
+题目：Extreme Value Theory View of High Emitter Diesel Vehicles in the US from 1991 to 2021
+
+- 这篇文章通过宏基因组数据发现汞的生物甲基化场所可能是下水道生物膜，然后污染了河流。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.4c13397
+
+题目：Urban Sewer System Is an Incubator of Sewage-Derived Mercury-Methylating Microorganisms: A New Public Health Challenge
+
+- 这篇文章很实用，研究了下微塑料在鱼体内的分布，发现鳃里跟肠里有，但肉里没有，也就是少吃鱼头泡饼即可。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.5c02907
+
+题目：Microplastic Distribution Patterns in Fish and Implications for Safe Consumption
+
+- 质谱探针其实在成像领域已经有商业产品了，但用到环境自由基检测确实比较新颖，类似质谱里的免疫分析。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.5c03350
+
+题目：Selective Detection of Carbon-Centered Radicals in Water via a Fluorescent Probe and High-Resolution Mass Spectrometry
+
+- 这篇文章给出了一些挥发性物质的呼吸保留指数，对于评估经口暴露的污染物摄入量属于基础性工作，结果上看似乎之前高估了不少暴露。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.5c01777
+
+题目：Advanced Breathomics Reveals Human Absorption of Exogenous Volatile Organic Compounds
+
+- 这篇文章考察了土壤微生物对水里DOM的影响，出发点很有意思，如果能做下定量反应组学，可能会看到更完整的机制。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.5c05562
+
+题目：Microbes from Different Soil Regions Play Distinct Roles in the Processing of Aquatic Dissolved Organic Matter
+
+- 我等这篇文章好久了，终于有人实际检验AlphaFold 3在小分子污染物配体上的表现了，从结果上看并不理想，不过可结合传统分子对接工具一起用。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.5c03917
+
+题目：Assessing AlphaFold 3 for Per- and Polyfluoroalkyl Substances Docking in Protein Structures
+
+- 这篇文章讨论了应对消毒副产物的两条技术路线，很明显作者倾向于用活性炭方案，但这个方案会提高7%的用水成本。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.5c09947
+
+题目：Mitigating Disinfection Byproducts: Chloramination or Granular Activated Carbon Treatment?
