@@ -8376,3 +8376,79 @@ Rebuttal to Correspondence on “The Stockholm Convention at a Crossroads: Quest
 链接：https://pubs.acs.org/doi/10.1021/acs.est.5c09947
 
 题目：Mitigating Disinfection Byproducts: Chloramination or Granular Activated Carbon Treatment?
+
+## 九月 {-}
+
+### 研究动态 {-}
+
+- 这是个美国高分辨率极端高温/低温暴露检测的数据库，应该可以用来验证一些时空假设与数据探索训练。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.5c03658
+
+题目：Developing a Spatiotemporal Repository of Extreme Heat and Cold Exposure in the United States for Precision Public Health Research
+
+- 这项研究指出卫星观测数据很可能低估了气体燃烧量，很多火焰可能不明显而被卫星忽略。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.5c03928
+
+题目：Gas Flaring Is Likely Underestimated by Satellites due to Undetected Small Flares
+
+- 这应该是我第二次看到这个结论了，做血样要除磷脂。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.5c01686
+
+题目：Blood Sample Preparation for Human Chemical Exposomics: Insights from Large-Scale Applications
+
+- 南极样品微生物抗性研究发现，这些抗性主要来自于人跟动物，我在想这伙研究人员本来期待着什么，天然抗生素？
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.5c06023
+
+题目：Antarctic Environmental Resistomes Closely Associated with Human and Animal Waste Releases
+
+- 这项工作用biobank数据做了个疾病预测模型，号称可提前20年进行诊断，也发现了一些共同发病的现象，其实可以用来部分回答终极问题：疾病究竟是天生还是环境影响，如果都有作用，各自影响有多大？
+
+推荐人：于淼
+
+链接：https://www.nature.com/articles/s41586-025-09529-3
+
+题目：Learning the natural history of human disease with generative transformers
+
+- 碳元素的重要性在本世纪内可能会被硅与锂取代，而锂本身就是治疗抑郁的药，这项研究发现锂盐会改变蟑螂的神经内分泌系统，也就存在生态毒理风险。
+
+推荐人：于淼
+
+链接：https://www.nature.com/articles/s41598-025-18293-3
+
+题目：Lithium salts alter the size and morphology of the Madagascar hissing cockroach’s neuroendocrine system
+
+- 这篇文章评估了三个毒性预测工具，结果往乐观了说就是预测结果比较保守。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.5c08163
+
+题目：Replacing Fish Early Life Stage Toxicity Test: Performance of Three QSAR Tools for Recently Submitted REACH Data
+
+- 这篇文章考察了他汀类药物的生态毒理，作为懂王也需要的降血脂药物，起码对鱼而言会有颅内出血的风险。确实老龄化大背景下环境内药物残留是需要考察的。GPT，启动！
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.5c06261
+
+题目：Intracranial Hemorrhage in Zebrafish: An Adverse Outcome Induced by Lovastatin
+
+- 用smiles来训练编码器然后对接一个2DCNN编码器进行训练的想法挺有巧思的，应该还有拓展空间。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.5c09769
+
+题目：DeePFAS: Deep-Learning-Enabled Rapid Annotation of PFAS: Enhancing Nontargeted Screening through Spectral Encoding and Latent Space Analysis
