@@ -8452,3 +8452,80 @@ Rebuttal to Correspondence on “The Stockholm Convention at a Crossroads: Quest
 链接：https://pubs.acs.org/doi/10.1021/acs.est.5c09769
 
 题目：DeePFAS: Deep-Learning-Enabled Rapid Annotation of PFAS: Enhancing Nontargeted Screening through Spectral Encoding and Latent Space Analysis
+
+## 十月 {-}
+
+### 研究动态 {-}
+
+- enviPath系列提供的报道生物转化数据的标准，看得出费不少力，但说到底就是填个表格提交，而且因为需要smiles，实际上只能覆盖结构鉴定过产物，估计推广难度不小。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.estlett.5c00753
+
+题目：FAIR and Effective Communication of Data on Chemical Contaminant Biotransformation in the Environment
+
+- 这篇文章报道了印度的城市整体下沉现象，与超采地下水相关，放在海平面上升背景下也有前瞻性，这套基于卫星数据的方法应该可以用来评估所有大城市的沉降风险。
+
+推荐人：于淼
+
+链接：https://www.nature.com/articles/s41893-025-01667-w
+
+题目：Sinking Indian megacities
+
+- 这是一篇让任何有轮回理论支持的宗教头疼的研究，1850以来，全球哺乳动物总量翻了接近6倍，野生动物下降2倍，如果考虑人畜可转生，那么许仙的转生大概率是现代化农场里一头速生猪，要是考虑其他动植物微生物，绿色革命背景下更可能是转基因大豆或工业培养罐里的酵母，也许宗教将会是最先接纳外星人的团体，不然没法平衡地球生物量的增长。
+
+推荐人：于淼
+
+链接：https://www.nature.com/articles/s41467-025-63888-z
+
+题目：The global biomass of mammals since 1850
+
+- 这项研究关注了废水中轮状病毒RNA感染情况与疫苗接种关系，证实疫苗接种率高的地方感染持续时间短，类似思路也可以用在其他环境污染物与相关管控措施上评价效果，可能会有意外发现。
+
+推荐人：于淼
+
+链接：https://www.nature.com/articles/s44298-025-00157-2
+
+题目：Wastewater concentrations of rotavirus RNA are associated with infection and vaccination metrics in the USA
+
+- 题目即结论，作为3亿烟民国家，相关研究也可以展开，但需要考虑有多少烟嘴会跑到水环境里释放醋酸纤维。
+
+推荐人：于淼
+
+链接：https://www.nature.com/articles/s41598-025-20771-7
+
+题目：Cigarette filters as a major source of microfibers in aquatic environments
+
+- 作为人口体验服的日本的研究还是有启发性的，例如研究人口减少后濑户内海污染物载荷变化，也说明区域移民是可以影响环境污染过程的。
+
+推荐人：于淼
+
+链接：https://www.nature.com/articles/s41598-025-20093-8
+
+题目：Influence of depopulation on pollutant loads generated in the Seto inland sea basin
+
+- 这篇文章评价了电子商务对PM2.5的排放影响，发现虽然降低了零售业排放，但因为空运与过度包装增加了次生排放，其实还是国内重载铁路发展慢一些，铁路排放会低不少。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.5c04903
+
+题目：E-Commerce Growth Reduces Primary PM2.5 Emissions but Increases Secondary PM2.5 Precursors in China
+
+- 这篇文章机器学习部分其实没啥意思，但用实验数据作为环境流动性来替代辛醇水分配系数的思路是有启发性的，说到底辛醇水分配系数也是用来指示环境流动性的，如果固守这个概念，反而脱离实际。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.5c07274
+
+题目：Machine Learning for Predicting Environmental Mobility Based on Retention Behavior
+
+- 这项研究部分回答了一个问题，那就是游泳重要还是污染暴露消毒副产物健康风险高，第一轮答案是运动效果更好，期待后续几轮的交锋，任何行为都有健康收益与代价，量化对比很重要，不能因噎废食。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.5c06488
+
+题目：Lifetime Swimming Pool Attendance and Cancer Risk: Findings from the Multicase-Control Study in Spain (MCC-Spain)
+
