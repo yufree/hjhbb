@@ -8604,3 +8604,79 @@ Rebuttal to Correspondence on “The Stockholm Convention at a Crossroads: Quest
 链接：https://pubs.acs.org/doi/10.1021/acs.est.5c13135
 
 题目：Safe Water Is Rapidly Becoming a Private Good in the United States
+
+## 十二月 {-}
+
+### 研究动态 {-}
+
+- 年初加州大火的新闻新闻已经变成了旧闻，这篇文章考察了这几日大火造成的超额死亡，算出来大概是14人，而直接死亡是29人，可见超额死亡这个指标对环境健康研究的重要性。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.estlett.5c01089
+
+题目：Contributions of Acute Wildfire Smoke Exposure to Excess Mortality from the 2025 Los Angeles Fires
+
+- 这项研究首次证实BTEX在血管病变部位积聚，并在局部促进促动脉粥样硬化通路的激活。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.5c04941
+
+题目：Detection and Proinflammatory Effects of BTEX within the Human Atherosclerotic Plaque
+
+- 这项研究探索潮间带溶解性有机物里二价铁的再氧化作用，认为这是DOM分子转换的关键非生物过程，对水处理也应该有启发。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.5c06631
+
+题目：Molecular Alteration of Dissolved Organic Matter in Intertidal Sediments: The Role of Fe(II) Reoxidation
+
+- 这篇文章介绍了一个非常工业化的治理海洋酸化的手段，在塔斯马尼亚海边倾倒氢氧化钠溶液。另一项研究则发现碱化策略存在局限性。
+
+推荐人：于淼
+
+链接：https://www.nature.com/articles/s41598-025-31606-w https://pubs.acs.org/doi/10.1021/acs.est.5c09298
+
+题目：Alkalinity enhancement with sodium hydroxide in coastal ocean waters Substantial Limitations of Ocean Alkalinity Enhancement in Mitigating the Negative Impacts of Ocean Acidification on Marine Calcifiers
+
+- 除了尤先科，恐怕只有越南有资格做二恶英流行病学，这项研究发现出生时头围增大跟较高水平二恶英暴露有关。
+
+推荐人：于淼
+
+链接：https://www.nature.com/articles/s41598-025-30939-w
+
+题目：Altered head size at birth is associated with maternal 2,3,7,8-tetrachlorodibenzo-p-dioxin (TCDD) exposure in Vietnamese infants
+
+- 现在土壤也有可穿戴设备了，这个智能钉平台可用来监控土壤健康，有点类似动态血糖仪。
+
+推荐人：于淼
+
+链接：https://www.nature.com/articles/s41467-025-67889-w
+
+题目：A smart nail platform for wireless subsoil health monitoring via unmanned aerial vehicle-assisted radio frequency interrogation
+
+- 这样问卷研究发现，最常接触空气污染的人群对空气质量的了解程度明显较低，具体就是女性、居住在农村地区的人、单身人士、缺乏大学学历者、政治立场保守者以及目前吸烟者。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.5c07862
+
+题目：Global Populations Vulnerable to Air Pollution Know Less about Air Quality
+
+- 这项研究介绍了实证研究下氧热挤压后鱼体内汞浓度的提升，也就是说，即使水生生态系统外部汞输入量保持稳定或呈下降趋势，鱼类汞污染水平升高在气候变化下也是可以预期的，其实也可以关注下有机污染物。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.5c13249
+
+题目：Climate-Associated Oxythermal Squeezes Elevate Mercury in a Lacustrine Food Fish
+
+- 这项研究发现福寿螺的生物入侵手段之一是释放病原体感染本地物种，这就很新大陆了。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.5c14251
+
+题目：Environmental Release of Zoonotic Pathogens by Pomacea canaliculata Drives Competitive Dominance by Infecting Native Snails
