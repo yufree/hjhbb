@@ -8680,3 +8680,111 @@ Rebuttal to Correspondence on “The Stockholm Convention at a Crossroads: Quest
 链接：https://pubs.acs.org/doi/10.1021/acs.est.5c14251
 
 题目：Environmental Release of Zoonotic Pathogens by Pomacea canaliculata Drives Competitive Dominance by Infecting Native Snails
+
+## 一月 {-}
+
+### 研究动态 {-}
+
+- 这篇文章讨论了开放式厨房里烹饪油烟的时空分布，但选开放式厨房户型的，一般是西式烹饪，或压根就不在家吃吧。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.5c10491
+
+题目：Spatiotemporal Evolution, Secondary Transformation and Control of Cooking Oil Fumes in Open-Plan Kitchens
+
+- 这篇文章介绍了仿生色谱的概念，大意就是用填料模拟生物界面，直接测定污染物某种参数，其实可以更进一步，流动相换人工血液或组织液，直接打造类器官色谱来评价污染物归趋转化，开一个色谱毒理学分支。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.5c11716
+
+题目：Biomimetic Chromatography: A Novel Approach for Measuring Phospholipid Membrane–Water and Protein–Water Partition Coefficients for Target and Suspect PFAS
+
+- 一般认为微生物抗性直接来源于抗生素使用量，这篇研究关注了社会经济原因的影响，发现医疗保健的可及性、种族/民族构成和收入与各类抗生素耐药性水平的升高密切相关，甚至在某些抗性位点是主要影响因素，各州抗性也差异很大，可以做下全球范围的研究，看看能否预测下超级菌最先在哪里出现。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.5c07425
+
+题目：Sociodemographic and Health Factors Are Associated with Antimicrobial Resistance across Eight States in the United States
+
+- 这项研究关注了人工照明对城市秋季树叶凋零的影响，发现会显著延迟，低光照强度更显著，可以沿着这个思路讨论下对绿化带过敏源的影响。
+
+推荐人：于淼
+
+链接：https://www.nature.com/articles/s41467-025-68246-7
+
+题目：Increased artificial illumination delays urban autumnal foliar senescence
+
+- 这项研究提出植物来源的番茄褐皱果病毒可作为废水中病毒去除效果的标记物，这对做废水特异性监控挺有启发性的，不知道国内不同城市废水的主要病毒是否有区别。
+
+推荐人：于淼
+
+链接：https://www.nature.com/articles/s41598-025-34782-x
+
+题目：High prevalence of tomato brown rugose fruit virus in domestic wastewater as a potential viral indicator for treatment systems
+
+- 关注6PPDQ暴露过程的实地试验，确认春季暴雨跟银鲑幼年阶段重合导致了死亡风险加大，也就是气候变化或极端天气对特定污染物的集中释放风险是值得关注的，而且也要关注易感物种的生长发育敏感期。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.5c13992
+
+题目：Roadway Runoff Induced Acute Mortality in Juvenile Coho Salmon During Spring Storm Events
+
+- 微气泡依靠高活性表面特性算是这两年的热门研究方向，这项研究就顺势考察了其对微纳塑料侵蚀释放的过程，认为微气泡引起的侵蚀是微污染物释放的一种低能量途径，属于热点间排列组合。
+
+推荐人：于淼
+
+链接：https://www.science.org/doi/full/10.1126/sciadv.aea4729
+
+题目：Microbubble-induced erosion releases micro- and nanoplastics into water
+
+- 这篇文章梳理了过去60年ES&T在不同时期关注的重点及对环境领域的贡献，也可以看成环境研究的当代史，同时也是同主题专刊的前瞻文章。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.5c17819
+
+题目：Global Impact of 60 years of ES&T
+
+- 波兰人用卫星评价了俄乌战区森林生态系统的变化，发现森林火灾更多了，林地变非林地的面积增大一倍，可见战争对生态系统的负面影响。
+
+推荐人：于淼
+
+链接：https://www.nature.com/articles/s41598-026-35744-7
+
+题目：Impact of the war on forest ecosystem in Ukraine based on Sentinel-2 data
+
+- 纽约都市区空中测量显示，卤代烃排放与甲烷排放对气候影响相当，这个影响可能来自空调，有季节性，我猜他们本来是研究臭氧空洞的，顺手发现了这个现象。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.5c12757
+
+题目：Airborne Measurements Suggest That Halocarbon Emissions from the New York City Urban Region Have Comparable Climate Impacts to Its Methane Emissions
+
+- 小蜜蜂似乎可以主动避开草甘膦或吡虫啉污染的花粉，这让我想起很多动物暴露实验经常被质疑不符合实际，因为动物本来也不是啥都吃。
+
+推荐人：于淼
+
+链接：https://www.nature.com/articles/s41598-026-35416-6
+
+题目：Young honey bees Apis mellifera learn to avoid pollen contaminated with glyphosate or imidacloprid
+
+- 这项研究再次证明纯天然跟无污染从来都不是天经地义的，天然的蜂蜜微塑料反而比工业生产的多。
+
+推荐人：于淼
+
+链接：https://www.nature.com/articles/s41538-026-00720-y
+
+题目：Honey as a bioindicator of microplastic pollution: insights from industrial and special honey types
+
+- 这篇论文挑战了剂量决定毒性的论断，内容非常丰富，提出了关注持久性毒性等观点，认为无反应不代表无毒性。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.5c14563
+
+题目：“The Dose Makes the Poison”: Relevance of Paracelsus’s Principle for Modern Chemical Hazard Assessment with New Approach Methodologies
