@@ -8788,3 +8788,80 @@ Rebuttal to Correspondence on “The Stockholm Convention at a Crossroads: Quest
 链接：https://pubs.acs.org/doi/10.1021/acs.est.5c14563
 
 题目：“The Dose Makes the Poison”: Relevance of Paracelsus’s Principle for Modern Chemical Hazard Assessment with New Approach Methodologies
+
+## 二月 {-}
+
+### 研究动态 {-}
+
+- Nature Review 子刊给博士博后设立了一个Tools of the Trade栏目，300词左右介绍下行业内用的工具，目前对APECS 与ESWN 会员开放征稿，建议做极地或地学领域女性的早期研究人员（在读博士与博后）去投稿占坑。
+
+推荐人：于淼
+
+链接：https://www.nature.com/articles/s43017-026-00767-1 https://www.apecs.is/news/apecs-news/5375-call-for-nature-reviews-earth-environment-tools-of-the-trade-article-proposals-2.html https://eswnonline.org/eswns-tools-of-the-trade-at-nature-reviews-earth-and-environment/
+
+题目：Monitoring organic contaminants in aquatic systems with liquid chromatography–mass spectrometry
+
+- 这项研究关注了美容院职工尿液里酚类化合物的量，对比家庭主妇会更高，其实还有个群体应该也高，就是网红，他们还会主动宣传这种聚光灯下的“工伤”。
+
+推荐人：于淼
+
+链接：https://www.nature.com/articles/s41598-026-39589-y
+
+题目：Urinary levels of phenolic compounds in women working in beauty salons
+
+- 这篇文章采用环境健康优先指数法结合风险最大化原则对长江流域112种有机污染物做了评估，认为多环芳烃（PAHs）和邻苯二甲酸酯（PAEs）两类经典污染物应优先控制，这类研究会横向比对污染物实际风险，现实意义更大些。
+
+推荐人：于淼
+
+链接：https://www.nature.com/articles/s44458-026-00039-5
+
+题目：Priority control of classical contaminants over emerging contaminants in the Asia’s largest river sediments
+
+- 这会是篇争议性论文，研究发现美国全国范围内核电站距离与癌症死亡率有比例关系，之前很多类似研究也提出了不同结论，这篇主要是引入了连续邻近度指标来计算。
+
+推荐人：于淼
+
+链接：https://www.nature.com/articles/s41467-026-69285-4
+
+题目：National analysis of cancer mortality and proximity to nuclear power plants in the United States
+
+- II相代谢产物是了解污染物代谢环境归趋的重要一环，这项研究关注了废水中 II 期代谢物去结合过程，发现代谢物在污水管网中的稳定性取决于其母体结构和结合物类型。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.5c17466
+
+题目：Understanding the Role of Deconjugation of Phase II Metabolites in Wastewater: Implications for Wastewater-Based Epidemiology
+
+- 很多衣服宣称抗菌，很可能是加了季铵盐，这项研究发现，经季铵盐处理的纺织品不仅无法维持长期的抗菌效果，还会造成持续的低浓度环境暴露，基本洗一次就少一半。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.5c15617
+
+题目：Quaternary Ammonium Compounds (QACs) in Textiles and Laundry Wastewater: Occurrence and Environmental Risk Assessment
+
+- 这项研究做的很粗，但提供了一种基于实证数据（就诊记录、邮政编码区域内 571 种空气污染物和 42 种水污染物）评价暴露影响疾病的泛关联性研究框架，但这种研究的统计功效要求高，需要有大量数据来支撑。
+
+推荐人：于淼
+
+链接：https://www.nature.com/articles/s41598-026-39836-2
+
+题目：P.A.D.D.L.E.: a hypothesis generation tool for assessing pollution’s potential role in disease
+
+- 这项研究发现国内生产总值较高、人口密度较大、工业活动较密集的城市往往产生毒性显著更高的进水，类不饱和烃、类稠环烃和类氨基糖化合物是主要毒性贡献者。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.5c14685
+
+题目：Large-Scale Study and Molecular Insights Reveal City-Level Socioeconomic Links to Whole Wastewater Toxicity
+
+- 这篇评论关注了人形机器人的回收问题，放到本世纪初是应该发表在科幻小说期刊上的。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.6c02229
+
+题目：The Era of Humanoid Robots: Addressing Emerging End-of-Life Waste Challenges
+
