@@ -8865,3 +8865,86 @@ Rebuttal to Correspondence on “The Stockholm Convention at a Crossroads: Quest
 
 题目：The Era of Humanoid Robots: Addressing Emerging End-of-Life Waste Challenges
 
+## 三月 {-}
+
+### 研究动态 {-}
+
+- 这项研究关注了海水样品里人为来源物质，对比沿海与开放海域的区别，发现沿海影响比较大，属于高技术重新发现常识的类型，但里面用DOM峰面积比例来说明影响的手段问题很大，完全忽略了不同物质响应因子不同的问题，不知道咋过的同行评议。
+
+推荐人：于淼
+
+链接：https://www.nature.com/articles/s41561-026-01928-z
+
+题目：Widespread presence of anthropogenic compounds in marine dissolved organic matter
+
+- 这两年关注微纳界面的研究越来越多，常识上两相接触比表面积越大反应活性越强，水中微纳气泡与空气中露珠都是类似界面，这项研究关注的是其中羟基自由基的形成，道理不难理解，只是不太清楚对污染物转化的总贡献有多少，鉴于这个体系不难搭建且可以关联pm2.5跟微塑料研究，相信很快会有相关实验模拟结果发表。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.estlett.6c00162
+
+题目：Spontaneous Hydroxyl Radical Production in Leaf Dew
+
+- 这项研究关注了土壤有机硒含量与天然有机质组成的关系，可作为一种指示性指标，里面测定不同硒形态的方法值得关注。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.5c15430
+
+题目：Organic Selenium Quality and Quantity in Soils Are Related to Organic Matter Composition and Driven by Land Use
+
+- 新冠可以说直接推动了废水流行病学研究的开展，然而这个技术不便宜，这项研究关注了不同采样策略的效果，观察到多种因素（如流量、服务人群、采样点数量、地理位置等）影响着采样点的选择和趋势代表性，这些因素在采样策略设计中应全面考虑。此外，每周采样三次可能反映了奥密克戎疫情期间病毒传播模式。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.5c02652
+
+题目：Cost-Effective Sampling Strategies for Wastewater Surveillance: A Large-Scale Longitudinal Study in Hong Kong and Shenzhen
+
+- 这篇文章关注了蓝蟹同类相食的现象，这对食物链研究是有启发性的，有些物种污染物累积可能是有食人族传统。
+
+推荐人：于淼
+
+链接：https://www.pnas.org/doi/abs/10.1073/pnas.2533461123
+
+题目：Cannibalism, predation, and refuges of juvenile blue crabs from a 37-year experiment
+
+- 美国心脏协会资助的饮食元素周期表项目发布了一个分子信号起源的数据库，包含了500种食物，这个可以在环境领域里用来筛选食物来源信号。
+
+推荐人：于淼
+
+链接：https://www.nature.com/articles/s41538-026-00802-x
+
+题目：Tracing the origins of molecular signals in food through integrative metabolomics and chemical databases
+
+- 这项研究报道了一种测定塑料制品内再循环塑料含量的方法，用的是多模态机器学习，感觉也可以用到环境中塑料的溯源上。
+
+推荐人：于淼
+
+链接：https://www.nature.com/articles/s44172-026-00639-y
+
+题目：Determining the percentage of recycled plastic content in a plastic product
+
+- 这项研究发现土壤干旱提高了微生物抗性，主要是浓缩效应，提示不同物候条件下的医院在使用抗生素时要有不同策略。
+
+推荐人：于淼
+
+链接：https://www.nature.com/articles/s41564-026-02274-x
+
+题目：Drought drives elevated antibiotic resistance across soils
+
+- 比较少见的政策分析，几乎是全程批评澳大利亚的农药政策，作者利益冲突里也说明了自己同时归属于某慈善组织。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.5c15716
+
+题目：Australia’s Blind Eye: Exploring the Nation’s Permissive Stance on Harmful Pesticides
+
+- 这篇文章考察了蔬菜发酵对温室气体排放的影响，这个排放当量，大概是当前总排放量的千万分之一点五，估计更大的价值在于发现盐分浓度是决定排放类型的关键因素。
+
+推荐人：于淼
+
+链接：https://www.nature.com/articles/s41538-026-00825-4
+
+题目：Vegetable fermentation as an overlooked source of greenhouse gases: from microbial mechanisms to global budget implications
