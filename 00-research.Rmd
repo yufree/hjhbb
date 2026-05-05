@@ -8948,3 +8948,79 @@ Rebuttal to Correspondence on “The Stockholm Convention at a Crossroads: Quest
 链接：https://www.nature.com/articles/s41538-026-00825-4
 
 题目：Vegetable fermentation as an overlooked source of greenhouse gases: from microbial mechanisms to global budget implications
+
+## 四月 {-}
+
+### 研究动态 {-}
+
+- 这项研究用药物缓释与遥感技术发现可卡因的代谢物苯甲酰埃可宁会增加大西洋鲑鱼幼体的活动能力，游的更远了
+
+推荐人：于淼
+
+链接：https://www.cell.com/current-biology/fulltext/S0960-9822(26)00315-5
+
+题目：Cocaine pollution alters the movement and space use of Atlantic salmon (Salmo salar) in a large natural lake
+
+- 这项研究通过卫星图像发现人类夜间行为的波动性正在增加，挑战了目前普遍认为光辐射变化主要是渐进且单向的观点，生态毒理效应可以进一步考察。
+
+推荐人：于淼
+
+链接：https://www.nature.com/articles/s41586-026-10260-w
+
+题目：Satellite imagery reveals increasing volatility in human night-time activity
+
+- 过去二十年中国水生环境中个人护理产品和药品（PPCPs）的地理空间数据集，可以做点流行病学数据挖掘。
+
+推荐人：于淼
+
+链接：https://www.nature.com/articles/s41597-026-07109-2
+
+题目：A geospatial dataset of PPCPs occurrence in aquatic environments across China over the past two decades
+
+- 欧洲做的exposure-biology-disease平台，感觉跟国内的ExposomeX很像。
+
+推荐人：于淼
+
+链接：https://www.nature.com/articles/s41467-026-72402-y
+
+题目：A network-based map of the chemical exposome connects molecular interactions to public health
+
+- 这篇综述详细阐述了 6PPD-quinone 发现背后快20年的关于成年银鲑的历史，读起来很有趣，分析技术发展在里面起了重要作用。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.estlett.6c00205
+
+题目：The Origin Story for 6PPD-quinone in Ecotoxicology
+
+- 这篇文章用黑腹海鸥作为案例来说明塑料的影响，题目很吸引人，这个案例确实有明确的现象与归因，但目前对塑料的质疑更多在微纳塑料等概念排列组合上及对研究资源的过度消耗，不是有没有证据，而是效应大小问题，如果塑料的影响会被营养不良等影响更大的因素所掩盖，那么只能说研究经费应该倾斜到解决营养不良的工作上。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.5c17272
+
+题目：When Absence of Evidence Is Not Evidence of Absence: What an Advanced Case Reveals about Plastic Impacts on Seabirds
+
+- 这项研究发现，煤矿关闭三十多年后附近鱼体内的硒含量还是会比背景值高一个数量级而高浓度硒是可以灭绝物种的，当然对人而言硒缺乏也是普遍的，会导致克山病和大骨节病。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.5c10900
+
+题目：Fish Remain High in Selenium Long after Mountaintop Coal Mines Close
+
+- 这篇文章提出要关注杂环芳香化合物，其实伴随技术发展，这应该是个顺道被解决的问题，最好是用效应引导分析来主导而不是单纯关注物质检出。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.6c03118
+
+题目：Heterocyclic Aromatic Compounds: The Next Frontier in Environmental Forensic Science
+
+- 法国阿尔卑斯山脉两个相邻高山湖泊的湖泊沉积物研究发现冰川融化释放了冰层中储存的汞，掩盖了区域排放量预期下降的趋势
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.5c16308
+
+题目：Glacier Melt as a Source of Mercury: Implications for Ecosystem Recovery and Environmental Trends
