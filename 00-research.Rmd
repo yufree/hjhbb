@@ -9100,3 +9100,80 @@ Rebuttal to Correspondence on “The Stockholm Convention at a Crossroads: Quest
 链接：https://pubs.acs.org/doi/10.1021/acs.est.6c00289
 
 题目：Substantial PM2.5-Related Health Gains from Large-Scale Migration in China
+
+## 六月 {-}
+
+### 研究动态 {-}
+
+- 这项研究关注了非洲土壤农残状况，其中一些在发现国未注册，一些在欧盟已被禁用，这种情况就极难溯源了。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.5c15564
+
+题目：African Soils Are Also under Threat: Occurrence of Pesticides in Agricultural Soils and Implications
+
+- ToxBase 数据库基于高通量液相色谱-离子迁移谱-串联质谱（LC-IM-MS/MS）技术构建，包含 3598 个前体离子，涵盖 2075 种美国环境保护署 ToxCast 化学物质库，具有极高的精密度和良好的跨平台一致性。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.5c18068
+
+题目：ToxBase: A Multidimensional ToxCast Reference Database for High-Throughput Human Exposome Analysis
+
+- 这篇文章讨论了当前细颗粒物标准与风险不对应问题，认为要改成按物质组成来设立标准，科学上没问题但测量上成本可能就高了。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.6c04617
+
+题目：Redefining Clean Air: From Mass to Component-Adjusted PM2.5 Standards
+
+- 这篇文章对比了澳大利亚处方药数据库与废水中检出的芬太尼和羟考酮的使用趋势，并评估二者的一致性，证明了在澳大利亚实施更严格的处方管制后，芬太尼和羟考酮的使用量呈下降趋势，这种源汇双头监测评价法值得推荐。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.5c18126
+
+题目：Trends of Fentanyl and Oxycodone Use in Australia (2018–2022) in National Prescription and Wastewater Data Sets
+
+- 这是少见的用柱实验研究有机污染物迁移过程的研究，在连续检测到的 19 种痕量有机污染物中，有 10 种在近 300 个孔隙体积内的去除率低于 25%，这反映出生物转化有限以及可逆吸附的重要性。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.5c18582
+
+题目：Fate of Trace Organic Contaminants in the Hyporheic Zone: A Laboratory-Scale Column Experiment
+
+- 这是关于持久性的持续讨论，辩论双方就“伪持久性”概念进行了讨论。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.6c04779 https://pubs.acs.org/doi/10.1021/acs.est.6c04779
+
+题目：Letter to the Editor Regarding “Is Persistence a Hazard?”
+Response to Letter to the Editor Regarding “Is Persistence a Hazard?”
+
+- 这篇文章用医疗保险理赔数据来评估调配气候适应力资源的资金分配方式，发现将医疗索赔数据与指数结合使用，比单独考虑指数更能有效地将资金分配给加州面临高温风险的社区。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.6c02011
+
+题目： Characterizing Heat Health Outcomes and Informing Public Health Interventions with Medical Claims Data in California
+
+- 美国最近新建数据中心大都遭到了周围居民的抵制，这篇文章讨论了数据中心用水的一些可能被忽视的场景，很有潜力成为新兴研究领域。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.6c08380
+
+题目：Why Water Demand Is No Longer Enough: Rethinking Sustainability in AI Data Centers
+
+- 这项研究关注了餐饮业底层人员的职业暴露，已知致癌物苯在厨房区域频繁检出，而多环芳烃则经常未检出，这论文的题图把人画成了狗，这在美国人看无所谓，因为狗就是家人，但放东亚就属于骂人了。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/doi/10.1021/acs.est.5c18025
+
+题目：Occupational Exposures in the Culinary Underbelly: Air Pollution in Restaurants
