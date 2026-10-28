@@ -9177,3 +9177,307 @@ Response to Letter to the Editor Regarding “Is Persistence a Hazard?”
 链接：https://pubs.acs.org/doi/10.1021/acs.est.5c18025
 
 题目：Occupational Exposures in the Culinary Underbelly: Air Pollution in Restaurants
+
+## 七月 {-}
+
+### 研究动态 {-}
+
+- 这篇文章满满的焦虑感，讨论电动汽车时代到来后做汽车尾气催化的研究人员该咋办，大概率要转行
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/esthag/article/60/27/18999/5171149/Research-Pathways-for-Automotive-Exhaust-Catalysts
+
+题目：Research Pathways for Automotive Exhaust Catalysts during the Transition to Electric Mobility
+
+- 这篇文章认为机器学习在新污染物吸附预测上常败在数据与可迁移性，而不是算法本身，数据与高通量技术恰好是新污染物最缺的。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/esthag/article-abstract/60/27/18954/5171003/Where-Machine-Learning-Fails-in-Predicting
+
+题目：Where Machine Learning Fails in Predicting Emerging Contaminant Adsorption: A Decision-Oriented Framework for Model Credibility and Transferability
+
+- 这篇文章讨论了减重过程脂溶性污染物释放问题，可以理解为浓缩后都是炎症风险。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/evhpaz/article/134/3/274/5201515/Mobilization-of-the-Environmental-Toxicant
+
+题目：Mobilization of the Environmental Toxicant Chlorpyrifos during Weight Loss and Its Impact on Liver and Adipose Tissue Metabolism in Mice
+
+- 这篇观点文章认为传统利益相关声明约束力弱，要用AMOF 描述研究情境，也就是研究机构是谁？研究动机是什么？预期结果是什么？资助方是谁？这里面新的就是研究动机与预期结果，但这个恐怕大多数人都不愿说吧，倒是可以做研究项目预注册机制留个档案。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/esthag/article/60/28/19715/5204981/Bias-Is-Blind-to-Virtue-Conflicts-of-Interest
+
+题目：Bias Is Blind to Virtue: Conflicts of Interest across All Sectors of Science
+
+- 这项研究认为烟道凝结颗粒物在细颗粒物源解析容易被误判为二次气溶胶源，导致对二次源的高估。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/esthag/article-abstract/60/28/19929/5201851/Industrial-Condensable-Particulate-Matter-A
+
+题目：Industrial Condensable Particulate Matter: A Missing Source in PM2.5 Source Apportionment Driving Winter Pollution in China
+
+- 这项研究首次把冻干用于污水病毒检测，回收率高于离心超滤，这么生猛的方法像是德州人干的。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/esthag/article/60/30/20757/5212125/Freeze-Drying-as-a-Novel-Concentrating-Method-for
+
+题目：Freeze-Drying as a Novel Concentrating Method for Wastewater Detection of SARS-CoV-2
+
+- 这项数据研究发现汞排放热点将由当前主导区（如中印）进一步向更南方的国家推移而这些新兴地区亟需部署更先进的汞减排技术。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/esthag/article-abstract/60/29/20434/5211319/Shifting-Hotspots-of-Mercury-Emissions-from-Global
+
+题目：Shifting Hotspots of Mercury Emissions from Global Coal-Fired Power Units during 1990–2020 and the Role of Overseas Investments
+
+- 这项研究用石英晶体微天平（QCM）配合定制纳米多孔传感芯片来测瓶装水纳塑料，用频率变了推算水样里的浓度，很有意思的分析思路。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/esthag/article-abstract/60/30/21345/5226803/An-Ultra-Sensitive-QCM-Based-Detecting-Platform
+
+题目：An Ultra-Sensitive QCM-Based Detecting Platform for On-Site and Rapid Quantification of Nanoplastics in Bottled Water
+
+- 这项研究指出DOM研究里常用的VK图分辨物质类型并不靠谱，还是得上色谱与多级质谱。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/esthag/article/60/30/20951/5226329/Chromatography-Coupled-to-High-Resolution-Mass
+
+题目：Chromatography Coupled to High-Resolution Mass Spectrometry Analysis Reveals Flaws in van Krevelen Compound Class Assignments in DOM
+
+## 八月 {-}
+
+### 研究动态 {-}
+
+- 这项研究纯属胡扯了，真实样本只有 48 套、5 个厂，只用实测时 R² 大约 0.11–0.46；用 GPT 合成数据一灌，对留出真实点忽然到 0.71–0.89。小样本上这种跳升，更像模型在学合成分布/泄漏结构，而不是学到可迁移的去除机制。文里自己也写了 leave-one-location-out ，这正好说明厂间泛化不行，更像局部拟合而不是通用规律。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/esthag/article/60/40/28805/5232260/Application-of-Large-Language-Models-to-Predict
+
+题目：Application of Large Language Models to Predict Enteric Viruses Removal Using Surrogate Indicators
+
+- 人工河上的橡胶坝会成为 6PPDQ 等污染物的点源，这个倒是角度独特，可做动力学研究。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/esthag/article-abstract/60/34/24377/5251908/Rubber-Dams-An-Overlooked-Source-of-Leachable
+
+题目：Rubber Dams: An Overlooked Source of Leachable Organic Contaminants within Water Infrastructure Systems
+
+- 对云南三座约 4000 m 高山湖泊沉积岩芯做放射性测年，重建约 3000 年 大气 Sb、Pb、Cd、Hg 污染；并结合区域铜/银冶炼、灰吹/烧结还原工艺与历史产量解读时空差异，这对历史研究也很重要吧。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/esthag/article/60/31/21849/5237039/Three-Millennia-Alpine-Lake-Records-of-Divergent
+
+题目：Three-Millennia Alpine-Lake Records of Divergent Atmospheric Cd, Pb, Sb, and Hg Pollution in Southwestern China Linked to Evolving Metallurgy
+
+- 在天津 150 对夫妻 的 300 份尿样中测定 50 种 氟代液晶单体，检出高于已报道北京、广东尿水平，这个研究应该是按生殖毒性方向设计的，不过这个污染物似乎对单身队列更有研究前景。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/esthag/article-abstract/60/31/21545/5234310/Fluorinated-Liquid-Crystal-Monomers-in-Human-Urine
+
+题目：Fluorinated Liquid Crystal Monomers in Human Urine: Occurrence, Demographic Associations, and Health Risk Assessment in a Cohort of 150 Couples
+
+- 马萨诸塞州东部 19 个社区供水系统检出高浓度三氟乙酸（TFA），现有深度处理无效。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/estlcu/article/13/8/1157/5204687/Trifluoroacetic-Acid-TFA-Exceeds-All-Other
+
+题目：Trifluoroacetic Acid (TFA) Exceeds All Other Extractable Organofluorine in Drinking Water from Eastern Massachusetts, United States
+
+- 这项研究多少有点标题党，高纤维饮食吸附纳塑料应该是可预期的，但只关注了雄性老鼠不太正常，另外高纤组是 50% 纤维素那属于吃布料拌饭了，人根本不会吃这个配方。
+
+推荐人：于淼
+
+链接：https://www.nature.com/articles/s41467-026-78675-7
+
+题目：High fiber diet mitigates exposure risk of nanoplastics in male mice
+
+- 日本可复用的全国尺度沿岸鱼类 eDNA 时序库，支撑生态、保护与 eDNA 方法研究，我怀疑是送刀子的。
+
+推荐人：于淼
+
+链接：https://www.nature.com/articles/s41597-026-08246-4
+
+题目：High-frequency eDNA metabarcoding survey data of coastal fish across the Japanese Archipelago
+
+- 这篇文章认为密集城区白天靠建筑遮阴，行人户外热暴露往往比看似更凉、却缺遮阴的郊区/农村更低——热岛不等于人体更热，确实角度新奇。
+
+推荐人：于淼
+
+链接：https://www.nature.com/articles/s44432-026-00018-0
+
+题目：Urban residents may have less heat exposure than rural residents
+
+- 产前颗粒物暴露与新生儿 rDNA 拷贝数降低相关，且这种关联持续到儿童期，但与产后暴露无关，反向胎教了属于是。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/evhpaz/article/doi/10.1021/EHP.6c00544/5455859/Early-Life-rDNA-Copy-Number-Variation-and-Ambient
+
+题目：Early Life rDNA Copy-Number Variation and Ambient Particulate Matter Exposure: A Longitudinal Birth Cohort Study
+
+## 九月 {-}
+
+### 研究动态 {-}
+
+- 这篇文章讨论了Z世代对人工智能的怀疑态度，虽然文章提数据中心啥的可持续性，但真正动因恐怕是他们会是对毕业即失业体会最深的一代人
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/esthag/article/doi/10.1021/acs.est.6c11139/5439686/From-Gen-Z-Skepticism-to-Environmental
+
+题目：From Gen Z Skepticism to Environmental Accountability for Artificial Intelligence
+
+- 这篇文章讨论了温带池塘融冰阶段甲烷的释放，发现属于之前被忽视的重要来源。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/esthag/article/doi/10.1021/acs.est.6c06834/5446519/Large-Methane-Emissions-during-Ice-Melt-Periods-in
+
+题目：Large Methane Emissions during Ice-Melt Periods in a Temperate Pond
+
+- 这篇文章介绍结冰过程时可溶性物质会被排除出晶格，而浓度较高的物质则聚集在未冻结的液体中，从而形成比在室温下更为极端的环境条件，会把酚类变成与矿物质结合的聚合物，这个角度确实很少被环境化学关注。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/esthag/article/doi/10.1021/acs.est.6c05553/5450657/Ice-Converts-Phenols-into-Persistent-Mineral-Bound
+
+题目：Ice Converts Phenols into Persistent Mineral-Bound Polymers
+
+- 纽约市25年开始中央商务区收拥堵费，这项研究发现该政策实施使拥堵缓解区内的 PM2.5 浓度降低了 1.44 微克/立方米，差异具有统计学意义。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/estlcu/article-abstract/doi/10.1021/acs.estlett.6c00610/5445785/Attributing-PM2-5-and-NO2-Changes-One-Year-after?redirectedFrom=fulltext
+
+题目：Attributing PM2.5 and NO2 Changes One Year after New York City’s Congestion Pricing Policy
+
+- 美国饮用水监测中 98% 结果低于报告限，若当零计，六种受管控 PFAS 平均浓度约被低估一半。
+
+推荐人：于淼
+
+链接：https://www.cell.com/cell-reports-sustainability/fulltext/S2949-7906(26)00262-4
+
+题目：Censoring-aware models quantify systematic underestimation of PFAS occurrence in US drinking-water monitoring
+
+- 20–39 岁美国退伍军人血清 PFAS 比同龄平民高约 13–24%，超 20 ng/mL 概率更高，果然军品就是用料足。
+
+推荐人：于淼
+
+链接：https://pubs.acs.org/evhpaz/article/134/6/597/5429563/Serum-PFAS-Concentrations-Among-US-Veterans-NHANES
+
+题目：Serum PFAS Concentrations Among US Veterans, NHANES 2003–2018
+
+- 常见微塑料在水中可自发产生羟基自由基，疏水性越强越强，挑战“塑料化学惰性”假设。
+
+推荐人：于淼
+
+链接：https://www.nature.com/articles/s41586-026-11141-y
+
+题目：Intrinsic physicochemical activity at microplastic–water interfaces
+
+- 美墨边境玩具约 78% 含至少一种有害元素，约 12% 超玩具限值，廉价首饰风险最高。
+
+推荐人：于淼
+
+链接：https://www.sciencedirect.com/science/article/abs/pii/S0269749126012042?via%3Dihub
+
+题目：Assessment of potentially toxic elements contamination in children's toys in the USA-Mexico border region by X-ray fluorescence spectroscopy
+
+- 明尼苏达数百湖泊分析显示斑马贻贝入侵后多种鱼体内汞浓度上升，斑马贻贝可提高汞的甲基化作用水平，其引起的能量流动变化与某些鱼类的生长速度减慢和产量降低有关，生长速度较慢的鱼类在相同体长下汞浓度更高，因为生物量积累减少导致累积汞的生长稀释作用减弱，这可能导致斑马贻贝入侵后鱼类体内汞浓度升高。
+
+推荐人：于淼
+
+链接：https://academic.oup.com/fisheries/advance-article/doi/10.1093/fshmag/vuag050/8785065
+
+题目：Fish tissue mercury concentrations increase following the invasion of zebra mussels
+
+## 十月 {-}
+
+### 研究动态 {-}
+
+- 很神奇，白化珊瑚与同基因型健康珊瑚接触约一周后共生藻转移，约 7 周可完全恢复，不接触则死亡。
+
+推荐人：于淼
+
+链接：https://www.science.org/doi/10.1126/sciadv.aeh1580
+
+题目：Rapid coral bleaching recovery via symbiont transfer from healthy corals
+
+- 这项研究估算 1981–2024 年美国风电致约 1870 万只蝙蝠死亡，近年年逾 150 万，这对会飞的哺乳动物算一种车祸吧，预测的死亡数量可能与白鼻综合症造成的总损失相当。
+
+推荐人：于淼
+
+链接：https://www.pnas.org/doi/10.1073/pnas.2612674123
+
+题目：The scope and severity of bat fatalities at US wind energy facilities
+
+- 美西热浪期约 98% 站点融雪加速，但仅约 55% 流域随后流量增加，这是热浪下直接蒸发了吧？
+
+推荐人：于淼
+
+链接：https://iopscience.iop.org/article/10.1088/1748-9326/aeac3a
+
+题目：Heatwaves drive rapid snowmelt and disrupt streamflow in the western United States
+
+- 巴西帕拉州保护现存森林比恢复砍伐地更划算，防火与控择伐对生物多样性收益最大，这种研究看起来比较务实。
+
+推荐人：于淼
+
+链接：https://www.science.org/doi/10.1126/science.adx9928
+
+题目：Protecting tropical forests is more cost-effective for biodiversity and climate than restoration
+
+- 全球 3000 多城建成物质增速慢于人口，说人话就是城市越大，每个人所需物料就越少，规模更大的城市和人口密度更高的街区能够以更低的人均建成，我觉得也得考虑个人感受吧。
+
+推荐人：于淼
+
+链接：https://www.nature.com/articles/s44284-026-00532-x
+
+题目：Nested economies of scale in global city mass
+
+- 跨境含水层总体不比国内更枯竭，但抽水与枯竭集中于国界附近，能选跨国境的水资源分配作为研究课题算是很有国际视野了。
+
+推荐人：于淼
+
+链接：https://www.pnas.org/doi/10.1073/pnas.2619357123
+
+题目：Geography of groundwater use and depletion in internationally shared aquifers
+
+- 热带暖池持续增暖使 2021–2023 东南极降雪激增、冰盖暂净增约 6950 亿吨，未扭转长期失冰，算是某种螺旋发展吧。
+
+推荐人：于淼
+
+链接：https://www.nature.com/articles/s41586-026-10912-x
+
+题目：Multiyear tropical warm pool warming drives slowdown in Antarctic mass loss
+
+- 柬埔寨湄公河沿岸垃圾收运越差，下游微塑料浓度越高；服务指数小幅改善约可降浓度一半。
+
+推荐人：于淼
+
+链接：https://www.nature.com/articles/s44454-026-00062-0
+
+题目：Solid waste management practices in riparian communities are a key driver of microplastic concentrations in the Mekong River, Cambodia
+
+- 这份教程系统梳理AI agent融入实验室工作流的机会与挑战，涵盖知识协调、自然语言接口与实验整合，可作为科研者了解agent科研的权威入门，也差不多到了我们这个栏目退出历史舞台的时候了。
+
+推荐人：于淼
+
+链接：https://www.nature.com/articles/s43586-026-00534-y
+
+题目：Agentic AI systems for scientific discovery
